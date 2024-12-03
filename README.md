@@ -1,28 +1,29 @@
 # Driving Theory Exam Preparation In Germany
 1. At the entrance to an industrial estate, there is a St. Andrew's Cross with the supplementary sign "Industrial estate, rail vehicles have precedence".
 What must you remember?
-* Motor vehicles have precedence at level crossings without St. Andrew's Cross  
-✅ Rail vehicles have precedence at all level crossings  
-✅ Approach level crossings at moderate speed only  
-Comment: Approach level crossings at moderate speed only. Keep a close eye on what is happening. The additional sign “Industrial area, rail vehicles have priority” means that rail vehicles have priority at all level  
-crossings within this industrial area.  
+   * Motor vehicles have precedence at level crossings without St. Andrew's Cross     
+   ✅ Rail vehicles have precedence at all level crossings  
+   ✅ Approach level crossings at moderate speed only  
+**Comment**: Approach level crossings at moderate speed only. Keep a close eye on what is happening. The additional sign “Industrial area, rail vehicles have priority”  
+means that rail vehicles have priority at all level crossings within this industrial area.  
 
 2. You want to leave the motorway at the next exit. What is the correct course of action in this situation?
    ![Img1](https://schueler.click-learn.info/BilderV2/BS_2_2_18_022_ende.jpg)
-✅ I turn on my right-side indicators now  
-✅ I observe the traffic behind me  
-* I begin now to smoothly brake down to 60 km/h  
-Comment: If I want to leave the highway, the 300 m beacon is a good orientation for setting the blinker here. The best way to avoid unpleasant surprises  is to keep an eye on the vehicles behind me (mirrors, shoulder)
-before leaving the highway. I may only slow down to pull out on the merging lane, i.e.  when I have already left the highway. Braking on the highway is only necessary in traffic jams or at speed limits. 
+   ✅ I turn on my right-side indicators now  
+   ✅ I observe the traffic behind me  
+   * I begin now to smoothly brake down to 60 km/h  
+**Comment**: If I want to leave the highway, the 300 m beacon is a good orientation for setting the blinker here. The best way to avoid unpleasant surprises  is to keep  
+an eye on the vehicles behind me (mirrors, shoulder) before leaving the highway. I may only slow down to pull out on the merging lane, i.e.  when I have already left the  
+highway. Braking on the highway is only necessary in traffic jams or at speed limits. 
 
 3. What is true about using the hard shoulder in this situation?
 ![Img2](https://schueler.click-learn.info/BilderV2/AB_2_2_07_012.jpg)
 The hard shoulder  
-* may only be used by trucks  
-✅ must be used like a right-hand lane  
-*  may only be used in a breakdown situation  
-Comment: The blue sign indicates that the hard shoulder is free as the right-hand lane. The matrix signs show the maximum permitted speed.  If the lane is free, I must follow the right-hand traffic regulations and use the
-hard shoulder as a right-hand lane until the regulation is lifted again by another sign.  
+   * may only be used by trucks  
+   ✅ must be used like a right-hand lane  
+   *  may only be used in a breakdown situation  
+**Comment**: The blue sign indicates that the hard shoulder is free as the right-hand lane. The matrix signs show the maximum permitted speed.  If the lane is free, I  
+must follow the right-hand traffic regulations and use the hard shoulder as a right-hand lane until the regulation is lifted again by another sign.  
 
 4. Where do you have to anticipate encountering rail crossings with no technical safeguards?  
 ✅ On less-frequently used roads  
