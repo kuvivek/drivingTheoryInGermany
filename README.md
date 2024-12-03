@@ -4963,59 +4963,56 @@ Comment: If the junction to a traffic circle is marked in this way (with the red
 right of way. To give others right of way, it makes sense to approach the traffic circle slowly, so I slow down in good time. I only indicate when exiting 
 to show others where I am leaving the traffic circle. Tip: Watch the movie again at your leisure and pay attention to the traffic signs!
 
-682. When may you use the right-hand hard shoulder?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_02_101.jpg)
-✅ For stopping and parking
-✅ For driving a slow-moving vehicle
-* For overtaking
-Comment: The right-hand hard shoulder may be used for stopping and parking. You may also drive on it with slow vehicles.
+682. When may you use the right-hand hard shoulder?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_02_101.jpg)  
+✅ For stopping and parking  
+✅ For driving a slow-moving vehicle  
+* For overtaking  
+Comment: The right-hand hard shoulder may be used for stopping and parking. You may also drive on it with slow vehicles.  
 
-683. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/BS_1_1_07_174_ende.jpg)
-✅ I remain waiting in my lane for now
-✅ I continue braking
-* I steer to the left now
-Comment: Comment: Hazard lights, roadworks, turning maneuvers: I slow down and stay in my lane for the time being, allow the truck to reverse and 
-complete its maneuver. If necessary, I stop. Spontaneously steering to the left would be dangerous! Only when everything is clear beside and behind 
-me can I change lanes and drive past the obstacle. TIP: Watch the movie several times and pay attention to the movements of others (also in the 
-rear-view mirrors)!
+683. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/BS_1_1_07_174_ende.jpg)  
+✅ I remain waiting in my lane for now  
+✅ I continue braking  
+* I steer to the left now  
+Comment: Comment: Hazard lights, roadworks, turning maneuvers: I slow down and stay in my lane for the time being, allow the truck to reverse and complete its maneuver. If necessary, I stop. Spontaneously steering to  
+the left would be dangerous! Only when everything is clear beside and behind me can I change lanes and drive past the obstacle. TIP: Watch the movie several times and pay attention to the movements of others (also in  
+the rear-view mirrors)!
 
-684. The vehicles ahead of you are driving at about 30 km/h. Why are you not permitted to overtake before the road bend? ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_06_035.jpg)
-✅ Because my overtaking distance is too long
-✅ Because the red car might pull out to overtake
-* Because I am not permitted to cross the lane marking
-Comment: The red and white arrow sign in front indicates a sharp, confusing left turn. For me, the overtaking distance would be too long to be able 
-to cut back in time before the curve. I also have to take into account that the person in front of me could pull out to overtake myself. I can drive
-over the guideline* here, but the overall risk of an overtaking maneuver before the curve is too great. (*I may drive over interrupted guidelines, 
-but I may not drive over lines without interruptions.)
+684. The vehicles ahead of you are driving at about 30 km/h. Why are you not permitted to overtake before the road bend? ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_06_035.jpg)  
+✅ Because my overtaking distance is too long  
+✅ Because the red car might pull out to overtake  
+* Because I am not permitted to cross the lane marking  
+Comment: The red and white arrow sign in front indicates a sharp, confusing left turn. For me, the overtaking distance would be too long to be able to cut back in time before the curve. I also have to take into account
+that the person in front of me could pull out to overtake myself. I can drive over the guideline* here, but the overall risk of an overtaking maneuver before the curve is too great. (*I may drive over interrupted
+guidelines, but I may not drive over lines without interruptions.)  
 
-685. Why might taking the right turn be dangerous here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_03_116.jpg)
-✅ Because vehicles emerging from the side street could start to skid
-✅ Because I might possibly not be able to stop in time, if pedestrians are crossing the side street
-✅ Because my vehicle might start to skid if I take the turn too fast
-Comment: In these road conditions, there is a risk of skidding if you turn right too quickly or if vehicles coming from the side road have to brake. 
-In addition, you would hardly be able to stop in time for pedestrians in the slush.
+685. Why might taking the right turn be dangerous here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_03_116.jpg)  
+✅ Because vehicles emerging from the side street could start to skid  
+✅ Because I might possibly not be able to stop in time, if pedestrians are crossing the side street  
+✅ Because my vehicle might start to skid if I take the turn too fast  
+Comment: In these road conditions, there is a risk of skidding if you turn right too quickly or if vehicles coming from the side road have to brake. In addition, you would hardly be able to stop in time for pedestrians  
+in the slush.
 
 686.Why do you have to pay particular attention here?
-![img](https://schueler.click-learn.info/BilderV2/AB_1_1_03_114.jpg)
-✅ Because the road surface is uneven
-✅ Because it is not clear which direction the road will take
-✅ Because oncoming traffic could cut the corner
-Comment: You should drive carefully here, as the road surface has been repaired and has an unfavorable effect on cornering. The course of the road 
-is unclear, someone may have broken down behind the bend, for example, or a vehicle may be coming towards you that is cutting the bend.
+![img](https://schueler.click-learn.info/BilderV2/AB_1_1_03_114.jpg)  
+✅ Because the road surface is uneven  
+✅ Because it is not clear which direction the road will take  
+✅ Because oncoming traffic could cut the corner  
+Comment: You should drive carefully here, as the road surface has been repaired and has an unfavorable effect on cornering. The course of the road is unclear, someone may have broken down behind the bend, for example,  
+or a vehicle may be coming towards you that is cutting the bend.
 
-687. What do you have to be aware of in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_2_6_06_216.jpg)
-✅ In 200 m the width of the left-hand lane is going to narrow
-✅ Including its exterior mirrors, my vehicle is wider than the width specified in the vehicle documents
-* The left-hand lane is going to narrow for a distance of 200 m
-Comment: The sign indicates a lane narrowing after 200 m. The left-hand lane narrows to 2 m actual width. The vehicle width is stated in the vehicle 
-documents without wing mirrors. My vehicle can therefore be wider than 2 m. If in doubt, I change to the right-hand lane in good time.
+687. What do you have to be aware of in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_2_6_06_216.jpg)  
+✅ In 200 m the width of the left-hand lane is going to narrow  
+✅ Including its exterior mirrors, my vehicle is wider than the width specified in the vehicle documents  
+* The left-hand lane is going to narrow for a distance of 200 m  
+Comment: The sign indicates a lane narrowing after 200 m. The left-hand lane narrows to 2 m actual width. The vehicle width is stated in the vehicle documents without wing mirrors. My vehicle can therefore be wider
+than 2 m. If in doubt, I change to the right-hand lane in good time.
 
 688. What must you anticipate in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_02_005_1.jpg)
 ✅ Children walking out onto the road
 ✅ People exiting their vehicles via the side nearest the road
 * There is a pedestrian crossing up ahead
-Comment: I have to drive slowly here because the course of the road is unclear due to the parked vehicles. The traffic sign also warns that 
-children could run onto the road between the parked vehicles at any time. In addition, a door on one of the cars could open onto the road. 
-Crosswalks are announced with another traffic sign.
+Comment: I have to drive slowly here because the course of the road is unclear due to the parked vehicles. The traffic sign also warns that children could run onto the road between the parked vehicles at any time.  
+In addition, a door on one of the cars could open onto the road. Crosswalks are announced with another traffic sign.
 
 689. You are the new owner of a licensed vehicle. What do you have to do?
 I have to
@@ -5025,7 +5022,7 @@ I have to
 Comment: The registration office must know who owns a vehicle and who is liable in the event of damage: When I purchase a vehicle, I must have 
 it registered immediately and submit proof of insurance to the registration office.
 
-690. After turning left, you want to turn immediately right. How should you position your vehicle?
+690. After turning left, you want to turn immediately right. How should you position your vehicle?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_09_104.jpg)
 Like
 * the green car  
