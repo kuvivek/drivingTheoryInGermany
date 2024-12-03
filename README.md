@@ -11,7 +11,7 @@ crossings within this industrial area.
    ![Img1](https://schueler.click-learn.info/BilderV2/BS_2_2_18_022_ende.jpg)
 ✅ I turn on my right-side indicators now  
 ✅ I observe the traffic behind me  
-* I begin now to smoothly brake down to 60 km/h
+* I begin now to smoothly brake down to 60 km/h  
 Comment: If I want to leave the highway, the 300 m beacon is a good orientation for setting the blinker here. The best way to avoid unpleasant surprises  is to keep an eye on the vehicles behind me (mirrors, shoulder)
 before leaving the highway. I may only slow down to pull out on the merging lane, i.e.  when I have already left the highway. Braking on the highway is only necessary in traffic jams or at speed limits. 
 
