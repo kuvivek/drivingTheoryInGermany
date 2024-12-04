@@ -60,19 +60,19 @@ turn. Now instead of turning left, you want to turn right. What should you do?
 driving in the lane you have taken. A sudden change of direction in heavy traffic would be too dangerous for
 you and other road users. You must therefore turn left here and take a detour.  
 
-10. You are driving along a forest track and approach a level crossing without St. Andrew's Cross. What do you do?  
+9. You are driving along a forest track and approach a level crossing without St. Andrew's Cross. What do you do?  
 ✅ Listen out in case a rail vehicle signals its approach by whistling or ringing a bell  
 ❌ Proceed without taking any special precautions since rail vehicles are required to wait here  
 ✅ Proceed at moderate speed and check to see if a rail vehicle is approaching  
 **Comment**: Approach level crossings at a moderate speed only. Keep a close eye on what is happening. On  
 field and forest paths, you must also listen for the sound of a rail vehicle whistling or ringing.  
 
-12.  What must you be aware of when using navigation systems and road maps?  
+10.  What must you be aware of when using navigation systems and road maps?  
 ❌ All navigation systems can update themselves automatically  
 ✅ Even up-to-date contents may differ from reality  
 ✅ The contents may become outdated just a short time after purchase  
 
-13. What is especially important when choosing the speed for driving along tree-lined avenues with narrow roadways?
+11. What is especially important when choosing the speed for driving along tree-lined avenues with narrow roadways?
 ---- IMP  
 ✅ It may be necessary to stop within half the visible distance when a wide vehicle is coming from the opposite direction  
 ❌ Rapidly changing light conditions make it easier to estimate lateral distances  
@@ -81,14 +81,14 @@ field and forest paths, you must also listen for the sound of a rail vehicle whi
 judge  distances and side distances, e.g. to the trees and to oncoming traffic. On narrow roads, you should  
 therefore only drive fast enough to stop within half your visibility.  
 
-15. The barrier of a level crossing inside a built-up area is closed. Where must you wait?  
+12. The barrier of a level crossing inside a built-up area is closed. Where must you wait?  
 ❌ Before the first beacon  
 ❌ Before the last beacon  
 ✅ In front of the St. Andrew's Cross  
 **Comment**: Approach level crossings at moderate speed only. You must wait in front of the St. Andrew's cross  
 when the barriers are closed.  
 
-17. What do you have to be aware of when you see this traffic sign combination?  
+13. What do you have to be aware of when you see this traffic sign combination?  
 ![Image4](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_135.jpg)  
 ❌ A rail crossing at a distance of 120 m  
 ✅ A rail crossing at a distance of 240 m  
@@ -96,61 +96,61 @@ when the barriers are closed.
 **Comment**: The “level crossing” danger sign in combination with the 3-lane beacon indicates a level crossing  
 about 240 m away (2-lane = 160 m, 1-lane = 80 m). Overtaking is also prohibited up to the level crossing!  
 
-19. What is true in relation to yellow road markings?  
+14. What is true in relation to yellow road markings?  
 Yellow road markings  
 ❌ only apply to construction site traffic  
 ✅ replace the validity of white road markings  
 ✅ are only applied temporarily (at construction sites for example)  
-**Comment**: Yellow markings on the road temporarily cancel the validity of white markings: the yellow markings, e.g.  
-at roadworks, take precedence.  
+**Comment**: Yellow markings on the road temporarily cancel the validity of white markings: the yellow markings,  
+e.g. at roadworks, take precedence.  
 
-20. You are driving at the recommended speed on the motorway and want to leave it at the next exit. What should you do?
-    ----IMP  
+15. You are driving at the recommended speed on the motorway and want to leave it at the next exit. What should you do?
+----IMP  
 ✅ I cease overtaking manoeuvres in good time.  
 ❌ I significantly reduce my speed while still on the right-hand lane of the motorway  
 ✅ I significantly reduce my speed on the exit lane  
-**Comment**: It is easy to drive too fast when leaving the highway. Stop overtaking early and reduce your speed on  
-the exit lane and not on the motorway lane, as you are already at the recommended speed (look at your speedometer!)  
-so that you do not have to brake on the exit bend.  
+**Comment**: It is easy to drive too fast when leaving the highway. Stop overtaking early and reduce your  
+speed on  the exit lane and not on the motorway lane, as you are already at the recommended speed (look at  
+your speedometer!) so that you do not have to brake on the exit bend.  
 
-21. Who is required to stop at a level crossing with a red flashing light in the form of an arrow point to the right?    
+16. Who is required to stop at a level crossing with a red flashing light in the form of an arrow point to the right?  
 ✅ Traffic turning right  
 ❌ Traffic moving straight ahead  
 ❌ Traffic turning left  
-**Comment**: A St. Andrew's cross with a red flashing light in the form of an arrow pointing to the right is only
-important for drivers turning right. It is meaningless for drivers going straight ahead. If the system is flashing,
-drivers turning right must wait.  
+**Comment**: A St. Andrew's cross with a red flashing light in the form of an arrow pointing to the right
+is only important for drivers turning right. It is meaningless for drivers going straight ahead. If the  
+system is flashing, drivers turning right must wait.  
 
-22. You are driving on a road outside a built-up area with three lanes marked in each direction. Individual slower  
+17. You are driving on a road outside a built-up area with three lanes marked in each direction. Individual slower  
 vehicles are travelling well spaced out in the right-hand lane. Which lane may you use continuously?  
 ✅ The middle lane  
 ❌ The left-hand lane  
-**Comment**: Outside built-up areas, you may use the middle lane continuously in this case if a vehicle stops or slows  
-down on the right-hand lane, even if only occasionally  
+**Comment**: Outside built-up areas, you may use the middle lane continuously in this case if a vehicle  
+stops or slows down on the right-hand lane, even if only occasionally  
 
-23. What must you do if you find yourself in a traffic jam on motorways and on highways with two lanes travelling in
-the same  direction?
+18. What must you do if you find yourself in a traffic jam on motorways and on highways with two lanes travelling  
+in the same  direction?  
 I have to  
 ❌ drive as far to the left as possible in the right-hand lane  
 ✅ drive as far to the left as possible in the left-hand lane  
 ✅ drive as far to the right as possible in the right-hand lane  
-**Comment**: In the event of gridlocked traffic or traffic jams on highways and motorways, a clear lane must be formed  
-for emergency vehicles. The vehicles in the leftmost lane should drive as far to the left as possible, all others as far  
-to the right as possible in their lanes.
+**Comment**: In the event of gridlocked traffic or traffic jams on highways and motorways, a clear lane must  
+be formed for emergency vehicles. The vehicles in the leftmost lane should drive as far to the left as possible,  
+all others as far to the right as possible in their lanes.
 
-24. What should you anticipate when driving at high speed on the motorway?  
+19. What should you anticipate when driving at high speed on the motorway?  
 ✅ Other road users underestimating my speed  
 ✅ I might not respond to hazards in good enough time  
 ✅ Cross winds can negatively affect my stability on the road  
 
-25. What does this traffic sign mean? ![Image5](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_142.jpg)  
+20. What does this traffic sign mean? ![Image5](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_142.jpg)  
 ❌ You are only allowed to drive at walking speed  
 ❌ You must indicate when entering the roundabout  
 ✅ Stopping on the roundabout is forbidden  
-**Comment**: In a traffic circle marked in this way, the vehicles in the circle have right of way. It is not permitted  
-to stop in a traffic circle.  
+**Comment**: In a traffic circle marked in this way, the vehicles in the circle have right of way. It is  
+not permitted to stop in a traffic circle.  
 
-26. What vehicles may enter a cycle highway that has this sign?  
+29. What vehicles may enter a cycle highway that has this sign?  
 ![Image6](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_018.jpg)  
 ❌ All mopeds with a maximum design speed less than 25 km/h  
 ✅ All vehicles driven by residents  
@@ -158,7 +158,7 @@ to stop in a traffic circle.
 **Comment**: No other vehicle traffic is permitted in cycle lanes. The additional sign permits an exception here:  
 residents may drive their vehicles onto these roads -but only at a maximum speed of 30 km/h. 
 
-27. You are driving on a section of road where a traffic jam has been reported. What is the right course of action?  
+30. You are driving on a section of road where a traffic jam has been reported. What is the right course of action?  
 ✅ I take particular care when driving around bends and on the approach to summits  
 ❌ I apply the emergency brake assist to safely stop before the tail end of the traffic jam  
 ✅ I continue to follow the traffic reports  
@@ -167,7 +167,7 @@ I can find out in good time whether a traffic jam is forming or breaking up ahea
 traffic jam warnings, I have to be particularly attentive and careful when driving on blind roads such as bends or  
 crests(approach to summits). Emergency Brake Assist is a system for emergencies, not for safe driving maneuvers.  
 
-28. Why should you further reduce your speed here?  
+31. Why should you further reduce your speed here?  
 <video src="https://www.degener.de/2-1-07-015" width="320" height="240" controls></video>  
 ✅ Because other people may walk onto the road  
 ✅ Because the red car could cross onto my lane  
@@ -177,12 +177,12 @@ vehicles in oncoming  traffic into my lane: reduce speed! You must also be aware
 out of the broken-down vehicle. A person in front of the broken-down vehicle shows me that it will not continue
 for the time being. TIP: Watch the movie again and watch out for movement in oncoming traffic  
 
-29. One of your tyres bursts while you are travelling at high speed on an autobahn. What do you do?  
+32. One of your tyres bursts while you are travelling at high speed on an autobahn. What do you do?  
 ✅ Stop, if possible, on the hard shoulder, switch on hazard warning lights and place the warning triangle  
 ✅ Throttle down, if necessary, steer against and brake cautiously  
 ❌ Immediately apply the brakes fully and move over onto the hard shoulder  
 
-30. As a resident, you want to drive into a cycle highway that has this sign.  
+33. As a resident, you want to drive into a cycle highway that has this sign.  
 ![Image7](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_168.jpg)  
 What must you be aware of when doing so?   
 ✅ Cycles may travel alongside one another  
