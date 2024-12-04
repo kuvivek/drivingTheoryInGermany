@@ -443,13 +443,13 @@ willingness to take risks can increase dangerously.
 ✅ Medications  
 ❌ Soft drinks  
 ✅ Drugs  
-**Comment** Some drugs (see package insert) and all intoxicating substances impair driving ability at least as much as alcohol. Caution!  
+**Comment**: Some drugs (see package insert) and all intoxicating substances impair driving ability at least as much as alcohol. Caution!  
   
 66. What is the risk if you become distracted while using electronic devices when driving?  
 ❌ My stopping distance may be reduced  
 ✅ I may fail to notice road traffic signs  
 ✅ I may deviate from my lane  
-**Comment** The use of electronic devices while driving increases the risk of accidents, as their operation can distract the driver.  
+**Comment**: The use of electronic devices while driving increases the risk of accidents, as their operation can distract the driver.  
 For this reason, an electronic device used for communication, information or organization may not be picked up and held in the hand   
 while driving. Only voice control or briefly looking away from the traffic situation, adapted to the circumstances, is permitted.  
   
@@ -462,7 +462,7 @@ this situation?
 ❌ I close the distance and sound my horn  
 ✅ I maintain my speed  
 ❌ I overtake, because the road is clear  
-**Comment** If someone is driving slowly in front of me, I have to drive at a sufficient distance behind them until I can overtake   
+**Comment**: If someone is driving slowly in front of me, I have to drive at a sufficient distance behind them until I can overtake   
 safely - and stay calm (don't tailgate or honk!). On a left-hand bend, I see oncoming traffic too late. I can't overtake here yet.  
   
 68. If someone overtakes me even though an oncoming vehicle is already very close, I drive on the extreme right. I slow down my vehicle carefully (rear-view mirror) and allow the overtaking vehicle to pull in.  
@@ -632,24 +632,24 @@ because other children could run across the road to the bus stop.
   
 95. You want to turn out of a road with a sunken kerbstone into another road. A car is coming from the left. What applies here?  
 ✅ Whoever turns into a road over a sunken kerbstone must wait  
-❌The rule "right before left"  
-❌The sunken kerbstone is of no relevance for the obligation to wait  
-**Comment** If you want to turn onto a road via a dropped kerb, all other road users have priority. Here you are obliged to wait for the car coming from the  
+❌ The rule "right before left"  
+❌ The sunken kerbstone is of no relevance for the obligation to wait  
+**Comment**: If you want to turn onto a road via a dropped kerb, all other road users have priority. Here you are obliged to wait for the car coming from the  
 left: lowered kerbs are regarded in road traffic as property entrances (§ 10 StVO).  
   
 96. Where must you particularly reckon with dirt on the roadway and therefore danger of skidding?  
-❌At innercity crossroads  
+❌ At innercity crossroads  
 ✅ At junctions with farm tracks  
 ✅ Near construction sites  
-**Comment** In the area of roadworks and at the junctions of country lanes, you must expect heavy soiling of the road surface. Be prepared for an uneven and  
+**Comment**: In the area of roadworks and at the junctions of country lanes, you must expect heavy soiling of the road surface. Be prepared for an uneven and  
 slippery road surface and adjust your speed accordingly.  
   
-97.What applies according to this traffic sign? (This is a symbol of Traffic calmed area, because the symbol shows children and adult playing with ball  
-on the road and near to the housing society in the right. And car is coming on the road)  
+97. What applies according to this traffic sign? 
+![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_140.jpg)  
 ✅ I may only park on designated places  
 ✅ I have to drive at walking speed  
 ✅ I may not impede pedestrians  
-**Comment** A traffic-calmed area begins here. Children's games are allowed everywhere, so I have to pay particular attention to children playing.  
+**Comment**: A traffic-calmed area begins here. Children's games are allowed everywhere, so I have to pay particular attention to children playing.  
 Driving is only permitted at walking speed. Pedestrians go first: I have to wait if necessary. Parking is only permitted in marked areas.  
   
 98. What must you do upon seeing this traffic sign?  
@@ -665,13 +665,13 @@ for pedestrians: Wait in front of it.
 ✅ That my braking distance will be longer than normal  
 ✅ That the motorbike will suddenly brake  
   
-100. What does this traffic sign indicate?right  
+100. What does this traffic sign indicate?  
 Pesdestrian walk sign board  
 The start of a zone with  
 ✅ a permitted maximum speed of 30 km/h  
-❌a recommended speed of 30 km/h  
-❌an obligatory minimum speed of 30 km/h  
-**Comment** It is not permitted to drive faster than indicated within an area marked in this way. There is no signage for individual streets.  
+❌ a recommended speed of 30 km/h  
+❌ an obligatory minimum speed of 30 km/h  
+**Comment**: It is not permitted to drive faster than indicated within an area marked in this way. There is no signage for individual streets.  
 The maximum permitted speed here is 30 km/h. Speeds below 30 km/h are also possible. The end of such areas is signposted.  
   
 101. You wish to overtake a farm tractor with a mounted implement extending beyond its back. What must you remember?  
