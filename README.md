@@ -1497,7 +1497,7 @@ All other road users have priority. You must therefore allow pedestrians to pass
 211. How is a purely electric vehicle different from a vehicle with a combustion engine?  
 Purely electric vehicles  
 ✅ do not have any direct exhaust emissions  
-❌have a lower aerodynamic drag  
+❌ have a lower aerodynamic drag  
 ✅ have a lower engine noise  
 **Comment**:  Electric vehicles differ from diesel and gasoline-powered vehicles primarily in terms of driving and engine noise and  
 the lack of exhaust or exhaust fumes. Visually or externally, they can be almost identical: Air resistance, for example, differs  
@@ -1505,23 +1505,23 @@ depending on the model (such as sports car vs. SUV), not the drive type.
   
 212. What is correct in this situation? (Overtaking a cylist in front of a crosswalk)  
 Here I may  
-❌only overtake the cyclist at a moderate speed  
-❌overtake the cyclist, because there is no oncoming traffic visible  
+❌ only overtake the cyclist at a moderate speed  
+❌ overtake the cyclist, because there is no oncoming traffic visible  
 ✅ not overtake the cyclist  
 **Comment**:  Overtaking is generally prohibited in front of a crosswalk (also known as a crosswalk). Without exception.  
 Maybe I have to stop for a pedestrian who suddenly appears and wants to cross the road?  
   
 213. Having crossed the road, a person in a wheelchair cannot get up the curb and onto the pavement. What do you do?  
-❌I honk the horn and drive around the person  
+❌ I honk the horn and drive around the person  
 ✅ I get out of the car and help the person in the wheelchair  
 ✅ I stop and switch on the hazard warning lights  
 **Comment**:  The wheelchair user is particularly at risk in this situation. Therefore, if possible, they should be helped  
-to leave the roadway and overcome the obstacle ❌but in a safe way!  
+to leave the roadway and overcome the obstacle - but in a safe way!  
   
 214. What is the right course of action here?  
-❌I sound my horn to prompt the cyclists to ride one behind the other  
+❌ I sound my horn to prompt the cyclists to ride one behind the other  
 ✅ I do not overtake the cyclists for now  
-❌I overtake the cyclists  
+❌ I overtake the cyclists  
 **Comment**:  When overtaking bicycles or small electric vehicles within built-up areas, a minimum lateral distance of 1.5 m  
 is prescribed. I can hardly keep that distance here as long as the two are riding side by side. That's why I don't  
 overtake for the time being. I am only allowed to honk my horn in case of danger or outside built-up areas to indicate  
@@ -1534,10 +1534,10 @@ overtaking (§ 5, § 16 StVO).
 **Comment**:  The REKUPERATION technology can recover electricity when slowing down, braking or on downhill gradients  
 (as a motor brake) while driving. This increases the range of my electric car and protects the braking system at the same time.  
   
-216. A cyclist wishes ❌without dismounting ❌to cross the road at a pedestrian crossing. What should you do?  
-❌I only brake just short of the pedestrian crossing  
+216. A cyclist wishes -without dismounting -to cross the road at a pedestrian crossing. What should you do?  
+❌ I only brake just short of the pedestrian crossing  
 ✅ I allow the cyclist to cross the road  
-❌I sound my horn and continue driving without giving way to the cyclist  
+❌ I sound my horn and continue driving without giving way to the cyclist  
 **Comment**:  At crosswalks, cyclists must actually dismount and push their bikes. If a cyclist behaves incorrectly and  
 wants to cross the crosswalk without dismounting, give way and let them go.  
   
@@ -1545,8 +1545,8 @@ wants to cross the crosswalk without dismounting, give way and let them go.
 About 30 m in front of you, a truck comes to a stop in the right-hand lane before a pedestrian crossing.  
 What should you do?  
 ✅ I approach at a moderate speed  
-❌I give a warning signal and drive past the truck  
-❌I continue driving swiftly  
+❌ I give a warning signal and drive past the truck  
+❌ I continue driving swiftly  
 **Comment**:  Be particularly careful if your view of a crosswalk is obstructed. This applies, for example, if a truck stops in the right-hand  
 lane and you are approaching in the same direction in the left-hand lane. Drive slowly and be ready to brake so that you can stop if  
 pedestrians are crossing the road.  
@@ -5027,15 +5027,15 @@ Vehicles may not stop to the left of the lane boundary.
 678. As the vehicle owner, what change must you report to the relevant licensing authority?  
 A change to  
 ✅ my home address  
-❌my third-party insurance  
+❌ my third-party insurance  
 ✅ my name  
 **Comment**:  The registration office needs to know who owns which vehicle. So if I change my name (e.g. due to marriage) or address (due to moving house), I must report   
 this so that the authority is kept up to date.  
   
 679. What is the right course of action here? ----IMP  
 ✅ The blue car may proceed ahead of the yellow car  
-I may proceed ahead of the yellow car  
-I may proceed ahead of the blue car  
+❌ I may proceed ahead of the yellow car  
+❌ I may proceed ahead of the blue car  
 **Comment**:  Traffic signs regulate the right of way here. This is a turning right of way. I have to give way and wait until all vehicles on the right of way have passed.   
 The vehicle on the left drives first, then the oncoming vehicle may turn, I drive last.  
   
@@ -5301,3 +5301,13 @@ right. The red light is illuminated. Where must you wait?
 ❌ I can drive up to the level crossing after watching out for other traffic
 **Comment**: If there is a red light signal without a St. Andrew's cross in front of a level crossing on a road leading in from the  
 right, you must wait at the stop line. If there is no stop line, you must wait in front of the light.  
+
+714. What is the right course of action here?
+![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_047.jpg)
+I have to
+✅ allow the blue car to pass through
+✅ stop on the stop line
+❌ allow the red car to pass through
+**Comment**: The STOP sign is clear: I must stop at the stop line and give way to traffic on the turning priority road. This does not  
+include the road on the left. The rule “right before left” applies to traffic coming from the left - and I am coming from the right.  
+So I may drive after the vehicle on the priority road, but in front of the vehicle coming from the left.  
