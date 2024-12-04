@@ -26,7 +26,7 @@ The hard shoulder
 If the lane is free, I must follow the right-hand traffic regulations and use the hard shoulder as a right-hand lane until the regulation
 is lifted again by another sign.
 
-4. Where do you have to anticipate encountering rail crossings with no technical safeguards?
+4. Where do you have to anticipate encountering rail crossings with no technical safeguards?  
 ✅ On less-frequently used roads  
 ✅ In industrial zones and port areas  
 ✅ On dirt tracks and forest tracks  
@@ -203,9 +203,11 @@ A rail crossing
 ✅ which I may approach at a maximum speed of 10 km/h  
 ❌ over which rail traffic may pass at a maximum speed of 10 km/h  
   
-**Comment** The danger sign “level crossing” in combination with the speed limit “10” only permits a maximum speed of 10 km/h up to the level crossing. This also applies when crossing the level crossing.  
+**Comment** The danger sign “level crossing” in combination with the speed limit “10” only permits a maximum speed of 10 km/h  
+up to the level crossing. This also applies when crossing the level crossing.  
   
-28. You want to use an autobahn. To allow you to do so, what type-specific maximum speed must be entered in Part I of the registration certificate or in the operating licence?  
+28. You want to use an autobahn. To allow you to do so, what type-specific maximum speed must be entered in Part I of the  
+registration certificate or in the operating licence?  
   
 Answer: More than __60__ km/h  
 **Comment** Freeways and motorways are used to make rapid progress. For this reason, only vehicles with a maximum speed of more than   
