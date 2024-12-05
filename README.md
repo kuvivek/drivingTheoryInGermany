@@ -18,15 +18,15 @@ when I have already left the highway. Braking on the highway is only necessary i
 
 3. What is true about using the hard shoulder in this situation?
 ![Image2](https://schueler.click-learn.info/BilderV2/AB_2_2_07_012.jpg)
-The hard shoulder
+The hard shoulder  
 ❌ may only be used by trucks  
 ✅ must be used like a right-hand lane  
 ❌ may only be used in a breakdown situation  
-**Comment**:  The blue sign indicates that the hard shoulder is free as the right-hand lane. The matrix signs show the maximum permitted speed.
-If the lane is free, I must follow the right-hand traffic regulations and use the hard shoulder as a right-hand lane until the regulation
-is lifted again by another sign.
+**Comment**: The blue sign indicates that the hard shoulder is free as the right-hand lane. The matrix signs show the maximum permitted  
+speed. If the lane is free, I must follow the right-hand traffic regulations and use the hard shoulder as a right-hand lane until the  
+regulation is lifted again by another sign.  
 
-4. Where do you have to anticipate encountering rail crossings with no technical safeguards?
+4. Where do you have to anticipate encountering rail crossings with no technical safeguards?  
 ✅ On less-frequently used roads  
 ✅ In industrial zones and port areas  
 ✅ On dirt tracks and forest tracks  
@@ -35,8 +35,8 @@ is lifted again by another sign.
 ✅ To school buses with children boarding or alighting  
 ✅ To vehicles which have broken down  
 ✅ To a traffic congestion  
-**Comment**: Hazard warning lights warn following vehicles of various dangers. It indicates obstacles on the road, e.g. a broken-down 
-vehicle or a traffic jam. School buses from which children are getting on and off also use them, as children sometimes cross the road 
+**Comment**: Hazard warning lights warn follo wing vehicles of various dangers. It indicates obstacles on the road, e.g. a broken-down  
+vehicle or a traffic jam. School buses from which children are getting on and off also use them, as children sometimes cross the road  
 carelessly. 
 
 6. What must a motor vehicle's maximum speed, determined by its construction, be at least if you want to use this road?
