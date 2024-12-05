@@ -170,7 +170,10 @@ movement in oncoming traffic!
 ✅ Stop, if possible, on the hard shoulder, switch on hazard warning lights and place the warning triangle  
 ✅ Throttle down, if necessary, steer against and brake cautiously  
 ❌ Immediately apply the brakes fully and move over onto the hard shoulder  
-  
+**Comment**: If a tire blows out on your car, you should first take your foot off the accelerator and brake carefully if necessary. If  
+your vehicle pulls to one side, you must counter-steer. Try to stop on the hard shoulder. Secure the danger zone by switching on the  
+hazard warning lights and setting up the warning triangle.  
+
 24. As a resident, you want to drive into a cycle highway that has this sign. What must you be aware of when doing so?  
 ![Image7](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_168.jpg)  
 ✅ Cycles may travel alongside one another  
@@ -744,12 +747,13 @@ Here I have to let the vehicle coming from the right go first. Then I drive. Onc
 Even if you actually have the right of way, you must not drive on. You must also keep crosswalks clear in such situations.  
   
 110. What is correct in this situation?  
-❌I have to wait in the centre of the junction  
-❌I must allow the oncoming traffic to pass through  
+![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_015.jpg)
+❌ I have to wait in the centre of the junction  
+❌ I must allow the oncoming traffic to pass through  
 ✅ I may turn unimpeded  
-**Comment**:  The traffic light is green and left-turning drivers in this situation normally have to let oncoming traffic pass before turning.  
-However, the green arrow on the left behind the intersection indicates that oncoming traffic has red. You can therefore turn left quickly here,  
-oncoming traffic must wait.  
+**Comment**:  The traffic light is green and left-turning drivers in this situation normally have to let oncoming traffic pass before 
+turning. However, the green arrow on the left behind the intersection indicates that oncoming traffic has red. You can therefore turn 
+left quickly here, oncoming traffic must wait.  
   
 111. What must you be aware of here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_05_107_1.jpg)  
 ✅ That children may run onto the road  
@@ -767,6 +771,7 @@ I watch out for
 my ability to accelerate, the speed of cross traffic and the weather conditions (e.g. wet conditions).  
   
 113. What is the right course of action?  
+![img](https://schueler.click-learn.info/BilderV2/AB_1_2_09_121.jpg)
 ✅ I have to allow the cyclist to pass through  
 ✅ I have to wait at the stop line  
 ❌I may make the turn in front of the cyclist  
@@ -774,6 +779,7 @@ my ability to accelerate, the speed of cross traffic and the weather conditions 
 you must allow the oncoming cyclist riding straight ahead to pass.  
   
 114. How should you behave in this situation?  
+![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_010.jpg)  
 ❌Stop on the line of sight  
 ✅ Pass through the crossing without stopping  
 ❌Stop on the stop line  
