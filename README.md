@@ -109,8 +109,8 @@ not on the motorway lane, as you are already at the recommended speed (look at y
 ✅ Traffic turning right  
 ❌ Traffic moving straight ahead  
 ❌ Traffic turning left  
-**Comment**:  A St. Andrew's cross with a red flashing light in the form of an arrow pointing to the right is only important for drivers  
-turning right. It is meaningless for drivers going straight ahead. If the system is flashing, drivers turning right must wait.  
+**Comment**:  A St. Andrew's cross with a red flashing light in the form of an arrow pointing to the right is only important for 
+drivers turning right. It is meaningless for drivers going straight ahead. If the system is flashing, drivers turning right must wait.  
 
 16. You are driving on a road outside a built-up area with three lanes marked in each direction. Individual slower vehicles are  
 travelling well spaced out in the right-hand lane. Which lane may you use continuously?  
@@ -225,9 +225,9 @@ Remaining within my lane, I
 ❌ drive as far to the right as possible  
 ❌ continuing driving in the centre  
 ✅ drive as far to the left as possible  
-**Comment**:  As soon as traffic comes to a standstill or a traffic jam occurs, space must be created for emergency vehicles (e.g. police  
-and ambulances), the so-called “rescue lane”: vehicles in the left-hand lane drive as far to the left as possible, all others as far to   
-the right as possible.  
+**Comment**:  As soon as traffic comes to a standstill or a traffic jam occurs, space must be created for emergency vehicles (e.g.  
+police and ambulances), the so-called “rescue lane”: vehicles in the left-hand lane drive as far to the left as possible, all others  
+as far to the right as possible.  
   
 31. A traffic jam is building up here. What is the correct procedure?  
 ![Imag11](https://schueler.click-learn.info/BilderV2/AB_2_1_08_008.jpg)  
@@ -245,9 +245,9 @@ The hard shoulder
 ✅ may only be used in the case of a breakdown  
 ❌ must be used in the same way as a right-hand lane  
 ❌ may only be used by trucks  
-**Comment**:  There are two traffic signs that prohibit the use of the hard shoulder as a traffic lane: The blue sign with the red line   
-means “no longer use the hard shoulder” and the red crossed oblique bars above the roadway (keyword “permanent light sign”) completely   
-block the lane below. This removes or ends the previously permitted use of the hard shoulder as a lane.  
+**Comment**:  There are two traffic signs that prohibit the use of the hard shoulder as a traffic lane: The blue sign with the red  
+line means “no longer use the hard shoulder” and the red crossed oblique bars above the roadway (keyword “permanent light sign”)  
+completely block the lane below. This removes or ends the previously permitted use of the hard shoulder as a lane.  
   
 33. What should you do if you see a vehicle with its hazard lights on?  
 ✅ I reduce my speed  
@@ -610,11 +610,22 @@ the rule is: RIGHT BEFORE LEFT, so they have to wait and let me go first.
 88. Traffic signs regulate the right of way here. Oncoming traffic and I have “right of way” at this junction, cross traffic from the  
 right and left must wait. As a left-turner, however, I must first allow the oncoming vehicle to pass before I turn.  
   
-89. The Cross sign in a Red Triangle indicates a junction or intersection with right of way from the right. For you, this means:  
-reduce speed, drive with increased attention and remain ready to brake so that you can give way if necessary.  
+89. What do you do when you see this traffic sign?  
+![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_001.jpg)  
+❌ Observe the traffic coming from the right only  
+✅ Be ready to brake  
+✅ Reduce speed  
+**Comment**: The Cross sign in a Red Triangle indicates a junction or intersection with right of way from the right. For you, this  
+means: reduce speed, drive with increased attention and remain ready to brake so that you can give way if necessary.  
   
-90. P with disabled person means ❌The additional sign “Severely disabled persons with exceptional walking disabilities and blind persons”  
-permits parking only with an official parking permit, e.g. for severely disabled persons and persons accompanying blind persons.  
+90. Are you allowed to park here?
+![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_110.jpg)
+✅ Yes, as a person accompanying blind persons with an official parking permit
+❌ Yes, briefly for shopping
+✅ Yes, as a seriously disabled person with an official parking permit
+**Comment**: P with disabled person means - The additional sign “Severely disabled persons with exceptional walking disabilities and  
+blind persons” permits parking only with an official parking permit, e.g. for severely disabled persons and persons accompanying blind  
+persons.  
   
 91. What is the minimum distance you must leave clear when stopping or parking in front of a pedestrian crossing? 5 m  
   
@@ -632,11 +643,11 @@ Expect unusual behavior and drive with extreme caution.
 **Comment**:  Anyone who leaves their vehicle or stops for longer than 3 minutes must park. In one-way streets or if there are rails on the right-hand side,  
 you may also park on the left.  
   
-94. You are approaching a bus stop marked like this. What do you do if you see children there? (A circular sign board, with Green H enclosed within  
-Yellow background, with green border. And below rectangular white board with the black text ❌Schulbus werktags 7-9h 11-13h) Sign 224-51  
-❌Speed must not be reduced when a bus stops at a stopping bay  
+94. You are approaching a bus stop marked like this. What do you do if you see children there?
+![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_008.jpg) Sign 224-51  
+❌ Speed must not be reduced when a bus stops at a stopping bay  
 ✅ Reduce your speed and be ready to brake+ää  
-❌A reduction in speed is only necessary when a school bus is stopping there  
+❌ A reduction in speed is only necessary when a school bus is stopping there  
 **Comment**:  The signs mark a school bus stop. If you approach the bus stop and see children there, you must reduce your speed. Stay ready to slow down, e.g.  
 because other children could run across the road to the bus stop.  
   
@@ -5295,19 +5306,20 @@ vehicle must be deregistered at the registration office.
 
 713. A light signal with no level crossing sign is positioned before a level crossing, and in front of a junction with a road to the   
 right. The red light is illuminated. Where must you wait?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_2_19_110.jpg)
-✅ At the stop line
-✅ In front of the light signal, if there is no stop line
-❌ I can drive up to the level crossing after watching out for other traffic
+![img](https://schueler.click-learn.info/BilderV2/VZ_1_2_19_110.jpg)  
+✅ At the stop line  
+✅ In front of the light signal, if there is no stop line  
+❌ I can drive up to the level crossing after watching out for other traffic  
 **Comment**: If there is a red light signal without a St. Andrew's cross in front of a level crossing on a road leading in from the  
 right, you must wait at the stop line. If there is no stop line, you must wait in front of the light.  
 
-714. What is the right course of action here?
-![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_047.jpg)
-I have to
-✅ allow the blue car to pass through
-✅ stop on the stop line
-❌ allow the red car to pass through
+714. What is the right course of action here?  
+![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_047.jpg)  
+I have to  
+✅ allow the blue car to pass through  
+✅ stop on the stop line  
+❌ allow the red car to pass through  
 **Comment**: The STOP sign is clear: I must stop at the stop line and give way to traffic on the turning priority road. This does not  
 include the road on the left. The rule “right before left” applies to traffic coming from the left - and I am coming from the right.  
 So I may drive after the vehicle on the priority road, but in front of the vehicle coming from the left.  
+
