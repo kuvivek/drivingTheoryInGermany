@@ -659,14 +659,14 @@ ready to slow down, e.g. because other children could run across the road to the
 left: lowered kerbs are regarded in road traffic as property entrances (§ 10 StVO).  
   
 96. Where must you particularly reckon with dirt on the roadway and therefore danger of skidding?  
-❌At innercity crossroads  
+❌ At innercity crossroads  
 ✅ At junctions with farm tracks  
 ✅ Near construction sites  
 **Comment**:  In the area of roadworks and at the junctions of country lanes, you must expect heavy soiling of the road surface. Be prepared for an uneven and  
 slippery road surface and adjust your speed accordingly.  
   
-97. What applies according to this traffic sign? (This is a symbol of Traffic calmed area, because the symbol shows children and adult 
-playing with ball on the road and near to the housing society in the right. And car is coming on the road)  
+97. What applies according to this traffic sign?   
+![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_140.jpg)
 ✅ I may only park on designated places  
 ✅ I have to drive at walking speed  
 ✅ I may not impede pedestrians  
@@ -678,9 +678,9 @@ permitted in marked areas.
 ✅ I must approach at a moderate speed if it is clear that pedestrians want to cross the road  
 ✅ I must allow the pedestrians to cross the road  
 ✅ I may not remain stationary on the pedestrian crossing if the traffic backs up  
-**Comment**:  The sign is located directly at the “crosswalk”. Approach at a moderate speed and allow pedestrians to cross if necessary. For safety reasons,   
-it is generally not permitted to overtake at crosswalks. If traffic is at a standstill, you must not come to a standstill on the crossing and block it   
-for pedestrians: Wait in front of it.  
+**Comment**:  The sign is located directly at the “crosswalk”. Approach at a moderate speed and allow pedestrians to cross if  
+necessary. For safety reasons, it is generally not permitted to overtake at crosswalks. If traffic is at a standstill, you must not  
+come to a standstill on the crossing and block it for pedestrians: Wait in front of it.  
   
 99. Ahead of the motorbike a car is seeking to reverse on the road. What should you anticipate?  
 ✅ That the car continues to reverse  
