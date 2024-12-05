@@ -999,44 +999,47 @@ lane than in the left-hand lane. ❌but not faster than 50 km/h. In fact, multi-
 More than 50 km/h is only permitted if a traffic sign permits a different speed limit.  
   
 145. What vehicles are permitted to use this road?  
+![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_148.jpg)
 ✅ Cycles and motorcycles that are pushed  
-❌Electric-powered vehicles  
-❌Motor vehicles  
-**Comment**:  This traffic sign prohibits(verbietet from verboten) motor vehicles of all kinds from using this road. Manual vehicles, motorcycles and bicycles may be pushed.  
-Additional signs may indicate possible exceptions.  
+❌ Electric-powered vehicles  
+❌ Motor vehicles  
+**Comment**:  This traffic sign prohibits(verbietet from verboten) motor vehicles of all kinds from using this road. Manual vehicles, 
+motorcycles and bicycles may be pushed. Additional signs may indicate possible exceptions.  
   
 146. What applies in the area 15 m in front of and behind this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_161.jpg)  
 I may  
 ✅ not obstruct passengers boarding or alighting  
 ✅ stop  
-❌park  
-**Comment**:  The sign indicates a stop. I must not endanger or obstruct passengers getting on or off the bus. Stopping is permitted here, e.g. to allow someone to get on or off.  
-Parking is prohibited in the bus stop area, i.e. up to 15 m in front of and behind the traffic sign.  
+❌ park  
+**Comment**:  The sign indicates a stop. I must not endanger or obstruct passengers getting on or off the bus. Stopping is permitted 
+here, e.g. to allow someone to get on or off. Parking is prohibited in the bus stop area, i.e. up to 15 m in front of and behind the 
+traffic sign.  
   
 147. What applies with this traffic sign? (Left Down Arrow in the blue circular background)  
-❌I am obliged to turn left  
+❌ I am obliged to turn left  
 ✅ I have to drive past obstructions on the left  
-❌I may not turn right before the sign  
-**Comment**:  This traffic sign specifies the side on which you must drive past traffic islands, obstacles, roadworks, etc. I must pass on the left here.  
-A corresponding arrow indicates that you must pass on the right.  
+❌ I may not turn right before the sign  
+**Comment**:  This traffic sign specifies the side on which you must drive past traffic islands, obstacles, roadworks, etc. I must pass 
+on the left here. A corresponding arrow indicates that you must pass on the right.  
   
-148. Which prohibitions cease to apply when you see this sign? (White circle with 5 forward slashes)  
+148. Which prohibitions cease to apply when you see this sign?    
+![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_133.jpg)
 ✅ No overtaking  
 ✅ Speed restrictions  
-❌No parking  
-**Comment**:  All route prohibitions ❌speed limit, minimum speed, no overtaking ❌are lifted again from here.  
+❌ No parking  
+**Comment**:  All route prohibitions - speed limit, minimum speed, no overtaking - are lifted again from here.  
   
 149. What does this traffic sign indicate? (CNG)  
 A  
 ✅ natural gas fuel station  
-❌hydrogen filling station  
-❌auto gas filling station  
+❌ hydrogen filling station  
+❌ auto gas filling station  
 **Comment**:   
 This traffic sign indicates a natural gas filling station: CNG = Compressed Natural Gas.  
   
 150. What should you do as you draw near to this heavy goods transport?  
 ✅ I refrain from overtaking  
-❌I overtake taking extra care  
+❌ I overtake taking extra care  
 ✅ I move into the right-hand lane  
 **Comment**:  Even if the general traffic signs permit a higher speed here, the illuminated sign on the escort vehicle takes precedence.  
 It indicates that overtaking is prohibited. Below it, an additional sign explains that this is a heavy goods vehicle (with excess width).  
@@ -3355,52 +3358,55 @@ in the accident report. This also includes exchanging the necessary personal and
 ✅ Switch on the hazard warning lights  
 ❌Make a U-turn and leave the tunnel  
 ❌At the end of the traffic jam, switch off the engine and leave the vehicle  
-**Comment**:  When approaching the end of a traffic jam, you must switch on the hazard warning lights immediately to warn those behind.  
-Maintain a distance of approx. 5 m from the vehicle in front and switch off the engine if you are stationary for a longer period of time.  
-Stay in the vehicle and listen to radio or loudspeaker announcements. Under no circumstances should you turn or reverse.  
+**Comment**:  When approaching the end of a traffic jam, you must switch on the hazard warning lights immediately to warn those  
+behind. Maintain a distance of approx. 5 m from the vehicle in front and switch off the engine if you are stationary for a longer  
+period of time. Stay in the vehicle and listen to radio or loudspeaker announcements. Under no circumstances should you turn or  
+reverse.  
   
 458. Visibility is considerably reduced. When are you allowed to switch on fog headlamps?  
 ✅ In fog  
 ✅ In falling snow  
 ✅ In rain  
-**Comment**:  Fog lights may only be switched on if visibility is significantly impaired by rain, snowfall or fog. This also applies during the day.  
+**Comment**:  Fog lights may only be switched on if visibility is significantly impaired by rain, snowfall or fog. This also applies 
+during the day.  
   
 459.What must you observe when you enter a tunnel?  
 ✅ Drive with dipped headlights also during the day even in well lit tunnels  
 ✅ Take off your sunglasses  
-❌Switch fog headlamps on  
-**Comment**:  When entering a tunnel, you must always switch on the low beam, even during the day and even if the tunnel itself is well lit.  
-With dipped headlights, the road is better illuminated and your car is more visible to the vehicle behind you. If necessary, take off  
-your sunglasses or fold back the sun visor so as not to restrict your view.  
+❌ Switch fog headlamps on  
+**Comment**:  When entering a tunnel, you must always switch on the low beam, even during the day and even if the tunnel itself is well  
+lit. With dipped headlights, the road is better illuminated and your car is more visible to the vehicle behind you. If necessary, take  
+off your sunglasses or fold back the sun visor so as not to restrict your view.  
   
 460. A vehicle driver has slightly damaged another vehicle, and unlawfully leaves the scene. What consequence could this have?  
 ✅ A withdrawal of the driving licence or a driving ban  
 ✅ An order to undergo a medical/psychological examination  
 ✅ A fine or imprisonment  
-**Comment**:  Hit-and-run accidents result in police investigations ❌and are severely punished. Depending on the severity, fines or prison sentences,  
-driving bans and even the ordering of a medical-psychological examination (MPU) can be considered.  
+**Comment**:  Hit-and-run accidents result in police investigations - and are severely punished. Depending on the severity, fines or  
+prison sentences, driving bans and even the ordering of a medical-psychological examination (MPU) can be considered.  
   
 461. How can you get help on an autobahn?  
 ✅ Dial 112 or 110  
 ✅ Use an emergency call box  
 ✅ From the autobahn service areas  
-**Comment**:  If you have an accident or breakdown on the highway, you can contact the police and the emergency or rescue services by calling 110 or 112  
-on your cell phone. You can also call for help at an emergency call pillar or via an emergency telephone, and on the highway also at service stations.  
+**Comment**:  If you have an accident or breakdown on the highway, you can contact the police and the emergency or rescue services by  
+calling 110 or 112 on your cell phone. You can also call for help at an emergency call pillar or via an emergency telephone, and on the  
+highway also at service stations.  
   
 462. You hear a siren. Which questions must you ask yourself?  
 ✅ Could I obstruct the emergency vehicle?  
-❌Is this vehicle allowed to use a siren at all?  
+❌ Is this vehicle allowed to use a siren at all?  
 ✅ Where is the emergency vehicle coming from?  
-**Comment**:  If a special vehicle from the police or other institutions approaches with blue lights and siren, you must not obstruct it under  
-any circumstances. Try to determine early on where the emergency vehicle is coming from and where it intends to go. Ask yourself whether  
-you may be obstructing the vehicle and give way if necessary.  
+**Comment**:  If a special vehicle from the police or other institutions approaches with blue lights and siren, you must not obstruct   
+it under any circumstances. Try to determine early on where the emergency vehicle is coming from and where it intends to go. Ask  
+yourself whether you may be obstructing the vehicle and give way if necessary.  
   
 463. What must you do if wild animals suddenly appear in the full beam of your headlights?  
 ✅ Immediately dip your headlights  
-❌Proceed on full beam  
+❌ Proceed on full beam  
 ✅ Sound the horn and brake  
-**Comment**:  If game is dazzled, it often remains in the beam of light. Therefore, dip your headlights immediately, slow down and sound your horn  
-if game appears in the high beam.  
+**Comment**:  If game is dazzled, it often remains in the beam of light. Therefore, dip your headlights immediately, slow down and  
+sound your horn if game appears in the high beam.  
   
 464. There is a tunnel on my route. What should I know?  
 ✅ I should know how escape routes are indicated in tunnels  
@@ -3502,18 +3508,18 @@ It has a blue background )
 ❌ A stop for breaks and changing drivers  
 ✅ An emergency stop and breakdown bay  
 ❌ A temporary additional carriageway  
-**Comment**:  The traffic sign indicates an emergency stop and breakdown bay. In the event of a breakdown or emergency, you should stop there if  
-possible. If you drive into the lay-by, you must expect that a vehicle is already parked there. The bay may not be used except in the event  
-of an emergency or breakdown.  
+**Comment**:  The traffic sign indicates an emergency stop and breakdown bay. In the event of a breakdown or emergency, you should stop 
+there if possible. If you drive into the lay-by, you must expect that a vehicle is already parked there. The bay may not be used except 
+in the event  of an emergency or breakdown.  
   
 477. You are driving through a tunnel. What special aspect applies here?right  
 In tunnels  
 ✅ I can be distracted by lighting effects  
 ✅ the safety devices, like emergency exits and emergency telephones are signposted  
 ✅ I can be distracted by loud vehicle noise  
-**Comment**:  The unusually high noise level in tunnels can be very distracting. Light effects from tunnel and vehicle lighting can also be distracting.  
-And in tunnels, safety equipment such as emergency exits and emergency telephones are signposted. So don't be confused by the wording in the  
-question: This is about SEVERAL special features.  
+**Comment**:  The unusually high noise level in tunnels can be very distracting. Light effects from tunnel and vehicle lighting can  
+also be distracting. And in tunnels, safety equipment such as emergency exits and emergency telephones are signposted. So don't be  
+confused by the wording in the  question: This is about SEVERAL special features.  
   
 478. You are the first to arrive at the scene of the accident where there are injured people. You secure the scene of the accident and  
 have gained an overview of the situation. What else do you have to do?  
@@ -3521,8 +3527,8 @@ I have to
 ❌ document the accident  
 ✅ notify the emergency services  
 ✅ deliver first aid to the injured  
-**Comment**:  Anyone who arrives at the scene of an accident first has to secure the accident site and themselves, then it's a matter of   
-caring for the injured and calling for help. Others take over the documentation; I am only allowed to do this if I am involved in a   
+**Comment**:  Anyone who arrives at the scene of an accident first has to secure the accident site and themselves, then it's a matter  
+of caring for the injured and calling for help. Others take over the documentation; I am only allowed to do this if I am involved in a   
 “minor accident” (minor material damage), for example.  
   
 479. In your rear-view mirror, you see the words "STOP POLIZEI" (Stop Police) in red illuminated letters on the roof of a police car  
@@ -3530,16 +3536,18 @@ immediately behind your car. Who does this apply to?
 ❌To all vehicles on the road  
 ❌To all following vehicles  
 ✅ To you only  
-**Comment**:  If “STOP POLICE” is displayed in red illuminated lettering on the roof of a patrol car, this request is directed at the vehicle directly  
-in front or immediately behind. In this case, you are the vehicle directly in front, so the request only applies to you.  
+**Comment**:  If “STOP POLICE” is displayed in red illuminated lettering on the roof of a patrol car, this request is directed at the  
+vehicle directly in front or immediately behind. In this case, you are the vehicle directly in front, so the request only applies to  
+you.  
   
 480. What are you obliged to do, if you are involved in a road traffic accident?right  
 I have to  
 ✅ stop and determine the consequences of the accident  
 ✅ secure the scene of the accident  
 ✅ provide aid if anyone has been injured  
-**Comment**:  Anyone involved in a traffic accident in which people have been injured must stop and make sure of the consequences of the accident.  
-I must secure myself (high-visibility vest) and the scene of the accident (e.g. warning triangle) and provide assistance if someone is injured.  
+**Comment**:  Anyone involved in a traffic accident in which people have been injured must stop and make sure of the consequences of  
+the accident. I must secure myself (high-visibility vest) and the scene of the accident (e.g. warning triangle) and provide assistance  
+if  someone is injured.  
   
 481. A driving licence applicant practices practical driving skills without a driving instructor on public roads.  
 What should he expect if the police perform a check on him?  
@@ -4762,28 +4770,30 @@ at the front. This also restricts steering. A rear-wheel drive vehicle is more l
 **Comment**:  After coupling a trailer with an overrun brake, it is essential to check the function of the brake. In addition, an existing jockey wheel   
 must be moved to the top position and the breakaway cable attached to the trailer coupling of the motor vehicle.  
   
-640. Where are you particularly at risk during an overtaking manoeuvre here?![img](https://schueler.click-learn.info/BilderV2/AB_2_1_03_038.jpg)  
+640. Where are you particularly at risk during an overtaking manoeuvre here?  
+![img](https://schueler.click-learn.info/BilderV2/AB_2_1_03_038.jpg)  
 ✅ When driving out of the truck’s wind-sheltered area  
-❌When changing lane after overtaking  
+❌ When changing lane after overtaking  
 ✅ When driving into the truck’s wind-sheltered area  
 **Comment**:  A strong crosswind (indicated here by the red and white tornado) causes several hazards when overtaking a truck:  
-1. when entering the slipstream, it suddenly disappears and my vehicle pulls to the right.  
-2. when pulling out, the wind pushes my vehicle significantly to the left again and I have to counter-steer.  
+  **1**. when entering the slipstream, it suddenly disappears and my vehicle pulls to the right.  
+  **2**. when pulling out, the wind pushes my vehicle significantly to the left again and I have to counter-steer.  
 When changing lanes after overtaking, however, the crosswind is constant and not a particular hazard.  
   
 641. You want to turn left. What driving line should you maintain?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_09_019.jpg)  
-❌The left driving line  
-❌Both driving lines are possible  
+❌ The left driving line  
+❌ Both driving lines are possible  
 ✅ The right driving line  
-**Comment**:  This is a “normal” road without one-way traffic, i.e. traffic is permitted in both directions. I must keep to the right-hand lane so as not   
-to endanger oncoming traffic: I keep to the right-hand lane here!  
+**Comment**:  This is a “normal” road without one-way traffic, i.e. traffic is permitted in both directions. I must keep to the 
+right-hand lane so as not to endanger oncoming traffic: I keep to the right-hand lane here!  
   
-642. You are driving on a road that has several marked lanes going in one direction. When should the alternate merging procedure be employed?  
-❌When a merging lane ends on the motorway  
+642. You are driving on a road that has several marked lanes going in one direction. When should the alternate merging procedure be    
+employed?  
+❌ When a merging lane ends on the motorway  
 ✅ When a lane comes to an end  
 ✅ If one lane is not continuously free to traffic due to an obstacle  
-**Comment**:  If a lane ends or is closed (e.g. due to roadworks or an obstacle), the “merge and let merge” method is used. The zipper procedure   
-begins as close as possible to the bottleneck.  
+**Comment**:  If a lane ends or is closed (e.g. due to roadworks or an obstacle), the “merge and let merge” method is used. The zipper 
+procedure begins as close as possible to the bottleneck.  
   
 643. What must you anticipate with inclines on motorways?  
 ✅ Sudden overtaking manoeuvres by other road users  
@@ -4809,34 +4819,37 @@ and allow oncoming traffic to pass. As a left-turner, I must then allow oncoming
   
 646. You want to turn right into a priority road. What must you look out for?  
 ✅ Vehicles coming from the left and from the right  
-❌Only for vehicles coming from the left  
+❌ Only for vehicles coming from the left  
 ✅ For cyclists and pedestrians alongside you to the right or behind you  
-**Comment**:  Look not only to the left, but also to the right when turning into a priority road: An overtaking vehicle could be approaching quickly   
-from there. In built-up areas, you must pay particular attention to pedestrians or cyclists, e.g. on your right or behind you.  
+**Comment**: Look not only to the left, but also to the right when turning into a priority road: An overtaking vehicle could be 
+approaching quickly from there. In built-up areas, you must pay particular attention to pedestrians or cyclists, e.g. on your right or 
+behind you.  
   
 647. What must you do in case of a traffic jam in a tunnel?  
 ✅ Switch hazard warning lights on  
 ✅ When traffic comes to a standstill, keep a safety distance of approximately 5 m to the car ahead  
-❌Secure and leave vehicle immediately  
-**Comment**:  Traffic jams and tailbacks pose a risk of accidents. Switch on the hazard warning lights and keep a safe distance when driving slowly.   
-When stationary, stop at a distance of approx. 5 m from the vehicle in front. Switch off the engine if you are stationary for a long time, stay   
-in the vehicle, listen to the traffic radio and pay attention to loudspeaker announcements.  
+❌ Secure and leave vehicle immediately  
+**Comment**: Traffic jams and tailbacks pose a risk of accidents. Switch on the hazard warning lights and keep a safe distance when 
+driving slowly. When stationary, stop at a distance of approx. 5 m from the vehicle in front. Switch off the engine if you are 
+stationary for a long time, stay in the vehicle, listen to the traffic radio and pay attention to loudspeaker announcements.  
   
-648.You notice an accident in the tunnel. What do you have to do?  
-❌Do not leave your vehicle  
+648. You notice an accident in the tunnel. What do you have to do?  
+❌ Do not leave your vehicle  
 ✅ Inform emergency services via the SOS-telephone  
 ✅ Switch on the hazard warning lights  
-**Comment**:  In the event of an accident in a tunnel, the priority is to secure the danger zone so that no further incidents occur. To do this, switch   
-on the hazard warning lights immediately, park the vehicle as far away from the edge of the road as possible, set up the warning triangle and call   
-for help on the emergency telephone. An emergency call by cell phone makes it more difficult to determine the location and delays help.  
+**Comment**: In the event of an accident in a tunnel, the priority is to secure the danger zone so that no further incidents occur. 
+To do this, switch on the hazard warning lights immediately, park the vehicle as far away from the edge of the road as possible, set up  
+the warning triangle and call for help on the emergency telephone. An emergency call by cell phone makes it more difficult to determine  
+the location and delays help.  
   
-649. A learner driver has committed several violations during the probationary period. The authority has ordered that the driver attends a   
-supplementary driving course. The learner driver fails to comply with this order. What can they expect to happen?  
+649. A learner driver has committed several violations during the probationary period. The authority has ordered that the driver    
+attends a supplementary driving course. The learner driver fails to comply with this order. What can they expect to happen?  
 ✅ The withdrawal of their driving licence  
-An order to attend a driver fitness session  
-An extension of the probationary period by another 3 years  
-**Comment**If a road user behaves in a way that raises doubts about their fitness to drive, their driving license can be withdrawn temporarily or permanently.   
-Anyone who does not take part in the advanced training seminar despite being ordered to do so must expect their driving license to be revoked.  
+❌ An order to attend a driver fitness session  
+❌ An extension of the probationary period by another 3 years  
+**Comment**: If a road user behaves in a way that raises doubts about their fitness to drive, their driving license can be withdrawn  
+temporarily or permanently. Anyone who does not take part in the advanced training seminar despite being ordered to do so must expect  
+their driving license to be revoked.  
   
 650. You are involved in a traffic accident. What are you obliged to do?  
 I have to  
@@ -4845,44 +4858,46 @@ I have to
 ✅ move promptly to the side of the roadway if damage is minor  
   
 651. What is correct? ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg)  
-❌Turn without stopping  
+❌ Turn without stopping  
 ✅ Wait at the crossroads  
-**Comment**:  If you see a police officer with his arms outstretched to the side in front or behind you at the intersection, you must wait in front of the intersection.  
+**Comment**: If you see a police officer with his arms outstretched to the side in front or behind you at the intersection, you must wait in front of the intersection.  
   
 652.  When may you take the turn?  
+![img](https://schueler.click-learn.info/BilderV2/BS_1_2_11_114_ende.jpg) A video question
 ✅ Only once the truck driver has used a hand signal to clearly indicate he is foregoing his right of way  
-❌Immediately, because the truck driver is prompting me to do that  
+❌ Immediately, because the truck driver is prompting me to do that  
 ✅ Only if I do not endanger or significantly impede the cross traffic  
-**Comment**:  Do not take any risks: The light signals may mean that the truck driver is waiving his right of way and letting me go first. To be on the safe side,   
-I wait for a clear hand signal before driving off carefully and without endangering others.  
+**Comment**: Do not take any risks: The light signals may mean that the truck driver is waiving his right of way and letting me go 
+first. To be on the safe side, I wait for a clear hand signal before driving off carefully and without endangering others.  
   
 653. What do you do when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_001.jpg)  
-❌Observe the traffic coming from the right only  
+❌ Observe the traffic coming from the right only  
 ✅ Reduce speed  
 ✅ Be ready to brake  
-**Comment**:  The sign indicates a junction or intersection with right of way from the right. For you, this means: reduce your speed, drive with increased attention   
-and stay ready to brake so that you can give way if necessary.  
+**Comment**: The sign indicates a junction or intersection with right of way from the right. For you, this means: reduce your speed,
+drive with increased attention and stay ready to brake so that you can give way if necessary.  
   
 654. You see this traffic sign. What must you reckon with?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_005.jpg)  
 ❌Oncoming traffic taking precedence  
 ✅ Dazzle from oncoming traffic at night  
 ✅ Oncoming traffic  
-**Comment**:  The sign indicates that oncoming traffic on your own lane is to be expected, e.g. if a lane on the highway is temporarily open for both directions due to   
-construction work. You must drive clearly to the right. At night, glare from oncoming traffic must be expected.  
+**Comment**:  The sign indicates that oncoming traffic on your own lane is to be expected, e.g. if a lane on the highway is temporarily 
+open for both directions due to construction work. You must drive clearly to the right. At night, glare from oncoming traffic must be 
+expected.  
   
 655. What must you anticipate with this road sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_144.jpg)  
 ✅ With cyclists who may cross the carriageway  
-❌With a "cyclists prohibited" zone  
-❌With an underpass for cyclists  
-**Comment**:  This danger sign warns of cyclists crossing the road. It is located at places where cyclists frequently or unexpectedly cross the road or enter it, e.g.   
-because a cycle path ends.  
+❌ With a "cyclists prohibited" zone  
+❌ With an underpass for cyclists  
+**Comment**:  This danger sign warns of cyclists crossing the road. It is located at places where cyclists frequently or unexpectedly 
+cross the road or enter it, e.g. because a cycle path ends.  
   
 656. What do these traffic signs indicate?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_130.jpg)  
-❌Roadway with two lanes in one direction for 3 km  
-❌Start of a no-overtaking area 3 km ahead  
+❌ Roadway with two lanes in one direction for 3 km  
+❌ Start of a no-overtaking area 3 km ahead  
 ✅ No overtaking for 3 km  
-**Comment**:  Multi-lane vehicles (cars, trucks) and motorcycles with sidecars may not be overtaken. The no overtaking zone is 3 km long.   
-vertaking motorcycles without sidecars, mopeds, streetcars and non-motorized vehicles is permitted.  
+**Comment**: Multi-lane vehicles (cars, trucks) and motorcycles with sidecars may not be overtaken. The no overtaking zone is 3 km  
+long. Overtaking motorcycles without sidecars, mopeds, streetcars and non-motorized vehicles is permitted.  
   
 657. What must you remember when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_41_101.jpg)  
 ✅ Use snow-chains  
@@ -5323,3 +5338,20 @@ I have to
 include the road on the left. The rule “right before left” applies to traffic coming from the left - and I am coming from the right.  
 So I may drive after the vehicle on the priority road, but in front of the vehicle coming from the left.  
 
+715. What can be the effect of an overload of only 20%?  
+✅ Steering may become worse  
+✅ The brakes may be overstrained  
+✅ There may be too much strain on the load-bearing parts of the vehicle  
+**Comment**: Make sure that your vehicle is not overloaded when you are transporting something. Even a 20% overload puts excessive   
+strain on the brakes, which leads to a deterioration in braking behavior. Steering behavior also deteriorates noticeably. Overloading  
+can also lead to damage to load-bearing vehicle parts.  
+
+716. Which statements are correct in this situation?  
+![img](https://schueler.click-learn.info/BilderV2/AB_1_1_02_110.jpg)
+(Hazard warning lights on)
+✅ The bus may be passed in either lane but no faster than at walking speed  
+The vehicles in the left lane may pass the bus without paying any special attention  
+✅ Vehicles in both lanes must stop if passengers would otherwise be endangered  
+**Comment**: You may only drive past stopping buses with their hazard warning lights switched on at walking speed. If two lanes run  
+past the bus stop in the same direction, the walking speed applies to both lanes. If necessary, stop if passengers would otherwise be  
+endangered.  
