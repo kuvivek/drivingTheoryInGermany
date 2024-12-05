@@ -515,9 +515,9 @@ in a cooperative, not instructive manner.
 75.  Travelling on a main road after a lengthy period of time of following behind, you are finally able to overtake a very slow-moving 
 car. What should you do?  
 After overtaking  
-❌I brake briefly in order to call the attention of the other driver to his slow speed  
+❌ I brake briefly in order to call the attention of the other driver to his slow speed  
 ✅ I pull back in after an adequate distance in order not to impede the other driver  
-❌I drive especially slowly in order to emphasise to the other driver the effects of his driving style  
+❌ I drive especially slowly in order to emphasise to the other driver the effects of his driving style  
   
 76. While driving, you become very annoyed at the behaviour of another road user. What is the right course of action now?  
 ✅ If necessary, I take a break to calm myself down  
@@ -528,14 +528,14 @@ errors. It is therefore important to continue to concentrate on the traffic as m
 road safety. In the worst case, it is better to take a break and only continue driving when I have calmed down again.  
   
 77. After overtaking you, a car pulls back into lane without leaving sufficient space in front of you. What should you do?  
-❌I flash my headlights in order to call attention to the impediment  
+❌ I flash my headlights in order to call attention to the impediment  
 ✅ I brake in order to ensure that the safety distance is again established  
 ✅ I remain calm in order to avoid conflicts  
 **Comment**:  There is no point in getting angry about the misconduct of others. Anger only impairs your own ability to drive. Stay 
 calm, increase your (safety) distance and drive on unimpressed. Avoid so-called “instructions” such as flashing your headlights.  
 
-78. Participation in road traffic requires caution at all times and consideration towards other road users. What does this mean for you?  
-You must  
+78. Participation in road traffic requires caution at all times and consideration towards other road users. What does this mean for 
+you? You must  
 ✅ drive with foresight  
 ❌ insist on your right of priority at all times  
 ✅ reckon with improper conduct on the part of others  
@@ -548,9 +548,9 @@ You drive carefully if you drive with foresight and expect other road users to m
 ❌ At driveways  
 ❌ At junctions with sunken kerbstone  
 ❌ At junctions of farm tracks or forest tracks with other roads  
-**Comment**:  At junctions and crossroads, right of way is given to those coming from the right. This basic rule, in short “right before   
-left”,applies at all crossroads and junctions without traffic signs. Field or forest paths are not considered roads and are therefore   
-not taken into account when they meet a developed road.  
+**Comment**:  At junctions and crossroads, right of way is given to those coming from the right. This basic rule, in short “right 
+before left”,applies at all crossroads and junctions without traffic signs. Field or forest paths are not considered roads and are 
+therefore not taken into account when they meet a developed road.  
   
 80. What is correct?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_36_004.jpg)   
@@ -572,8 +572,8 @@ front of the junction.
 ❌ Turning off is prohibited  
 ❌ You must wait for further signals from the police officer before the crossroads may be entered  
 ✅ The crossroads may be crossed  
-**Comment**: If you see a police officer in front of you at the intersection with his arms outstretched to the side, traffic is cleared   
-for your direction of travel. You may cross the intersection.  
+**Comment**: If you see a police officer in front of you at the intersection with his arms outstretched to the side, traffic is 
+cleared for your direction of travel. You may cross the intersection.  
   
 83. Even if the traffic light is green: I stay at the stop line as long as there is no further traffic after the intersection.  
 Otherwise I'm blocking the junction! If I have to, I prefer to wait until the next green phase.  
@@ -597,10 +597,10 @@ Driving defensively means not insisting on your rights, showing consideration fo
 ✅ The red car  
 ❌ Me  
 ❌ The motorbike  
-**Comment**: Signs and instructions from police officers take precedence over all other regulations. This means that when a police   
-officer regulates traffic, only his signs apply; he overrides traffic signs and traffic lights. In this case, he gives cross traffic the   
-go-ahead, I have to wait. The car wants to go straight ahead and is allowed to go first because the motorcycle has to let it go first as   
-it is turning left.  
+**Comment**: Signs and instructions from police officers take precedence over all other regulations. This means that when a police  
+officer regulates traffic, only his signs apply; he overrides traffic signs and traffic lights. In this case, he gives cross traffic  
+the go-ahead, I have to wait. The car wants to go straight ahead and is allowed to go first because the motorcycle has to let it go  
+first as it is turning left.  
   
 87. Even if it looks like a “real” traffic circle at first glance. The sign with the three circular arrows is missing here. Therefore,  
 the usual right of way rules apply here! The blue arrow sign means: turn right. In contrast to the traffic sign for traffic circles,  
@@ -630,7 +630,7 @@ persons.
 91. What is the minimum distance you must leave clear when stopping or parking in front of a pedestrian crossing? 5 m  
   
 92. A person at the side of the road is wearing a yellow armband with three black spots. What does this armband indicate?  
-❌This person belongs to a particular profession  
+❌ This person belongs to a particular profession  
 ✅ The wearer is disabled  
 ✅ I am obliged to behave in a particular way towards this person  
 **Comment**:  Visually impaired and blind people are among the most vulnerable road users. Increased consideration is required here.  
@@ -638,23 +638,23 @@ Expect unusual behavior and drive with extreme caution.
   
 93. Where are you allowed to park on the left in the direction of travel?  
 ✅ Where there are rails on the right-hand side  
-❌Where parking is prohibited on the right  
+❌ Where parking is prohibited on the right  
 ✅ In one-way streets  
-**Comment**:  Anyone who leaves their vehicle or stops for longer than 3 minutes must park. In one-way streets or if there are rails on the right-hand side,  
-you may also park on the left.  
+**Comment**:  Anyone who leaves their vehicle or stops for longer than 3 minutes must park. In one-way streets or if there are rails on 
+the right-hand side, you may also park on the left.  
   
 94. You are approaching a bus stop marked like this. What do you do if you see children there?
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_008.jpg) Sign 224-51  
 ❌ Speed must not be reduced when a bus stops at a stopping bay  
 ✅ Reduce your speed and be ready to brake+ää  
 ❌ A reduction in speed is only necessary when a school bus is stopping there  
-**Comment**:  The signs mark a school bus stop. If you approach the bus stop and see children there, you must reduce your speed. Stay ready to slow down, e.g.  
-because other children could run across the road to the bus stop.  
+**Comment**:  The signs mark a school bus stop. If you approach the bus stop and see children there, you must reduce your speed. Stay 
+ready to slow down, e.g. because other children could run across the road to the bus stop.  
   
 95. You want to turn out of a road with a sunken kerbstone into another road. A car is coming from the left. What applies here?  
 ✅ Whoever turns into a road over a sunken kerbstone must wait  
-❌The rule "right before left"  
-❌The sunken kerbstone is of no relevance for the obligation to wait  
+❌ The rule "right before left"  
+❌ The sunken kerbstone is of no relevance for the obligation to wait  
 **Comment**:  If you want to turn onto a road via a dropped kerb, all other road users have priority. Here you are obliged to wait for the car coming from the  
 left: lowered kerbs are regarded in road traffic as property entrances (§ 10 StVO).  
   
@@ -665,13 +665,14 @@ left: lowered kerbs are regarded in road traffic as property entrances (§ 10 St
 **Comment**:  In the area of roadworks and at the junctions of country lanes, you must expect heavy soiling of the road surface. Be prepared for an uneven and  
 slippery road surface and adjust your speed accordingly.  
   
-97.What applies according to this traffic sign? (This is a symbol of Traffic calmed area, because the symbol shows children and adult playing with ball  
-on the road and near to the housing society in the right. And car is coming on the road)  
+97. What applies according to this traffic sign? (This is a symbol of Traffic calmed area, because the symbol shows children and adult 
+playing with ball on the road and near to the housing society in the right. And car is coming on the road)  
 ✅ I may only park on designated places  
 ✅ I have to drive at walking speed  
 ✅ I may not impede pedestrians  
-**Comment**:  A traffic-calmed area begins here. Children's games are allowed everywhere, so I have to pay particular attention to children playing.  
-Driving is only permitted at walking speed. Pedestrians go first: I have to wait if necessary. Parking is only permitted in marked areas.  
+**Comment**:  A traffic-calmed area begins here. Children's games are allowed everywhere, so I have to pay particular attention to  
+children playing. Driving is only permitted at walking speed. Pedestrians go first: I have to wait if necessary. Parking is only  
+permitted in marked areas.  
   
 98. What must you do upon seeing this traffic sign?  
 ✅ I must approach at a moderate speed if it is clear that pedestrians want to cross the road  
@@ -686,14 +687,14 @@ for pedestrians: Wait in front of it.
 ✅ That my braking distance will be longer than normal  
 ✅ That the motorbike will suddenly brake  
   
-100. What does this traffic sign indicate?right  
+100. What does this traffic sign indicate?  
 Pesdestrian walk sign board  
 The start of a zone with  
 ✅ a permitted maximum speed of 30 km/h  
-❌a recommended speed of 30 km/h  
-❌an obligatory minimum speed of 30 km/h  
-**Comment**:  It is not permitted to drive faster than indicated within an area marked in this way. There is no signage for individual streets.  
-The maximum permitted speed here is 30 km/h. Speeds below 30 km/h are also possible. The end of such areas is signposted.  
+❌ a recommended speed of 30 km/h  
+❌ an obligatory minimum speed of 30 km/h  
+**Comment**:  It is not permitted to drive faster than indicated within an area marked in this way. There is no signage for individual 
+streets.  The maximum permitted speed here is 30 km/h. Speeds below 30 km/h are also possible. The end of such areas is signposted.  
   
 101. You wish to overtake a farm tractor with a mounted implement extending beyond its back. What must you remember?  
 ✅ The rear lights may be heavily soiled or concealed, making direction signals difficult or impossible to see when they are on  
