@@ -553,7 +553,7 @@ before left”,applies at all crossroads and junctions without traffic signs. Fi
 therefore not taken into account when they meet a developed road.  
   
 80. What is correct?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_2_36_004.jpg)   
+![img](https://schueler.click-learn.info/BilderV2/AB_1_2_36_004.jpg)  
 ✅ I must get ready to proceed  
 ✅ The yellow car must leave the crossroads  
 ❌ I can turn now  
@@ -561,10 +561,10 @@ therefore not taken into account when they meet a developed road.
 should leave the junction quickly. All other road users must wait in front of the intersection for the next signal. The yellow car  
 must clear the junction and you must prepare to continue your journey.    
   
-81. What is correct?
-![img](https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg)
-✅ Wait at the crossroads
-❌ Turn without stopping
+81. What is correct?  
+![img](https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg)  
+✅ Wait at the crossroads  
+❌ Turn without stopping  
 **Comment**: If you see a police officer with his arms outstretched to the side in front or behind you at the junction, you must wait in 
 front of the junction.  
   
@@ -583,7 +583,7 @@ Otherwise I'm blocking the junction! If I have to, I prefer to wait until the ne
 ✅ with iced over side windows  
 ✅ with the sun low in the sky out front  
 ✅ with a misted up windscreen  
-**Comment**:  All unfavorable conditions (e.g. due to winter weather) increase the risk of accidents: the low, dazzling sun as well as fogged or icy windows ❌all of which obstruct my view.  
+**Comment**:  All unfavorable conditions (e.g. due to winter weather) increase the risk of accidents: the low, dazzling sun as well as fogged or icy windows -all of which obstruct my view.  
   
 85. What should you understand by defensive driving?  
 ❌ Stopping as a precaution at every crossroads  
@@ -3041,11 +3041,11 @@ If the engine fails, steering becomes difficult. Special conditions apply to ele
 For example, it is prohibited on the edge of the road if this prevents the use of marked parking spaces. It is also prohibited  
 on the carriageway of priority roads outside built-up areas.  
   
-415. You are looking for a place to park on the right edge of the carriageway. A cycle path runs alongside to the right of the carriageway. How many metres before a junction or an intersection are you prohibited from parking?right  
+415. You are looking for a place to park on the right edge of the carriageway. A cycle path runs alongside to the right of the carriageway. How many metres before a junction or an intersection are you prohibited from parking?  
 __8m__  
-**Comment**:  StVO: Parking is not permitted in front of intersections and junctions up to 8 m from the intersection of the edges of the  
-carriageway, provided that a cycle path has been constructed to the right of the carriageway in the direction of travel (Section 12 (3)).  
-This regulation is intended to increase the visibility and safety of cyclists.  
+**Comment**:  StVO: Parking is not permitted in front of intersections and junctions up to 8 m from the intersection of the edges of  
+the  carriageway, provided that a cycle path has been constructed to the right of the carriageway in the direction of travel (Section  
+12 (3)). This regulation is intended to increase the visibility and safety of cyclists.  
   
 416. Where is stopping prohibited?  
 ✅ On the roadway, if there is a sufficiently wide hard shoulder on the right  
@@ -3057,46 +3057,47 @@ directional arrows, at cab ranks and on the carriageway if there is a suitable h
   
 417. Where is it forbidden to stop?  
 ✅ On merging and demerging lanes  
-❌In front of entrances to and exits from property lots  
+❌ In front of entrances to and exits from property lots  
 ✅ On lanes marked with direction arrows  
 **Comment**:  Stopping is always prohibited if the stopping vehicle creates a hazard or obstruction, e.g. on merging and merging  
 lanes or on marked lanes with directional arrows.  
   
 418. Where is stopping prohibited?  
 ✅ On level crossings  
-❌Immediately behind pedestrian crossings  
+❌ Immediately behind pedestrian crossings  
 ✅ On narrow sections of the road and at blind spots  
 **Comment**:  Stopping is a voluntary interruption of the journey that is not caused by the traffic situation or an order.  
 Stopping is prohibited where the traffic sign “No stopping” prescribes it and in places where stopping can be dangerous,  
 e.g. on narrow and confusing roads and at level crossings.  
   
-419. Who has stopped incorrectly? (Green car <----zebra crossing <--❌Blue van "Arrow denotes the direction of travel")  
-❌Both cars  
+419. Who has stopped incorrectly?    
+![img](https://schueler.click-learn.info/BilderV2/AB_1_2_12_126_1.jpg)  
+❌ Both cars  
 ✅ The blue van  
-❌The green car  
-**Comment**:  Parked vehicles can make it difficult to see pedestrians: Stopping on and up to 5 m in front of crosswalks is not permitted.  
-The vehicle in front of the crosswalk stops incorrectly!  
+❌ The green car  
+**Comment**:  Parked vehicles can make it difficult to see pedestrians: Stopping on and up to 5 m in front of crosswalks is not 
+permitted. The vehicle in front of the crosswalk stops incorrectly!  
   
 420. Where is it forbidden to stop?  
-❌In non-parking zones  
+❌ In non-parking zones  
 ✅ In front of fire service access roads  
-❌On any one-way road  
+❌ On any one-way road  
 **Comment**:  StVO: “Stopping is not permitted in front of and in officially marked fire lanes.” In one-way streets, on the other hand,  
 there are often places to stop and park. I may not be allowed to PARK in no-parking zones, but STOPPING is not generally prohibited   
 there.  
   
 421. What must you remember when parking a trailer without a truck?  
 The trailer  
-❌may be parked for an unlimited period of time on adequate hard shoulders  
+❌ may be parked for an unlimited period of time on adequate hard shoulders  
 ✅ may not be parked for more than 2 weeks on public roads  
 ✅ may be parked for more than 2 weeks on specially designated parking spaces  
-**Comment**:  Trailers without a towing vehicle may be parked on public roads for up to 2 weeks. You may only park for longer than two weeks  
-in appropriately marked parking spaces.  
+**Comment**:  Trailers without a towing vehicle may be parked on public roads for up to 2 weeks. You may only park for longer than two  
+weeks in appropriately marked parking spaces.  
   
 422. You want to park in a car park where there is a parking-ticket machine. What must you remember?  
 ✅ Place a valid parking ticket in your vehicle so it is easy to read from outside  
 ✅ Do not exceed the parking time indicated on the parking ticket  
-❌A parking ticket is never needed when using a parking disc  
+❌ A parking ticket is never needed when using a parking disc  
 **Comment**:  In the area of parking ticket machines, parking is only permitted with a parking ticket and only for the specified   
 period of time. Attach the parking ticket clearly legible on or in the vehicle, e.g. behind the windshield.  
   
