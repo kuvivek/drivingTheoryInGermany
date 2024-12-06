@@ -1467,27 +1467,27 @@ football with parent and there is car parked nearby. And sideways are housing so
 ✅ Pedestrians are entitled to use the entire breadth of the road  
 ✅ Motor vehicles have to drive at walking speed  
 ✅ Children may play across the entire road  
-**Comment**:  The sign is called “Traffic-calmed area”(Verkehrsberuhigter Bereich). Here, children are allowed to play anywhere and pedestrians  
-are allowed to use the full width of the road. I am only allowed to drive at walking speed ❌i.e. no faster than 4 to 7 km/h.  
-If necessary, I have to wait.  
+**Comment**:  The sign is called “Traffic-calmed area”(Verkehrsberuhigter Bereich). Here, children are allowed to play anywhere  
+and pedestrians are allowed to use the full width of the road. I am only allowed to drive at walking speed - i.e. no faster than  
+4 to 7 km/h. If necessary, I have to wait.  
   
 200. A horse-drawn carriage is coming towards you. What should you do?  
 I should  
 ✅ Avoid making noise  
 ✅ drive as far to the right as possible  
-❌switch on parking light  
-**Comment**:  Horses are living creatures(Pferde sind Lebewesen) that react differently(unterschiedlich) to their environment. To avoid making them  
-unnecessarily(unnötig) nervous in traffic, I should be considerate, avoid noise and ride as far to the right as possible,  
-reducing my own speed if necessary.  
+❌ switch on parking light  
+**Comment**:  Horses are living creatures(Pferde sind Lebewesen) that react differently(unterschiedlich) to their environment.  
+To avoid making them unnecessarily(unnötig) nervous in traffic, I should be considerate, avoid noise and ride as far to the  
+right as possible,  reducing my own speed if necessary.  
   
 201. You want to overtake a horse-drawn carriage on a rural road. What should you do?  
 I overtake with  
 ✅ as little noise as possible  
 ✅ the most space to the side as possible  
-❌a high engine speed  
+❌ a high engine speed  
   
 202. What must you anticipate in this situation?  
-❌The cyclist will dismount to allow me to pass  
+❌ The cyclist will dismount to allow me to pass  
 ✅ The cyclist will pull out to the left  
 ✅ Oncoming traffic  
 **Comment**:  I have to expect that the person in front of me will drive past the parked car on the left. On this narrow road,  
@@ -1496,15 +1496,15 @@ obstacle or the person in front of me. I don't expect anyone to stop, dismount a
   
 203. What must you be aware of?  
 ✅ Pedestrians could cross the road  
-❌I may not drive past the bus  
+❌ I may not drive past the bus  
 ✅ I may drive past the bus at walking speed  
 **Comment**:  If a bus with hazard warning lights comes to a halt at a bus stop, other vehicles may only pass at walking speed:  
 passengers or other people could cross the road at any time without paying attention!  
   
 204. How do you respond to pedestrians wishing to cross the road into which you want to turn?  
-❌Only wait if the pedestrians are using a marked crossing  
+❌ Only wait if the pedestrians are using a marked crossing  
 ✅ Allow the pedestrians to cross the road  
-❌Make the turn quickly before the pedestrians  
+❌ Make the turn quickly before the pedestrians  
 **Comment**:  When turning, you must pay particular attention to pedestrians and wait if necessary. This means that you must  
 give way to people who want to cross the road. It does not matter whether there are pedestrian crossings or traffic lights,  
 for example, or not.  
@@ -1513,9 +1513,9 @@ for example, or not.
 ✅ Because my speed can be underestimated  
 ✅ Because I can be easily overlooked  
 ✅ Because I am at greater risk of injury in the event of an accident  
-**Comment**:  The speed(Geschwindigkeit) and powerful(starke) acceleration(Beschleunigung) capability(vermögen) of many motorcycles are often(commly-häufig)  
-underestimated(unterschätzt). Due to (Wegen) their narrow silhouette(schmalen Silhouette), motorcyclists are also easily overlooked.  
-In the event of an accident, two-wheelers have a higher risk of injury due to the lack of(absent of ❌fehlenden) bodywork.  
+**Comment**:  The speed(Geschwindigkeit) and powerful(starke) acceleration(Beschleunigung) capability(vermögen) of many motorcycles 
+are often(commly-häufig) underestimated(unterschätzt). Due to (Wegen) their narrow silhouette(schmalen Silhouette), motorcyclists 
+are also easily overlooked. In the event of an accident, two-wheelers have a higher risk of injury due to the lack of(absent of ❌fehlenden) bodywork.  
   
 206. You want to overtake a horse-drawn carriage on a rural road. What is the right course of action?  
 ✅ I maintain a sufficient amount of distance when pulling in again  
@@ -1609,25 +1609,25 @@ What should you do?
 ✅ I approach at a moderate speed  
 ❌ I give a warning signal and drive past the truck  
 ❌ I continue driving swiftly  
-**Comment**:  Be particularly careful if your view of a crosswalk is obstructed. This applies, for example, if a truck stops in the right-hand  
-lane and you are approaching in the same direction in the left-hand lane. Drive slowly and be ready to brake so that you can stop if  
-pedestrians are crossing the road.  
+**Comment**:  Be particularly careful if your view of a crosswalk is obstructed. This applies, for example, if a truck stops  
+in the right-hand lane and you are approaching in the same direction in the left-hand lane. Drive slowly and be ready to brake  
+so that you can stop if pedestrians are crossing the road.  
   
 218. You want to turn right. What must you be prepared for?  
 ✅ The truck will stop  
 ✅ The pedestrian could let the truck pass by and then cross the road in front of me  
 ✅ After the truck has taken the turn, pedestrians could approach from the opposite side of the road  
-**Comment**:  Turners(Abbieger) must pay particular attention to pedestrians and wait if necessary. You must assume that the truck will stop.  
-The person at the traffic lights may allow the truck to pass but go ahead of me. In addition, pedestrians may be coming from  
-the opposite direction, which I will only see when the truck is no longer blocking my view.  
+**Comment**:  Turners(Abbieger) must pay particular attention to pedestrians and wait if necessary. You must assume that the  
+truck will stop. The person at the traffic lights may allow the truck to pass but go ahead of me. In addition, pedestrians may  
+be coming from the opposite direction, which I will only see when the truck is no longer blocking my view.  
   
 219. What is the right course of action? (You are driving on the right hand lane of a There is a bicycle ahead of you and then there is a truck standing on the right hand )  
 I overtake the cyclist  
-❌between truck and bend  
+❌ between truck and bend  
 ✅ after the bend  
-❌before drawing level with the truck  
-**Comment**:  As a driver with foresight, I can still see a blind bend after the obstacle. Only then will I be able to overtake the cyclist safely.  
-Until then, only one thing is right: wait and see!  
+❌ before drawing level with the truck  
+**Comment**:  As a driver with foresight, I can still see a blind bend after the obstacle. Only then will I be able to overtake  
+the cyclist safely. Until then, only one thing is right: wait and see!  
   
 220. What kind of behaviour must you anticipate from cyclists?  
 Cyclists use  
@@ -1639,20 +1639,20 @@ They are not always allowed to ride on one-way streets in both directions. Some 
 In the dark, they are almost invisible without lights.  
   
 221. Which vehicles must you allow to set off from marked bus stops?  
-❌Taxis  
+❌ Taxis  
 ✅ School buses  
 ✅ Regular buses  
-**Comment**:  You must allow buses and school buses to depart from stops ❌by waiting if necessary.  
+**Comment**:  You must allow buses and school buses to depart from stops - by waiting if necessary.  
   
 222. What makes driving in a stream of vehicles easier?  
 ✅ Driving in a slightly staggered position in your own lane  
-❌Keeping your hazard warning lights switched on when driving  
+❌ Keeping your hazard warning lights switched on when driving  
 ✅ Watching the queue through the windows of the vehicles travelling in front  
-**Comment**:  Driving in a convoy is more pleasant if you can observe how the traffic situation develops. To do this, you can look through  
-the windshield of the vehicle in front or drive slightly offset in your own lane.  
+**Comment**:  Driving in a convoy is more pleasant if you can observe how the traffic situation develops. To do this, you can  
+look through the windshield of the vehicle in front or drive slightly offset in your own lane.  
   
 223. What benefit can be obtained by maintaining an adequate distance between you and the vehicle ahead?  
-❌It restricts visibility  
+❌ It restricts visibility  
 ✅ It aids far-sighted driving  
 ✅ It helps reduce the risk of accidents  
 **Comment**:  By keeping a sufficient distance from the vehicle in front, I can react in good time to the driving maneuvers of the  
@@ -1661,8 +1661,8 @@ extended. Distance is therefore an important contribution to anticipatory drivin
   
 224. Your vehicle loses oil. How much drinking water can be polluted by a single drop of oil?  
 Up to  
-❌50 litres  
-❌1 litre  
+❌ 50 litres  
+❌ 1 litre  
 ✅ 600 litres  
 **Comment**:  One drop of oil can make up to 600 liters of drinking water undrinkable.  
 The explanation: 1 liter of oil per 1000000 (1 million) liters of water contaminates water in such a way that it becomes  
@@ -1671,9 +1671,9 @@ If you notice that your vehicle is leaking oil, e.g. an oil stain under the engi
   
 225. Driving within a built-up area, you want to overtake an electric scooter. What is the minimum space to the side that you must maintain?  
 _____1.5m___  
-**Comment**:  When overtaking, I must keep my distance from the vehicle being overtaken. Cyclists and electric scooters may only be overtaken  
-with sufficient side clearance, which is at least 1.5 m in urban areas. When overtaking again, I must also keep a safe distance from the  
-person being overtaken and not obstruct them.  
+**Comment**:  When overtaking, I must keep my distance from the vehicle being overtaken. Cyclists and electric scooters may only 
+be overtaken with sufficient side clearance, which is at least 1.5 m in urban areas. When overtaking again, I must also keep a safe  
+distance from the person being overtaken and not obstruct them.  
   
 226. You are driving in foggy conditions on the motorway. Your visibility range is less than 50 m. How fast are you allowed to drive?  
 ___50___km/hr  
@@ -1684,14 +1684,14 @@ This applies on country roads as well as on highways.
 I should  
 ✅ drive at low engine speeds(it means low gear)  
 ✅ drive off as promptly as possible  
-❌if possible, allow the engine of the stationary vehicle to warm up  
-**Comment**:  Allowing an engine to “warm up” is unnecessary from a technical point of view. After starting, it is best to drive off immediately  
-and at low revs(lower gear). This saves energy and protects the environment.  
+❌ if possible, allow the engine of the stationary vehicle to warm up  
+**Comment**:  Allowing an engine to “warm up” is unnecessary from a technical point of view. After starting, it is best to drive 
+off immediately and at low revs(lower gear). This saves energy and protects the environment.  
   
 228.You increase your speed from 50 km/h to 100 km/h. How does the reaction distance change in accordance with the rule of thumb?  
-❌It is quadrupled from 25 m to 100 m  
+❌ It is quadrupled from 25 m to 100 m  
 ✅ It is doubled from 15 m to 30 m  
-❌It is halved from 50 m to 25 m  
+❌ It is halved from 50 m to 25 m  
 **Comment**:  The reaction distance is the distance in 1 second, according to the rule of thumb: km/h “divided by” 10 “times” 3.  
 If the speed is doubled, the reaction distance is also doubled: 50 / 10 x 3 = 15 and 100 / 10 x 3 = 30.  
   
