@@ -5370,3 +5370,12 @@ necessary, stop if passengers would otherwise be endangered.
 ❌ I move to the right-hand lane and slow down
 **Comment**: After the announced lane narrowing, I expect a speed limit. If the bottleneck is not far away, it is no longer worth changing to the left-hand lane.I stay in “my” lane and reduce my speed.  
 TIP: Watch the movie again and pay attention to traffic signs (announced lane narrowing)!  
+
+719. You want to overtake. What is the right thing to do?  
+![img](https://schueler.click-learn.info/BilderV2/AB_1_4_41_167.jpg)   
+I may  
+✅ overtake  
+❌ not overtake  
+❌ only overtake, if I remain in the right-hand lane while doing so  
+**Comment**: A continuous line must not be crossed. However, if there is a broken line next to the continuous line, this is a one-sided lane restriction. Both lines may be crossed from the side of the broken line.
+Therefore, I am allowed to cross both lines and overtake the cyclist if I am not endangering anyone.
