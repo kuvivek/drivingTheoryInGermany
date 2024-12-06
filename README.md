@@ -4599,9 +4599,8 @@ three-wheeled vehicles (e.g. motorcycles, trikes).
 ✅ The electrics must be connected  
 ❌ The jack wheel must be set so that it can also run when driving  
 ✅ The claw of the coupling must fit securely around the ball. The locking device must engage  
-**Comment**:  If you are attaching a trailer with a ball coupling, the coupling claw must securely enclose the ball head. The  
-safety catch must be engaged. Ensure that the electrical connection between the towing vehicle and trailer is established so  
-that the trailer's lighting equipment, among other things, functions properly.  
+**Comment**:  If you are attaching a trailer with a ball coupling, the coupling claw must securely enclose the ball head. The safety catch must be engaged. Ensure that the electrical connection between the towing vehicle 
+and trailer is established so that the trailer's lighting equipment, among other things, functions properly.  
   
 611. You are driving in the wet in a car with trailer on a narrow rural road and are approaching a clearly visible but   
 tight left-hand bend.
@@ -4609,110 +4608,98 @@ What should you do?
 ✅ I remain in the centre of the lane and only accelerate again once I am back on the straight  
 ✅ I reduce my speed before the bend  
 ❌ I only brake once I have reached the apex of the bend  
-**Comment**:  Reduce speed before tight bends, otherwise the trailer could skid, especially on wet roads. Accelerate again  
-at the earliest at the apex of the bend, at the transition to the straight. The trailer makes a tighter turn: Stay in the  
-middle of the lane so that you do not cut the bend (oncoming traffic!).  
+**Comment**:  Reduce speed before tight bends, otherwise the trailer could skid, especially on wet roads. Accelerate again at the earliest at the apex of the bend, at the transition to the straight. The trailer makes a 
+tighter turn: Stay in the middle of the lane so that you do not cut the bend (oncoming traffic!).  
   
 612. You want to tow a brake-equipped trailer. Where can you find details or guidelines on the permissible towable mass of your car?  
 ✅ In the registration certificate Part I of my car  
 ❌ In the insurance certificate  
 ❌ In the registration certificate Part I of my trailer  
-**Comment**:  The permissible trailer loads (unbraked/braked) for a passenger car can be found in the registration certificate  
-Part I and in the operating instructions for the vehicle. The trailer documents only contain information on the trailer.  
+**Comment**:  The permissible trailer loads (unbraked/braked) for a passenger car can be found in the registration certificate Part I and in the operating instructions for the vehicle. The trailer documents only contain 
+information on the trailer.  
   
 613. Where do you have to place the emissions sticker for identifying lowemission vehicles?  
 ✅ Clearly visible on the inside of the windscreen  
 ❌ Clearly visible on the inside of the rear window  
 ❌ Clearly visible on the outside of the windscreen  
-**Comment**:  The stickers authorizing entry into an environmental zone must be easy to recognize and difficult to remove.  
-They must be clearly visible on the inside of the windshield (labeled with the license plate number).  
+**Comment**: The stickers authorizing entry into an environmental zone must be easy to recognize and difficult to remove. They must be clearly visible on the inside of the windshield (labeled with the license plate 
+number). 
   
 614. You want to tow a singe-axle caravan trailer behind your car. What must you check?  
 ✅ If additional rear-view mirrors must be mounted because of the width of the trailer  
 ✅ If the permissible trailer load or the permissible coupling of the car are exceeded  
 ❌ If the trailer is licensed to transport passengers  
-**Comment**:  If you have a trailer attached, you must check whether road safety is guaranteed. This includes ensuring that the  
-permissible drawbar load of the car is not exceeded and that visibility via the rear-view mirrors is not impaired. If visibility  
-is not sufficient due to the width of a caravan, additional rear-view mirrors must be fitted.  
+**Comment**: If you have a trailer attached, you must check whether road safety is guaranteed. This includes ensuring that the permissible drawbar load of the car is not exceeded and that visibility via the rear-view 
+mirrors is not impaired. If visibility is not sufficient due to the width of a caravan, additional rear-view mirrors must be fitted.  
   
 615. What is the correct response if, when reversing a combination vehicle the view to the rear is impeded?  
 ❌ A person directing is only required when driving into a priority road  
 ✅ If the line-of-sight is broken to the person directing, the vehicle must be stopped  
 ❌ A person directing is not needed when on a factory premises  
-**Comment**:  Do not endanger anyone when reversing. Therefore, when reversing, watch the traffic around you - especially to 
-the rear. If the view to the rear  is obstructed, you need a “guide”: If the line of sight between you and the guide is broken, 
-you must always stop!  
+**Comment**:  Do not endanger anyone when reversing. Therefore, when reversing, watch the traffic around you - especially to the rear. If the view to the rear  is obstructed, you need a “guide”: If the line of sight 
+between you and the guide is broken, you must always stop!  
   
 616. You are driving a car with a fully loaded trailer equipped with overrun braking. What special aspect should be noted here?  
 ✅ The trailer’s parking brake must be activated before separating the vehicle combination  
 ✅ Longer downhill drives can cause the trailer brakes to overheat  
 ✅ The overrun brake system is ineffective on a vehicle combination in an uphill stationary position  
-**Comment**:  When towing a fully loaded trailer with an overrun brake, I must bear in mind that the trailer brake can overheat 
-due to the heavy load when driving downhill for long periods. I must also bear in mind that the overrun brake cannot work in an 
-uphill vehicle combination. Apart from that, I ALWAYS have to pull the parking brake on the trailer before uncoupling it.  
+**Comment**:  When towing a fully loaded trailer with an overrun brake, I must bear in mind that the trailer brake can overheat due to the heavy load when driving downhill for long periods. I must also bear in mind that 
+the overrun brake cannot work in an uphill vehicle combination. Apart from that, I ALWAYS have to pull the parking brake on the trailer before uncoupling it.  
   
 617. What should you note when driving a car after coupling a trailer caravan to it?  
 The trailer caravan means that  
 ✅ the acceleration capacity decreases  
 ❌ when taking a left or right turn, the necessary cornering radius is reduced  
 ✅ the overtaking distance is extended  
-**Comment**: Compared to a solo vehicle, the distance I need to overtake a car with a caravan is longer due to the greater  
-mass and length of the combination. The acceleration capacity deteriorates accordingly. However, the turning radius, e.g.  
-when turning, does not become smaller, but rather larger.  
+**Comment**: Compared to a solo vehicle, the distance I need to overtake a car with a caravan is longer due to the greater mass and length of the combination. The acceleration capacity deteriorates accordingly. However, 
+the turning radius, e.g. when turning, does not become smaller, but rather larger.  
   
 618. What should be observed when positioning the head rests in your car?  
 ✅ The top of the head should be level with the upper edge of the head rest  
 ❌ The upper edge of the head rest should conjoin with the upper neck vertebra  
 ✅ The spacing between the rear of the head and the head rests should be as small as possible  
-**Comment**:  Head restraints prevent serious injuries to the cervical spine (e.g. “whiplash”) in the event of an accident. 
-If there are no head restraints on the rear seats, this increases the risk of injury for passengers. Adjust the head restraint  
-so that the top edge is level with the height of the head at a small distance.  
+**Comment**:  Head restraints prevent serious injuries to the cervical spine (e.g. “whiplash”) in the event of an accident. If there are no head restraints on the rear seats, this increases the risk of injury for 
+passengers. Adjust the head restraint so that the top edge is level with the height of the head at a small distance.  
   
 619. You want to set off in an automatic car (hydraulic converter). What must you know?  
 ❌ The selector lever must only be moved when the engine has stopped  
 ❌ The engine revolutions must be raised considerably so that the engine does not stall  
 ✅ When selecting a gear, the car must, as a rule, be held by the service brakes  
-**Comment**: If you are driving an automatic car, use the selector lever to select the desired gear. When starting off,  
-you usually have to step on the brake to prevent the vehicle from rolling unintentionally.  
+**Comment**: If you are driving an automatic car, use the selector lever to select the desired gear. When starting off, you usually have to step on the brake to prevent the vehicle from rolling unintentionally.  
   
 620. What must you bear in mind when loading a single-axle trailer?  
 The permissible  
 ✅ axle load  
 ✅ total mass  
 ✅ load on the coupling  
-**Comment**: When loading a trailer, you must not exceed the permissible drawbar load, axle load and total mass. Otherwise  
-there is a risk of damage to the vehicle and unfavorable handling of the trailer.  
+**Comment**: When loading a trailer, you must not exceed the permissible drawbar load, axle load and total mass. Otherwise there is a risk of damage to the vehicle and unfavorable handling of the trailer.  
   
 621. What is the effect of an automatic anti-locking device (ABS)?  
 ✅ The vehicle is braked in the best possible way also on wet roadways  
 ❌ Aquaplaning is prevented  
 ✅ Steering control is largely retained when braking  
-**Comment**: The anti-lock braking system ensures that the wheels do not lock when braking. As soon as a wheel tends to lock,  
-the brake pressure is electronically lowered, increased or maintained at lightning speed. This ensures that the vehicle is braked  
-as effectively as possible even on slippery roads and remains largely steerable.  
+**Comment**: The anti-lock braking system ensures that the wheels do not lock when braking. As soon as a wheel tends to lock, the brake pressure is electronically lowered, increased or maintained at lightning speed. This 
+ensures that the vehicle is braked as effectively as possible even on slippery roads and remains largely steerable.  
   
 622. You are in your car towing a fully loaded trailer which has no brakes. What is correct?  
 ✅ Braking distance increases  
 ❌ Stopping distance reduces  
 ❌ Reaction distance increases  
-**Comment**: Expect a longer braking distance if you are driving with a fully loaded trailer without its own brakes. 
-The trailer will drag. Therefore, brake earlier than usual.  
+**Comment**: Expect a longer braking distance if you are driving with a fully loaded trailer without its own brakes. The trailer will drag. Therefore, brake earlier than usual.  
   
 623. Which dangerous defects can have occurred on a trailer with overrun brakes which has been parked for some time?  
 ✅ The brakes may not work because of rust  
 ✅ Cable connections can be defective  
 ❌ Tyre pressure may have increased greatly due to exposure to the sun  
-**Comment**: If a trailer with overrun brakes has been standing for a long time, the brake may be rusted and ineffective. 
-The brake may also be ineffective because the cable connections are damaged. It is therefore essential to test the brakes 
-before driving off.  
+**Comment**: If a trailer with overrun brakes has been standing for a long time, the brake may be rusted and ineffective. The brake may also be ineffective because the cable connections are damaged. It is therefore 
+essential to test the brakes before driving off.  
   
 624. You want to pull a trailer. When do additional rear-view mirrors have be to attached to your motor vehicle?  
 ❌ If you are pulling a caravan or a trailer used in agriculture and forestry  
 ✅ If it is not possible to observe all relevant road traffic situations without additional rear-view mirrors  
 ❌ If the load platform of the trailer exceeds a width of 1.5 m and a height of 1 m  
-**Comment**: Anticipatory driving involves constantly observing the traffic behind you. Therefore, sufficient visibility to 
-the rear must be ensured by the mirrors. Trailers or loads must not obstruct visibility to an unacceptable extent. If the 
-normal rear-view mirrors are not sufficient, additional rear-view mirrors must be fitted.  
+**Comment**: Anticipatory driving involves constantly observing the traffic behind you. Therefore, sufficient visibility to the rear must be ensured by the mirrors. Trailers or loads must not obstruct visibility to an
+unacceptable extent. If the normal rear-view mirrors are not sufficient, additional rear-view mirrors must be fitted.  
   
 625. You are driving a motor vehicle fitted with anti-lock braking system (ABS). How do you achieve the shortest possible   
 braking distance?
@@ -4720,8 +4707,8 @@ I apply the brakes
 ❌ multiple times at quick intervals and with maximum force  
 ✅ suddenly and with maximum force  
 ❌ carefully and then increasingly harder  
-**Comment**: To avoid wasting any braking distance in emergency situations, I step on the brake pedal abruptly and with maximum  
-force. In this way, I always achieve the shortest possible braking distance. ABS (ABV) prevents the wheels from locking.  
+**Comment**: To avoid wasting any braking distance in emergency situations, I step on the brake pedal abruptly and with maximum force. In this way, I always achieve the shortest possible braking distance. ABS (ABV) 
+prevents the wheels from locking.  
   
 626. You want to hitch a trailer with a maximum authorised mass over 750 kg to your car. What must you ensure in this situation?  
 ✅ The breakaway cable is properly fitted  
@@ -4737,103 +4724,93 @@ This applies to all trailers, including trailers with a gross vehicle weight rat
 ❌ When the brake pedal in the truck is activated  
 ❌ Before the braking action of the truck starts, so that the truck and trailer remain extended  
 ✅ When the trailer runs up to the truck  
-**Comment**:  If a towing vehicle brakes with an overrun-braked trailer, the trailer is not initially braked and runs onto 
-the towing vehicle. This sets a mechanism in motion that brakes the trailer.  
+**Comment**:  If a towing vehicle brakes with an overrun-braked trailer, the trailer is not initially braked and runs onto the towing vehicle. This sets a mechanism in motion that brakes the trailer.  
   
 628. You are in your car towing a trailer on a road with oncoming traffic and want to turn left. What must you particularly
 remember when you set off again?  
 ❌ Warn oncoming traffic by flashing your lights  
 ✅ Consider the reduced acceleration capacity  
 ✅ Think about the length of your car and trailer combination  
-**Comment**:  If you are carrying a trailer, you have a lower acceleration capacity due to the higher mass. Take the length  
-of the train into account when turning left: oncoming traffic could be there before you have completed your turn.  
+**Comment**:  If you are carrying a trailer, you have a lower acceleration capacity due to the higher mass. Take the length of the train into account when turning left: oncoming traffic could be there before you have 
+completed your turn.  
   
 629. You are driving with a trailer on a road with potholes. Your combination vehicle begins to swing up. What must you do now?  
 I have to  
 ❌ accelerate to keep the combination vehicle in a straight line  
 ❌ counter-steer quickly to prevent skidding  
 ✅ reduce my speed to avoid skidding  
-**Comment**: On a road with potholes, a trailer can easily “rock”, i.e. bounce or lurch. The traction between the trailer  
-tires and the road is lost and there is a risk of skidding. The only way to prevent this is to reduce speed. Accelerating  
-or hasty steering movements actually increase the danger.  
+**Comment**: On a road with potholes, a trailer can easily “rock”, i.e. bounce or lurch. The traction between the trailer tires and the road is lost and there is a risk of skidding. The only way to prevent this is to 
+reduce speed. Accelerating or hasty steering movements actually increase the danger.  
   
 630. How do you drive down a descending gradient safely?  
 I take my foot off the accelerator completely and  
 ❌ drive in neutral  
 ✅ select a gear in which I am not required to brake a great deal  
 ❌ switch the ignition off  
-**Comment**:  To prevent the brakes from overheating, I let the engine brake and shift to a lower gear before the downhill  
-section. In automatic mode, I engage a lower gear.  
+**Comment**: To prevent the brakes from overheating, I let the engine brake and shift to a lower gear before the downhill section. In automatic mode, I engage a lower gear.  
   
 631. What changes when a caravan trailer is towed?  
 ✅ The distance for overtaking increases considerably  
 ❌ The braking distance is reduced considerably  
 ✅ Hasty movements of the steering wheel increase the danger of skidding  
-**Comment**:  When driving with a caravan, the acceleration capacity of your vehicle is reduced by the additional mass. Expect  
-considerably longer overtaking distances and take the length of your vehicle combination into account when rejoining. Avoid hasty  
-steering movements - they increase the risk of skidding.  
+**Comment**: When driving with a caravan, the acceleration capacity of your vehicle is reduced by the additional mass. Expect considerably longer overtaking distances and take the length of your vehicle combination into 
+account when rejoining. Avoid hasty steering movements - they increase the risk of skidding.  
   
 632. What number of trailers may be towed behind a car?  
 Answer:  
 1 trailer(s)  
-**Comment**:  Only one trailer may ever be carried behind a car; this applies to category B (also with key number B196) and BE.  
-The different driving licenses only allow different maximum permissible masses of the combination.  
+**Comment**: Only one trailer may ever be carried behind a car; this applies to category B (also with key number B196) and BE. The different driving licenses only allow different maximum permissible masses of the 
+combination.  
   
 633. What motor vehicles engaged in the commercial or paid transport of goods, are prohibited from driving on Sundays and public holidays?  
 ✅ Trucks towing a trailer  
 ✅ Trucks with a gross vehicle weight rating in excess of 7.5 t  
 ❌ Cars towing a trailer  
-**Comment**:  On Sundays and public holidays, a driving ban applies from midnight to 10 p.m. for trucks over 7.5 t gross vehicle    
-weight and trucks with trailers transporting goods for commercial or paid purposes. Exceptions (e.g. for combined goods transport)     
-are regulated by Section 30 of the Road Traffic Regulations (StVO). The ban does not apply to cars, not even with trailers. 
+**Comment**:  On Sundays and public holidays, a driving ban applies from midnight to 10 p.m. for trucks over 7.5 t gross vehicle weight and trucks with trailers transporting goods for commercial or paid purposes. 
+Exceptions (e.g. for combined goods transport) are regulated by Section 30 of the Road Traffic Regulations (StVO). The ban does not apply to cars, not even with trailers. 
   
 634. What is the effect of the cornering characteristics of a combination vehicle (car towing a caravan) when taking a turn?  
 The caravan  
 ✅ can jut out  
 ❌ generally follows the track of the car  
 ✅ can cut the corner  
-**Comment**:  When I am on the road with a vehicle combination, I must pay particular attention to the behavior of the trailer  
-on bends: It can swing out to the right over the edge of the road or cut the bend (left-hand bend) or swing out over the middle  
-of the road (right-hand bend).  
+**Comment**:  When I am on the road with a vehicle combination, I must pay particular attention to the behavior of the trailer on bends: It can swing out to the right over the edge of the road or cut the bend (left-hand 
+bend) or swing out over the middle of the road (right-hand bend).  
   
 635. What must you do when you see this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_40_003.jpg)  
 ✅ Reduce speed before the bend  
 ✅ Drive as far as possible over on the right-hand side  
-**Comment**: There is a sharp left-hand bend. Centrifugal force is at work when cornering. It tries to pull the vehicle to the  
-outside of the bend, i.e. to the outside right in a left-hand bend. The faster you drive, the greater the centrifugal force.  
-You must therefore reduce speed before the bend. Also, drive as far to the right as possible: this allows you to make the best  
-use of the curve radius and not get too close to oncoming traffic.  
+**Comment**: There is a sharp left-hand bend. Centrifugal force is at work when cornering. It tries to pull the vehicle to the outside of the bend, i.e. to the outside right in a left-hand bend. The faster you drive, the 
+greater the centrifugal force. You must therefore reduce speed before the bend. Also, drive as far to the right as possible: this allows you to make the best use of the curve radius and not get too close to oncoming 
+traffic.  
   
 636. Why should you not apply the clutch when driving on a long, steep downhill slope?  
 ✅ Because this causes unnecessary wear of the brakes  
 ❌ Because in this case the brake servo unit will no longer function  
 ✅ Because the braking action of the engine will have no effect  
-**Comment**: If you roll down a slope with the clutch depressed, the power flow is interrupted and the engine braking effect  
-cannot take effect. The vehicle would roll downhill faster and faster and you would have to constantly step on the brakes.  
-This is dangerous: the brakes become hot, their effectiveness decreases and wear increases. Let the engine help you brake by   
-shifting to a lower gear before the downhill section.  
+**Comment**: If you roll down a slope with the clutch depressed, the power flow is interrupted and the engine braking effect cannot take effect. The vehicle would roll downhill faster and faster and you would have to 
+constantly step on the brakes. This is dangerous: the brakes become hot, their effectiveness decreases and wear increases. Let the engine help you brake by shifting to a lower gear before the downhill section.  
   
 637. How can you achieve sufficient visibility through the windscreen?  
 ✅ Switch on the windscreen wipers from time to time when it is foggy  
 ✅ When there is slush, switch on the windscreen wipers already before slush is thrown onto your windscreen by other vehicles  
 ❌ When the windscreen is steamed up, switch the ventilator off and keep the windows closed  
-**Comment**: Water settles on the windshield in fog. Therefore, switch on the windshield wiper from time to time. In slushy 
-conditions, slush thrown up can make visibility difficult. Therefore, switch on the windshield wipers in good time. Make sure 
-there is sufficient antifreeze in the windshield washer system.  
+**Comment**: Water settles on the windshield in fog. Therefore, switch on the windshield wiper from time to time. In slushy conditions, slush thrown up can make visibility difficult. Therefore, switch on the windshield 
+wipers in good time. Make sure there is sufficient antifreeze in the windshield washer system.  
   
 638. What can result if you accelerate too hard when driving a front-wheel drive car through a road bend?  
 ✅ The front of the car can swerve  
 ❌ The rear of the car can swerve  
 ✅ Steerability can be reduced  
-**Comment**: If you drive too fast, you lose control of your vehicle. If I accelerate too much in a bend, a front-wheel drive car tends to 
-break out at the front. This also restricts steering. A rear-wheel drive vehicle is more likely to skid over the rear axle.  
+**Comment**: If you drive too fast, you lose control of your vehicle. If I accelerate too much in a bend, a front-wheel drive car tends to break out at the front. This also restricts steering. A rear-wheel drive vehicle is 
+more likely to skid over the rear axle. 
   
 639. What must you do after coupling up a single-axle trailer with overrun brakes?  
 ✅ Raise the jack wheel, if fitted, to the highest setting  
 ✅ Attach the brakeaway cable to the coupling of the motor vehicle  
 ✅ Check that the brakes are working  
-**Comment**: After coupling a trailer with an overrun brake, it is essential to check the function of the brake. In addition, 
-an existing jockey wheel must be moved to the top position and the breakaway cable attached to the trailer coupling of the motor vehicle.  
+**Comment**: After coupling a trailer with an overrun brake, it is essential to check the function of the brake. In addition, an existing jockey wheel must be moved to the top position and the breakaway cable attached to 
+the trailer coupling of the motor vehicle.  
   
 640. Where are you particularly at risk during an overtaking manoeuvre here?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_03_038.jpg)  
@@ -4849,199 +4826,186 @@ an existing jockey wheel must be moved to the top position and the breakaway cab
 ❌ The left driving line  
 ❌ Both driving lines are possible  
 ✅ The right driving line  
-**Comment**:  This is a “normal” road without one-way traffic, i.e. traffic is permitted in both directions. I must keep to the 
-right-hand lane so as not to endanger oncoming traffic: I keep to the right-hand lane here!  
+**Comment**:  This is a “normal” road without one-way traffic, i.e. traffic is permitted in both directions. I must keep to the right-hand lane so as not to endanger oncoming traffic: I keep to the right-hand lane here!  
   
-642. You are driving on a road that has several marked lanes going in one direction. When should the alternate merging procedure be    
-employed?  
+642. You are driving on a road that has several marked lanes going in one direction. When should the alternate merging procedure be employed?  
 ❌ When a merging lane ends on the motorway  
 ✅ When a lane comes to an end  
 ✅ If one lane is not continuously free to traffic due to an obstacle  
-**Comment**:  If a lane ends or is closed (e.g. due to roadworks or an obstacle), the “merge and let merge” method is used.  
-The zipper procedure begins as close as possible to the bottleneck. 
+**Comment**: If a lane ends or is closed (e.g. due to roadworks or an obstacle), the “merge and let merge” method is used.  The zipper procedure begins as close as possible to the bottleneck. 
   
 643. What must you anticipate with inclines on motorways?  
 ✅ Sudden overtaking manoeuvres by other road users  
 ✅ Slow-moving trucks on the right-hand lane  
 ✅ Large differences in speed between vehicles  
-**Comment**:  To increase performance, drivers of heavy trucks and road trains have to downshift before an incline. On freeways,  
-this can lead to large speed differences to the slow-moving trucks in the right-hand lane - and to sudden overtaking maneuvers.  
-  
-644. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_017.jpg)  
+**Comment**: To increase performance, drivers of heavy trucks and road trains have to downshift before an incline. On freeways, this can lead to large speed differences to the slow-moving trucks in the right-hand lane - 
+and to sudden overtaking maneuvers.
+
+645. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_017.jpg)  
 ✅ I have to allow the motorcycle to pass through  
 ❌ I have to allow the bus to pass through  
 ✅ I take priority before the bus   
-**Comment**:  Traffic signs regulate the right of way here. Oncoming traffic and I have “right of way” at this junction, cross traffic 
-from the right and left must wait. As a left-turner, however, I must first allow the oncoming vehicle to pass before I turn.  
+**Comment**: Traffic signs regulate the right of way here. Oncoming traffic and I have “right of way” at this junction, cross traffic from the right and left must wait. As a left-turner, however, I must first allow the 
+oncoming vehicle to pass before I turn.  
   
-645. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_117_1.jpg)  
+646. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_117_1.jpg)  
 I have to  
 ✅ stop on the stop line  
 ✅ give way to the bus  
 ✅ give way to the green car  
-**Comment**: Traffic signs regulate the right of way here. My oncoming traffic and I must observe the “Stop. Give way” sign, stop at the 
-stop line and allow oncoming traffic to pass. As a left-turner, I must then allow oncoming traffic to pass first. I drive last.  
+**Comment**: Traffic signs regulate the right of way here. My oncoming traffic and I must observe the “Stop. Give way” sign, stop at the stop line and allow oncoming traffic to pass. As a left-turner, I must then allow 
+oncoming traffic to pass first. I drive last.  
   
-646. You want to turn right into a priority road. What must you look out for?  
+647. You want to turn right into a priority road. What must you look out for?  
 ✅ Vehicles coming from the left and from the right  
 ❌ Only for vehicles coming from the left  
 ✅ For cyclists and pedestrians alongside you to the right or behind you  
-**Comment**: Look not only to the left, but also to the right when turning into a priority road: An overtaking vehicle could be 
-approaching quickly from there. In built-up areas, you must pay particular attention to pedestrians or cyclists, e.g. on your right or 
-behind you.  
+**Comment**: Look not only to the left, but also to the right when turning into a priority road: An overtaking vehicle could be approaching quickly from there. In built-up areas, you must pay particular attention to 
+pedestrians or cyclists, e.g. on your right or behind you.  
   
-647. What must you do in case of a traffic jam in a tunnel?  
+648. What must you do in case of a traffic jam in a tunnel?  
 ✅ Switch hazard warning lights on  
 ✅ When traffic comes to a standstill, keep a safety distance of approximately 5 m to the car ahead  
 ❌ Secure and leave vehicle immediately  
-**Comment**: Traffic jams and tailbacks pose a risk of accidents. Switch on the hazard warning lights and keep a safe distance when 
-driving slowly. When stationary, stop at a distance of approx. 5 m from the vehicle in front. Switch off the engine if you are 
-stationary for a long time, stay in the vehicle, listen to the traffic radio and pay attention to loudspeaker announcements.  
+**Comment**: Traffic jams and tailbacks pose a risk of accidents. Switch on the hazard warning lights and keep a safe distance when driving slowly. When stationary, stop at a distance of approx. 5 m from the vehicle in 
+front. Switch off the engine if you are stationary for a long time, stay in the vehicle, listen to the traffic radio and pay attention to loudspeaker announcements.  
   
-648. You notice an accident in the tunnel. What do you have to do?  
+649. You notice an accident in the tunnel. What do you have to do?  
 ❌ Do not leave your vehicle  
 ✅ Inform emergency services via the SOS-telephone  
 ✅ Switch on the hazard warning lights  
-**Comment**: In the event of an accident in a tunnel, the priority is to secure the danger zone so that no further incidents occur. 
-To do this, switch on the hazard warning lights immediately, park the vehicle as far away from the edge of the road as possible, set up  
-the warning triangle and call for help on the emergency telephone. An emergency call by cell phone makes it more difficult to determine  
-the location and delays help.  
+**Comment**: In the event of an accident in a tunnel, the priority is to secure the danger zone so that no further incidents occur. To do this, switch on the hazard warning lights immediately, park the vehicle as far away 
+from the edge of the road as possible, set up the warning triangle and call for help on the emergency telephone. An emergency call by cell phone makes it more difficult to determine the location and delays help.  
   
-649. A learner driver has committed several violations during the probationary period. The authority has ordered that the driver    
+650. A learner driver has committed several violations during the probationary period. The authority has ordered that the driver    
 attends a supplementary driving course. The learner driver fails to comply with this order. What can they expect to happen?  
 ✅ The withdrawal of their driving licence  
 ❌ An order to attend a driver fitness session  
 ❌ An extension of the probationary period by another 3 years  
-**Comment**: If a road user behaves in a way that raises doubts about their fitness to drive, their driving license can be withdrawn  
-temporarily or permanently. Anyone who does not take part in the advanced training seminar despite being ordered to do so must expect  
-their driving license to be revoked.  
+**Comment**: If a road user behaves in a way that raises doubts about their fitness to drive, their driving license can be withdrawn temporarily or permanently. Anyone who does not take part in the advanced training 
+seminar despite being ordered to do so must expect their driving license to be revoked.  
   
-650. You are involved in a traffic accident. What are you obliged to do?  
+651. You are involved in a traffic accident. What are you obliged to do?  
 I have to  
 ✅ inform the other persons involved that I was also involved in the accident  
 ✅ provide my name and address upon demand to those entitled to this information  
 ✅ move promptly to the side of the roadway if damage is minor  
   
-651. What is correct? ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg)  
+652. What is correct? ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg)  
 ❌ Turn without stopping  
 ✅ Wait at the crossroads  
 **Comment**: If you see a police officer with his arms outstretched to the side in front or behind you at the intersection, you must wait in front of the intersection.  
   
-652.  When may you take the turn?  
+653.  When may you take the turn?  
 ![img](https://schueler.click-learn.info/BilderV2/BS_1_2_11_114_ende.jpg) A video question
 ✅ Only once the truck driver has used a hand signal to clearly indicate he is foregoing his right of way  
 ❌ Immediately, because the truck driver is prompting me to do that  
 ✅ Only if I do not endanger or significantly impede the cross traffic  
-**Comment**: Do not take any risks: The light signals may mean that the truck driver is waiving his right of way and letting me go 
-first. To be on the safe side, I wait for a clear hand signal before driving off carefully and without endangering others.  
+**Comment**: Do not take any risks: The light signals may mean that the truck driver is waiving his right of way and letting me go first. To be on the safe side, I wait for a clear hand signal before driving off carefully 
+and without endangering others.    
   
-653. What do you do when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_001.jpg)  
+654. What do you do when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_001.jpg)  
 ❌ Observe the traffic coming from the right only  
 ✅ Reduce speed  
 ✅ Be ready to brake  
-**Comment**: The sign indicates a junction or intersection with right of way from the right. For you, this means: reduce your speed,
-drive with increased attention and stay ready to brake so that you can give way if necessary.  
+**Comment**: The sign indicates a junction or intersection with right of way from the right. For you, this means: reduce your speed, drive with increased attention and stay ready to brake so that you can give way if 
+necessary.  
   
-654. You see this traffic sign. What must you reckon with?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_005.jpg)  
+655. You see this traffic sign. What must you reckon with?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_005.jpg)  
 ❌ Oncoming traffic taking precedence  
 ✅ Dazzle from oncoming traffic at night  
 ✅ Oncoming traffic  
-**Comment**:  The sign indicates that oncoming traffic on your own lane is to be expected, e.g. if a lane on the highway is temporarily 
-open for both directions due to construction work. You must drive clearly to the right. At night, glare from oncoming traffic must be 
-expected.  
+**Comment**:  The sign indicates that oncoming traffic on your own lane is to be expected, e.g. if a lane on the highway is temporarily open for both directions due to construction work. You must drive clearly to the 
+right. At night, glare from oncoming traffic must be expected.  
   
-655. What must you anticipate with this road sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_144.jpg)  
+656. What must you anticipate with this road sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_144.jpg)  
 ✅ With cyclists who may cross the carriageway  
 ❌ With a "cyclists prohibited" zone  
 ❌ With an underpass for cyclists  
-**Comment**:  This danger sign warns of cyclists crossing the road. It is located at places where cyclists frequently or unexpectedly 
-cross the road or enter it, e.g. because a cycle path ends.  
+**Comment**:  This danger sign warns of cyclists crossing the road. It is located at places where cyclists frequently or unexpectedly cross the road or enter it, e.g. because a cycle path ends.  
   
-656. What do these traffic signs indicate?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_130.jpg)  
+657. What do these traffic signs indicate?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_130.jpg)  
 ❌ Roadway with two lanes in one direction for 3 km  
 ❌ Start of a no-overtaking area 3 km ahead  
 ✅ No overtaking for 3 km  
-**Comment**: Multi-lane vehicles (cars, trucks) and motorcycles with sidecars may not be overtaken. The no overtaking zone is 3 km  
-long. Overtaking motorcycles without sidecars, mopeds, streetcars and non-motorized vehicles is permitted.  
+**Comment**: Multi-lane vehicles (cars, trucks) and motorcycles with sidecars may not be overtaken. The no overtaking zone is 3 km long. Overtaking motorcycles without sidecars, mopeds, streetcars and non-motorized 
+vehicles is permitted.  
   
-657. What must you remember when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_41_101.jpg)  
+658. What must you remember when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_41_101.jpg)  
 ✅ Use snow-chains  
 ❌ Track-vehicles have priority  
 ✅ Maximum permissible speed 50 km/h  
-**Comment**: This traffic sign is put up when a road can no longer be driven on normally due to large amounts of snow. You are  
-not allowed to drive on this road without snow chains as you would break down and obstruct other traffic. You are only allowed  
-to drive at a maximum speed of 50 km/h with snow chains.  
+**Comment**: This traffic sign is put up when a road can no longer be driven on normally due to large amounts of snow. You are not allowed to drive on this road without snow chains as you would break down and obstruct 
+other traffic. You are only allowed to drive at a maximum speed of 50 km/h with snow chains.  
   
-658. What does this traffic sign indicate?![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_42_002.jpg)  
+659. What does this traffic sign indicate?![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_42_002.jpg)  
 ❌ The end of the autobahn  
 ❌ Motor vehicles prohibited  
 ✅ The end of the clearway for motor vehicles only  
   
-659. What motor vehicles may enter an environment zone that has this sign?![img](https://schueler.click-learn.info/BilderV2/VZ_2_5_01_012.jpg)  
+660. What motor vehicles may enter an environment zone that has this sign?![img](https://schueler.click-learn.info/BilderV2/VZ_2_5_01_012.jpg)  
 ✅ Motorcycles  
 ❌ Motor vehicles that meet the requirements for a green particulate emissions sticker, even if no such sticker is attached  
 ✅ Motor vehicles with a green particulate emissions sticker   
-**Comment**: Low emission zones serve to reduce harmful air pollution in urban areas. Only low-emission vehicles are allowed  
-to drive here - as long as the corresponding sticker (in this case GREEN) is displayed correctly. Motorcycles do not have a  
-sticker and are generally free to drive.  
+**Comment**: Low emission zones serve to reduce harmful air pollution in urban areas. Only low-emission vehicles are allowed to drive here - as long as the corresponding sticker (in this case GREEN) is displayed correctly. 
+Motorcycles do not have a sticker and are generally free to drive.  
   
-660. Which prohibitions cease to apply when you see this sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_133.jpg)
+661. Which prohibitions cease to apply when you see this sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_133.jpg)
 ✅ No overtaking  
 ✅ Speed restrictions  
 ❌ No parking  
 **Comment**: All route prohibitions - speed limit, minimum speed, no overtaking - are lifted from this point onwards.  
   
-661. What dangers can arise if this traffic sign is ignored?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_109.jpg)  
+662. What dangers can arise if this traffic sign is ignored?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_109.jpg)  
 ✅ The load could be damaged  
 ✅ The vehicle could suffer a broken axle or spring fracture  
 ✅ The vehicle could go into a skid and endanger oncoming traffic  
-**Comment**: The sign warns of uneven road surfaces. If the speed is too high, the vehicle could skid and endanger oncoming 
-traffic. In addition, cargo could be damaged or the vehicle could suffer axle and spring breakage. Therefore, adjust your speed.  
+**Comment**: The sign warns of uneven road surfaces. If the speed is too high, the vehicle could skid and endanger oncoming traffic. In addition, cargo could be damaged or the vehicle could suffer axle and spring breakage. 
+Therefore, adjust your speed.  
   
-662. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_021_1.jpg)  
+663. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_021_1.jpg)  
 I may  
 ✅ only turn after the yellow bus  
 ✅ turn before the motorcycle  
 ❌ be the first to make my turn  
-**Comment**: Traffic signs regulate the right of way here. The oncoming vehicle and I are on the priority road. The vehicle on the left   
-must “give way”. However, as a left-turning driver, I must allow the oncoming vehicle to turn before I drive.  
+**Comment**: Traffic signs regulate the right of way here. The oncoming vehicle and I are on the priority road. The vehicle on the left must “give way”. However, as a left-turning driver, I must allow the oncoming vehicle 
+to turn before I drive.
   
-663. On which side must you overtake a tram which is travelling in the middle of the roadway (not a one-way street)?  ----IMP  
+664. On which side must you overtake a tram which is travelling in the middle of the roadway (not a one-way street)?  ----IMP  
 ✅ On the right  
 ❌ On the left only if other vehicles are blocking the roadway on the right  
 ❌ On the left  
-**Comment**: You may only overtake on the left. Exception: You must overtake a streetcar traveling in the middle of the road on the   
-right. Only in one-way streets or where the tracks are too far to the right may you overtake the streetcar on the left.  
+**Comment**: You may only overtake on the left. Exception: You must overtake a streetcar traveling in the middle of the road on the right. Only in one-way streets or where the tracks are too far to the right may you 
+overtake the streetcar on the left.
   
-664. An inspection has been performed because of a technical modification made to your vehicle. What are you obliged to do?  
+665. An inspection has been performed because of a technical modification made to your vehicle. What are you obliged to do?  
 I have to  
 ❌ stick the inspection report or confirmation into the designated place in the registration certificate Part II  
 ✅ carry the inspection report or confirmation in my vehicle, and have the registration in certificate Part I corrected if necessary  
 ❌ forward the inspection report or confirmation to the vehicle manufacturer  
-**Comment**: If I have technically modified my vehicle and obtained a corresponding certificate, I must always carry the certificate or   
-confirmation with me. If necessary, I must also have the modification entered in the registration certificate part I.  
+**Comment**: If I have technically modified my vehicle and obtained a corresponding certificate, I must always carry the certificate or confirmation with me. If necessary, I must also have the modification entered in the 
+registration certificate part I. 
   
-665. What ends here?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_136.jpg)  
+666. What ends here?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_136.jpg)  
 ❌ All previous zonal prohibitions  
 ❌ A no-stopping area  
 ✅ A no-waiting area  
   
-666. What must you be prepared for here?![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_159.jpg)  
+667. What must you be prepared for here?![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_159.jpg)  
 ✅ People walking on the road  
 ✅ Vehicles turning onto the road  
 ✅ Oncoming vehicles turning left  
-**Comment**: Note on a parking lot for hikers: With this traffic sign, not only pedestrians (e.g. from the parking lot towards the   
-forest) are to be expected. Other vehicles from oncoming traffic could also approach the parking lot or drivers leaving the parking lot   
-could turn onto my lane without paying attention.  
+**Comment**: Note on a parking lot for hikers: With this traffic sign, not only pedestrians (e.g. from the parking lot towards the forest) are to be expected. Other vehicles from oncoming traffic could also approach the 
+parking lot or drivers leaving the parking lot could turn onto my lane without paying attention.  
   
-667. You are approaching a crossroads where the priority situation is not clear to you straightaway. What do you do?  
+668. You are approaching a crossroads where the priority situation is not clear to you straightaway. What do you do?  
 ❌ Always proceed when driving straight ahead  
 ✅ Wait, observe and come to an agreement with others, if necessary  
 ❌ Proceed according to the rule "right before left"  
 **Comment**:  Wait and watch the traffic if you do not immediately see the right-of-way situation. If necessary, communicate with other   
 road users, e.g. using hand signals.  
   
-668. What is the right thing to do?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_060.jpg)  
+669. What is the right thing to do?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_060.jpg)  
 ✅ The yellow car has to wait  
 ❌ I have to wait  
 ✅ I have to indicate  
@@ -5050,391 +5014,356 @@ here. Therefore, the usual right of way rules apply here! The blue arrow sign me
 for traffic circles, I have to indicate when entering and leaving the traffic circle. The traffic in the circle does NOT have  
 right of way here. For them, the rule is: RIGHT BEFORE LEFT, so they have to wait and let me go first.  
   
-669. You have taken the right lane by mistake although you want to turn left. How are you allowed to proceed?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_102.jpg)  
+670. You have taken the right lane by mistake although you want to turn left. How are you allowed to proceed?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_102.jpg)  
 ✅ Straight ahead  
 ✅ To the right  
 ❌ To the left when the traffic lights are "green"  
-**Comment**:  Arrows on the road indicate the direction of travel at the next junction. They recommend that you get into the  
-lane early. As long as the lines are broken, you may change lanes. If the lines are solid, you must follow the direction of  
-travel indicated by the arrows. This means that in the situation shown you may only drive straight ahead or turn right.  
+**Comment**: Arrows on the road indicate the direction of travel at the next junction. They recommend that you get into the lane early. As long as the lines are broken, you may change lanes. If the lines are solid, you 
+must follow the direction of travel indicated by the arrows. This means that in the situation shown you may only drive straight ahead or turn right.  
   
-670. You want to continue driving straight ahead. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_11_103.jpg)  
+671. You want to continue driving straight ahead. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_11_103.jpg)  
 ✅ I move to the right if there is sufficient space in the traffic  
 ✅ I remain waiting in my lane  
 ❌ I overtake the vehicle alongside me and switch lanes  
-**Comment**:  The waiting left-turner is blocking the straight ahead lane. However, swerving into the right-hand lane is only possible if 
-there is a sufficiently large gap in traffic. Until then, I must stay in the lane, watch the traffic and stop if necessary. Only change 
-lanes if it is safe to do so!  
+**Comment**: The waiting left-turner is blocking the straight ahead lane. However, swerving into the right-hand lane is only possible if there is a sufficiently large gap in traffic. Until then, I must stay in the lane, 
+watch the traffic and stop if necessary. Only change lanes if it is safe to do so!  
   
-671. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_120.jpg)  
+672. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_120.jpg)  
 ✅ I have to allow the blue vehicle to pass  
 ❌ I have to allow the green vehicle to pass through  
 ✅ I may make the turn before the green vehicle  
-**Comment**:  Traffic signs regulate the right of way here. The vehicle on the right and I are driving on the priority road  
-with the right turn. The vehicle on the right follows the course of the priority road. I have to let it pass first because  
-I want to leave the priority road. The vehicle on the side road must “give way” to all others.  
+**Comment**: Traffic signs regulate the right of way here. The vehicle on the right and I are driving on the priority road with the right turn. The vehicle on the right follows the course of the priority road. I have to 
+let it pass first because I want to leave the priority road. The vehicle on the side road must “give way” to all others.  
   
-672. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_048.jpg)  
+673. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_048.jpg)  
 ❌ I am the first to proceed  
 ❌ I allow the motorcycle to turn before me  
 ✅ I allow the blue car to turn  
-**Comment**:  At junctions without priority traffic signs or traffic lights, the vehicle coming from the right has right of  
-way. Here I have to let the vehicle coming from the right go first. Then I drive. Oncoming traffic turning left must wait  
-until everything is clear.  
+**Comment**: At junctions without priority traffic signs or traffic lights, the vehicle coming from the right has right of way. Here I have to let the vehicle coming from the right go first. Then I drive. Oncoming traffic 
+turning left must wait until everything is clear.  
   
-673. What must you heed in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_02_108.jpg)  
+674. What must you heed in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_02_108.jpg)  
 (Hazard warning lights on)  
 You may  
 ✅ pass at walking speed only  
 ❌ not pass under any circumstances  
 ✅ pass only if you are sure that passengers are not endangered  
-**Comment**:  Vehicles may only pass a bus with hazard warning lights flashing at the bus stop at a maximum of walking speed.  
-This applies both to vehicles traveling in the same direction as the bus and to vehicles coming in the opposite direction.  
-They must not endanger passengers.  
+**Comment**: Vehicles may only pass a bus with hazard warning lights flashing at the bus stop at a maximum of walking speed. This applies both to vehicles traveling in the same direction as the bus and to vehicles coming 
+in the opposite direction. They must not endanger passengers.  
   
-674. What measures help protect the environment? ----IMP  
+675. What measures help protect the environment? ----IMP  
 Using  
 ✅ low-resistance tyres  
 ✅ low viscosity engine oil  
 ❌ air-conditioning systems  
-**Comment**:  Air conditioning systems consume additional energy. Low-friction oils reduce friction in the engine and low-friction  
-tires reduce friction on the road. This saves energy and avoids noise.  
+**Comment**: Air conditioning systems consume additional energy. Low-friction oils reduce friction in the engine and low-friction tires reduce friction on the road. This saves energy and avoids noise.  
   
-675. You have purchased a 3-year-old car for your own personal use. The vehicle roadworthiness test certificate is new. What is the time   
+676. You have purchased a 3-year-old car for your own personal use. The vehicle roadworthiness test certificate is new. What is the time   
 limit until the next roadworthiness test must be performed?   
 Answer: The time limit is ___24___ months  
-**Comment**:  The first main inspection of a new vehicle is due after three years. After that, cars must be inspected every two years   
-(=24 months).  
+**Comment**:  The first main inspection of a new vehicle is due after three years. After that, cars must be inspected every two years (=24 months).  
   
-676. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_018_1.jpg)  
+677. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_018_1.jpg)  
 ❌ I have to allow the truck to pass through  
 ✅ I have to allow the yellow van to pass through  
 ✅ I take priority before the truck  
-**Comment**:  Traffic signs regulate the right of way here. My opponent and I must “give way” and allow vehicles on the priority  
-road to pass first. I then drive in front of the oncoming left-turner, as I continue straight ahead.  
+**Comment**:  Traffic signs regulate the right of way here. My opponent and I must “give way” and allow vehicles on the priority road to pass first. I then drive in front of the oncoming left-turner, as I continue straight 
+ahead.  
   
-677. What must you be aware of here?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_12_123.jpg)  
+678. What must you be aware of here?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_12_123.jpg)  
 ✅ It is not permitted to stop to the left of the boundary line of the carriageway  
 ✅ Slower moving vehicles must use the hard shoulder if possible  
 ❌ Driving across the boundary line of the carriageway is prohibited at all times  
-**Comment**: The hard shoulder separated from the road by a solid line (lane boundary) on the right is reserved for stopping or  
-slow-moving vehicles, e.g. tractors or mopeds. Vehicles may not stop to the left of the lane boundary.   
+**Comment**: The hard shoulder separated from the road by a solid line (lane boundary) on the right is reserved for stopping or slow-moving vehicles, e.g. tractors or mopeds. Vehicles may not stop to the left of the lane 
+boundary.  
   
-678. As the vehicle owner, what change must you report to the relevant licensing authority?  
+679. As the vehicle owner, what change must you report to the relevant licensing authority?  
 A change to  
 ✅ my home address  
 ❌ my third-party insurance   
 ✅ my name  
-**Comment**: The registration office needs to know who owns which vehicle. So if I change my name (e.g. due to marriage) or 
-address (due to moving house), I must report this so that the authority is kept up to date.  
+**Comment**: The registration office needs to know who owns which vehicle. So if I change my name (e.g. due to marriage) or address (due to moving house), I must report this so that the authority is kept up to date.  
   
-679. What is the right course of action here? ----IMP  
+680. What is the right course of action here? ----IMP  
 ✅ The blue car may proceed ahead of the yellow car  
 ❌ I may proceed ahead of the yellow car  
 ❌ I may proceed ahead of the blue car  
-**Comment**: Traffic signs regulate the right of way here. This is a turning right of way. I have to give way and wait until all  
-vehicles on the right of way have passed.  The vehicle on the left drives first, then the oncoming vehicle may turn, I drive last.  
+**Comment**: Traffic signs regulate the right of way here. This is a turning right of way. I have to give way and wait until all vehicles on the right of way have passed.  The vehicle on the left drives first, then the 
+oncoming vehicle may turn, I drive last. 
   
-680. Are you allowed to park here? https://schueler.click-learn.info/BilderV2/VZ_1_4_42_110.jpg (Sign 314 + Sign 1044-10)  
+681. Are you allowed to park here? https://schueler.click-learn.info/BilderV2/VZ_1_4_42_110.jpg (Sign 314 + Sign 1044-10)  
 ✅ Yes, as a seriously disabled person with an official parking permit  
 ✅ Yes, as a person accompanying blind persons with an official parking permit  
 ❌ Yes, briefly for shopping  
-**Comment**: The additional sign “Severely disabled persons with exceptional walking disabilities and blind persons” permits 
-parking only with an official parking permit, e.g. for severely disabled persons and persons accompanying blind persons.  
+**Comment**: The additional sign “Severely disabled persons with exceptional walking disabilities and blind persons” permits parking only with an official parking permit, e.g. for severely disabled persons and persons 
+accompanying blind persons. 
   
-681. What must you be aware of here? (A signal with roundabout and Give way )  
+682. What must you be aware of here? (A signal with roundabout and Give way )  
 I have to  
 ✅ give the car right of way  
 ✅ continue to brake  
 ❌ indicate when entering the roundabout  
-**Comment**: If the junction to a traffic circle is marked in this way (with the red “Give way” and the blue “Roundabout”),  
-traffic on the roundabout lane has right of way. To give others right of way, it makes sense to approach the traffic circle  
-slowly, so I slow down in good time. I only indicate when exiting to show others where I am leaving the traffic circle. Tip:  
-Watch the movie again at your leisure and pay attention to the traffic signs!  
+**Comment**: If the junction to a traffic circle is marked in this way (with the red “Give way” and the blue “Roundabout”), traffic on the roundabout lane has right of way. To give others right of way, it makes sense to 
+approach the traffic circle  slowly, so I slow down in good time. I only indicate when exiting to show others where I am leaving the traffic circle. Tip: Watch the movie again at your leisure and pay attention to the 
+traffic signs!  
   
-682. When may you use the right-hand hard shoulder?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_02_101.jpg)  
+683. When may you use the right-hand hard shoulder?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_02_101.jpg)  
 ✅ For stopping and parking  
 ✅ For driving a slow-moving vehicle  
 ❌ For overtaking  
 **Comment**: The right-hand hard shoulder may be used for stopping and parking. You may also drive on it with slow vehicles.  
   
-683. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/BS_1_1_07_174_ende.jpg)  
+684. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/BS_1_1_07_174_ende.jpg)  
 ✅ I remain waiting in my lane for now  
 ✅ I continue braking  
 ❌ I steer to the left now  
-**Comment**: Hazard lights, roadworks, turning maneuvers: I slow down and stay in my lane for the time being, allow the truck  
-to reverse and complete its maneuver. If necessary, I stop. Spontaneously steering to the left would be dangerous! Only when  
-everything is clear beside and behind me can I change lanes and drive past the obstacle. TIP: Watch the movie several times and  
-pay attention to the movements of others (also in the rear-view mirrors)!  
+**Comment**: Hazard lights, roadworks, turning maneuvers: I slow down and stay in my lane for the time being, allow the truck to reverse and complete its maneuver. If necessary, I stop. Spontaneously steering to the left 
+would be dangerous! Only when everything is clear beside and behind me can I change lanes and drive past the obstacle. TIP: Watch the movie several times and pay attention to the movements of others (also in the rear-view 
+mirrors)!  
   
-684. The vehicles ahead of you are driving at about 30 km/h. Why are you not permitted to overtake before the road bend? ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_06_035.jpg)  
+685. The vehicles ahead of you are driving at about 30 km/h. Why are you not permitted to overtake before the road bend? ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_06_035.jpg)  
 ✅ Because my overtaking distance is too long  
 ✅ Because the red car might pull out to overtake  
 ❌ Because I am not permitted to cross the lane marking  
-**Comment**: The red and white arrow sign in front indicates a sharp, confusing left turn. For me, the overtaking distance would  
-be too long to be able to cut back in time before the curve. I also have to take into account that the person in front of me could  
-pull out to overtake myself. I can drive over the guideline - here, but the overall risk of an overtaking maneuver before the curve  
-is too great. (*I may drive over interrupted guidelines, but I may not drive over lines without interruptions.)  
+**Comment**: The red and white arrow sign in front indicates a sharp, confusing left turn. For me, the overtaking distance would be too long to be able to cut back in time before the curve. I also have to take  
+into account that the person in front of me could pull out to overtake myself. I can drive over the guideline - here, but the overall risk of an overtaking maneuver before the curve is too great. (*I may drive over  
+interrupted guidelines, but I may not drive over lines without interruptions.)  
   
-685. Why might taking the right turn be dangerous here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_03_116.jpg)  
+686. Why might taking the right turn be dangerous here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_03_116.jpg)  
 ✅ Because vehicles emerging from the side street could start to skid  
 ✅ Because I might possibly not be able to stop in time, if pedestrians are crossing the side street  
 ✅ Because my vehicle might start to skid if I take the turn too fast  
-**Comment**: In these road conditions, there is a risk of skidding if you turn right too quickly or if vehicles coming from 
-the side road have to brake. In addition, you would hardly be able to stop in time for pedestrians in the slush.  
+**Comment**: In these road conditions, there is a risk of skidding if you turn right too quickly or if vehicles coming from the side road have to brake. In addition, you would hardly be able to stop in time for pedestrians 
+in the slush.  
   
-686. Why do you have to pay particular attention here?  
+687. Why do you have to pay particular attention here?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_03_114.jpg)  
 ✅ Because the road surface is uneven  
 ✅ Because it is not clear which direction the road will take  
 ✅ Because oncoming traffic could cut the corner  
-**Comment**:  You should drive carefully here, as the road surface has been repaired and has an unfavorable effect on cornering. 
-The course of the road is unclear, someone may have broken down behind the bend, for example, or a vehicle may be coming towards 
-you that is cutting the bend.  
+**Comment**:  You should drive carefully here, as the road surface has been repaired and has an unfavorable effect on cornering. The course of the road is unclear, someone may have broken down behind the bend, for example, 
+or a vehicle may be coming towards you that is cutting the bend.  
   
-687. What do you have to be aware of in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_2_6_06_216.jpg)  
+688. What do you have to be aware of in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_2_6_06_216.jpg)  
 ✅ In 200 m the width of the left-hand lane is going to narrow  
 ✅ Including its exterior mirrors, my vehicle is wider than the width specified in the vehicle documents  
 ❌ The left-hand lane is going to narrow for a distance of 200 m  
-**Comment**: The sign indicates a lane narrowing after 200 m. The left-hand lane narrows to 2 m actual width. The vehicle  
-width is stated in the vehicle documents without wing mirrors. My vehicle can therefore be wider than 2 m. If in doubt, I  
-change to the right-hand lane in good time.  
+**Comment**: The sign indicates a lane narrowing after 200 m. The left-hand lane narrows to 2 m actual width. The vehicle width is stated in the vehicle documents without wing mirrors. My vehicle can therefore be wider 
+than 2 m. If in doubt, I change to the right-hand lane in good time.  
   
-688. What must you anticipate in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_02_005_1.jpg)  
+689. What must you anticipate in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_02_005_1.jpg)  
 ✅ Children walking out onto the road  
 ✅ People exiting their vehicles via the side nearest the road  
 ❌ There is a pedestrian crossing up ahead  
-**Comment**: I have to drive slowly here because the course of the road is unclear due to the parked vehicles. The traffic  
-sign also warns that children could run onto the road between the parked vehicles at any time. In addition, a door on one of  
-the cars could open onto the road. Crosswalks are announced with another traffic sign.  
+**Comment**: I have to drive slowly here because the course of the road is unclear due to the parked vehicles. The traffic sign also warns that children could run onto the road between the parked vehicles at any time. In 
+addition, a door on one of the cars could open onto the road. Crosswalks are announced with another traffic sign.  
   
-689. You are the new owner of a licensed vehicle. What do you have to do?  
+690. You are the new owner of a licensed vehicle. What do you have to do?  
 I have to  
 ❌ generally arrange for a vehicle roadworthiness test to be performed at the time of the change of ownership  
 ✅ notify the licensing authority of the change in ownership  
 ✅ present the licensing authority with proof of the existence of liability insurance for the vehicle  
-**Comment**:  The registration office must know who owns a vehicle and who is liable in the event of damage: When I purchase  
-a vehicle, I must have it registered immediately and submit proof of insurance to the registration office.  
+**Comment**:  The registration office must know who owns a vehicle and who is liable in the event of damage: When I purchase a vehicle, I must have it registered immediately and submit proof of insurance to the 
+registration office. 
   
-690. After turning left, you want to turn immediately right. How should you position your vehicle?  
+691. After turning left, you want to turn immediately right. How should you position your vehicle?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_09_104.jpg)  
 Like  
 ❌ the green car  
 ❌ the blue car  
 ✅ the red car  
-**Comment**: All drivers turning left must get into the lane in good time and avoid endangering the traffic behind them. 
-Anyone who wants to turn right again immediately after turning left must - like the red car - get into the right-hand lane  
-if there are two left-turn lanes.  
+**Comment**: All drivers turning left must get into the lane in good time and avoid endangering the traffic behind them. Anyone who wants to turn right again immediately after turning left must - like the red car - get 
+into the right-hand lane if there are two left-turn lanes.  
   
-691. You want to turn right at the junction. What is the right thing to do? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg)  
+692. You want to turn right at the junction. What is the right thing to do? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg)  
 ✅ I change lanes as early as possible  
 ✅ I may not impede cyclists in the cycle lane  
 ❌ I may only cross over the cycle lane at walking speed  
-**Comment**:  A protective lane for cycle traffic, here as a cycle path between two lanes: If I want to turn right at the next  
-junction, I have to use a double gap. That's why it's best to change lanes as early as possible, so I have a reserve. I drive  
-at the permitted speed so that I don't obstruct cyclists or other vehicles when I change lanes. If I had to slow down to walking  
-speed, it would be far too dangerous for the cyclist behind me (rear-view mirror), for example!  
+**Comment**:  A protective lane for cycle traffic, here as a cycle path between two lanes: If I want to turn right at the next junction, I have to use a double gap. That's why it's best to change lanes as early as  
+possible, so I have a reserve. I drive at the permitted speed so that I don't obstruct cyclists or other vehicles when I change lanes. If I had to slow down to walking speed, it would be far too dangerous for the cyclist 
+behind me (rear-view mirror), for example! 
   
-692. What is the correct course of action in this situation? ![img](https://schueler.click-learn.info/BilderV2/BS_1_2_07_105_ende.jpg)  
+693. What is the correct course of action in this situation? ![img](https://schueler.click-learn.info/BilderV2/BS_1_2_07_105_ende.jpg)  
 ✅ I move over to the right-hand lane after around 200 m  
 ✅ I may overtake the vehicles driving in the right-hand lane  
 ❌ I move into the right-hand lane now  
-**Comment**:  Roadworks and lane narrowing in about 200 m. A basic rule of the zipper procedure is: only change lanes immediately  
-before the narrowing begins, i.e. do not follow the bad example of the vehicle in front. Initially, everyone drives in their own  
-lane, i.e. I may overtake the vehicles on the right if necessary (observe the speed limit!). Shortly before the bottleneck, the  
-vehicles in both lanes should take turns: Ideally, after a vehicle driving in the through lane, the next one should let me thread   
-in carefully from the left!   
+**Comment**: Roadworks and lane narrowing in about 200 m. A basic rule of the zipper procedure is: only change lanes immediately before the narrowing begins, i.e. do not follow the bad example of the vehicle in front. 
+Initially, everyone drives in their own lane, i.e. I may overtake the vehicles on the right if necessary (observe the speed limit!). Shortly before the bottleneck, the vehicles in both lanes should take turns: Ideally, 
+after a vehicle driving in the through lane, the next one should let me thread in carefully from the left!   
   
-693. You are on a road outside of a built-up area, and a car in front of you is driving much slower than is permitted to and has the  
+694. You are on a road outside of a built-up area, and a car in front of you is driving much slower than is permitted to and has the  
 capacity to.
 What is the right course of action?  
 ✅ I adjust my speed to that of the car  
 ✅ I overtake at a suitable place  
 ❌ I flash my headlights, until the car begins to drive faster  
-**Comment**:  If someone is driving very slowly in front of me, excitement doesn't help. Perhaps he has a good reason for it. 
-The best thing to do is to match your own speed to the vehicle in front. Keep a safe distance and only overtake when there is 
-an opportunity to overtake safely.  
+**Comment**:  If someone is driving very slowly in front of me, excitement doesn't help. Perhaps he has a good reason for it. The best thing to do is to match your own speed to the vehicle in front. Keep a safe distance 
+and only overtake when there is an opportunity to overtake safely.  
   
-694. Where may you park here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_12_128_1.jpg)  
+695. Where may you park here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_12_128_1.jpg)  
 In my direction of travel  
 ❌ on the left-hand hard shoulder only  
 ❌ on the right-hand hard shoulder only  
 ✅ on the left and right-hand hard shoulders  
-**Comment**:  Parking is permitted on both sides of roads with only one direction of travel (one-way streets), in this case on the left  
-and right-hand hard shoulder.  
+**Comment**:  Parking is permitted on both sides of roads with only one direction of travel (one-way streets), in this case on the left and right-hand hard shoulder.  
   
-695. Why might driving along this road become dangerous? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_04_108.jpg)  
+696. Why might driving along this road become dangerous? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_04_108.jpg)  
 ❌Because oncoming vehicles will only be detected very late  
 ✅ Because persons on the road can be easily overlooked  
 ✅ Because poorly lit vehicles can be difficult to detect  
-**Comment**:  The poor illumination can easily lead to pedestrians crossing the road in dark areas being overlooked. 
-Poorly lit vehicles are also difficult to see in such areas.  
+**Comment**:  The poor illumination can easily lead to pedestrians crossing the road in dark areas being overlooked. Poorly lit vehicles are also difficult to see in such areas.  
   
-696. What must you anticipate when you see this road sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_010.jpg)  
+697. What must you anticipate when you see this road sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_010.jpg)  
 ✅ Pedestrians that might cross the road  
 ✅ A pedestrian crossing that is hard to see  
 ❌ Pedestrians who may only cross the road from the right  
-**Comment**:  The danger sign with this symbol warns of particular dangers posed by pedestrians. It indicates a crosswalk. I drive carefully here   
-and watch out for vehicles in front: If necessary, I reduce my speed!  
+**Comment**:  The danger sign with this symbol warns of particular dangers posed by pedestrians. It indicates a crosswalk. I drive carefully here and watch out for vehicles in front: If necessary, I reduce my speed!  
   
-697. What is the right course of action now? Video Question ![img](https://schueler.click-learn.info/BilderV2/BS_1_2_37_018_ende.jpg) .   
+698. What is the right course of action now? Video Question ![img](https://schueler.click-learn.info/BilderV2/BS_1_2_37_018_ende.jpg) .   
 ❌ I drive through the junction quickly, because "yellow" is displayed    
 ✅ I allow any cross traffic the right of way    
 ❌ wait at the stop line for the next set of green lights    
-**Comment**:  If a traffic light shows a yellow flashing light, I must approach with increased caution and cross the intersection 
-in compliance with the traffic signs. This means that you may have to give way to cross traffic and give priority to pedestrians, 
-for example.  
+**Comment**: If a traffic light shows a yellow flashing light, I must approach with increased caution and cross the intersection in compliance with the traffic signs. This means that you may have to give way to cross 
+traffic and give priority to pedestrians, for example.  
   
-698. You want to park your single-axle trailer (overrun brakes, 1000 kg permissible total mass) on a slope. What must you do?    
+699. You want to park your single-axle trailer (overrun brakes, 1000 kg permissible total mass) on a slope. What must you do?    
 ❌ Engage the reverse lock    
 ✅ Pull the parking brake    
 ✅ Place wheel chocks under the wheels    
-**Comment**:  To prevent a parked trailer from rolling away on a slope, it must always be secured before uncoupling.  
-To do this, apply the parking brake and place wheel chocks in front of the wheels.    
+**Comment**: To prevent a parked trailer from rolling away on a slope, it must always be secured before uncoupling. To do this, apply the parking brake and place wheel chocks in front of the wheels.    
   
-699. What should you do? ![img](https://schueler.click-learn.info/BilderV2/BS_1_2_37_013_ende.jpg) .   
+700. What should you do? ![img](https://schueler.click-learn.info/BilderV2/BS_1_2_37_013_ende.jpg) .   
 ❌ Slow down  
 ✅ Continue driving    
-**Comment**:  You drive at 40 to 50 km/h and the traffic light changes to yellow. If there are only about 10 m to the traffic  
-light, as in this case, it is too close to brake: drive on.  
+**Comment**: You drive at 40 to 50 km/h and the traffic light changes to yellow. If there are only about 10 m to the traffic light, as in this case, it is too close to brake: drive on.  
   
-700. You are driving a motor vehicle with a manual gearbox. What style of driving results in higher fuel consumption within a built-up area?  
+701. You are driving a motor vehicle with a manual gearbox. What style of driving results in higher fuel consumption within a built-up area?  
 ✅ Driving at high engine speed    
 ✅ Accelerating heavily    
 ❌ Driving in a high gear    
-**Comment**:  High fuel consumption is caused by a number of factors. Unnecessarily heavy acceleration and braking instead of a smooth and   
-steady driving  style are just as much a part of it as driving at high engine speeds.  
+**Comment**: High fuel consumption is caused by a number of factors. Unnecessarily heavy acceleration & braking instead of a smooth and steady driving style are just as much a part of it as driving at high engine speeds.  
   
-701. You have taken the right lane by mistake although you want to turn left. How are you allowed to proceed?   
+702. You have taken the right lane by mistake although you want to turn left. How are you allowed to proceed?   
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_102.jpg)  
 ✅ Straight ahead    
 ✅ To the right    
 ❌ To the left when the traffic lights are "green"    
-**Comment**:  Arrows on the road indicate the direction of travel at the next junction. You are advised to get into the correct lane in   
-good time. As long as the lines are broken, you may change lanes. If the lines are solid, you must follow the direction indicated by the   
-arrows. This means that in the situation shown you may only drive straight ahead or turn right.  
+**Comment**: Arrows on the road indicate the direction of travel at the next junction. You are advised to get into the correct lane in good time. As long as the lines are broken, you may change lanes. If the lines are 
+solid, you must follow the direction indicated by the arrows. This means that in the situation shown you may only drive straight ahead or turn right.  
   
-702. Who is responsible for the roadworthiness of a licensed vehicle?    
+703. Who is responsible for the roadworthiness of a licensed vehicle?    
 ❌ The motor liability insurance company    
 ✅ The owner   
 ✅ The driver    
-**Comment**:  Drivers and owners are responsible for the operational and road safety of a vehicle. This includes, for example, 
-checking the brakes, tires, steering and lights.  
+**Comment**:  Drivers and owners are responsible for the operational and road safety of a vehicle. This includes, for example, checking the brakes, tires, steering and lights.  
   
-703. You are the new owner of a licensed vehicle. What do you have to do?    
+704. You are the new owner of a licensed vehicle. What do you have to do?    
 I have to    
 ❌ generally arrange for a vehicle roadworthiness test to be performed at the time of the change of ownership    
 ✅ present the licensing authority with proof of the existence of liability insurance for the vehicle    
 ✅ notify the licensing authority of the change in ownership    
-**Comment**:  The registration office must know who owns a vehicle and who is liable in the event of damage: When I purchase 
-a vehicle, I must have it registered immediately and submit proof of insurance to the registration office.  
+**Comment**:  The registration office must know who owns a vehicle and who is liable in the event of damage: When I purchase a vehicle, I must have it registered immediately and submit proof of insurance to the 
+registration office.  
   
-704. What must you do upon seeing this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_138.jpg)    
+705. What must you do upon seeing this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_138.jpg)    
 ✅ I may not remain stationary on the pedestrian crossing if the traffic backs up    
 ✅ I must approach at a moderate speed if it is clear that pedestrians want to cross the road    
 ✅ I must allow the pedestrians to cross the road    
   
-705. Where is parking prohibited?  
+706. Where is parking prohibited?  
 ✅ On priority roads outside built-up areas  
 ❌ On priority roads within built-up areas  
 ✅ At the edge of the roadway if this would prevent others from using designated parking areas  
-**Comment**:  Anyone who leaves their vehicle or stops for longer than 3 minutes is parking. Parking is not permitted everywhere. For   
-example, it is forbidden to park on the edge of the road if this prevents the use of marked parking spaces. It is also prohibited on the   
-carriageway of priority roads outside built-up areas.  
+**Comment**: Anyone who leaves their vehicle or stops for longer than 3 minutes is parking. Parking is not permitted everywhere. For example, it is forbidden to park on the edge of the road if this prevents the use of 
+marked parking spaces. It is also prohibited on the carriageway of priority roads outside built-up areas.  
   
-706. Why are you not allowed to overtake here?  
+707. Why are you not allowed to overtake here?  
 ✅ Because the side clearance to the cyclists is too small  
 ❌ Because I may not cross the centre line  
 ✅ Because I may endanger oncoming traffic  
-**Comment**: I am not allowed to overtake before this left-hand bend for two reasons: 1. the side distance to the cyclists would be too   
-small and 2. I cannot rule out the possibility of endangering oncoming traffic. The guideline does not play a role here, apart from that   
-only uninterrupted guidelines may not be crossed.  
+**Comment**: I am not allowed to overtake before this left-hand bend for two reasons: 1. the side distance to the cyclists would be too small and 2. I cannot rule out the possibility of endangering oncoming traffic. The 
+guideline does not play a role here, apart from that only uninterrupted guidelines may not be crossed.  
   
-707. In bends with poor road conditions, what increases the risk of skidding?  
+708. In bends with poor road conditions, what increases the risk of skidding?  
 ✅ Having a damaged chassis  
 ✅ Having the wrong tyre inflation pressure  
 ✅ Having a wrongly loaded cargo  
-**Comment**:  If the traction (the interlocking between the tire and the road) is lost, there is a risk of skidding. Especially on roads   
-in poor condition. A defective chassis, incorrect tire pressure and incorrect loading significantly increase the risk of skidding.  
+**Comment**:  If the traction (the interlocking between the tire and the road) is lost, there is a risk of skidding. Especially on roads in poor condition. A defective chassis, incorrect tire pressure and incorrect loading 
+significantly increase the risk of skidding.  
   
-708. What can result in your motor vehicle skidding while driving round a bend?  
+709. What can result in your motor vehicle skidding while driving round a bend?  
 ✅ Heavy oversteer  
 ❌ Gently accelerating at the exit of the bend  
 ✅ Driving too fast  
-**Comment**:  Centrifugal force is at work when cornering. It “pulls” the car to the outside of the bend, i.e. to the right in a left-hand   
-bend. Therefore, reduce speed beforehand. The faster I drive, the less grip I have. There is a particular risk of skidding in bends due   
-to strong steering input.  
+**Comment**: Centrifugal force is at work when cornering. It “pulls” the car to the outside of the bend, i.e. to the right in a left-hand bend. Therefore, reduce speed beforehand. The faster I drive, the less grip I have. 
+There is a particular risk of skidding in bends due to strong steering input.  
   
-709. One of your wheels has collided heavily against a kerb. What should you note?  
+710. One of your wheels has collided heavily against a kerb. What should you note?  
 ✅ The handling of the vehicle could be negatively affected  
 ✅ The tyre could have a slow puncture  
 ✅ The vehicle should be checked in a garage  
-**Comment**:  If I drive hard into an obstacle with a tire, e.g. a kerb, it may be damaged without any obvious defect. The tire can   
-gradually lose air or the handling of the vehicle can change negatively. An inspection in the workshop provides peace of mind.  
+**Comment**: If I drive hard into an obstacle with a tire, e.g. a kerb, it may be damaged without any obvious defect. The tire can gradually lose air or the handling of the vehicle can change negatively. An inspection in 
+the workshop provides peace of mind.  
   
-710. What is the right course of action?  
+711. What is the right course of action?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_021_1.jpg)  
 I may  
 ✅ turn before the motorcycle  
 ❌ be the first to make my turn  
 ✅ only turn after the yellow bus  
-**Comment**: Traffic signs regulate the right of way. The oncoming vehicle and I are on the priority road. The vehicle on the left must   
-“give way”. However, as a left-turning driver, I must allow the oncoming vehicle to turn before I drive.  
+**Comment**: Traffic signs regulate the right of way. The oncoming vehicle and I are on the priority road. The vehicle on the left must “give way”. However, as a left-turning driver, I must allow the oncoming vehicle to 
+turn before I drive. 
   
-711. What should you do now? (Muggup)  
+712. What should you do now? (Muggup)  
 ![img](https://schueler.click-learn.info/BilderV2/BS_2_1_08_016_ende.jpg)  
 ✅ I slow my vehicle down  
 ❌ I continue driving in the clear lane  
 ✅ I switch on my hazard lights  
 **Comment**: Speed limit ends, finally free travel on the highway. But watch out: hazard warning lights in front of me - the end of a traffic jam! I brake and switch on the hazard warning lights to warn those behind me.  
   
-712. What is required when your vehicle is no longer covered by motor liability insurance?  
+713. What is required when your vehicle is no longer covered by motor liability insurance?  
 The vehicle  
 ✅ may no longer be used in road traffic  
 ❌ must be submitted to the registration centre  
 ✅ must be de-registered at the registration centre  
-**Comment**: Third-party liability insurance must be taken out for every motor vehicle. If you cause an accident, it ensures that the   
-other party's damages are paid. If the liability insurance has lapsed, you are not allowed to drive the vehicle on public roads. The   
-vehicle must be deregistered at the registration office.  
+**Comment**: Third-party liability insurance must be taken out for every motor vehicle. If you cause an accident, it ensures that the other party's damages are paid. If the liability insurance has lapsed, you are not 
+allowed to drive the vehicle on public roads. The vehicle must be deregistered at the registration office.  
 
-713. A light signal with no level crossing sign is positioned before a level crossing, and in front of a junction with a road to the   
+714. A light signal with no level crossing sign is positioned before a level crossing, and in front of a junction with a road to the   
 right. The red light is illuminated. Where must you wait?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_2_19_110.jpg)  
 ✅ At the stop line  
 ✅ In front of the light signal, if there is no stop line  
 ❌ I can drive up to the level crossing after watching out for other traffic  
-**Comment**: If there is a red light signal without a St. Andrew's cross in front of a level crossing on a road leading in from the  
-right, you must wait at the stop line. If there is no stop line, you must wait in front of the light.  
+**Comment**: If there is a red light signal without a St. Andrew's cross in front of a level crossing on a road leading in from the right, you must wait at the stop line. If there is no stop line, you must wait in front of 
+the light.  
 
-714. What is the right course of action here?  
+715. What is the right course of action here?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_047.jpg)  
 I have to  
 ✅ allow the blue car to pass through  
 ✅ stop on the stop line  
 ❌ allow the red car to pass through  
-**Comment**: The STOP sign is clear: I must stop at the stop line and give way to traffic on the turning priority road. This does not  
-include the road on the left. The rule “right before left” applies to traffic coming from the left - and I am coming from the right.  
-So I may drive after the vehicle on the priority road, but in front of the vehicle coming from the left.  
+**Comment**: The STOP sign is clear: I must stop at the stop line and give way to traffic on the turning priority road. This does not include the road on the left. The rule “right before left” applies to traffic coming 
+from the left - and I am coming from the right. So I may drive after the vehicle on the priority road, but in front of the vehicle coming from the left.  
 
-715. What can be the effect of an overload of only 20%?  
+716. What can be the effect of an overload of only 20%?  
 ✅ Steering may become worse  
 ✅ The brakes may be overstrained  
 ✅ There may be too much strain on the load-bearing parts of the vehicle  
-**Comment**: Make sure that your vehicle is not overloaded when you are transporting something. Even a 20% overload puts excessive   
-strain on the brakes, which leads to a deterioration in braking behavior. Steering behavior also deteriorates noticeably. Overloading  
-can also lead to damage to load-bearing vehicle parts.  
+**Comment**: Make sure that your vehicle is not overloaded when you are transporting something. Even a 20% overload puts excessive strain on the brakes, which leads to a deterioration in braking behavior. Steering behavior 
+also deteriorates noticeably. Overloading can also lead to damage to load-bearing vehicle parts.  
 
-716. Which statements are correct in this situation?  
+717. Which statements are correct in this situation?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_02_110.jpg)
-(Hazard warning lights on)
+(Hazard warning lights on)  
 ✅ The bus may be passed in either lane but no faster than at walking speed  
 ❌ The vehicles in the left lane may pass the bus without paying any special attention  
 ✅ Vehicles in both lanes must stop if passengers would otherwise be endangered  
-**Comment**: You may only drive past stopping buses with their hazard warning lights switched on at walking speed. If two lanes run  
-past the bus stop in the same direction, the walking speed applies to both lanes. If necessary, stop if passengers would otherwise be  
-endangered.  
+**Comment**: You may only drive past stopping buses with their hazard warning lights switched on at walking speed. If two lanes run past the bus stop in the same direction, the walking speed applies to both lanes. If 
+necessary, stop if passengers would otherwise be endangered.  
 
-717. What should you do?
+718. What should you do?
 ![img](https://schueler.click-learn.info/BilderV2/BS_2_2_07_007_ende.jpg)  
 ❌ I move into the left-hand lane and overtake the red car in front of me  
 ✅ I stay in the middle lane and slow down  
