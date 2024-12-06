@@ -176,9 +176,8 @@ employee is waving a white-red-white flag.
 If my vehicle  
 ❌ is 2 m wide according to the registration certificate part I (Motor Vehicle Registration)  
 ✅ including the load actually has a maximum width of 2 m  
-**Comment**:  The sign indicates a lane narrowing. Only vehicles with an actual width of 2 m may use the left-hand lane.   
-This applies including load and wing mirrors. It should also be noted that the vehicle width is stated in the vehicle   
-documents without wing mirrors. If my vehicle is too wide, I must change to the right-hand lane in good time.  
+**Comment**:  The sign indicates a lane narrowing. Only vehicles with an actual width of 2 m may use the left-hand lane. This applies including load and wing mirrors. It should also be noted that the vehicle width is 
+stated in the vehicle documents without wing mirrors. If my vehicle is too wide, I must change to the right-hand lane in good time.  
   
 27. What does this traffic sign combination indicate?  
 ![Image9](https://schueler.click-learn.info/BilderV2/VZ_1_2_19_113.jpg)  
@@ -186,22 +185,20 @@ A rail crossing
 ✅ which I may cross at a maximum speed of 10 km/h  
 ✅ which I may approach at a maximum speed of 10 km/h  
 ❌ over which rail traffic may pass at a maximum speed of 10 km/h    
-**Comment**:  The danger sign “level crossing” in combination with the speed limit “10” only permits a maximum speed of 10 km/h 
-up to the level crossing. This also applies when crossing the level crossing.  
+**Comment**: The danger sign “level crossing” in combination with the speed limit “10” only permits a maximum speed of 10 km/h up to the level crossing. This also applies when crossing the level crossing.  
   
 28. You want to use an autobahn. To allow you to do so, what type-specific maximum speed must be entered in Part I of the  
 registration certificate or in the operating licence?    
 Answer: More than __60__ km/h  
-**Comment**:  Freeways and motorways are used to make rapid progress. For this reason, only vehicles with a maximum speed of  
-more than 60 km/h specified in the vehicle documents or operating license are permitted to drive on them.  
+**Comment**: Freeways and motorways are used to make rapid progress. For this reason, only vehicles with a maximum speed of more than 60 km/h specified in the vehicle documents or operating license are permitted to drive 
+on them.  
   
 29. Why should you have the traffic information switched on, when driving on the motorway?  
 Because the traffic information  
 ✅ gives warnings about motorists heading in the wrong direction  
 ✅ provides reports about traffic jams  
 ❌ is a prescribed requirement for travelling on the motorway  
-**Comment**:  Something can always happen on the highway. I make sure I'm informed in good time about accidents, traffic jams,  
-wrong-way drivers or obstructions by switching on the traffic radio.  
+**Comment**:  Something can always happen on the highway. I make sure I'm informed in good time about accidents, traffic jams, wrong-way drivers or obstructions by switching on the traffic radio.  
   
 30. What must you do when a traffic jam forms on this road?   
 ![Image10](https://schueler.click-learn.info/BilderV2/AB_2_2_18_015_1.jpg)  
@@ -209,19 +206,17 @@ Remaining within my lane, I
 ❌ drive as far to the right as possible  
 ❌ continuing driving in the centre  
 ✅ drive as far to the left as possible  
-**Comment**:  As soon as traffic comes to a standstill or a traffic jam occurs, space must be created for emergency vehicles  
-(e.g. police and ambulances), the so-called “rescue lane”: vehicles in the left-hand lane drive as far to the left as possible,  
-all others as far to the right as possible.  
+**Comment**:  As soon as traffic comes to a standstill or a traffic jam occurs, space must be created for emergency vehicles (e.g. police and ambulances), the so-called “rescue lane”: vehicles in the left-hand lane drive 
+as far to the left as possible, all others as far to the right as possible.  
   
 31. A traffic jam is building up here. What is the correct procedure?  
 ![Imag11](https://schueler.click-learn.info/BilderV2/AB_2_1_08_008.jpg)  
 ✅ If possible, switch on hazard warning lights to warn vehicles following behind  
 ✅ Drive as far as possible to the right in order to leave room for a channel on the left  
 ❌ Drive as far as possible to the left in order to leave room for a channel on the right  
-**Comment**:  To make following road users aware of the traffic jam, hazard warning lights should be switched on. In the event  
-of a traffic jam, space must always be created for emergency vehicles. On roads with three lanes for one direction, a clear lane  
-must therefore be formed between the left and middle lanes. If you are driving in the middle lane, you must drive as far to the  
-right as possible so that there is room for the lane on the left.  
+**Comment**: To make following road users aware of the traffic jam, hazard warning lights should be switched on. In the event of a traffic jam, space must always be created for emergency vehicles. On roads with three 
+lanes for one direction, a clear lane must therefore be formed between the left and middle lanes. If you are driving in the middle lane, you must drive as far to the right as possible so that there is room for the lane on 
+the left. 
   
 32. What is true in this situation about using the hard shoulder?  
 ![Image12](https://schueler.click-learn.info/BilderV2/AB_2_2_07_013.jpg)  
@@ -229,17 +224,16 @@ The hard shoulder
 ✅ may only be used in the case of a breakdown  
 ❌ must be used in the same way as a right-hand lane  
 ❌ may only be used by trucks  
-**Comment**:  There are two traffic signs that prohibit the use of the hard shoulder as a traffic lane: The blue sign with the  
-red line means “no longer use the hard shoulder” and the red crossed oblique bars above the roadway (keyword “permanent light   
-sign”) completely block the lane below. This removes or ends the previously permitted use of the hard shoulder as a lane.  
+**Comment**:  There are two traffic signs that prohibit the use of the hard shoulder as a traffic lane: The blue sign with the red line means “no longer use the hard shoulder” and the red crossed oblique bars above the 
+roadway (keyword “permanent light sign”) completely block the lane below. This removes or ends the previously permitted use of the hard shoulder as a lane.  
   
 33. What should you do if you see a vehicle with its hazard lights on?  
 ✅ I reduce my speed  
 ✅ I ready myself for hazards occurring suddenly  
 ❌ I continue driving just as before  
-**Comment**: If I see hazard warning lights, I must expect a traffic obstruction and sudden danger. This could be a school bus from   
-which children are getting off, a car that is being towed away or a truck that has broken down.  
-  
+**Comment**: If I see hazard warning lights, I must expect a traffic obstruction and sudden danger. This could be a school bus from which children are getting off, a car that is being towed away or a truck that has broken 
+down.
+
 34. What is the maximum speed you are allowed to drive a car on roads with one marked lane for each direction outside built-up areas?  
 The speed limit for cars outside built-up areas on roads with one lane in each direction is ___100___ km/h.  
   
@@ -248,26 +242,24 @@ The speed limit for cars outside built-up areas on roads with one lane in each d
 ✅ I warn the driver by sounding my horn and flashing my lights
 ✅ I drive over to the right-side as far as possible
 ✅ I notify the police
-**Comment**: If a wrong-way driver approaches me on the highway exit, I can try to warn him with the horn (sound) or flashing lights.   
-For my own safety, I drive on the far right. If the other driver does not react, I report the wrong-way driver to the police.  
+**Comment**: If a wrong-way driver approaches me on the highway exit, I can try to warn him with the horn (sound) or flashing lights. For my own safety, I drive on the far right. If the other driver does not react, I 
+report the wrong-way driver to the police.
   
 36.  What does this traffic sign mean?  
 ![Imag14](https://schueler.click-learn.info/BilderV2/VZ_1_2_19_109.jpg)  
 ✅ Indication of existing overhead electrical wires  
 ✅ You must always wait when a rail vehicle is approaching  
 ✅ Rail traffic always has priority  
-**Comment**:  The St. Andrew's cross is usually located directly in front of level crossings and indicates that rail traffic  
-must be given priority. A flashing arrow in the middle of the St. Andrew's cross indicates that the railroad line has an  
-overhead electric line.  
+**Comment**:  The St. Andrew's cross is usually located directly in front of level crossings and indicates that rail traffic must be given priority. A flashing arrow in the middle of the St. Andrew's cross indicates that 
+the railroad line has an overhead electric line.  
   
 37. When driving on motorways, why should you maintain the recommended speed of 130 km/h?  
 Because this  
 ✅ can prevent accidents occurring  
 ✅ can reduce the severity of possible accidents  
 ✅ achieves an even flow of traffic  
-**Comment**:  The speed limit on German highways is based on experience in other countries. If as many people as possible observe  
-the speed limit, the risk of accidents, or at least the risk of serious accidents, will be reduced. In addition, an even flow of  
-traffic could be achieved. However, this is a recommendation, not a prescribed maximum speed (speed limit).  
+**Comment**:  The speed limit on German highways is based on experience in other countries. If as many people as possible observe the speed limit, the risk of accidents, or at least the risk of serious accidents, will be 
+reduced. In addition, an even flow of traffic could be achieved. However, this is a recommendation, not a prescribed maximum speed (speed limit).  
   
 38.  What do you have to be aware of in this situation?  
 ![Image14](https://schueler.click-learn.info/BilderV2/AB_2_1_04_005.jpg)  
@@ -275,9 +267,8 @@ Due to the constant changing of light and shadow
 ❌ I am more easily able to judge distances  
 ✅ I have to drive with particular care  
 ✅ I may be poorly visible to other road users  
-**Comment**:  The alternating light and shade typical of avenues makes it difficult to see here: distances are not easier, but  
-rather more difficult to judge. I myself am also less visible to others than usual. I should therefore adapt my speed to the  
-visibility conditions and drive particularly carefully.  
+**Comment**:  The alternating light and shade typical of avenues makes it difficult to see here: distances are not easier, but rather more difficult to judge. I myself am also less visible to others than usual. I should 
+therefore adapt my speed to the visibility conditions and drive particularly carefully.  
   
 39. Horse riders sign in blue traffic sign means -  
 ❌ A path, which may not be used by riders  
@@ -290,43 +281,41 @@ visibility conditions and drive particularly carefully.
 ❌ Federal road (Bundesstrasse) 22  
 ✅ A diversion for autobahn traffic when required  
 ❌ An underground station  
-**Comment**:  This traffic sign indicates an emergency detour for highway traffic. If you follow this traffic sign with the same  
-number during a traffic jam, for example, you will be redirected back to the highway at a later point.  
-  
+**Comment**:  This traffic sign indicates an emergency detour for highway traffic. If you follow this traffic sign with the same number during a traffic jam, for example, you will be redirected back to the highway at a 
+later point.  
+
 41. If you have to take left turn and there are two routes possible, Which one you will take?  
 ❌ Both  
 ✅ Right  
 ❌ Left  
-**Comment**:  This is a “normal” road without one-way traffic, i.e. traffic is permitted in both directions. I must keep to the   
-right-hand lane to avoid endangering oncoming traffic: I keep to the right-hand lane here!  
+**Comment**: This is a “normal” road without one-way traffic, i.e. traffic is permitted in both directions. I must keep to the right-hand lane to avoid endangering oncoming traffic: I keep to the right-hand lane here!  
   
 42. What emotions can influence driving behaviour?  
 ✅ Happiness and exuberance  
 ✅ Anger and rage  
 ✅ Worry and sorrow  
-**Comment**:  When driving, you should concentrate exclusively on the traffic. Strong emotions such as anger and rage, but also  
-great joy or lively conversations also require attention - and have a negative impact on driving behavior.  
+**Comment**: When driving, you should concentrate exclusively on the traffic. Strong emotions such as anger and rage, but also great joy or lively conversations also require attention - and have a negative impact on 
+driving behavior.
   
 43. How can your fitness to drive be quickly restored following the excessive consumption of alcohol?  
 ❌ By drinking two cups of coffee  
 ✅ Nothing can achieve this  
 ❌ By doing 15 minutes of sport  
-**Comment**:  An intoxicated driver cannot restore his or her ability to drive in the short term. The performance of the liver,  
-which breaks down alcohol, can be accelerated by NOTHING. At best, it can break down approx. 0.1 per mille per hour.  
+**Comment**: An intoxicated driver cannot restore his or her ability to drive in the short term. The performance of the liver, which breaks down alcohol, can be accelerated by NOTHING. At best, it can break down approx. 
+0.1 per mille per hour.  
   
 44. What indications mean you should interrupt your journey?  
 ✅ Yawning frequently  
 ✅ Difficulties staying in lane  
 ✅ Difficulty keeping your eyes open  
-**Comment**:  An intoxicated driver cannot restore his or her ability to drive in the short term. The performance of the liver,  
-which breaks down alcohol, can be accelerated by NOTHING. At best, it can break down approx. 0.1 per mille per hour.  
+**Comment**:  An intoxicated driver cannot restore his or her ability to drive in the short term. The performance of the liver, which breaks down alcohol, can be accelerated by NOTHING. At best, it can break down approx. 
+0.1 per mille per hour.  
   
 45. How can the consumption of cannabis products affect the driver?  
 ✅ It reduces the awareness of other traffic  
 ❌ It reduces sensitivity to glare  
 ✅ It reduces the ability to concentrate on driving  
-**Comment**:  The example of cannabis shows that drug use can have dangerous effects: After smoking a joint, there can be severe   
-disturbances in attention and concentration.  
+**Comment**:  The example of cannabis shows that drug use can have dangerous effects: After smoking a joint, there can be severe disturbances in attention and concentration.  
   
 46. What are the possible effects of hashish consumption?  
 ✅ Diminished awareness of danger  
@@ -353,9 +342,8 @@ I may use the telephone if
 ✅ using the telephone only requires a momentary glance  
 ❌ the telephone is not used for longer than 7 seconds here  
 ✅ the telephone in not held in my hand for this purpose  
-**Comment**:  Cell phones (cell phones) must not be picked up or held by the driver while driving. Only a hands-free device allows   
-you to make calls while driving. In addition, the driver may only look away from the traffic for a very short time at most when   
-operating and using the phone.  
+**Comment**: Cell phones (cell phones) must not be picked up or held by the driver while driving. Only a hands-free device allows you to make calls while driving. In addition, the driver may only look away from the traffic 
+for a very short time at most when operating and using the phone.  
   
 51. You want to make a telephone call while driving. What must you be aware of?  
 ✅ I may use the telephone without a hands-free unit, if the vehicle is parked in a suitable place, and the engine is fully switched off  
@@ -371,16 +359,15 @@ operating and using the phone.
 ✅ All drivers under 21  
 ❌ All drivers  
 ✅ All drivers during their probation period  
-**Comment**:  Drivers under the influence of alcohol are a danger to themselves and others.   
-This is especially true for young drivers under the age of 21 and for novice drivers who are not yet familiar with driving. Therefore:  
-zero alcohol.  
+**Comment**: Drivers under the influence of alcohol are a danger to themselves and others. This is especially true for young drivers under the age of 21 and for novice drivers who are not yet familiar with driving. 
+Therefore: zero alcohol.  
   
 56.  Which is the stamp of a responsible driver?  
 ❌ He is assertive towards other road traffic  
 ✅ He avoids driving when tired  
 ✅ He anticipates the mistakes of other road users  
-**Comment**:  Responsible drivers adapt to the traffic situation as partners, show consideration and take into account the mistakes  
-of others. Self-observation is also part of this, so that “risky driving” is avoided as far as possible when tired or angry.  
+**Comment**: Responsible drivers adapt to the traffic situation as partners, show consideration and take into account the mistakes of others. Self-observation is also part of this, so that “risky driving” is avoided as far 
+as possible when tired or angry.  
   
 57. What can impair fitness to drive?  
 ✅ Certain medicines  
@@ -396,8 +383,8 @@ of others. Self-observation is also part of this, so that “risky driving” is
 ✅ Because this reduces the field of vision  
 ✅ Because this diminishes spatial vision  
 ❌ Because this reduces the reaction time  
-**Comment**:  Even small amounts of alcohol are known to impair driving ability. This applies to spatial vision, for example.   
-But it also reduces your field of vision. If you still want to drive, you should therefore not drink a drop.  
+**Comment**: Even small amounts of alcohol are known to impair driving ability. This applies to spatial vision, for example. But it also reduces your field of vision. If you still want to drive, you should therefore not 
+drink a drop.  
   
 60. Why is an individual unfit to drive after consuming the drug crystal meth?  
 ✅ Because of the possible sudden onset of fatigue  
@@ -413,37 +400,33 @@ But it also reduces your field of vision. If you still want to drive, you should
 ❌ Listen to stimulating music  
 ✅ Get out of the car and move around in the fresh air  
 ✅ Take a break straightaway  
-**Comment**:  Microsleep means danger to life. Even at the first signs of tiredness, don't fool yourself! Take a break as soon as   
-possible, get some fresh air and exercise or loosen up.  
+**Comment**: Microsleep means danger to life. Even at the first signs of tiredness, don't fool yourself! Take a break as soon as possible, get some fresh air and exercise or loosen up.  
   
 63. What are the effects of listening to loud music - especially with an extremely loud bass volume - in the car?  
 ✅ Blind people lose their orientation when they are near the car  
 ✅ The driver’s attention is significantly impaired  
 ❌ It makes it easier for blind people to recognise where the road is  
-**Comment**:  Visually impaired and blind people are particularly dependent on their hearing. Special consideration is required here.  
-Very loud and bass-heavy music can restrict these people in their orientation. It can also distract the driver.  
-  
+**Comment**: Visually impaired and blind people are particularly dependent on their hearing. Special consideration is required here. Very loud and bass-heavy music can restrict these people in their orientation. It can 
+also distract the driver.  
+
 64. What effects can result from taking drugs?  
 ✅ A miscalculation of speeds  
 ✅ Increased readiness to take risks  
 ✅ Impairment of concentration  
-**Comment**:  Drug use and road traffic do not go together: The substances impair concentration, speeds are misjudged ❌and the   
-willingness to take risks can increase dangerously.  
+**Comment**: Drug use and road traffic do not go together: The substances impair concentration, speeds are misjudged - and the willingness to take risks can increase dangerously.  
   
 65. What can affect ability to drive in a similar way to alcohol?  
 ✅ Medications  
 ❌ Soft drinks  
 ✅ Drugs  
-**Comment**:  Some drugs (see package insert) and all intoxicating substances impair driving ability at least as much as alcohol. Caution!  
+**Comment**: Some drugs (see package insert) and all intoxicating substances impair driving ability at least as much as alcohol. Caution!  
   
 66. What is the risk if you become distracted while using electronic devices when driving?  
 ❌ My stopping distance may be reduced  
 ✅ I may fail to notice road traffic signs  
 ✅ I may deviate from my lane  
-**Comment**:  The use of electronic devices while driving increases the risk of accidents, as their operation can distract the  
-driver. For this reason, an electronic device used for communication, information or organization may not be picked up and held  
-in the hand while driving. Only voice control or briefly looking away from the traffic situation, adapted to the circumstances,  
-is permitted.  
+**Comment**: The use of electronic devices while driving increases the risk of accidents, as their operation can distract the driver. For this reason, an electronic device used for communication, information or 
+organization may not be picked up and held in the hand while driving. Only voice control or briefly looking away from the traffic situation, adapted to the circumstances, is permitted.  
   
 67. The red car in front of you has been driving slowly for some time now. What is the correct course of action in    
 this situation?   
@@ -451,9 +434,8 @@ this situation?
 ❌ I close the distance and sound my horn  
 ✅ I maintain my speed  
 ❌ I overtake, because the road is clear  
-**Comment**:  If someone is driving slowly in front of me, I have to drive at a sufficient distance behind them until I can  
-overtake safely - and stay calm (don't tailgate or honk!). On a left-hand bend, I see oncoming traffic too late. I can't overtake  
-here yet.  
+**Comment**:  If someone is driving slowly in front of me, I have to drive at a sufficient distance behind them until I can overtake safely - and stay calm (don't tailgate or honk!). On a left-hand bend, I see oncoming  
+traffic too late. I can't overtake here yet.  
   
 68. If someone overtakes me even though an oncoming vehicle is already very close, I drive on the extreme right. I slow down my vehicle carefully (rear-view mirror) and allow the overtaking vehicle to pull in.  
   
@@ -462,34 +444,29 @@ too closely behind (another vehicle)."
 ❌ I ignore the passenger’s comments  
 ✅ I take the passenger’s comments seriously  
 ✅ I maintain a greater distance  
-**Comment**:  The impressions that other road users and especially passengers have of my driving style can provide a realistic driver's   
-self-image. It is best to take their criticism seriously and pay attention to how they feel. If a greater distance reassures other   
-drivers, no problem!  
+**Comment**: The impressions that other road users and especially passengers have of my driving style can provide a realistic driver's self-image. It is best to take their criticism seriously and pay attention to how they 
+feel. If a greater distance reassures other drivers, no problem!  
   
 70. The vehicle ahead has prevented you from overtaking for some time now. What is the right course of action?  
 ✅ I wait until I am able to overtake  
 ❌ I close the gap  
 ❌ I sound my horn and flash my headlights persistently  
-**Comment**:  Strong emotions such as anger and rage distract me from the traffic situation. I shouldn't let this control me. If I wait   
-calmly until I can overtake, I will reach my destination more safely.  
+**Comment**: Strong emotions such as anger and rage distract me from the traffic situation. I shouldn't let this control me. If I wait calmly until I can overtake, I will reach my destination more safely.  
   
 71. You have narrowly avoided a road traffic accident through emergency braking. Your hands and knees are shaking. What is the right course of action?  
 ✅ Later, I ponder if I could have avoided the situation  
 ❌ I continue driving in order to calm myself  
 ✅ I take a break at the soonest possible opportunity, in order to calm myself  
-**Comment**:  Emergency braking causes strong emotional excitement, especially if I can narrowly avoid an accident. This affects my    
-perception and concentration and can lead to driving errors. If my hands and knees are shaking, I should never just carry on driving.     
-Instead, I take a break as soon as possible until I have calmed down again. Later, I can calmly think again about whether the situation    
-could have been avoided.  
+**Comment**: Emergency braking causes strong emotional excitement, especially if I can narrowly avoid an accident. This affects my perception and concentration and can lead to driving errors. If my hands and knees are 
+shaking, I should never just carry on driving. Instead, I take a break as soon as possible until I have calmed down again. Later, I can calmly think again about whether the situation could have been avoided.  
   
 72. You are on a road outside of a built-up area, and a car in front of you is driving much slower than is permitted to and has  
 the capacity to. What is the right course of action?  
 ❌ I flash my headlights, until the car begins to drive faster  
 ✅ I adjust my speed to that of the car  
 ✅ I overtake at a suitable place  
-**Comment**:  If someone is driving very slowly in front of me, getting upset won't help. Maybe he has a good reason for it. The best   
-thing to do is to match your own speed to the vehicle in front. Keep a safe distance and only overtake when there is an opportunity to   
-overtake safely.  
+**Comment**: If someone is driving very slowly in front of me, getting upset won't help. Maybe he has a good reason for it. The best thing to do is to match your own speed to the vehicle in front. Keep a safe distance and 
+only overtake when there is an opportunity to overtake safely.  
   
 73. What emotions can influence driving behaviour?  
 ✅ Worry and sorrow  
@@ -499,13 +476,11 @@ overtake safely.
 74. How can you recognise a good driver?  
 A good driver  
 ✅ exhibits a calm and relaxed driving style  
-❌always informs other traffic participants of their driving errors  
+❌ always informs other traffic participants of their driving errors  
 ✅ refrains from responding to provocations on the road  
-**Comment**: Good drivers avoid dangerous situations and do not allow themselves to be provoked. They drive calmly and calmly and behave 
-in a cooperative, not instructive manner.  
+**Comment**: Good drivers avoid dangerous situations and do not allow themselves to be provoked. They drive calmly and calmly and behave in a cooperative, not instructive manner.  
   
-75.  Travelling on a main road after a lengthy period of time of following behind, you are finally able to overtake a very slow-moving 
-car. What should you do?  
+75.  Travelling on a main road after a lengthy period of time of following behind, you are finally able to overtake a very slow-moving car. What should you do?  
 After overtaking  
 ❌ I brake briefly in order to call the attention of the other driver to his slow speed  
 ✅ I pull back in after an adequate distance in order not to impede the other driver  
@@ -515,57 +490,51 @@ After overtaking
 ✅ If necessary, I take a break to calm myself down  
 ✅ I continue to concentrate on the road traffic  
 ✅ I continue driving in such a way that my anger does not negatively affect road safety  
-**Comment**:  Strong feelings such as anger and rage impair perception and concentration. They can be distracting and lead to driving  
-errors. It is therefore important to continue to concentrate on the traffic as much as possible. Anger must not be allowed to affect  
-road safety. In the worst case, it is better to take a break and only continue driving when I have calmed down again.  
+**Comment**: Strong feelings such as anger and rage impair perception and concentration. They can be distracting and lead to driving errors. It is therefore important to continue to concentrate on the traffic as much as 
+possible. Anger must not be allowed to affect road safety. In the worst case, it is better to take a break and only continue driving when I have calmed down again.  
   
 77. After overtaking you, a car pulls back into lane without leaving sufficient space in front of you. What should you do?  
 ❌ I flash my headlights in order to call attention to the impediment  
 ✅ I brake in order to ensure that the safety distance is again established  
 ✅ I remain calm in order to avoid conflicts  
-**Comment**:  There is no point in getting angry about the misconduct of others. Anger only impairs your own ability to drive. Stay 
-calm, increase your (safety) distance and drive on unimpressed. Avoid so-called “instructions” such as flashing your headlights.  
+**Comment**: There is no point in getting angry about the misconduct of others. Anger only impairs your own ability to drive. Stay calm, increase your (safety) distance and drive on unimpressed. Avoid so-called 
+“instructions” such as flashing your headlights.  
 
-78. Participation in road traffic requires caution at all times and consideration towards other road users. What does this mean for 
-you? You must  
+78. Participation in road traffic requires caution at all times and consideration towards other road users. What does this mean for you? You must  
 ✅ drive with foresight  
 ❌ insist on your right of priority at all times  
 ✅ reckon with improper conduct on the part of others  
-**Comment**:  Being on the road requires constant caution and mutual consideration so that traffic is as safe as possible for everyone.  
-You drive carefully if you drive with foresight and expect other road users to make mistakes.  
-  
+**Comment**: Being on the road requires constant caution and mutual consideration so that traffic is as safe as possible for everyone. You drive carefully if you drive with foresight and expect other road users to make 
+mistakes.  
+
 79. At which places where there are no traffic signs regulating priority does the rule "right before left" apply?  
 ✅ At crossroads and junctions  
 ❌ At the end of a traffic calmed area  
 ❌ At driveways  
 ❌ At junctions with sunken kerbstone  
 ❌ At junctions of farm tracks or forest tracks with other roads  
-**Comment**:  At junctions and crossroads, right of way is given to those coming from the right. This basic rule, in short “right 
-before left”,applies at all crossroads and junctions without traffic signs. Field or forest paths are not considered roads and are 
-therefore not taken into account when they meet a developed road.  
+**Comment**: At junctions and crossroads, right of way is given to those coming from the right. This basic rule, in short “right before left”,applies at all crossroads and junctions without traffic signs. Field or forest 
+paths are not considered roads and are therefore not taken into account when they meet a developed road.  
   
 80. What is correct?  
 ![Image17](https://schueler.click-learn.info/BilderV2/AB_1_2_36_004.jpg)  
 ✅ I must get ready to proceed  
 ✅ The yellow car must leave the crossroads  
 ❌ I can turn now  
-**Comment**: If a police officer is standing at the junction with his arm raised, this means that all road users at the junction  
-should leave the junction quickly. All other road users must wait in front of the intersection for the next signal. The yellow car  
-must clear the junction and you must prepare to continue your journey.    
+**Comment**: If a police officer is standing at the junction with his arm raised, this means that all road users at the junction should leave the junction quickly. All other road users must wait in front of the 
+intersection for the next signal. The yellow car must clear the junction and you must prepare to continue your journey.    
   
 81. What is correct?  
 ![Image18](https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg)  
 ✅ Wait at the crossroads  
 ❌ Turn without stopping  
-**Comment**: If you see a police officer with his arms outstretched to the side in front or behind you at the junction, you must wait in 
-front of the junction.  
+**Comment**: If you see a police officer with his arms outstretched to the side in front or behind you at the junction, you must wait in front of the junction.  
   
 82. What applies here?![Image19](https://schueler.click-learn.info/BilderV2/AB_1_2_36_101.jpg)  
 ❌ Turning off is prohibited  
 ❌ You must wait for further signals from the police officer before the crossroads may be entered  
 ✅ The crossroads may be crossed  
-**Comment**: If you see a police officer in front of you at the intersection with his arms outstretched to the side, traffic is 
-cleared for your direction of travel. You may cross the intersection.  
+**Comment**: If you see a police officer in front of you at the intersection with his arms outstretched to the side, traffic is cleared for your direction of travel. You may cross the intersection.  
   
 83. Even if the traffic light is green: I stay at the stop line as long as there is no further traffic after the intersection.  
 Otherwise I'm blocking the junction! If I have to, I prefer to wait until the next green phase.  
@@ -575,25 +544,22 @@ Otherwise I'm blocking the junction! If I have to, I prefer to wait until the ne
 ✅ with iced over side windows  
 ✅ with the sun low in the sky out front  
 ✅ with a misted up windscreen  
-**Comment**:  All unfavorable conditions (e.g. due to winter weather) increase the risk of accidents: the low, dazzling sun as  
-well as fogged or icy windows -all of which obstruct my view.  
+**Comment**:  All unfavorable conditions (e.g. due to winter weather) increase the risk of accidents: the low, dazzling sun as well as fogged or icy windows -all of which obstruct my view.  
   
 85. What should you understand by defensive driving?  
 ❌ Stopping as a precaution at every crossroads  
 ✅ Allowing for other people's mistakes  
 ✅ Not insisting on your rights  
-**Comment**: Adapt calmly to the traffic situation. Give up your right of way if you can avoid or defuse dangerous situations.   
-Driving defensively means not insisting on your rights, showing consideration for others and expecting others to make mistakes.  
+**Comment**: Adapt calmly to the traffic situation. Give up your right of way if you can avoid or defuse dangerous situations. Driving defensively means not insisting on your rights, showing consideration for others and 
+expecting others to make mistakes.  
   
 86. Who has priority here?  
 ![Image20](https://schueler.click-learn.info/BilderV2/AB_1_2_36_015.jpg)  
 ✅ The red car  
 ❌ Me  
 ❌ The motorbike  
-**Comment**: Signs and instructions from police officers take precedence over all other regulations. This means that when a police  
-officer regulates traffic, only his signs apply; he overrides traffic signs and traffic lights. In this case, he gives cross traffic  
-the go-ahead, I have to wait. The car wants to go straight ahead and is allowed to go first because the motorcycle has to let it go  
-first as it is turning left.  
+**Comment**: Signs and instructions from police officers take precedence over all other regulations. This means that when a police officer regulates traffic, only his signs apply; he overrides traffic signs and traffic 
+lights. In this case, he gives cross traffic the go-ahead, I have to wait. The car wants to go straight ahead and is allowed to go first because the motorcycle has to let it go first as it is turning left.  
   
 87. Even if it looks like a “real” traffic circle at first glance. The sign with the three circular arrows is missing here. Therefore,  
 the usual right of way rules apply here! The blue arrow sign means: turn right. In contrast to the traffic sign for traffic circles,  
@@ -5467,3 +5433,11 @@ can also lead to damage to load-bearing vehicle parts.
 **Comment**: You may only drive past stopping buses with their hazard warning lights switched on at walking speed. If two lanes run  
 past the bus stop in the same direction, the walking speed applies to both lanes. If necessary, stop if passengers would otherwise be  
 endangered.  
+
+717. What should you do?
+![img](https://schueler.click-learn.info/BilderV2/BS_2_2_07_007_ende.jpg)  
+❌ I move into the left-hand lane and overtake the red car in front of me  
+✅ I stay in the middle lane and slow down  
+❌ I move to the right-hand lane and slow down
+**Comment**: After the announced lane narrowing, I expect a speed limit. If the bottleneck is not far away, it is no longer worth changing to the left-hand lane.I stay in “my” lane and reduce my speed.  
+TIP: Watch the movie again and pay attention to traffic signs (announced lane narrowing)!  
