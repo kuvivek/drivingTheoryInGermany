@@ -237,13 +237,13 @@ down.
 34. What is the maximum speed you are allowed to drive a car on roads with one marked lane for each direction outside built-up areas?  
 The speed limit for cars outside built-up areas on roads with one lane in each direction is ___100___ km/h.  
   
-35. What is the right course of action now?
-![Image13](https://schueler.click-learn.info/BilderV2/BS_2_2_18_016_ende.jpg)
-✅ I warn the driver by sounding my horn and flashing my lights
-✅ I drive over to the right-side as far as possible
-✅ I notify the police
+35. What is the right course of action now?  
+![Image13](https://schueler.click-learn.info/BilderV2/BS_2_2_18_016_ende.jpg)  
+✅ I warn the driver by sounding my horn and flashing my lights  
+✅ I drive over to the right-side as far as possible  
+✅ I notify the police  
 **Comment**: If a wrong-way driver approaches me on the highway exit, I can try to warn him with the horn (sound) or flashing lights. For my own safety, I drive on the far right. If the other driver does not react, I 
-report the wrong-way driver to the police.
+report the wrong-way driver to the police.  
   
 36.  What does this traffic sign mean?  
 ![Imag14](https://schueler.click-learn.info/BilderV2/VZ_1_2_19_109.jpg)  
@@ -281,7 +281,7 @@ therefore adapt my speed to the visibility conditions and drive particularly car
 ❌ Federal road (Bundesstrasse) 22  
 ✅ A diversion for autobahn traffic when required  
 ❌ An underground station  
-**Comment**:  This traffic sign indicates an emergency detour for highway traffic. If you follow this traffic sign with the same number during a traffic jam, for example, you will be redirected back to the highway at a 
+**Comment**: This traffic sign indicates an emergency detour for highway traffic. If you follow this traffic sign with the same number during a traffic jam, for example, you will be redirected back to the highway at a 
 later point.  
 
 41. If you have to take left turn and there are two routes possible, Which one you will take?  
@@ -561,10 +561,14 @@ expecting others to make mistakes.
 **Comment**: Signs and instructions from police officers take precedence over all other regulations. This means that when a police officer regulates traffic, only his signs apply; he overrides traffic signs and traffic 
 lights. In this case, he gives cross traffic the go-ahead, I have to wait. The car wants to go straight ahead and is allowed to go first because the motorcycle has to let it go first as it is turning left.  
   
-87. Even if it looks like a “real” traffic circle at first glance. The sign with the three circular arrows is missing here. Therefore,  
-the usual right of way rules apply here! The blue arrow sign means: turn right. In contrast to the traffic sign for traffic circles,  
-I have to indicate when entering and leaving the traffic circle. Traffic in the circle does NOT have right of way here. For them,  
-the rule is: RIGHT BEFORE LEFT, so they have to wait and let me go first.  
+87. What is the right thing to do?  
+![Image21](https://schueler.click-learn.info/BilderV2/AB_1_3_01_060.jpg)  
+✅ The yellow car has to wait  
+✅ I have to indicate  
+❌ I have to wait  
+**Comment**: Even if it looks like a “real” traffic circle at first glance. The sign with the three circular arrows is missing here. Therefore,  the usual right of way rules apply here! The blue arrow sign means: turn 
+right. In contrast to the traffic sign for traffic circles, I have to indicate when entering and leaving the traffic circle. Traffic in the circle does NOT have right of way here. For them,  the rule is: RIGHT BEFORE LEFT, 
+so they have to wait and let me go first.  
   
 88. Traffic signs regulate the right of way here. Oncoming traffic and I have “right of way” at this junction, cross traffic from the  
 right and left must wait. As a left-turner, however, I must first allow the oncoming vehicle to pass before I turn.  
@@ -5379,3 +5383,11 @@ I may
 ❌ only overtake, if I remain in the right-hand lane while doing so  
 **Comment**: A continuous line must not be crossed. However, if there is a broken line next to the continuous line, this is a one-sided lane restriction. Both lines may be crossed from the side of the broken line.
 Therefore, I am allowed to cross both lines and overtake the cyclist if I am not endangering anyone.
+
+720. What is the right thing to do in this situation? - Video Question  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_2_05_011_ende.jpg)   
+✅ I cease the overtaking manoeuvre and move into the right-hand lane  
+❌ I accelerate and continue the overtaking manoeuvre  
+❌ continue the overtaking manoeuvre at an unchanged speed  
+**Comment**: In this case, I have to stop overtaking and move into the right-hand lane because the cyclist I have caught up with is accelerating unexpectedly - and I am keeping to the prescribed speed limit - even if
+the sign is not visible: I've  just passed it! TIP: Watch the movie again and pay attention to traffic signs (speed limit)!  
