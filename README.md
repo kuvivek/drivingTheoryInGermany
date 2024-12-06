@@ -2071,7 +2071,7 @@ out towards the outside of the bend.
   
 282. Why are you not allowed to overtake here?  
 Because I  
-❌may not cross over the central lane markings  
+❌ may not cross over the central lane markings  
 ✅ cannot maintain an adequate passing distance from the cyclists if there is any oncoming traffic  
 ✅ do not have an adequate view of the road ahead  
 **Comment**:  I am allowed to overtake the guide line, there are other reasons that prohibit overtaking. When overtaking cyclists outside  
@@ -2081,13 +2081,13 @@ overtaking route is winding and not visible. That's why I'm not allowed to overt
 283. You are driving in dense fog on a federal road (Bundesstraße) outside a built-up area. Are you allowed to drive in the middle  
 of the road continuously straddling the broken white line?  
 ✅ No, because it could represent a danger to oncoming traffic  
-❌Yes, if fog headlamps and rear fog lamps are switched on  
-❌Yes, because it reduces the risk of running off the road  
+❌ Yes, if fog headlamps and rear fog lamps are switched on  
+❌ Yes, because it reduces the risk of running off the road  
 **Comment**:  As a general rule, drive as far to the right as possible. Especially in fog, you should never drive constantly in the  
 middle of the road or above the guide line. Otherwise you will endanger oncoming traffic.  
   
 284. What should you do, if it is no longer possible to avoid a collision with wild animals?  
-❌I always take an evasive movement  
+❌ I always take an evasive movement  
 ✅ I brake as hard as possible  
 ✅ I maintain my direction of movement  
 **Comment**:  If a collision with game can no longer be avoided, I have to brake. I hold the steering wheel or handlebars firmly and  
@@ -2096,7 +2096,7 @@ try to maintain the direction of travel, i.e. stay on the road.
 285. What should you be prepared for here?![img](https://schueler.click-learn.info/BilderV2/AB_2_1_03_037.jpg)  
 ✅ For the poor visibility of my vehicle  
 ✅ For an extended braking distance  
-❌For increased tyre traction  
+❌ For increased tyre traction  
 **Comment**:  The poor visibility caused by fog, rain and swirling water also makes my vehicle less visible to others. I have to expect  
 this and a longer braking distance. Because the grip on wet roads does not increase, but naturally decreases!  
   
@@ -2108,71 +2108,73 @@ this and a longer braking distance. Because the grip on wet roads does not incre
 in moorland areas and on lakes. Adjust your speed to the visibility conditions!  
   
 287. What must you do on encountering sudden dense fog driving at daytime?  
-❌Only switch on parking lights  
+❌ Only switch on parking lights  
 ✅ Adapt speed immediately to visibility conditions  
 ✅ Switch on dipped headlights  
 **Comment**:  You should always adapt your speed to the visibility conditions, even in fog. To be seen better, you should switch on your  
 dipped headlights in fog.  
   
 288. For which purposes is a horn allowed to be used outside built-up areas?  
-❌As a calling signal  
+❌ As a calling signal  
 ✅ As a warning signal  
 ✅ As an overtaking signal  
-**Comment**:  You may sound the horn at any time to warn others if you or others are in danger. However, you may only use the horn ❌and  
-the headlight flasher ❌as an overtaking signal outside built-up areas.  
+**Comment**:  You may sound the horn at any time to warn others if you or others are in danger. However, you may only use the 
+horn - and the headlight flasher - as an overtaking signal outside built-up areas.  
   
 289. You are driving following a heavy rain shower. What should you be aware of in this situation?  
 ✅ I should maintain a large safety distance between me and the vehicle ahead  
 ✅ Splash water might impair my vision  
 ✅ It is difficult for me to detect uneven areas on the road surface  
-**Comment**:  The braking distance is longer on a wet road than on a dry one. Splash water also makes visibility more difficult. That's why  
-I always have to increase the safety distance on wet roads. This gives me a better view of the road and allows me to react in good time  
-to puddles or uneven road surfaces, for example.  
+**Comment**:  The braking distance is longer on a wet road than on a dry one. Splash water also makes visibility more difficult.  
+That's why I always have to increase the safety distance on wet roads. This gives me a better view of the road and allows me to  
+react in good time to puddles or uneven road surfaces, for example.  
   
 290. What must you remember when refuelling?  
 ✅ Do not refuel when the tank is full and the nozzle has switched off  
 ❌ Fill up to the brim if possible  
 ✅ Do not breath in any fuel fumes  
-**Comment**:  Do not refuel when the tank is full and the nozzle has switched off. Otherwise it may overflow and contaminate the ground.  
-Do not inhale fuel vapors when refueling. Fuel vapors release volatile hydrocarbons into the air, especially benzene, which is carcinogenic.  
+**Comment**:  Do not refuel when the tank is full and the nozzle has switched off. Otherwise it may overflow and contaminate  
+the ground. Do not inhale fuel vapors when refueling. Fuel vapors release volatile hydrocarbons into the air, especially benzene,  
+which is carcinogenic.  
   
 291. What is a pre-condition for environmentally-friendly and energy-saving driving?  
 ✅ Checking the tyre inflation pressure regularly  
 ✅ Performing vehicle maintenance regularly  
 ❌ Washing the engine regularly  
-**Comment**:  The correct tire pressure reduces consumption and is part of energy-saving driving. Regular maintenance also ensures that the vehicle  
-is as environmentally friendly as possible overall.  
+**Comment**:  The correct tire pressure reduces consumption and is part of energy-saving driving. Regular maintenance also ensures  
+that the vehicle is as environmentally friendly as possible overall.  
   
 292. You are driving in darkness on a well-constructed main road, using your dipped headlights. Within what distance must you be able to stop?  
 Within the range of the  
 ❌ side lights  
 ✅ dipped headlights  
 ❌ main beam lights  
-**Comment**:  In principle, I am only allowed to drive fast enough to be able to stop within the visibility range. In the dark, the visibility range  
-is the same as the range of the low beam. The parking lights may only be used for parking, the high beam only if I have a clear road ahead and  
-no other road users are dazzled.  
+**Comment**:  In principle, I am only allowed to drive fast enough to be able to stop within the visibility range. In the dark,  
+the visibility range is the same as the range of the low beam. The parking lights may only be used for parking, the high beam  
+only if I have a clear road ahead and no other road users are dazzled.  
   
 293. You are driving a motor vehicle with a manual gearbox. How can you reduce the fuel consumption of your vehicle? --❌IMP  
 ❌By driving at a high engine speed  
 ✅ By switching early up to the next gear  
 ✅ By employing an anticipatory driving style, to avoid frequent changes of speed  
-**Comment**:  Fuel-saving driving is as balanced and anticipatory as possible in order to avoid frequent braking and acceleration. Shift up early  
-when accelerating, as fuel consumption and pollutant emissions are most favorable at low engine speeds.  
+**Comment**:  Fuel-saving driving is as balanced and anticipatory as possible in order to avoid frequent braking and acceleration.  
+Shift up early when accelerating, as fuel consumption and pollutant emissions are most favorable at low engine speeds.  
   
 294. Why does driving on this stretch of road require greater alertness on the part of the motorist?  
 ✅ A tram might come from the opposite direction  
 ✅ Driving on the tracks is dangerous  
 ✅ The road surface is uneven and road grip varies  
   
-295. You are driving on a wide road on which oncoming traffic can pass by you, unobstructed. Within what distance must you be able to stop in any event?  
+295. You are driving on a wide road on which oncoming traffic can pass by you, unobstructed. Within what distance must you be  
+able to stop in any event?  
 Within  
 ❌twice the distance readily visible to me  
 ✅ the distance readily visible to me  
 ❌half the distance readily visible to me  
-**Comment**:  The following applies to driving motor vehicles: I may only drive as fast as I can control my vehicle. I must be able to stop within my  
-range of vision, i.e. the distance I can see. Only on very narrow roads must I be able to stop within half the range of vision, and in the dark  
-within the range of the dipped beam. Then I drive safely. The road here is well developed, so only the answer with the “single” visible distance  
-needs to be ticked. Not half, not double.  
+**Comment**:  The following applies to driving motor vehicles: I may only drive as fast as I can control my vehicle. I must  
+be able to stop within my range of vision, i.e. the distance I can see. Only on very narrow roads must I be able to stop  
+within half the range of vision, and in the dark within the range of the dipped beam. Then I drive safely. The road here is  
+well developed, so only the answer with the “single” visible distance needs to be ticked. Not half, not double.  
   
 296. The road is icy for a short distance. What should you avoid here, if possible?  
 ✅ Braking  
@@ -2184,75 +2186,79 @@ needs to be ticked. Not half, not double.
 ❌ The number of passengers  
 ❌ The profile depth of the tyres  
 ✅ The speed travelled  
-**Comment**Fuel consumption increases dramatically at high speeds. The reason for this is air resistance: the faster I drive, the greater the effort  
-required to counter the resistance and the more fuel is consumed.  
+**Comment**Fuel consumption increases dramatically at high speeds. The reason for this is air resistance: the faster I drive,  
+the greater the effort required to counter the resistance and the more fuel is consumed.  
   
-298. When driving outside of a built-up area, from what combination vehicle length must you maintain a large enough distance to the vehicle ahead  
-as to allow an overtaking vehicle to pull back into lane in front of you? From a length of more than __7m_____  
-**Comment**:  Trains over 7 m in length, e.g. a car with a trailer, must always keep a sufficient distance from the vehicle in front outside built-up  
-areas so that an overtaking vehicle can safely pull in.  
+298. When driving outside of a built-up area, from what combination vehicle length must you maintain a large enough distance   
+to the vehicle ahead as to allow an overtaking vehicle to pull back into lane in front of you? From a length of more than __7m__ 
+**Comment**:  Trains over 7 m in length, e.g. a car with a trailer, must always keep a sufficient distance from the vehicle in 
+front outside built-up areas so that an overtaking vehicle can safely pull in.  
   
 299. What does the distance to be maintained from the vehicle ahead depend on?  
 ✅ Speed  
 ✅ Visibility conditions  
 ✅ State of the road surface  
-**Comment**:  The main cause of rear-end collisions is insufficient distance from the vehicle in front. The distance to be maintained depends on visibility,  
-speed and road conditions. The distance must always be checked and adjusted.  
+**Comment**:  The main cause of rear-end collisions is insufficient distance from the vehicle in front. The distance to be 
+maintained depends on visibility, speed and road conditions. The distance must always be checked and adjusted.  
   
 300. You are driving a motor vehicle with a manual gearbox. What type of behaviour pollutes the environment?  
 ✅ Frequently pressing the accelerator while waiting at traffic lights  
 ✅ An uneven driving style  
 ❌ Driving downhill in a high gear  
-**Comment**:  Environmentally friendly driving is as balanced and anticipatory as possible in order to avoid frequent braking and accelerating. If you drive  
-unevenly or, for example, accelerate senselessly before a red light, you are putting unnecessary strain on the environment.  
+**Comment**:  Environmentally friendly driving is as balanced and anticipatory as possible in order to avoid frequent braking 
+and accelerating. If you drive unevenly or, for example, accelerate senselessly before a red light, you are putting unnecessary 
+strain on the environment.  
   
 301. What should you know about using the rear-view mirror?  
 ✅ I am unable to see vehicles and pedestrians in the blind spot  
 ✅ Rear-view mirrors must be adjusted to the particular driver  
 ❌ The interior mirror has no blind spot to the right-side  
-**Comment**:  Looking ahead also means regularly checking the rear-view mirrors. It is important that they are correctly adjusted to the driver.  
-But beware: you cannot see pedestrians and vehicles in the so-called blind spot in the mirrors! The only thing that helps is to look over your shoulder.  
+**Comment**:  Looking ahead also means regularly checking the rear-view mirrors. It is important that they are correctly 
+adjusted to the driver. But beware: you cannot see pedestrians and vehicles in the so-called blind spot in the mirrors! 
+The only thing that helps is to look over your shoulder.  
   
 302. What can result in your motor vehicle skidding while driving round a bend?  
 ✅ Driving too fast  
 ❌ Gently accelerating at the exit of the bend  
 ✅ Heavy oversteer  
-**Comment**:  Centrifugal force is at work when cornering. It “pulls” the car to the outside of the bend, i.e. to the outside right in a left-hand bend.  
-Therefore, reduce the speed beforehand. The faster I drive, the less grip I have. There is a particular risk of skidding in bends due to strong steering  
-input.  
+**Comment**:  Centrifugal force is at work when cornering. It “pulls” the car to the outside of the bend, i.e. to the outside  
+right in a left-hand bend. Therefore, reduce the speed beforehand. The faster I drive, the less grip I have. There is a  
+particular risk of skidding in bends due to strong steering input.  
   
 303. There is oil on the road. What should you do now?  
 ✅ I avoid heavy braking and abrupt steering movements  
 ❌ I swerve onto the left-hand side of the road  
 ✅ I notify the fire brigade  
-**Comment**:  Oil on the road! A danger for the environment and for all those who drive along here. It is best to steer straight ahead and neither brake  
-hard nor accelerate. Stop as soon as possible and inform the fire department so that the danger can be removed.  
+**Comment**:  Oil on the road! A danger for the environment and for all those who drive along here. It is best to steer 
+straight ahead and neither brake hard nor accelerate. Stop as soon as possible and inform the fire department so that the 
+danger can be removed.  
   
 304. In which situation is overtaking prohibited?  
 If I  
 ✅ cannot complete the overtaking manoeuvre before a hill crest  
 ✅ cannot complete the overtaking manoeuvre before the start of a no-overtaking section  
 ✅ am unable to maintain the necessary space to the side  
-**Comment**:  To avoid accidents, I am not allowed to overtake if I cannot keep enough distance to the side or cannot complete the overtaking maneuver  
-before a crest. I must have completed or stopped an overtaking maneuver before the start of an overtaking ban.  
+**Comment**:  To avoid accidents, I am not allowed to overtake if I cannot keep enough distance to the side or cannot 
+complete the overtaking maneuver before a crest. I must have completed or stopped an overtaking maneuver before the 
+start of an overtaking ban.  
   
 305. You are driving at 80 km/h behind a motor vehicle. What is the minimum safe distance you must observe?  
 ❌ A distance of 15 metres  
 ✅ A "distance of 2 seconds"  
 ❌ A "distance of 1 second"  
-**Comment**:  Insufficient distance is one of the main causes of rear-end collisions. If the vehicle in front brakes suddenly, you need time to react.  
-To avoid a collision during this time, the distance from the vehicle in front should always be at least 2 seconds, especially at higher speeds.  
-Remember a fixed point at which the vehicle in front is passing. If you only reach this point after you have counted “21, 22”, you have at least  
-a 2-second gap.  
+**Comment**:  Insufficient distance is one of the main causes of rear-end collisions. If the vehicle in front brakes  
+suddenly, you need time to react. To avoid a collision during this time, the distance from the vehicle in front should  
+always be at least 2 seconds, especially at higher speeds. Remember a fixed point at which the vehicle in front is passing.  
+If you only reach this point after you have counted “21, 22”, you have at least a 2-second gap.  
   
   
 306. How can you save fuel?  
-❌Avoid driving in top gear  
+❌ Avoid driving in top gear  
 ✅ By observing at least the tyre pressure indicated in the owner's manual  
 ✅ By removing roof racks or ski racks  
-**Comment**:  To save fuel, you should drive with sufficient tire pressure ❌see operating instructions ❌and avoid unnecessary ballast.  
-Roof racks or ski racks increase the mass of the vehicle and also the air resistance, which increases fuel consumption. You should  
-therefore remove roof racks or ski racks if you do not need them.  
+**Comment**:  To save fuel, you should drive with sufficient tire pressure - see operating instructions - and avoid unnecessary  
+ballast. Roof racks or ski racks increase the mass of the vehicle and also the air resistance, which increases fuel consumption.  
+You should therefore remove roof racks or ski racks if you do not need them.  
   
 307.  What is the maximum speed you are allowed to drive a car with trailer on roads outside of built-up areas? __80km/hr__  
 **Comment**:  With a car with a trailer, you may drive a maximum of 80 km/h on rural roads outside built-up areas.  
@@ -2262,10 +2268,10 @@ therefore remove roof racks or ski racks if you do not need them.
 ✅ Because there is not sufficient space to pull back in between the vehicles ahead  
 ✅ Because vehicles ahead may swerve out  
 ✅ Because I cannot see far enough along the route necessary for overtaking  
-**Comment**:  It seems as if the vehicle directly in front of me has other vehicles in front of it, which it is slowly catching up with.  
-It's possible that one of the vehicles is about to pull out to overtake. I don't have a clear enough view of the rest of the route  
-and we are approaching a left-hand bend. It will also be too narrow between the vehicles in front of me to get back into the lane.  
-TIP: Watch the movie several times and pay attention to the movements of the others!  
+**Comment**:  It seems as if the vehicle directly in front of me has other vehicles in front of it, which it is slowly catching  
+up with. It's possible that one of the vehicles is about to pull out to overtake. I don't have a clear enough view of the rest  
+of the route and we are approaching a left-hand bend. It will also be too narrow between the vehicles in front of me to get back  
+into the lane. TIP: Watch the movie several times and pay attention to the movements of the others!  
   
 309. Why should you not overtake the moped rider in this situation?  
 ✅ Because I am not allowed to drive significantly faster than the moped rider  
@@ -2277,40 +2283,40 @@ at the beginning of the movie). Then I would only be a little faster than the mo
 times, sometimes you have already driven past the hint!  
   
 310. You want to turn left. Which line should you follow?![img](https://schueler.click-learn.info/BilderV2/AB_2_2_09_011_1.jpg)  
-❌The right driving line  
+❌ The right driving line  
 ✅ The left driving line  
-❌The middle driving line  
-**Comment**:  If you want to turn left, you must 1. indicate and 2. get into the center lane, both in good time.  
-On one-way roads ❌e.g. one-way streets ❌I have to get into the left-hand lane as far as possible. In this case,  
-it is a one-way street without two-way traffic (traffic sign “Einbahnstraße” in the picture above right).  
-Without additional signs, I do not have to expect bicycle traffic here either: I must follow the left-hand lane.  
+❌ The middle driving line  
+**Comment**:  If you want to turn left, you must 1. indicate and 2. get into the center lane, both in good time. On one-way  
+roads - e.g. one-way streets - I have to get into the left-hand lane as far as possible. In this case, it is a one-way street  
+without two-way traffic (traffic sign “Einbahnstraße” in the picture above right). Without additional signs, I do not have to  
+expect bicycle traffic here either: I must follow the left-hand lane.  
   
 311. In what situation is it especially dangerous to perform a turn?  
 ✅ Before the crest of a hill  
 ✅ In foggy conditions  
 ✅ Before bends in the road  
-**Comment**:  When turning on the road, I can quickly become an unforeseen obstacle for others. This is particularly dangerous in heavy  
-and fast-moving traffic, in confusing traffic situations, in fog, in front of and behind bends or crests.  
+**Comment**:  When turning on the road, I can quickly become an unforeseen obstacle for others. This is particularly dangerous  
+in heavy and fast-moving traffic, in confusing traffic situations, in fog, in front of and behind bends or crests.  
   
 312. I want to re-join the road. What is the correct assessment of this situation? (repeated question)   
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_162.jpg)  
 When they approach me from the rear  
-❌drivers give my priority in re-joining the road  
+❌ drivers give my priority in re-joining the road  
 ✅ drivers only see me late  
 ✅ I only see vehicles late  
-**Comment**:  Before I drive off the edge of the road, I carefully observe my surroundings, especially the traffic behind me. Sometimes  
-my view is obscured if, for example, a truck is parked behind me. I myself can only see vehicles approaching from behind late ❌and  
-the traffic behind also sees my vehicle late. In such a situation, I drive forward carefully until I have a better view and wait for  
-a sufficient gap to pull away.  
+**Comment**:  Before I drive off the edge of the road, I carefully observe my surroundings, especially the traffic behind me.  
+Sometimes my view is obscured if, for example, a truck is parked behind me. I myself can only see vehicles approaching from  
+behind late -and the traffic behind also sees my vehicle late. In such a situation, I drive forward carefully until I have a  
+better view and wait for a sufficient gap to pull away.  
   
 313. When are you in danger when overtaking?  
 When the road user being overtaken  
 ✅ suddenly accelerates  
 ✅ swerves out to overtake  
-❌reduces his speed considerably  
-**Comment**:  An overtaking maneuver must be stopped if overtaking becomes dangerous. This is the case if the vehicle being overtaken  
-suddenly accelerates, preventing the overtaking vehicle from leaving the oncoming lane as planned. It also becomes dangerous if  
-the person being overtaken unexpectedly pulls out to overtake.  
+❌ reduces his speed considerably  
+**Comment**:  An overtaking maneuver must be stopped if overtaking becomes dangerous. This is the case if the vehicle being  
+overtaken suddenly accelerates, preventing the overtaking vehicle from leaving the oncoming lane as planned. It also becomes  
+dangerous if the person being overtaken unexpectedly pulls out to overtake.  
   
 314. Why can it be dangerous to overtake on an unobscured, straight road?  
 Because I  
@@ -2323,23 +2329,24 @@ Always stop overtaking in case of danger!
   
 315. You are waiting at a traffic light and want to turn right. What should you remember?  
 ✅ make sure there is no road user beside you on the right intending to go straight on  
-❌simply glance in the mirror to check that there is no cyclist behind you  
-❌concentrate fully on the turning manoeuvre because any cyclist has to wait anyway  
-**Comment**:   You had to wait at a traffic light: As a right-turner, when the light turns green, you first check whether a road user  
-to your right wants to continue straight ahead. You must first let other road users coming towards you from the front or wanting  
-to continue straight ahead next to you through. This applies to the road and the cycle path and footpath next to you.  
+❌ simply glance in the mirror to check that there is no cyclist behind you  
+❌ concentrate fully on the turning manoeuvre because any cyclist has to wait anyway  
+**Comment**:   You had to wait at a traffic light: As a right-turner, when the light turns green, you first check whether a road  
+user to your right wants to continue straight ahead. You must first let other road users coming towards you from the front or  
+wanting to continue straight ahead next to you through. This applies to the road and the cycle path and footpath next to you.  
   
 316. Why must you discontinue your overtaking manoeuvre here?  
-❌Because the motorbike will overtake me  
+❌ Because the motorbike will overtake me  
 ✅ Because the tractor will turn off to the left  
-❌Because I can see a no-overtaking sign  
-**Comment**:  Overtaking maneuvers require careful consideration and execution. The risk of accidents is high and collisions can be  
-life-threatening. Not only with oncoming traffic. The tractor's flashing lights indicate that it wants to turn left. The motorcyclist  
-in the rear-view mirror has obviously recognized the situation and is keeping a safe distance behind me. There is no no-overtaking  
-sign in sight: but it wouldn't change the fact that I am not allowed to overtake someone turning left in front of me.  
+❌ Because I can see a no-overtaking sign  
+**Comment**: Overtaking maneuvers require careful consideration and execution. The risk of accidents is high and collisions  
+can be life-threatening. Not only with oncoming traffic. The tractor's flashing lights indicate that it wants to turn left.   
+The motorcyclist in the rear-view mirror has obviously recognized the situation and is keeping a safe distance behind me.  
+There is no no-overtaking sign in sight: but it wouldn't change the fact that I am not allowed to overtake someone turning  
+left in front of me.  
   
 317. What is the right course of action now?  
-❌I overtake the car ahead leaving a large side clearance  
+❌ I overtake the car ahead leaving a large side clearance  
 ✅ I increase my distance to the car ahead  
 ✅ I continue driving with increased care  
 **Comment**:  The driver of the vehicle in front of me is obviously having problems. For my own safety, it's better to increase the  
@@ -2348,92 +2355,98 @@ danger. I stay behind and can help or call for help in an emergency. TIP: Watch 
   
 318. What can give rise to particularly dangerous situations where several lanes turn off?  
 ✅ Changing lanes while performing the turn  
-❌Keeping exactly to your lane  
+❌ Keeping exactly to your lane  
 ✅ Driving too fast  
-**Comment**:  Drive very carefully when turning into multiple lanes. Dangerous situations often arise due to speeding and changing lanes while turning.  
+**Comment**: Drive very carefully when turning into multiple lanes. Dangerous situations often arise due to speeding and changing  
+lanes while turning.  
   
 319. To whom must you pay particularly close attention in this situation?  
 To the  
-❌white truck  
-❌red car  
+❌ white truck  
+❌ red car  
 ✅ cyclist  
-**Comment**:  Be careful when overtaking: You just saw a danger sign warning of bicycle traffic coming from the left and right. Where is the cyclist?  
-Does the cycle path over there cross the road? Better stay alert! TIP: Watch the movie again and pay attention to the danger sign!  
+**Comment**: Be careful when overtaking: You just saw a danger sign warning of bicycle traffic coming from the left and right. 
+Where is the cyclist? Does the cycle path over there cross the road? Better stay alert! TIP: Watch the movie again and pay 
+attention to the danger sign!  
   
-320. When overtaking several trucks, you are faced with this situation. What should you do now? (You are in the left overtaking side of the road, wherein  
-oncoming traffic can come. Also there is a bend which need to noticed in the picture, often ignored by novice people.)  
+320. When overtaking several trucks, you are faced with this situation. What should you do now? (You are in the left overtaking 
+side of the road, wherein oncoming traffic can come. Also there is a bend which need to noticed in the picture, often ignored by 
+ignored by novice people.)  
 ✅ I abort the overtaking manoeuvre  
 ✅ After pulling back into lane, I again establish an adequate safety distance  
-❌I continue overtaking quickly and pull back into lane in front of the red truck  
-**Comment**:  Overtaking before a bend is very risky. Oncoming traffic is visible far too late: stop overtaking in this situation. Get back into  
-the right-hand lane and keep a sufficient distance from the vehicle in front.  
+❌ I continue overtaking quickly and pull back into lane in front of the red truck  
+**Comment**: Overtaking before a bend is very risky. Oncoming traffic is visible far too late: stop overtaking in this situation. 
+Get back into the right-hand lane and keep a sufficient distance from the vehicle in front.  
   
 321. What should you do in this situation? (You drive in a lane wherein only one vehicle can pass and other side car came.  
 You have sufficient place on the right parking area. And you can reach before the opposite car could reach there.)  
 I move  
 ✅ into the gap to allow the oncoming vehicle to drive past  
-❌backwards, because the oncoming vehicle has right of way  
-❌onwards, because the oncoming vehicle has to reverse  
-**Comment**:  If vehicles approach each other in a narrow space, the person who has the opportunity to do so must give way, e.g. a parking space in the  
-direction of travel: I give way and wait until the oncoming vehicle has passed.  
+❌ backwards, because the oncoming vehicle has right of way  
+❌ onwards, because the oncoming vehicle has to reverse  
+**Comment**: If vehicles approach each other in a narrow space, the person who has the opportunity to do so must give way, e.g.  
+a parking space in the direction of travel: I give way and wait until the oncoming vehicle has passed.  
   
 322. Why do you have to continue to brake?  
 Because of the  
-❌cyclist  
+❌ cyclist  
 ✅ blue truck  
 ✅ refuse truck  
-**Comment**:  A turning truck can become a large-scale visual obstacle and impair both the view ahead and the view to the side. Only those who look closely  
-will recognize the garbage truck approaching from the right. TIP: Watch the movie again and watch out for movement from the right!  
+**Comment**:  A turning truck can become a large-scale visual obstacle and impair both the view ahead and the view to the side.  
+Only those who look closely will recognize the garbage truck approaching from the right. TIP: Watch the movie again and watch  
+out for movement from the right!  
   
 323. When may a tram be overtaken on the left?  
 ✅ When the rails run too far to the right  
-❌When the roadway (not a one-way street) to the right of the tram is blocked by other vehicles  
+❌ When the roadway (not a one-way street) to the right of the tram is blocked by other vehicles  
 ✅ In one-way streets  
-**Comment**:  In one-way streets or where the rails are too far to the right, you may overtake a streetcar on the left. If the rails are in the middle of the  
-road, you may only overtake a streetcar on the right.  
+**Comment**:  In one-way streets or where the rails are too far to the right, you may overtake a streetcar on the left. If the  
+rails are in the middle of the road, you may only overtake a streetcar on the right.  
   
 324. You want to turn left. What difficulties could arise here?  
 ✅ Misunderstandings with oncoming traffic turning left  
 ✅ Traffic turning left can come dangerously close  
 ✅ Visibility restrictions caused by oncoming vehicles  
-**Comment**:  Left turners usually have to turn in front of each other. This can make things tight. Dangerous misunderstandings can also occur  
-if one driver wants to turn in front and the other behind: if necessary, use hand signals to communicate. Be aware that the other driver  
-may obscure your view of other vehicles in oncoming traffic.  
+**Comment**:  Left turners usually have to turn in front of each other. This can make things tight. Dangerous misunderstandings  
+can also occur if one driver wants to turn in front and the other behind: if necessary, use hand signals to communicate. Be aware  
+that the other driver may obscure your view of other vehicles in oncoming traffic.  
   
 326. Why are you not allowed to overtake now?  
 Because of the  
-❌blue car  
+❌ blue car  
 ✅ layout of the road  
 ✅ motorbike  
-**Comment**:  Not everywhere can I overtake slower vehicles without worrying. For example, if I want to overtake a bicycle on a country road with  
-an unclear road layout (bend): only with sufficient side clearance, because cyclists can swing back and forth while riding ❌and only if nobody  
-is coming towards me. Vehicles far behind me are not decisive here. TIP: Watch the movie again and watch out for oncoming vehicles (motorcycles!)!  
+**Comment**:  Not everywhere can I overtake slower vehicles without worrying. For example, if I want to overtake a bicycle on 
+a country road with an unclear road layout (bend): only with sufficient side clearance, because cyclists can swing back and 
+forth while riding - and only if nobody is coming towards me. Vehicles far behind me are not decisive here. TIP: Watch the 
+movie again and watch out for oncoming vehicles (motorcycles!)!  
   
-327. Two vehicles approach one another at an intersection. Both vehicles want to turn left. What must both drivers do in the normal case?  
-They must  
+327. Two vehicles approach one another at an intersection. Both vehicles want to turn left. What must both drivers do in the   
+normal case? They must  
 ✅ turn in front of one another  
-❌communicate with one another to agree the mode of turning  
-❌turn behind one another  
-**Comment**:  As a rule, drivers turning left oncoming traffic must turn in front of each other. I must also bear in mind that oncoming traffic can  
-obscure the view of people driving straight ahead behind them.  
+❌ communicate with one another to agree the mode of turning  
+❌ turn behind one another  
+**Comment**:  As a rule, drivers turning left oncoming traffic must turn in front of each other. I must also bear in mind 
+that oncoming traffic can obscure the view of people driving straight ahead behind them.  
   
 328. In which cases must you abandon overtaking?  
 ✅ When the road user being overtaken suddenly accelerates  
-❌When the road user being overtaken considerably reduces his speed  
+❌ When the road user being overtaken considerably reduces his speed  
 ✅ When there is danger from unexpected oncoming traffic  
-**Comment**:  An overtaking maneuver must be aborted if the person being overtaken suddenly accelerates because the overtaking distance is dangerously  
-extended. In addition, unexpected oncoming traffic can create a hazard that must lead to the overtaking maneuver being aborted.  
+**Comment**:  An overtaking maneuver must be aborted if the person being overtaken suddenly accelerates because the overtaking  
+distance is dangerously extended. In addition, unexpected oncoming traffic can create a hazard that must lead to the overtaking  
+maneuver being aborted.  
   
 329. Why are you required to stop now?  
-❌Because of the white car  
+❌ Because of the white car  
 ✅ Because of the tram  
-❌Because of the cyclist  
-**Comment**:  I am on a priority road. That's why the white car on my right has to wait for me. But the oncoming streetcar is turning left in front of  
-me: I have to stop and let it pass. TIP: Watch the movie again and pay attention to traffic signs!  
+❌ Because of the cyclist  
+**Comment**:  I am on a priority road. That's why the white car on my right has to wait for me. But the oncoming streetcar is  
+turning left in front of me: I have to stop and let it pass. TIP: Watch the movie again and pay attention to traffic signs!  
   
 330. You want to turn right at the junction. What is the right thing to do?![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg)  
 ✅ I change lanes as early as possible  
-❌I may only cross over the cycle lane at walking speed  
+❌ I may only cross over the cycle lane at walking speed  
 ✅ I may not impede cyclists in the cycle lane  
 **Comment**:  A protective lane for cycle traffic, here as a cycle path between two lanes: If I want to turn right at the next junction,  
 I have to use a double gap. That's why it's best to change lanes as early as possible, so I have a reserve. I drive at the permitted  
@@ -2441,14 +2454,14 @@ speed so that I don't obstruct cyclists or other vehicles when I change lanes. I
 too dangerous for the cyclist behind me (rear-view mirror), for example!  
   
 331. You want to turn left. Which line should you follow? (Einbahnstraße with Cycle to have bidrection)  
-❌The right driving line  
+❌ The right driving line  
 ✅ The middle driving line  
-❌The left driving line  
-**Comment**:  If you want to turn left, you must 1. indicate and 2. get into the center lane, both in good time. On one-way carriageways  
-❌e.g. one-way streets ❌you must keep as far to the left as possible. In this particular case, however, cyclists are permitted to  
-ride in oncoming traffic (traffic sign in the picture above right). The additional sign below the “One-way street” traffic sign shows  
-a bicycle above two opposing arrows and means: “Cycling is permitted in the opposite direction”. I must therefore follow the center  
-line of traffic and leave space for bicycle traffic.  
+❌ The left driving line  
+**Comment**:  If you want to turn left, you must 1. indicate and 2. get into the center lane, both in good time. On one-way  
+carriageways e.g. one-way streets - you must keep as far to the left as possible. In this particular case, however, cyclists  
+are permitted to ride in oncoming traffic (traffic sign in the picture above right). The additional sign below the  
+“One-way street” traffic sign shows a bicycle above two opposing arrows and means: “Cycling is permitted in the opposite  
+direction”. I must therefore follow the center line of traffic and leave space for bicycle traffic.  
   
 332. You are driving at 100 km/h on a road not inside a built-up area. In front of you a truck is travelling at 70 km/h.  ----IMP  
 What is the minimum distance you must be from a crest in the road when commencing an overtaking manoeuvre?  
@@ -2456,16 +2469,16 @@ What is the minimum distance you must be from a crest in the road when commencin
 ❌ 400 m  
 ❌ 200 m  
 **Comment**: As a rule of thumb, the overtaking distance is around 400 m if the car is 5 m long and the truck is 12 m long.  
-When overtaking, any obstruction of oncoming traffic must be ruled out ❌the clear distance must therefore be at  
-least twice as long as the overtaking distance ❌i.e. the crest of the road must be at least 800 m away.  
+When overtaking, any obstruction of oncoming traffic must be ruled out - the clear distance must therefore be at  
+least twice as long as the overtaking distance - i.e. the crest of the road must be at least 800 m away.  
   
 333.You want to overtake a truck with a trailer. What must you be aware of when doing so?  
 ✅ The necessary overtaking distance is significantly increased due to the trailer  
 ✅ The external bodywork of the truck-trailer combination may conceal vehicles ahead  
 ❌ You may only pull out to overtake once you are directly behind the truck-trailer combination  
-**Comment**: Overtaking is one of the most dangerous driving maneuvers if you have to drive into the traffic space of oncoming traffic.  
-The length of the overtaking distance depends not only on the speed and length of the vehicle being overtaken. I must also be aware  
-that the outline of the vehicle in front of me may obscure the vehicles in front.  
+**Comment**: Overtaking is one of the most dangerous driving maneuvers if you have to drive into the traffic space of oncoming  
+traffic. The length of the overtaking distance depends not only on the speed and length of the vehicle being overtaken. I must  
+also be aware that the outline of the vehicle in front of me may obscure the vehicles in front.  
   
 334. You want to overtake. What should you do?  
 I overtake  
@@ -2500,103 +2513,107 @@ attention to pedestrians who want to cross the road. Wait if necessary.
   
 338. What is the correct procedure for pulling out to overtake?  
 ✅ There is no danger to the traffic behind  
-❌The vehicle in front indicates right  
+❌ The vehicle in front indicates right  
 ✅ Oncoming traffic is not endangered  
 **Comment**:  Overtaking is one of the most dangerous driving maneuvers when you have to drive into the traffic space of  
 oncoming traffic. You may only overtake if neither oncoming nor following vehicles are obstructed or endangered  
 during the entire overtaking maneuver.  
   
-339. You want to turn right at the junction. What should you do? (There is no space left on the right because of chain of cars after the hurdle on the right.)  
-❌I steer clearly to the right, in order to create a space in the right-hand lane  
+339. You want to turn right at the junction. What should you do? (There is no space left on the right because of chain of cars  
+after the hurdle on the right.)  
+❌ I steer clearly to the right, in order to create a space in the right-hand lane  
 ✅ I refrain from turning right, and remain in my lane  
-❌I wait until all the vehicles have passed by, and then I move into the right-hand lane  
-**Comment**:  If I have “accidentally” turned left instead of right on a multi-lane road with directional arrows, I must first turn left,  
-even if I actually wanted to turn right. I can then make up for the mistake by turning back or taking a different route (navigation system).  
+❌ I wait until all the vehicles have passed by, and then I move into the right-hand lane  
+**Comment**:  If I have “accidentally” turned left instead of right on a multi-lane road with directional arrows, I must first  
+turn left, even if I actually wanted to turn right. I can then make up for the mistake by turning back or taking a different  
+route (navigation system).  
   
 340. You want to reverse park on the right-hand side of the road. What is correct in this situation?  
 ✅ I anticipate that vehicles may exit their parking spaces  
 ✅ I closely observe the oncoming traffic before manoeuvring into the space  
-❌I switch on my hazard lights  
-**Comment**:  Wherever there are a lot of vehicles parked, you have to expect people to pull out. To reverse into a parking space perpendicular  
-to the direction of travel, I need a lot of space. That's why I pay particular attention to oncoming traffic when turning into a parking  
-space (my vehicle swerves out). The hazard warning lights remain off: Except when a vehicle is broken down or being towed away, the hazard  
-warning lights may only be switched on if the vehicle endangers others or warns of danger (§ 16 StVO).  
+❌ I switch on my hazard lights  
+**Comment**:  Wherever there are a lot of vehicles parked, you have to expect people to pull out. To reverse into a parking  
+space perpendicular to the direction of travel, I need a lot of space. That's why I pay particular attention to oncoming  
+traffic when turning into a parking space (my vehicle swerves out). The hazard warning lights remain off: Except when a vehicle  
+is broken down or being towed away, the hazard warning lights may only be switched on if the vehicle endangers others or warns  
+of danger (§ 16 StVO).  
   
 341. You want to leave a property lot and turn into a road while passing over a footpath. What must you look out for?  
 ✅ Pedestrians on the footpath may not be endangered  
 ✅ You should be directed by another person if necessary  
-❌First take note of the flowing traffic on the road  
-**Comment**:  If you want to drive out of a property onto the road, you must indicate your direction of travel. All other road users have priority.  
-This means that you must also let pedestrians and cyclists pass from any direction and must not endanger anyone. If visibility is obstructed,  
-you must be “instructed”.  
+❌ First take note of the flowing traffic on the road  
+**Comment**:  If you want to drive out of a property onto the road, you must indicate your direction of travel. All other road  
+users have priority. This means that you must also let pedestrians and cyclists pass from any direction and must not endanger  
+anyone. If visibility is obstructed, you must be “instructed”.  
   
 342. You want to turn left. When must you pay attention to the traffic following behind you?  
-❌After taking the turn  
+❌ After taking the turn  
 ✅ Before taking the turn  
 ✅ Before selecting the appropriate lane  
 **Comment**:  If I want to turn off, I have to keep a close eye on the traffic behind before I signal and get into the lane.  
 I then continue to keep an eye on the traffic behind and only turn when the traffic situation allows it.  
   
-343. Two vehicles approach one another at an intersection. Both vehicles want to turn left. In what exceptional case do they have to turn one after the other?  
+343. Two vehicles approach one another at an intersection. Both vehicles want to turn left. In what exceptional case do they 
+have to turn one after the other?  
 ✅ If the road traffic situation demands it  
 ❌ If the vehicles are crossing over an equal priority intersection  
 ✅ If the layout of the intersection demands it  
-**Comment**: Left-turning drivers coming towards each other usually have to turn in front of each other. However, this can lead to   
-dangerous misunderstandings. If the traffic situation requires it or the design of the junction dictates it, e.g. by markings on the   
-road, road users must turn one behind the other.  
+**Comment**: Left-turning drivers coming towards each other usually have to turn in front of each other. However, this can  
+lead to dangerous misunderstandings. If the traffic situation requires it or the design of the junction dictates it, e.g. by   
+markings on the road, road users must turn one behind the other.  
   
 344. Why can it be dangerous to overtake even on clearly visible, straight roads?  
 Because the  
 ✅ the overtaking distance is longer than first thought  
 ❌ oncoming traffic is travelling slower than first thought  
 ✅ oncoming traffic is travelling faster than first thought  
-**Comment**: On clear stretches of road, the speed of oncoming vehicles is often underestimated. As a result, overtaking can also be   
-dangerous on these routes. In addition, the overtaking distance can be longer than expected.  
+**Comment**: On clear stretches of road, the speed of oncoming vehicles is often underestimated. As a result, overtaking can  
+also be dangerous on these routes. In addition, the overtaking distance can be longer than expected.  
   
 345. You are driving a slow-moving vehicle on a main road. How can you facilitate faster-moving vehicles in overtaking?  
 By moving  
 ✅ onto the hard shoulder  
 ✅ onto the parking area  
 ✅ into a lay-by  
-**Comment**: As the driver of a slower vehicle, you must allow faster vehicles to overtake. For example, pull off onto the hard   
-shoulder, a parking lane or into a lay-by and wait there until the faster vehicles have passed. Swerving onto the hard shoulder is not   
-permitted on highways.  
+**Comment**: As the driver of a slower vehicle, you must allow faster vehicles to overtake. For example, pull off onto the hard  
+shoulder, a parking lane or into a lay-by and wait there until the faster vehicles have passed. Swerving onto the hard shoulder  
+is not permitted on highways.  
   
 346. The indicator light is flashing much faster than usual. What could be the cause of this?  
 ❌ The fuse is faulty  
 ❌ The hazard lights are switched on  
 ✅ A bulb is defective  
-**Comment**: If the bulb of a blinker is defective, I can recognize this while driving: The indicator light flashes much faster than   
-usual if a turn signal has failed on the vehicle.  
+**Comment**: If the bulb of a blinker is defective, I can recognize this while driving: The indicator light flashes much faster  
+than usual if a turn signal has failed on the vehicle.  
   
 347. In what situation is the eCall system designed to be triggered manually?  
 ✅ If a passenger suffers a medical emergency  
 ❌ If my vehicle sustains a puncture  
 ✅ If I am witness to a serious accident  
-**Comment**: I can also activate the eCall system manually, for example if I witness a serious accident (i.e. my vehicle is not   
-necessarily involved) and call for help for others or if a passenger suddenly needs medical assistance. If I have a flat tire, I call   
-the breakdown service, not the emergency number.  
+**Comment**: I can also activate the eCall system manually, for example if I witness a serious accident (i.e. my vehicle is not  
+necessarily involved) and call for help for others or if a passenger suddenly needs medical assistance. If I have a flat tire,  
+I call the breakdown service, not the emergency number.  
   
 348. The brakes on your car are pulling strongly to one side. What effects can this have when you are braking?  
 Anti-lock braking system (ABS) fails  
 ✅ Longer braking distance  
 ✅ Your car can veer to the side  
-**Comment**: If the brake has a strong one-sided effect, the vehicle is not braked optimally: the braking distance increases. Due to the   
-varying braking force, the vehicle pulls to one side and can swerve sideways.  
+**Comment**: If the brake has a strong one-sided effect, the vehicle is not braked optimally: the braking distance increases.  
+Due to the varying braking force, the vehicle pulls to one side and can swerve sideways.  
   
 349. What are the possible consequences if the wheel nuts are not re-tightened following a tyre change?  
 ✅ The wheel can become detached from the vehicle  
 ❌ The tyre can become detached from the hub  
 ✅ The wheel may become damaged  
-**Comment**: After fitting a wheel, the wheel nuts must be tightened to the torque specified by the vehicle manufacturer, otherwise the   
-wheel may be damaged. In the worst case, the wheel may come loose.  
+**Comment**: After fitting a wheel, the wheel nuts must be tightened to the torque specified by the vehicle manufacturer,  
+otherwise the wheel may be damaged. In the worst case, the wheel may come loose.  
   
 350. When should you arrange for the braking system of your car to be checked?  
 ❌ If I performed an emergency braking manoeuvre with my car  
 ✅ If the brake control light illuminates while driving  
 ✅ If my car fails to stay in line when I brake  
-**Comment**: Safety depends to a large extent on the proper functioning of the brakes. If the indicator light warns you while driving,   
-does the car not stay on track when braking? - Have the causes checked immediately at a workshop.  
+**Comment**: Safety depends to a large extent on the proper functioning of the brakes. If the indicator light warns you while  
+driving, does the car not stay on track when braking? - Have the causes checked immediately at a workshop.  
   
 351. You want to transport your holiday luggage on the roof of your fully occupied car. What must you observe? ----IMP  
 ✅ The gross vehicle weight rating of my car  
@@ -2626,15 +2643,15 @@ should only continue driving at low speed and have my vehicle checked at a works
 ✅ Whether system and bicycles are fixed safely  
 ✅ Whether, according to the manufacturer's instructions, the system is adequate for the vehicle  
   
-355. You are transporting furniture in a van. While taking a break you notice that a lashing strap is damaged. Under what condition may   
-you continue driving?  
+355. You are transporting furniture in a van. While taking a break you notice that a lashing strap is damaged. Under what  
+condition may you continue driving?  
 If I  
 ✅ have replaced the lashing strap  
 ✅ use other suitable load-securing equipment  
 ❌ continue driving at a maximum of 50 km/h  
-**Comment**: If you discover that a lashing strap is damaged during furniture transportation, you must replace it before continuing your   
-journey and either replace the lashing strap (reserves are always worthwhile) or secure the load with other suitable means. Simply   
-driving on - at any speed - is not a solution, but creates an unnecessary risk of accidents.  
+**Comment**: If you discover that a lashing strap is damaged during furniture transportation, you must replace it before  
+continuing your journey and either replace the lashing strap (reserves are always worthwhile) or secure the load with other  
+suitable means. Simply driving on - at any speed - is not a solution, but creates an unnecessary risk of accidents.  
   
 356. You note that the tyres on your vehicle's front axle are showing uneven amounts of wear. What should be checked? --IMP  
 ✅ The chassis settings  
@@ -2656,26 +2673,26 @@ time, automatic brake assistants, for example, can intervene in critical situati
 ✅ If installed, the passenger airbag must be deactivated  
 ✅ The infant carrier must be positioned reversed to the direction of travel  
 ✅ The baby must be strapped into the infant carrier  
-**Comment**: Baby carriers must be installed “rearward-facing” on the front passenger seat and the baby must be strapped in. If the   
-front passenger airbag is activated, no rear-facing child seats may be used there. The risk of injury from the airbag is too great. A   
-warning sign indicates an activated airbag.  
+**Comment**: Baby carriers must be installed “rearward-facing” on the front passenger seat and the baby must be strapped in. If  
+the front passenger airbag is activated, no rear-facing child seats may be used there. The risk of injury from the airbag is too  
+great. A warning sign indicates an activated airbag.  
   
 359. How can you detect your indicator is defective?  
 ✅ The indicator control lamp flashes faster than normal  
 ❌ The control lamp for the indicator is permanently illuminated red  
 ✅ By performing a functionality test before moving off  
-**Comment**: A defective blinker can be a risk for me and others. I can recognize a fault, for example, during the departure check or   
-when the blinker light flashes faster than usual in the display. Steady red indicator lights are reserved for other warnings, not for   
-the blinker.  
+**Comment**: A defective blinker can be a risk for me and others. I can recognize a fault, for example, during the departure  
+check or when the blinker light flashes faster than usual in the display. Steady red indicator lights are reserved for other  
+warnings, not for the blinker.  
   
-360. While driving, you are using your motor vehicle’s active lane keep assist system. How can you manually override this driver assist   
-system in the event that it intervenes?  
+360. While driving, you are using your motor vehicle’s active lane keep assist system. How can you manually override this driver     
+assist system in the event that it intervenes?  
 ✅ By counter-steering  
 ❌ By accelerating  
 ✅ By activating the indicator  
-**Comment**: An active lane departure warning system sometimes intervenes directly in the steering. However, like any assistance system,   
-I can “override” it: By actively counter-steering against the resistance or by indicating, in which case the system is automatically   
-deactivated so as not to impede my driving.  
+**Comment**: An active lane departure warning system sometimes intervenes directly in the steering. However, like any assistance 
+system, I can “override” it: By actively counter-steering against the resistance or by indicating, in which case the system is 
+automatically deactivated so as not to impede my driving.  
   
 361. Why are short journeys performed with a cold engine especially damaging to the environment?  
 Because driving with a cold engine means  
@@ -2697,7 +2714,7 @@ possible obstacles or legal restrictions when parking.
 363. What is the function of your vehicle’s emergency brake assist? ----IMP  
 The emergency brake assist  
 ✅ issues warnings about the immediate risk of a rear-end collision  
-❌brakes the speed of my vehicle if the event I accidentally overrun the traffic lane boundary  
+❌ brakes the speed of my vehicle if the event I accidentally overrun the traffic lane boundary  
 ✅ can reduce the risk of injury in the event of an unavoidable collision  
 **Comment**:  Many driver assistance systems are designed for road safety, some for comfort. Emergency braking can be vital for survival.  
 Emergency Brake Assist therefore increases safety by warning of the immediate danger of a rear-end collision and can reduce the risk  
@@ -2708,7 +2725,7 @@ of injury in the event of unavoidable collisions. This assistant does not react 
 When starting on a hill, the assist system can  
 ✅ prevent my vehicle from rolling backwards unintentionally  
 ✅ assume control of releasing the brakes  
-❌drive all wheels simultaneously  
+❌ drive all wheels simultaneously  
 **Comment**:  The term “hill start assist” refers to automated support when starting off on inclines, which prevents the vehicle from  
 rolling back after stopping, even if the brake pedal is not depressed continuously. It automatically releases the brake when you  
 accelerate. However, it has no influence on the drive.  
@@ -2718,30 +2735,33 @@ I should
 ✅ stow the warning triangle in an easily accessible place  
 ✅ secure the luggage against slipping  
 ✅ place heavy luggage at the bottom  
-**Comment**:  When loading the trunk, don't just remember that the heaviest items belong in the bottom and the luggage must be secured.  
-Breakdowns can also occur when traveling: Therefore, stow a warning triangle, safety vest and first aid kit within easy reach.  
+**Comment**:  When loading the trunk, don't just remember that the heaviest items belong in the bottom and the luggage must be 
+secured. Breakdowns can also occur when traveling: Therefore, stow a warning triangle, safety vest and first aid kit within easy  
+reach.  
   
-366. You are using your motor vehicle’s lane keep assist system while driving. The system does not respond when you depart from the lane.  
-What could be the cause of this?  
+366. You are using your motor vehicle’s lane keep assist system while driving. The system does not respond when you depart   
+from the lane. What could be the cause of this?  
 ✅ A lack of lane markings  
 ✅ Heavy precipitation  
 ✅ Inadequate road illumination  
-**Comment**:  The lane departure warning system helps me to stay in my lane (keep in lane). If the system reacts too late or not at all  
-when changing lanes, this may be due to heavy precipitation, a lack of road markings or poor illumination of the road. Humans remain  
-responsible for all assistance systems.  
+**Comment**:  The lane departure warning system helps me to stay in my lane (keep in lane). If the system reacts too late or  
+not at all when changing lanes, this may be due to heavy precipitation, a lack of road markings or poor illumination of the  
+road. Humans remain responsible for all assistance systems.  
   
 367. While you are driving, the airbag control light stays on constantly. What must you do?  
 ✅ Go to a garage workshop  
-❌Take the vehicle off the road immediately  
-❌Nothing because it is an indication for the garage workshop  
-**Comment**:  If the airbag indicator light is constantly illuminated while driving, the system is not ready for use. Have the fault rectified at the workshop.  
+❌ Take the vehicle off the road immediately  
+❌ Nothing because it is an indication for the garage workshop  
+**Comment**:  If the airbag indicator light is constantly illuminated while driving, the system is not ready for use. Have the  
+fault rectified at the workshop.  
   
 368. When should you arrange for your car to be inspected in a garage?  
 ✅ If you have to continuously counter-steer when driving in a straight line  
 ✅ If there is a permanent noise when braking  
 ✅ If the airbag indicator light does not switch off after the engine is started  
-**Comment**:  It is not only indicator lights (e.g. AIRBAG) that provide important information about malfunctions. Repeated or constant noises  
-when braking or the fact that I have to counter-steer to drive straight ahead also indicate problems: It is best to have them clarified in the workshop.  
+**Comment**:  It is not only indicator lights (e.g. AIRBAG) that provide important information about malfunctions. Repeated  
+or constant noises when braking or the fact that I have to counter-steer to drive straight ahead also indicate problems: It  
+is best to have them clarified in the workshop.  
   
 369. In which situation is it purposeful to use an active lane change assist system?  
 When overtaking on  
@@ -2754,220 +2774,227 @@ requires well-developed roads and clear markings. It works best on highways and 
 370. The windscreen wipers do not wipe clean? What can be the reason for this?  
 ✅ The windscreen wiper blades are worn  
 ✅ There is an oil film on the windscreen  
-❌The windscreen heating is defective  
+❌ The windscreen heating is defective  
 **Comment**To ensure a clear view through the windshield at all times, intact windshield wipers are essential. If they no longer wipe clean,  
 the windshield wiper blades may be worn. However, there may also be a film of oil on the windshield.  
   
-371. While driving, you use the adaptive cruise control (ACC). The speed is set to 100 km/h. What must you be prepared for before entering a bend   
-in the road? ----IMP  
-❌The ACC will prompt me to reduce my speed  
+371. While driving, you use the adaptive cruise control (ACC). The speed is set to 100 km/h. What must you be prepared for  
+before entering a bend in the road? ----IMP  
+❌ The ACC will prompt me to reduce my speed  
 ✅ I have to adjust my speed to the situation  
 ✅ The ACC may cause my vehicle to accelerate  
-**Comment**:  Assistance systems are not autonomous driving systems, they usually only take on partial tasks. An adaptive cruise control system (AGR,  
-symbol in the display) can keep a previously set speed constant and adapt to slower vehicles in front of me, for example. However, the system does  
-not necessarily recognize the course of the road. According to the speedometer, my speed is initially set to 100 km/h, but because of the slower  
-vehicle in front of me, the AGR reduces the speed to 70 km/h before the bend. On the bend, the brake lights on the vehicle in front light up briefly,  
-then it disappears behind the bend and the road seems clear. Therefore, the AGR could now automatically accelerate back to 100 km/h in the bend of  
-all places, too fast for this bend: I have to actively override the system and adjust my speed myself. TIP: Watch the movie several times and pay  
-attention to the actions of others!  
+**Comment**:  Assistance systems are not autonomous driving systems, they usually only take on partial tasks. An adaptive cruise  
+control system (AGR, symbol in the display) can keep a previously set speed constant and adapt to slower vehicles in front of me,  
+for example. However, the system does not necessarily recognize the course of the road. According to the speedometer, my speed is  
+initially set to 100 km/h, but because of the slower vehicle in front of me, the AGR reduces the speed to 70 km/h before the bend. 
+On the bend, the brake lights on the vehicle in front light up briefly, then it disappears behind the bend and the road seems 
+clear. Therefore, the AGR could now automatically accelerate back to 100 km/h in the bend of all places, too fast for this bend: 
+I have to actively override the system and adjust my speed myself. TIP: Watch the movie several times and pay attention to the 
+actions of others!  
   
 372. What is the meaning of the date of manufacture "1217" specified on the tyre?  
 The tyre was  
-❌manufactured on the 1/2/2017  
-❌manufactured in the 12th month (December) of the year 2017  
+❌ manufactured on the 1/2/2017  
+❌ manufactured in the 12th month (December) of the year 2017  
 ✅ manufactured in 12th calendar week of the year 2017  
-**Comment**:  The date of manufacture is applied to the vehicle tires in “coded” form: the first two digits stand for the calendar week, the last two for  
-the year. “1419”, for example, means 14th week 2019.  
+**Comment**:  The date of manufacture is applied to the vehicle tires in “coded” form: the first two digits stand for the  
+calendar week, the last two for the year. “1419”, for example, means 14th week 2019.  
   
 373. When should you check the tyre pressure?  
 ✅ Regularly when the tyres are cool  
 Directly after every journey  
 ✅ Directly after a tyre change  
-**Comment**:  The tire pressure should be measured at least once a week when the tires are cold. The measurement result would be falsified if the tires  
-were warm. The pressure in warm tires rises and is therefore higher than the target value. The tire pressure must be checked immediately after every  
-tire change, as the tire pressure of the spare wheel will generally not match the target value.  
+**Comment**:  The tire pressure should be measured at least once a week when the tires are cold. The measurement result would be  
+falsified if the tires were warm. The pressure in warm tires rises and is therefore higher than the target value. The tire pressure   
+must be checked immediately after every tire change, as the tire pressure of the spare wheel will generally not match the target  
+value.  
   
 374. What should I be aware of when using an adaptive cruise control system?  
 ✅ I must remain constantly attentive even when using the system for a longer period  
 ✅ The system can be affected by heavy rain or snow fall  
 ✅ Activating the accelerator or brake pedal can always override the system  
-**Comment**:  Every assistance system only offers auxiliary functions. The person in the driver's seat remains responsible. Especially in the event of a  
-malfunction (e.g. due to dirt, snow or a defect), it may be necessary to “override” the system by using the accelerator or brake pedal! I must  
-therefore remain attentive.  
+**Comment**:  Every assistance system only offers auxiliary functions. The person in the driver's seat remains responsible.  
+Especially in the event of a malfunction (e.g. due to dirt, snow or a defect), it may be necessary to “override” the system  
+by using the accelerator or brake pedal! I must therefore remain attentive.  
   
 375. The automatic lighting system is activated on your car. What should you anticipate when driving in the lighting conditions shown?  
 ✅ The low beam does not turn on automatically  
 ✅ I will only be seen very late by the road users behind me  
-❌The automatic lighting system will switch on my fog lights  
-**Comment**:  Driver assistance systems (DAS) and comfort functions such as an automatic light system are not yet 100% reliable. Under certain circumstances,  
-especially in fog and twilight, the dipped headlights, for example, do not switch on automatically. As a result, I may be seen later than usual by  
-following road users. This is because the rear lights remain switched off when driving with daytime running lights. In such cases, I have to switch  
-on the low beam and fog lights manually myself.  
+❌ The automatic lighting system will switch on my fog lights  
+**Comment**:  Driver assistance systems (DAS) and comfort functions such as an automatic light system are not yet 100% reliable. 
+Under certain circumstances, especially in fog and twilight, the dipped headlights, for example, do not switch on automatically. 
+As a result, I may be seen later than usual by following road users. This is because the rear lights remain switched off when 
+driving with daytime running lights. In such cases, I have to switch on the low beam and fog lights manually myself.  
   
 376. How can you prevent a child from opening a door while the vehicle is moving?right  
 I activate  
-❌the central locking system  
+❌ the central locking system  
 ✅ the child safety locks on the rear doors  
-**Comment**:  If I activate the child locks on the rear doors before driving, children cannot open them from the inside. This gives me more security while driving.  
+**Comment**:  If I activate the child locks on the rear doors before driving, children cannot open them from the inside. This 
+gives me more security while driving.  
   
-377. Your motor vehicle is equipped with a lane change assist system without steering intervention. While driving, the warning light flashes on the  
-left-hand exterior rear-view mirror. What is this warning light indicating?  
+377. Your motor vehicle is equipped with a lane change assist system without steering intervention. While driving, the warning  
+light flashes on the left-hand exterior rear-view mirror. What is this warning light indicating?  
 ✅ You may not now perform a lane change to the left  
-❌You can now perform a lane change to the left without any risk  
+❌ You can now perform a lane change to the left without any risk  
 ✅ Another vehicle is located within the monitored area  
-**Comment**:  A lane change assistant without steering intervention can only warn, not intervene. The responsibility lies with me. I have to pay  
-attention to the warning signs before changing lanes and, if necessary, follow them. The warning light indicates a vehicle in the blind spot,  
-so I'm not allowed to change lanes now.  
+**Comment**:  A lane change assistant without steering intervention can only warn, not intervene. The responsibility lies with me. 
+I have to pay attention to the warning signs before changing lanes and, if necessary, follow them. The warning light indicates a 
+vehicle in the blind spot, so I'm not allowed to change lanes now.  
   
 378. What is the main function of the headrest in a car?  
 The head rest  
-❌improves the seating position  
-❌replaces the seatbelt in the rear seats  
+❌ improves the seating position  
+❌ replaces the seatbelt in the rear seats  
 ✅ enhances safety for the occupants  
-**Comment**:  Head restraints prevent injuries to the cervical spine (“whiplash”) in the event of a rear-end collision. This increases the safety  
-of people traveling with you. For headrests to be effective, it is important to adjust them correctly. Headrests cannot replace seat belts.  
-They must always be created.  
+**Comment**:  Head restraints prevent injuries to the cervical spine (“whiplash”) in the event of a rear-end collision. This  
+increases the safety of people traveling with you. For headrests to be effective, it is important to adjust them correctly.  
+Headrests cannot replace seat belts. They must always be created.  
   
 379. What should you note regarding the trailer coupling, when transporting pedelecs on a rear-mounted carrier system?  
 In view of the heavy weight of the pedelecs  
 ✅ the car’s tyre inflation pressure must be adjusted appropriately  
 ✅ the rear-mounted carrier system must be suitably designed  
 ✅ the trailer coupling must have a suitable vertical load capacity  
-**Comment**:  Bicycles with electric drives and batteries (also: Pedelcs) are heavier than others. When transporting with a rear carrying system on  
-a car: 1. the system must be suitable / 2. the support load of the trailer hitch must be sufficient / 3. the tire inflation pressure of the car  
-must be adjusted accordingly if necessary.  
+**Comment**:  Bicycles with electric drives and batteries (also: Pedelcs) are heavier than others. When transporting with a rear 
+carrying system on a car: 1. the system must be suitable / 2. the support load of the trailer hitch must be sufficient / 3. the 
+tire inflation pressure of the car must be adjusted accordingly if necessary.  
   
 380. What is the function of engine oil in a combustion engine?  
 Engine oil boosts  
 ✅ cleaning  
 ✅ cooling  
 ✅ wear protection  
-**Comment**:  The lubrication system transports the engine oil to components that rub against each other. The oil film protects e.g. B. pistons and  
-cylinders from wear and at the same time serves to clean and cool the components. Engine oil prevents pistons and bearings from seizing.  
+**Comment**:  The lubrication system transports the engine oil to components that rub against each other. The oil film protects  
+e.g. B. pistons and cylinders from wear and at the same time serves to clean and cool the components. Engine oil prevents pistons   
+and bearings from seizing.  
   
 381. While driving, the inside of your vehicle’s windscreen begins to mist over. How can you counteract this?  
 ✅ By turning on the climate control system  
-❌By opening the window if the outdoor humidity level is high  
+❌ By opening the window if the outdoor humidity level is high  
 ✅ By directing the airflow onto the windscreen at full power  
 **Comment**:   
-Switching on the ventilation at the highest level (MAX mode) and the air conditioning can help prevent the vehicle's windshield from fogging  
-up after just a short time. Opening the windows, on the other hand, helps little to nothing, especially not when the outside air humidity is high.  
+Switching on the ventilation at the highest level (MAX mode) and the air conditioning can help prevent the vehicle's windshield  
+from fogging up after just a short time. Opening the windows, on the other hand, helps little to nothing, especially not when  
+the outside air humidity is high.  
   
 382. How must a load be marked in darkness or bad visibility when it extends laterally more than 40 cm beyond the side lights of the vehicle?  
 ✅ By a red light to the back  
 ✅ By a white light to the front  
-❌By switching on the hazard warning lights  
+❌ By switching on the hazard warning lights  
 **Comment**:   
-Other road users must be able to see cargo that protrudes more than 40cm beyond the side lights, even in poor visibility. It is therefore mandatory  
-that this load is identified at the front by white light and at the rear by red light.  
+Other road users must be able to see cargo that protrudes more than 40cm beyond the side lights, even in poor visibility. It is 
+therefore mandatory that this load is identified at the front by white light and at the rear by red light.  
   
 383. What can interfere with your view?  
 ✅ Smeared windows  
 ✅ Worn wiper blades (formation of streaks)  
 ✅ The load  
-**Comment**:  Good all-round visibility is an important prerequisite for proactive and safe driving. Loads or dirty windows as a result of worn wiper blades  
-can impair visibility. Ensure a clear view immediately.  
+**Comment**:  Good all-round visibility is an important prerequisite for proactive and safe driving. Loads or dirty windows as a 
+result of worn wiper blades can impair visibility. Ensure a clear view immediately.  
   
 384. The lane keeping assist system warns you with acoustic, haptic or optical signals. What might be the cause of this?  
-❌Another vehicle is overtaking me with not enough side clearance  
+❌ Another vehicle is overtaking me with not enough side clearance  
 ✅ My vehicle is getting close to the road markings at the side of the road  
-❌My vehicle is undercutting the safety distance to the vehicle ahead  
-**Comment**:  Assistance systems are highly specialized. If the lane departure warning system becomes noticeable, it has probably detected a driving error,  
-e.g. B. if I drive too close to the lane markings on the side. Other systems are responsible for distances to other vehicles, e.g. B. a distance  
-warning assistant.  
+❌ My vehicle is undercutting the safety distance to the vehicle ahead  
+**Comment**:  Assistance systems are highly specialized. If the lane departure warning system becomes noticeable, it has 
+probably detected a driving error, e.g. B. if I drive too close to the lane markings on the side. Other systems are responsible 
+for distances to other vehicles, e.g. B. a distance warning assistant.  
   
 385. What is caused by driving with winter tyres during the summer months?  
 It increases  
 ✅ the fuel consumption  
 ✅ tyre wear  
-❌driving stability  
+❌ driving stability  
 **Comment**:  Winter tires are optimized for the cold season. In summer they wear out more quickly and their nature means they consume more fuel  
   
 386.What inhibits the operation of a three-point seatbelt?  
 ✅ Not fully locking the belt into the harness buckle  
 ✅ Passing the belt under both arms  
 ✅ Wearing a thick winter coat  
-**Comment**:  To be fully effective, seat belts must be worn correctly. Wearing a thick winter jacket or running the belt under both arms severely limits its  
-function. Not fully engaging the belt buckle is also an avoidable safety problem!  
+**Comment**:  To be fully effective, seat belts must be worn correctly. Wearing a thick winter jacket or running the belt under both 
+arms severely limits its function. Not fully engaging the belt buckle is also an avoidable safety problem! 
   
 387. What must you do when transporting bicycles on the roof of your car?  
 ✅ Safely attach holding device and bicycles  
 ✅ Regularly check the fixing devices  
 ✅ Avoid driving at high speed  
-**Comment**:  Anyone who transports bicycles must ensure that other road users are not endangered. Make sure the holding device and the bicycles  
-are securely fastened. The fastening must be checked regularly. If bicycles are transported on the roof, the driving characteristics deteriorate  
-due to the increased center of gravity. Therefore, high speeds should be avoided.  
+**Comment**:  Anyone who transports bicycles must ensure that other road users are not endangered. Make sure the holding device and  
+the bicycles are securely fastened. The fastening must be checked regularly. If bicycles are transported on the roof, the driving  
+characteristics deteriorate due to the increased center of gravity. Therefore, high speeds should be avoided.  
   
 388. A lane assist system with corrective steer control can help you when driving. What should you be aware of?  
 A lane assist system with corrective steer control can  
 ✅ keep the vehicle in lane if the road markings are clear  
 ✅ not function if the road markings are poor  
-❌compensate for a lack of fitness to drive (e.g. tiredness)  
-**Comment**:  The lane keeping assistant only works reliably if the road markings are clearly visible. Weather influences, dirty markings and construction  
-sites with yellow and white markings can cause problems!  
+❌ compensate for a lack of fitness to drive (e.g. tiredness)  
+**Comment**:  The lane keeping assistant only works reliably if the road markings are clearly visible. Weather influences, dirty  
+markings and construction sites with yellow and white markings can cause problems!  
   
 389. The cruise control system of your motor vehicle is set to 130 km/h. What is the right course of action now?  
 I have to  
-❌move to the right-hand lane  
+❌ move to the right-hand lane  
 ✅ restore the safety distance by braking  
-❌overtake the motorbike  
-**Comment**:  The “simple” cruise control system “cruise control” can maintain the speed, but cannot detect external changes (e.g. vehicles ahead  
-slowing down). As a driver, I am responsible for this. I switch off the default setting by braking or accelerating.  
+❌ overtake the motorbike  
+**Comment**:  The “simple” cruise control system “cruise control” can maintain the speed, but cannot detect external changes 
+(e.g. vehicles ahead slowing down). As a driver, I am responsible for this. I switch off the default setting by braking or 
+accelerating.  
   
 390. When you press on the brake pedal, it touches the floor. Only when you press on it several times does the pedal travel become shorter. What must you do?  
-❌It is sufficient to fill up the brake fluid  
+❌ It is sufficient to fill up the brake fluid  
 ✅ Park the car immediately  
 ✅ Have the brakes repaired  
-**Comment**:  When testing the brakes while stationary, you will feel resistance about a third of the way through the pedal travel: the  
-raking effect begins. After a maximum of two thirds of the full travel of the pedal, the pedal must no longer give way. If the pedal  
-travel is too long and only becomes shorter after repeated pedaling, there is air in the brake system. Since sufficient braking power  
-is not possible, you are no longer allowed to drive the vehicle. Stop the vehicle immediately and have the brake repaired.  
+**Comment**:  When testing the brakes while stationary, you will feel resistance about a third of the way through the pedal  
+travel: the raking effect begins. After a maximum of two thirds of the full travel of the pedal, the pedal must no longer  
+give way. If the pedal travel is too long and only becomes shorter after repeated pedaling, there is air in the brake system.  
+Since sufficient braking power is not possible, you are no longer allowed to drive the vehicle. Stop the vehicle immediately  
+and have the brake repaired.  
   
 391. Where can you stow your baggage so that you do not increase your fuel consumption unnecessarily?  
 ✅ Behind the front seats  
-❌On the roof-rack  
+❌ On the roof-rack  
 ✅ In the boot  
-**Comment**:  Loading on the roof increases air resistance and fuel consumption. Therefore, if possible, luggage should be stored in the  
-trunk or behind the front seats.  
+**Comment**:  Loading on the roof increases air resistance and fuel consumption. Therefore, if possible, luggage should be stored  
+in the trunk or behind the front seats.  
   
 392. How can driver assistance systems be helpful?  
-❌To compensate for unfitness to drive  
+❌ To compensate for unfitness to drive  
 ✅ In increasing road safety  
 ✅ In assisting the driver  
-**Comment**:  Each assistance system only offers auxiliary functions. The person in the driver's seat remains responsible. If used consciously,  
-the technology can relieve the driver and increase road safety. But it cannot replace him.  
+**Comment**:  Each assistance system only offers auxiliary functions. The person in the driver's seat remains responsible. If used 
+consciously, the technology can relieve the driver and increase road safety. But it cannot replace him.  
   
 393. In what situation can the lane keep assist system with steering override help you?  
 When driving  
 ✅ on rural roads  
 ✅ on motorways  
-❌in constricted roadworks sites with poor road markings  
-**Comment**:  The Lane Keeping Assist offers good support when driving on country roads or motorways. Under special circumstances (e.g. dirty  
-road surfaces or poor road markings), an assistance system's function may be restricted. Then I have to take over all the tasks myself again.  
+❌ in constricted roadworks sites with poor road markings  
+**Comment**:  The Lane Keeping Assist offers good support when driving on country roads or motorways. Under special circumstances  
+(e.g. dirty road surfaces or poor road markings), an assistance system's function may be restricted. Then I have to take over all  
+the tasks myself again.  
   
 394. When planning your journeys, how can you make them environmentally-friendlier?  
 By  
 ✅ combining several destinations into one single trip  
 ✅ forming car pools with other vehicle users  
 ✅ planning to use public transport instead of my own vehicle  
-**Comment**:   
-The best way to plan my trips in an environmentally friendly way is to combine several destinations into one trip, carpool with others  
-(e.g. colleagues) or use public transport (bus or train).  
+**Comment**: The best way to plan my trips in an environmentally friendly way is to combine several destinations into one trip,  
+carpool with others (e.g. colleagues) or use public transport (bus or train).  
   
 395. You want to overtake and you have initiated a lane change using the active lane change assist system. What is correct?right  
 ✅ The systems independently performs the lane change  
 ✅ I have to monitor the lane change  
 ✅ The system always maintains all safety distances independently  
-**Comment**:  An active lane change assistant can carry out the entire lane change process automatically. As the responsible driver,  
-I have to monitor lane changes and take corrective action if necessary, for example to prevent a collision. The system can e.g.  
-It does NOT ALWAYS all safety distances can be reliably maintained  
+**Comment**:  An active lane change assistant can carry out the entire lane change process automatically. As the responsible  
+driver, I have to monitor lane changes and take corrective action if necessary, for example to prevent a collision. The system  
+can e.g. It does NOT ALWAYS all safety distances can be reliably maintained  
   
 396. What is the minimum distance you must leave clear when parking outside a built-up area before a St. Andrew's Cross?  
 Answer: 50 m  
 **Comment**:  Outside town, you are not allowed to park within 50m of a St. Andrew's Cross.  
   
 397. Where must you use a parking disc for parking?  
-❌In a no-waiting area  
+❌ In a no-waiting area  
 ✅ Where stipulated by traffic signs  
 ✅ At a defective parking meter  
 **Comment**:  To ensure that as many drivers as possible can use the limited parking space, parking times are limited in many places.  
@@ -2992,24 +3019,24 @@ you do not have to use the parking meter.
 400. You are looking for somewhere to park on the right edge of the street. There is no cycle path to the right of your lane. ----IMP  
 How many metres before and after a junction are you not allowed to park?  
 ✅ _5m_  
-**Comment**: StVO: “Parking is not permitted in front of and behind intersections and junctions up to 5 m from the intersection of the   
-road edges.” If there is a cycle path to the right of the road in the direction of travel, I am not even allowed to park up to 8 m in   
-front of an intersection/junction park.  
+**Comment**: StVO: “Parking is not permitted in front of and behind intersections and junctions up to 5 m from the intersection  
+of the road edges.” If there is a cycle path to the right of the road in the direction of travel, I am not even allowed to park  
+up to 8 m in front of an intersection/junction park.  
   
 401. What is allowed on priority roads outside built-up areas? ---- IMP  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_104.jpg)  
 ✅ Parking on the hard shoulder  
 ❌ Parking on the roadway  
 ✅ Stopping on the right edge of the roadway  
-**Comment**On priority roads outside built-up areas, stopping on the right side of the road and parking only on the shoulder is   
-permitted. Parking on the road is expressly prohibited.  
+**Comment**On priority roads outside built-up areas, stopping on the right side of the road and parking only on the shoulder 
+is permitted. Parking on the road is expressly prohibited.  
   
 402. During twilight or the hours of darkness, when must you have your side lights switched on as a minimum requirement?  
-❌When driving on roads with adequate continuous lighting  
+❌ When driving on roads with adequate continuous lighting  
 ✅ When the vehicle is parked on the hard shoulder outside built-up areas  
 **Comment**:  In order for a vehicle parked on the side of the road or on the shoulder to be noticed in good time in the dark,  
-it must be sufficiently illuminated. If the vehicle is parked on the road outside built-up areas, the parking light is no longer sufficient;  
-the parking lights must be switched on.  
+it must be sufficiently illuminated. If the vehicle is parked on the road outside built-up areas, the parking light is no longer 
+sufficient; the parking lights must be switched on.  
   
 403. You experience a breakdown outside of a built-up area. Your car is situated on the carriageway, behind a bend in the road.  
 Which is correct in this situation?  
@@ -3019,9 +3046,9 @@ Which is correct in this situation?
   
 404. Up to which permissible total mass may motor vehicles be parked on specially designated footpaths? __2.8 tonnes__  
   
-405. Before which sign must you maintain a distance of at least 10 m, if it would otherwise be concealed by your vehicle?  --❌IMP  
+405. Before which sign must you maintain a distance of at least 10 m, if it would otherwise be concealed by your vehicle?  ---IMP  
 ✅ Stop. Give way.  
-❌No stopping  
+❌ No stopping  
 ✅ Diagonal cross  
 Comment :Important traffic signs such as the St. Andrew's Cross (Also known as St. Andrew Cross )or "Stop. Give way." and  
 traffic lights must always be visible in good time. That's why you shouldn't cover them with the vehicle when stopping.  
@@ -3030,7 +3057,7 @@ To ensure a clear view of the sign, you must maintain a distance of at least 10 
 406. Where are you allowed to park a trailer with a permissible total mass exceeding 2 t in built-up areas regularly on  
 sundays and public holidays and between 10 p.m. and 6 a.m.?  
 ✅ In wholly residential areas, on specially designated parking spaces  
-❌In special areas reserved for recreation purposes, on sufficiently wide roads  
+❌ In special areas reserved for recreation purposes, on sufficiently wide roads  
 ✅ In industrial areas  
 **Comment**:  Trailers with a permissible total mass of over 2 tonnes are allowed to park regularly in commercial areas and  
 in appropriately marked parking spaces in residential areas, including on Sundays and public holidays and between 10 p.m. and 6 a.m.  
@@ -3065,7 +3092,7 @@ get in on the side of the sidewalk. If you get in on the side of the road, you s
 I have to  
 ✅ turn on my hazard lights and park as far to the right as possible  
 ✅ place the warning triangle at a distance of about 100 m  
-❌continue driving to the next exit  
+❌ continue driving to the next exit  
   
 412. You want to park on the right-hand side edge of the carriageway. How big is the mandatory minimum distance between your  
 vehicle and the solid lane boundary line? __3m__  
@@ -3073,14 +3100,15 @@ vehicle and the solid lane boundary line? __3m__
 not allowed to cross the lane boundary can drive past my vehicle unhindered.  
   
 413. Your car has an engine fault and must be towed away with a tow rope. What must you be aware of?  
-❌Driving licence class BE is the minimum required in order to tow a car  
+❌ Driving licence class BE is the minimum required in order to tow a car  
 ✅ A malfunctioning car with assisted steering is difficult to steer  
 ✅ When towing an electric vehicle, it is necessary to following the manufacturer’s guidelines  
-**Comment**:  There are a few things to consider when towing. A steering aid (power steering) only works when the engine is running.  
-If the engine fails, steering becomes difficult. Special conditions apply to electric vehicles: Always follow the manufacturer's instructions  
+**Comment**:  There are a few things to consider when towing. A steering aid (power steering) only works when the engine is  
+running. If the engine fails, steering becomes difficult. Special conditions apply to electric vehicles: Always follow the  
+manufacturer's instructions  
   
 414. Where is parking prohibited?  
-❌On priority roads within built-up areas  
+❌ On priority roads within built-up areas  
 ✅ At the edge of the roadway if this would prevent others from using designated parking areas  
 ✅ On priority roads outside built-up areas  
 **Comment**:  Anyone who leaves their vehicle or stops for longer than 3 minutes is parking. Parking is not permitted everywhere.  
@@ -3089,15 +3117,15 @@ on the carriageway of priority roads outside built-up areas.
   
 415. You are looking for a place to park on the right edge of the carriageway. A cycle path runs alongside to the right of the carriageway. How many metres before a junction or an intersection are you prohibited from parking?  
 __8m__  
-**Comment**:  StVO: Parking is not permitted in front of intersections and junctions up to 8 m from the intersection of the edges of  
-the  carriageway, provided that a cycle path has been constructed to the right of the carriageway in the direction of travel (Section  
-12 (3)). This regulation is intended to increase the visibility and safety of cyclists.  
+**Comment**:  StVO: Parking is not permitted in front of intersections and junctions up to 8 m from the intersection of the edges  
+of the  carriageway, provided that a cycle path has been constructed to the right of the carriageway in the direction of travel  
+(Section 12 (3)). This regulation is intended to increase the visibility and safety of cyclists.  
   
 416. Where is stopping prohibited?  
 ✅ On the roadway, if there is a sufficiently wide hard shoulder on the right  
 ✅ At taxi ranks  
 ✅ Between lane dividers when direction arrows are marked on the roadway  
-**Comment**:  Stopping is a voluntary interruption of the journey that is not caused by the traffic situation or an order.  
+**Comment**: Stopping is a voluntary interruption of the journey that is not caused by the traffic situation or an order.  
 Stopping is prohibited where the “No stopping” sign prescribes it. Stopping is also prohibited on marked lanes with  
 directional arrows, at cab ranks and on the carriageway if there is a suitable hard shoulder on the right.  
   
@@ -3105,7 +3133,7 @@ directional arrows, at cab ranks and on the carriageway if there is a suitable h
 ✅ On merging and demerging lanes  
 ❌ In front of entrances to and exits from property lots  
 ✅ On lanes marked with direction arrows  
-**Comment**:  Stopping is always prohibited if the stopping vehicle creates a hazard or obstruction, e.g. on merging and merging  
+**Comment**: Stopping is always prohibited if the stopping vehicle creates a hazard or obstruction, e.g. on merging and merging  
 lanes or on marked lanes with directional arrows.  
   
 418. Where is stopping prohibited?  
@@ -3128,9 +3156,9 @@ permitted. The vehicle in front of the crosswalk stops incorrectly!
 ❌ In non-parking zones  
 ✅ In front of fire service access roads  
 ❌ On any one-way road  
-**Comment**:  StVO: “Stopping is not permitted in front of and in officially marked fire lanes.” In one-way streets, on the other hand,  
-there are often places to stop and park. I may not be allowed to PARK in no-parking zones, but STOPPING is not generally prohibited   
-there.  
+**Comment**:  StVO: “Stopping is not permitted in front of and in officially marked fire lanes.” In one-way streets, on the other  
+hand, there are often places to stop and park. I may not be allowed to PARK in no-parking zones, but STOPPING is not generally  
+prohibited there.  
   
 421. What must you remember when parking a trailer without a truck?  
 The trailer  
@@ -3150,13 +3178,13 @@ period of time. Attach the parking ticket clearly legible on or in the vehicle, 
 423. A car with power steering has broken down with engine damage and must be towed away. What is correct? ----IMP  
 The steering of the broken down car  
 ✅ is considerably heavier  
-❌is not impaired  
-❌is locked  
+❌ is not impaired  
+❌ is locked  
 **Comment**:  The power steering assistance only works when the engine is running. The steering assistance fails in the event of   
 engine damage. When towing, remember that the steering of the broken-down vehicle is heavier.  
   
 424. Where is parking prohibited?  
-❌Immediately behind pedestrian crossings  
+❌ Immediately behind pedestrian crossings  
 ✅ At taxi ranks  
 ✅ On narrow roadways opposite driveway entrances and exits  
 **Comment**:  Property exits must not be blocked. Parking is therefore prohibited there, and on narrow streets also opposite.  
@@ -3165,22 +3193,22 @@ Cab ranks are reserved for cabs. The cab rank sign includes the “No stopping�
 425. How do you secure a car with a manual gearbox against rolling away on a downhill slope?  
 ✅ Apply the parking brake  
 ✅ Engage first gear or reverse gear  
-❌Put the gear lever in neutral position  
+❌ Put the gear lever in neutral position  
 **Comment**:  A car parked on a hill must be secured against rolling away. For vehicles with manual transmission,  
 apply the parking brake (handbrake) and engage first gear or reverse gear.  
   
 426. At 10.40, you enter an area where parking is allowed for 2 hours when using a parking disc. What time must you set on   
 the parking disc?  
-❌13.00  
+❌ 13.00  
 ✅ 11.00  
-❌12.40  
+❌ 12.40  
 **Comment**:  The parking disk is set so that the pointer points to the half-hour mark following the time of arrival. This means   
 that 11 o'clock must be set here. Make sure that the parking disk is easy to read from the outside.  
   
 427. You have stopped in a parking strip and now want to exit your vehicle. What must you do in this situation?  
 I observe the traffic approaching from the rear  
 ✅ by looking in my left-hand exterior rear-view mirror before opening the door  
-❌just by looking through the slightly opened door  
+❌ just by looking through the slightly opened door  
 ✅ by glancing over my left shoulder before opening the door  
 **Comment**:  If you want to get out of the vehicle, you must not endanger moving traffic (including cyclists) and pedestrians.  
 After stopping, I first look in the wing mirror . Before opening the door, I look over my shoulder to make sure that nobody  
@@ -3191,26 +3219,26 @@ the door! If necessary, remind passengers to act carefully before getting out of
 During towing  
 ✅ the hazard lights must be switched on on both vehicles  
 ✅ the towing cable should be kept as taut as possible  
-❌the motorway may only be used to shorten the journey to the next car garage  
+❌ the motorway may only be used to shorten the journey to the next car garage  
 **Comment**:  Note when towing: The journey may only go as far as the nearest suitable workshop, leave the highway at the next exit,  
 hazard warning lights must be switched on in both vehicles. Drive slowly and make sure that the rope remains taut.  
   
 429. You car has a fault and can no longer be driven. What must you be aware of during towing?  
 During towing  
 ✅ a towing bar should be used where possible  
-❌the rear fog lights should also be switched on to indicate the towing procedure  
+❌ the rear fog lights should also be switched on to indicate the towing procedure  
 ✅ the force required to operate the brake pedal is significantly greater if the engine has failed  
-**Comment**:  If the engine fails due to a defect, the power steering and brake booster no longer work and the braking effect is only  
-slight ❌even with increased pedal pressure. If possible, use a tow bar for towing in such a case. It keeps the distance  
+**Comment**:  If the engine fails due to a defect, the power steering and brake booster no longer work and the braking effect  
+is only slight - even with increased pedal pressure. If possible, use a tow bar for towing in such a case. It keeps the distance   
 between the two vehicles constant.  
   
 430. Where is it sufficient to use your parking lights while your car is parked on an unlit roadway?  
 ✅ In built-up areas  
-❌Outside built-up areas  
-❌On the hard shoulder of autobahns  
-**Comment**:  Parked vehicles must be clearly visible in the dark so that other vehicles can safely avoid them. If there is insufficient  
-street lighting, you must use your own lighting sources, for example parking lights or parking lights. As the light from parking  
-lights does not reach far, parking lights may only be used within built-up areas.  
+❌ Outside built-up areas  
+❌ On the hard shoulder of autobahns  
+**Comment**:  Parked vehicles must be clearly visible in the dark so that other vehicles can safely avoid them. If there is  
+insufficient street lighting, you must use your own lighting sources, for example parking lights or parking lights. As the  
+light from parking lights does not reach far, parking lights may only be used within built-up areas.  
   
 431. You want to park in front of a St. Andrew's Cross in a built-up area. What is the minimum distance you must leave clear?  
 Answer: 5m  
@@ -3219,45 +3247,46 @@ Answer: 5m
 432. Where is stopping prohibited?  
 ✅ Outside parking areas on autobahns and clearways for motor vehicles only  
 ✅ Near or on sharp bends  
-❌At bus stops  
+❌ At bus stops  
 **Comment**:  Stopping bans serve the flow and safety of traffic. For this reason, it is not permitted to stop on highways and motorways  
 outside of parking spaces and around sharp bends.  
   
 433. What must you remember when towing?  
 ✅ The distance between the vehicles must not exceed 5 m  
-❌Motorcycles may only be towed with a fixed connection  
+❌ Motorcycles may only be towed with a fixed connection  
 ✅ Tow-rope/tow-bar must be clearly marked  
-**Comment**:  A tow rope or tow bar is difficult for other road users to see. You must therefore mark the rope or tow bar, e.g. with a red cloth.  
-In this way, other road users, e.g. pedestrians who want to cross the road between the two vehicles, are visually warned. A small distance  
-between the towing and towed vehicle ❌maximum 5m ❌supports this precautionary measure.  
+**Comment**:  A tow rope or tow bar is difficult for other road users to see. You must therefore mark the rope or tow bar, e.g. with 
+a red cloth. In this way, other road users, e.g. pedestrians who want to cross the road between the two vehicles, are visually warned. 
+A small distance between the towing and towed vehicle - maximum 5m - supports this precautionary measure.  
   
 434. What is the maximum length of time you are allowed to stop at a bus stop provided you do not present an obstruction to buses?  
 Answer: 3 minutes  
   
 435. Where may you park here?  
 In my direction of travel  
-❌on the right-hand hard shoulder only  
-❌on the left-hand hard shoulder only  
+❌ on the right-hand hard shoulder only  
+❌ on the left-hand hard shoulder only  
 ✅ on the left and right-hand hard shoulders  
-**Comment**:  Parking is permitted on both sides of streets with only one direction of travel (one-way streets), in this case on the left and  
-right-hand hard shoulder.  
+**Comment**:  Parking is permitted on both sides of streets with only one direction of travel (one-way streets), in this case on the 
+left and right-hand hard shoulder.  
   
 436. Where is stopping prohibited?  ----IMP  
 ✅ On pedestrian crossings and up to 5 m before pedestrian crossings  
-❌Over manholes and other road covers  
-❌Immediately behind pedestrian crossings  
+❌ Over manholes and other road covers  
+❌ Immediately behind pedestrian crossings  
 **Comment**:  Stopping is a voluntary interruption of the journey that is not caused by the traffic situation or an order.  
-Stopping is prohibited where the “No stopping” sign prescribes it. Stopping is also prohibited on crosswalks and up to 5 m in front of them.  
+Stopping is prohibited where the “No stopping” sign prescribes it. Stopping is also prohibited on crosswalks and up to 5 m 
+in front of them.  
   
 437. What does it mean when the flashing blue light of a vehicle is switched on but not the siren?  
-❌A breakdown vehicle is on duty and on its way to its destination  
+❌ A breakdown vehicle is on duty and on its way to its destination  
 ✅ Warning of fire-brigade in action  
 ✅ Warning of an accident or other dangers  
 **Comment**:  Blue flashing light without emergency horn warns at accident sites or other police, fire department and other emergency sites.  
   
 438. What is the right course of action now?  
 I stop, switch off the engine and  
-❌wait in the vehicle for the scene of the accident to be cleared  
+❌ wait in the vehicle for the scene of the accident to be cleared  
 ✅ exit the tunnel via the emergency exit  
 ✅ leave the ignition key or transponder behind when leaving the vehicle  
 **Comment**:  In the event of an accident with smoke in the tunnel, the following emergency rules apply: Immediately switch on the hazard  
@@ -3266,7 +3295,7 @@ warning lights, pull over to the side of the road or into a lay-by and switch of
 if necessary, activate the fire alarm at the nearest emergency call station.  
   
 439. What do you do in case of a breakdown in a tunnel?right  
-❌Let the engine run by way of precaution  
+❌ Let the engine run by way of precaution  
 ✅ Switch on the hazard warning lights  
 ✅ If possible, park the vehicle in an emergency bay  
 **Comment**:  In the event of a breakdown, switch on the hazard warning lights immediately and try to reach a breakdown bay where your vehicle  
@@ -3276,37 +3305,37 @@ right if possible and call for help on the emergency telephone.
 440. While driving in a tunnel you were forced to bring your vehicle to a halt due to a fire. What should you do now?  
 ✅ I trigger the fire alarm at the emergency call point  
 ✅ I extinguish the fire as best I can  
-❌I lock my vehicle  
+❌ I lock my vehicle  
 **Comment**:  If your vehicle catches fire in the tunnel, stop the vehicle with hazard warning lights flashing and trigger the fire alarm at the  
 emergency call station. If possible, extinguish the fire yourself, e.g. with a fire extinguisher from the emergency call station. Do not  
 lock the vehicle, leave the ignition key in the ignition.  
   
 441. As a basic rule, what lights of a motor vehicle must be turned on when driving in darkness?  
-❌The driving beam  
+❌ The driving beam  
 ✅ The dipped headlight  
-❌Only the parking light  
+❌ Only the parking light  
 **Comment**:  STANDING lights alone are not sufficient for DRIVING in the dark, as the name suggests. To be able to see and be seen in the dark,  
 you have to switch on the low beam.  
   
 442. When driving, what can cause you to miss warning signals?  
-❌Driving at a low engine speed  
+❌ Driving at a low engine speed  
 ✅ Listening to loud music  
 ✅ Becoming distracting during a telephone call  
-**Comment**:  Drivers are responsible for ensuring that they can hear relevant traffic signals at all times. Loud music or intensive phone calls  
-can lead to the siren or other warning signals being ignored, for example. This does not include driving at low engine speed, as the engine  
-is comparatively quiet in the low speed range.  
+**Comment**:  Drivers are responsible for ensuring that they can hear relevant traffic signals at all times. Loud music or  
+intensive phone calls can lead to the siren or other warning signals being ignored, for example. This does not include  
+driving at low engine speed, as the engine is comparatively quiet in the low speed range.  
   
 443. What must you do now?  
 I continue driving on my lane  
 ✅ as far to the right as possible  
-❌as far to the left as possible  
-❌in the centre  
-**Comment**:  Traffic jam on the 3-lane highway. I switch on the hazard warning lights. An emergency vehicle is approaching from behind  
-(rear-view mirror). The vehicles in the two left-hand lanes have to form an emergency lane, so I have to drive as far to the right as possible!  
-TIP: Watch the movie again and pay attention to slowing down and hazard lights!  
+❌ as far to the left as possible  
+❌ in the centre  
+**Comment**:  Traffic jam on the 3-lane highway. I switch on the hazard warning lights. An emergency vehicle is approaching from  
+behind (rear-view mirror). The vehicles in the two left-hand lanes have to form an emergency lane, so I have to drive as far to  
+the right as possible! TIP: Watch the movie again and pay attention to slowing down and hazard lights!  
   
 444. What should you do in this kind of visibility? (Main beam light on by the oncoming traffic)  
-❌I switch on my main beam lights  
+❌ I switch on my main beam lights  
 ✅ I keep towards the right-hand edge of the carriageway  
 ✅ I reduce my speed  
 **Comment**:  If an oncoming vehicle dazzles me, I don't look at its headlights, but look to the right-hand side of the road. If necessary, I slow down.  
@@ -3316,45 +3345,47 @@ Why should you refrain from overtaking in order to prevent a dangerous situation
 ✅ Because I should not break the convoy by pulling back into my lane early  
 ✅ Because the overtaking distance is considerably larger than with single vehicles  
 ✅ Because I cannot assess the road traffic situation ahead of the convoy  
-**Comment**:  Vehicle convoys or columns, e.g. of the German Federal Armed Forces, the Federal Agency for Technical Relief (THW) or the fire department,  
-must not be interrupted. In each case, this is a “closed formation”. I should refrain from overtaking because the situation is usually difficult  
-to see and the length of the overtaking distance is very long and difficult to estimate. In addition, prematurely cutting in when overtaking would  
-cause unwanted interruptions.  
+**Comment**:  Vehicle convoys or columns, e.g. of the German Federal Armed Forces, the Federal Agency for Technical Relief (THW)  
+or the fire department, must not be interrupted. In each case, this is a “closed formation”. I should refrain from overtaking  
+because the situation is usually difficult to see and the length of the overtaking distance is very long and difficult to estimate.  
+In addition, prematurely cutting in when overtaking would cause unwanted interruptions.  
   
 446. You are being followed by an ambulance with its blue lights flashing and siren sounding. What should you do?  
-❌I make way immediately once the traffic light has turned green  
-❌I prompt the driver of the vehicle beside me to make way  
+❌ I make way immediately once the traffic light has turned green  
+❌ I prompt the driver of the vehicle beside me to make way  
 ✅ I move out of the way immediately without endangering others  
   
 447. Why should you always carry the European accident report form with you on your journey?  
 Because, in the event of an accident, the European accident report form  
 ✅ enables the parties involved to independently document the accident  
 ✅ makes it easier to document the accident with foreign-speaking parties involved in the accident  
-❌unambiguously clarifies the issue of liability at the scene of the accident  
-**Comment**:  In the event of a traffic accident, the standardized European Accident Report can be helpful. Not only does it facilitate documentation  
-across language barriers, but ❌if the parties involved are in agreement ❌it also enables the accident to be recorded independently without the  
-police. However, the parties involved cannot settle the question of liability among themselves ❌not even with forms.  
+❌ unambiguously clarifies the issue of liability at the scene of the accident  
+**Comment**:  In the event of a traffic accident, the standardized European Accident Report can be helpful. Not only does it  
+facilitate documentation across language barriers, but - if the parties involved are in agreement - it also enables the accident  
+to be recorded independently without the police. However, the parties involved cannot settle the question of liability among  
+themselves - not even with forms.  
   
 448. When are you allowed to use fog headlamps also during the day?  
 When visibility is considerably reduced  
 ✅ by rain  
-❌by ice on the windscreen  
+❌ by ice on the windscreen  
 ✅ by fog or falling snow  
 **Comment**:  Fog lights may only be switched on if visibility is significantly impaired by rain, snowfall or fog. This also applies during the day.  
   
 449. What risks could arise if you drive with your main beam lights on?  
 ✅ Wild animals on the road will be dazzled and will remain stationary in the light beam  
 ✅ Oncoming road users will be dazzled  
-❌Stationary vehicles on my side of the road will not be detected until it is too late  
-**Comment**:  High beam dazzles oncoming traffic, who are then unable to see anything in time, e.g. pedestrians at the side of the road. If wild animals  
-are dazzled, they remain in the light cone on the road. Therefore, dip your headlights immediately.  
+❌ Stationary vehicles on my side of the road will not be detected until it is too late  
+**Comment**:  High beam dazzles oncoming traffic, who are then unable to see anything in time, e.g. pedestrians at the side of the  
+road. If wild animals are dazzled, they remain in the light cone on the road. Therefore, dip your headlights immediately.  
   
 450. What do you do in a tunnel with oncoming traffic?  
 ✅ Do not drive over the lane boundary markings  
 ✅ Do not make a U-turn  
-❌Drive over the lane boundary markings when overtaking  
-**Comment**:  In tunnels with only one tube for both directions, you must never cross the lane boundary (solid line). Follow the right-hand lane boundary  
-and not the center line. Do not stop, except in an emergency, and look for an emergency stop bay. Under no circumstances may you turn or reverse.  
+❌ Drive over the lane boundary markings when overtaking  
+**Comment**:  In tunnels with only one tube for both directions, you must never cross the lane boundary (solid line). Follow the  
+right-hand lane boundary and not the center line. Do not stop, except in an emergency, and look for an emergency stop bay. Under  
+no circumstances may you turn or reverse.  
   
 451. What can a flashing amber light on a vehicle be a warning for?  
 ✅ For a large transport proceeding at low speed  
