@@ -2977,274 +2977,250 @@ Which is correct in this situation?
 ✅ Stop. Give way.  
 ❌ No stopping  
 ✅ Diagonal cross  
-Comment :Important traffic signs such as the St. Andrew's Cross (Also known as St. Andrew Cross )or "Stop. Give way." and  
-traffic lights must always be visible in good time. That's why you shouldn't cover them with the vehicle when stopping.  
-To ensure a clear view of the sign, you must maintain a distance of at least 10 m from the traffic sign.  
+Comment :Important traffic signs such as the St. Andrew's Cross (Also known as St. Andrew Cross )or "Stop. Give way." and  traffic lights must always be visible in good time. That's why you shouldn't cover them with the 
+vehicle when stopping. To ensure a clear view of the sign, you must maintain a distance of at least 10 m from the traffic sign.  
   
 406. Where are you allowed to park a trailer with a permissible total mass exceeding 2 t in built-up areas regularly on  
 sundays and public holidays and between 10 p.m. and 6 a.m.?  
 ✅ In wholly residential areas, on specially designated parking spaces  
 ❌ In special areas reserved for recreation purposes, on sufficiently wide roads  
 ✅ In industrial areas  
-**Comment**:  Trailers with a permissible total mass of over 2 tonnes are allowed to park regularly in commercial areas and  
-in appropriately marked parking spaces in residential areas, including on Sundays and public holidays and between 10 p.m. and 6 a.m.  
+**Comment**:  Trailers with a permissible total mass of over 2 tonnes are allowed to park regularly in commercial areas and  in appropriately marked parking spaces in residential areas, including on Sundays and public 
+holidays and between 10 p.m. and 6 a.m.  
   
-407.You want to let a child out of your car. What should you be aware of when doing so?right  
+408. You want to let a child out of your car. What should you be aware of when doing so?  
 The child should  
 ✅ be warned of possible dangers when getting out of the car  
 ✅ exit the car on the same side as the footpath  
 ✅ not have to cross over the carriageway  
   
-408. When are you not allowed to park on the right-hand lane?  
+409. When are you not allowed to park on the right-hand lane?  
 ✅ If there is a suitable parking lane to the right of the road lane  
 ✅ If there is an adequately paved hard shoulder to the right of the road lane  
 ✅ If there are rails integrated into the road lane  
-**Comment**:  Normally I can park on the right side of the road. However, it is prohibited if there are tracks there or if  
-there is a shoulder suitable for parking or a usable parking lane to the right of them.  
+**Comment**:  Normally I can park on the right side of the road. However, it is prohibited if there are tracks there or if there is a shoulder suitable for parking or a usable parking lane to the right of them.  
   
-409. What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be   
+410. What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be   
 concealed by the vehicle? --- IMP  
 __10m__  
-**Comment**: Traffic lights must always be visible in good time. That's why you shouldn't cover them with the vehicle  
-when stopping. If this is the case, you must maintain a distance of at least 10m from the traffic lights.  
+**Comment**: Traffic lights must always be visible in good time. That's why you shouldn't cover them with the vehicle when stopping. If this is the case, you must maintain a distance of at least 10m from the traffic 
+lights.  
   
-410. Your car is standing on the edge of the roadway. What should you do when getting into the car?  
+411. Your car is standing on the edge of the roadway. What should you do when getting into the car?  
 ❌ The doors on the right-hand side can always be opened without danger  
 ✅ Let passengers get into the car, if possible, from the pavement  
 ✅ Open the doors on the roadway side only when traffic permits  
-**Comment**: In order not to endanger the flow of traffic on the street, passengers should, if possible,  
-get in on the side of the sidewalk. If you get in on the side of the road, you should only open the doors when traffic permits.  
+**Comment**: In order not to endanger the flow of traffic on the street, passengers should, if possible, get in on the side of the sidewalk. If you get in on the side of the road, you should only open the doors when 
+traffic permits.
   
-411. Your car suffers a flat tyre on the motorway. What should you do?  
+413. Your car suffers a flat tyre on the motorway. What should you do?  
 I have to  
 ✅ turn on my hazard lights and park as far to the right as possible  
 ✅ place the warning triangle at a distance of about 100 m  
 ❌ continue driving to the next exit  
   
-412. You want to park on the right-hand side edge of the carriageway. How big is the mandatory minimum distance between your  
+414. You want to park on the right-hand side edge of the carriageway. How big is the mandatory minimum distance between your  
 vehicle and the solid lane boundary line? __3m__  
-**Comment**:  The distance between the lane boundary and the parked vehicle must be at least 3 m. This means that traffic that is   
-not allowed to cross the lane boundary can drive past my vehicle unhindered.  
+**Comment**: The distance between the lane boundary and the parked vehicle must be at least 3 m. This means that traffic that is not allowed to cross the lane boundary can drive past my vehicle unhindered.  
   
-413. Your car has an engine fault and must be towed away with a tow rope. What must you be aware of?  
+415. Your car has an engine fault and must be towed away with a tow rope. What must you be aware of?  
 ❌ Driving licence class BE is the minimum required in order to tow a car  
 ✅ A malfunctioning car with assisted steering is difficult to steer  
 ✅ When towing an electric vehicle, it is necessary to following the manufacturer’s guidelines  
-**Comment**:  There are a few things to consider when towing. A steering aid (power steering) only works when the engine is  
-running. If the engine fails, steering becomes difficult. Special conditions apply to electric vehicles: Always follow the  
-manufacturer's instructions  
+**Comment**:  There are a few things to consider when towing. A steering aid (power steering) only works when the engine is running. If the engine fails, steering becomes difficult. Special conditions apply to electric 
+vehicles: Always follow the manufacturer's instructions  
   
-414. Where is parking prohibited?  
+416. Where is parking prohibited?  
 ❌ On priority roads within built-up areas  
 ✅ At the edge of the roadway if this would prevent others from using designated parking areas  
 ✅ On priority roads outside built-up areas  
-**Comment**:  Anyone who leaves their vehicle or stops for longer than 3 minutes is parking. Parking is not permitted everywhere.  
-For example, it is prohibited on the edge of the road if this prevents the use of marked parking spaces. It is also prohibited  
-on the carriageway of priority roads outside built-up areas.  
+**Comment**:  Anyone who leaves their vehicle or stops for longer than 3 minutes is parking. Parking is not permitted everywhere. For example, it is prohibited on the edge of the road if this prevents the use of marked 
+parking spaces. It is also prohibited on the carriageway of priority roads outside built-up areas.  
   
-415. You are looking for a place to park on the right edge of the carriageway. A cycle path runs alongside to the right of the carriageway. How many metres before a junction or an intersection are you prohibited from parking?  
+417. You are looking for a place to park on the right edge of the carriageway. A cycle path runs alongside to the right of the carriageway. How many metres before a junction or an intersection are you prohibited from parking?  
 __8m__  
-**Comment**:  StVO: Parking is not permitted in front of intersections and junctions up to 8 m from the intersection of the edges  
-of the  carriageway, provided that a cycle path has been constructed to the right of the carriageway in the direction of travel  
-(Section 12 (3)). This regulation is intended to increase the visibility and safety of cyclists.  
+**Comment**: StVO: Parking is not permitted in front of intersections and junctions up to 8 m from the intersection of the edges of the carriageway, provided that a cycle path has been constructed to the right of the 
+carriageway in the direction of travel (Section 12 (3)). This regulation is intended to increase the visibility and safety of cyclists.  
   
-416. Where is stopping prohibited?  
+418. Where is stopping prohibited?  
 ✅ On the roadway, if there is a sufficiently wide hard shoulder on the right  
 ✅ At taxi ranks  
 ✅ Between lane dividers when direction arrows are marked on the roadway  
-**Comment**: Stopping is a voluntary interruption of the journey that is not caused by the traffic situation or an order.  
-Stopping is prohibited where the “No stopping” sign prescribes it. Stopping is also prohibited on marked lanes with  
-directional arrows, at cab ranks and on the carriageway if there is a suitable hard shoulder on the right.  
+**Comment**: Stopping is a voluntary interruption of the journey that is not caused by the traffic situation or an order. Stopping is prohibited where the “No stopping” sign prescribes it. Stopping is also prohibited on 
+marked lanes with directional arrows, at cab ranks and on the carriageway if there is a suitable hard shoulder on the right.  
   
-417. Where is it forbidden to stop?  
+419. Where is it forbidden to stop?  
 ✅ On merging and demerging lanes  
 ❌ In front of entrances to and exits from property lots  
 ✅ On lanes marked with direction arrows  
-**Comment**: Stopping is always prohibited if the stopping vehicle creates a hazard or obstruction, e.g. on merging and merging  
-lanes or on marked lanes with directional arrows.  
+**Comment**: Stopping is always prohibited if the stopping vehicle creates a hazard or obstruction, e.g. on merging and merging lanes or on marked lanes with directional arrows.  
   
-418. Where is stopping prohibited?  
+420. Where is stopping prohibited?  
 ✅ On level crossings  
 ❌ Immediately behind pedestrian crossings  
 ✅ On narrow sections of the road and at blind spots  
-**Comment**:  Stopping is a voluntary interruption of the journey that is not caused by the traffic situation or an order.  
-Stopping is prohibited where the traffic sign “No stopping” prescribes it and in places where stopping can be dangerous,  
-e.g. on narrow and confusing roads and at level crossings.  
+**Comment**:  Stopping is a voluntary interruption of the journey that is not caused by the traffic situation or an order. Stopping is prohibited where the traffic sign “No stopping” prescribes it and in places where 
+stopping can be dangerous, e.g. on narrow and confusing roads and at level crossings.  
   
-419. Who has stopped incorrectly?    
+421. Who has stopped incorrectly?    
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_12_126_1.jpg)  
 ❌ Both cars  
 ✅ The blue van  
 ❌ The green car  
-**Comment**:  Parked vehicles can make it difficult to see pedestrians: Stopping on and up to 5 m in front of crosswalks is not 
-permitted. The vehicle in front of the crosswalk stops incorrectly!  
+**Comment**: Parked vehicles can make it difficult to see pedestrians: Stopping on and up to 5 m in front of crosswalks is not permitted. The vehicle in front of the crosswalk stops incorrectly!  
   
-420. Where is it forbidden to stop?  
+422. Where is it forbidden to stop?  
 ❌ In non-parking zones  
 ✅ In front of fire service access roads  
 ❌ On any one-way road  
-**Comment**:  StVO: “Stopping is not permitted in front of and in officially marked fire lanes.” In one-way streets, on the other  
-hand, there are often places to stop and park. I may not be allowed to PARK in no-parking zones, but STOPPING is not generally  
-prohibited there.  
+**Comment**: StVO: “Stopping is not permitted in front of and in officially marked fire lanes.” In one-way streets, on the other hand, there are often places to stop and park. I may not be allowed to PARK in no-parking 
+zones, but STOPPING is not generally prohibited there.  
   
-421. What must you remember when parking a trailer without a truck?  
+423. What must you remember when parking a trailer without a truck?  
 The trailer  
 ❌ may be parked for an unlimited period of time on adequate hard shoulders  
 ✅ may not be parked for more than 2 weeks on public roads  
 ✅ may be parked for more than 2 weeks on specially designated parking spaces  
-**Comment**:  Trailers without a towing vehicle may be parked on public roads for up to 2 weeks. You may only park for longer than two  
-weeks in appropriately marked parking spaces.  
+**Comment**: Trailers without a towing vehicle may be parked on public roads for up to 2 weeks. You may only park for longer than two weeks in appropriately marked parking spaces.  
   
-422. You want to park in a car park where there is a parking-ticket machine. What must you remember?  
+424. You want to park in a car park where there is a parking-ticket machine. What must you remember?  
 ✅ Place a valid parking ticket in your vehicle so it is easy to read from outside  
 ✅ Do not exceed the parking time indicated on the parking ticket  
 ❌ A parking ticket is never needed when using a parking disc  
-**Comment**:  In the area of parking ticket machines, parking is only permitted with a parking ticket and only for the specified   
-period of time. Attach the parking ticket clearly legible on or in the vehicle, e.g. behind the windshield.  
+**Comment**:  In the area of parking ticket machines, parking is only permitted with a parking ticket and only for the specified period of time. Attach the parking ticket clearly legible on or in the vehicle, e.g. behind 
+the windshield.  
   
-423. A car with power steering has broken down with engine damage and must be towed away. What is correct? ----IMP  
+426. A car with power steering has broken down with engine damage and must be towed away. What is correct? ----IMP  
 The steering of the broken down car  
 ✅ is considerably heavier  
 ❌ is not impaired  
 ❌ is locked  
-**Comment**:  The power steering assistance only works when the engine is running. The steering assistance fails in the event of   
-engine damage. When towing, remember that the steering of the broken-down vehicle is heavier.  
+**Comment**: The power steering assistance only works when the engine is running. The steering assistance fails in the event of engine damage. When towing, remember that the steering of the broken-down vehicle is heavier.  
   
-424. Where is parking prohibited?  
+427. Where is parking prohibited?  
 ❌ Immediately behind pedestrian crossings  
 ✅ At taxi ranks  
 ✅ On narrow roadways opposite driveway entrances and exits  
-**Comment**:  Property exits must not be blocked. Parking is therefore prohibited there, and on narrow streets also opposite.  
-Cab ranks are reserved for cabs. The cab rank sign includes the “No stopping” traffic sign. It is not permitted to stop or park there.  
+**Comment**: Property exits must not be blocked. Parking is therefore prohibited there, and on narrow streets also opposite. Cab ranks are reserved for cabs. The cab rank sign includes the “No stopping” traffic sign. It 
+is not permitted to stop or park there.  
   
-425. How do you secure a car with a manual gearbox against rolling away on a downhill slope?  
+428. How do you secure a car with a manual gearbox against rolling away on a downhill slope?  
 ✅ Apply the parking brake  
 ✅ Engage first gear or reverse gear  
 ❌ Put the gear lever in neutral position  
-**Comment**:  A car parked on a hill must be secured against rolling away. For vehicles with manual transmission,  
-apply the parking brake (handbrake) and engage first gear or reverse gear.  
+**Comment**:  A car parked on a hill must be secured against rolling away. For vehicles with manual transmission, apply the parking brake (handbrake) and engage first gear or reverse gear.  
   
-426. At 10.40, you enter an area where parking is allowed for 2 hours when using a parking disc. What time must you set on   
+429. At 10.40, you enter an area where parking is allowed for 2 hours when using a parking disc. What time must you set on   
 the parking disc?  
 ❌ 13.00  
 ✅ 11.00  
 ❌ 12.40  
-**Comment**:  The parking disk is set so that the pointer points to the half-hour mark following the time of arrival. This means   
-that 11 o'clock must be set here. Make sure that the parking disk is easy to read from the outside.  
+**Comment**: The parking disk is set so that the pointer points to the half-hour mark following the time of arrival. This means that 11 o'clock must be set here. Make sure that the parking disk is easy to read from the 
+outside.  
   
-427. You have stopped in a parking strip and now want to exit your vehicle. What must you do in this situation?  
+430. You have stopped in a parking strip and now want to exit your vehicle. What must you do in this situation?  
 I observe the traffic approaching from the rear  
 ✅ by looking in my left-hand exterior rear-view mirror before opening the door  
 ❌ just by looking through the slightly opened door  
 ✅ by glancing over my left shoulder before opening the door  
-**Comment**:  If you want to get out of the vehicle, you must not endanger moving traffic (including cyclists) and pedestrians.  
-After stopping, I first look in the wing mirror . Before opening the door, I look over my shoulder to make sure that nobody  
-is behind or next to the car. A carelessly opened door can cause an accident. Therefore, make sure you are safe before opening  
-the door! If necessary, remind passengers to act carefully before getting out of the car.  
+**Comment**: If you want to get out of the vehicle, you must not endanger moving traffic (including cyclists) and pedestrians. After stopping, I first look in the wing mirror . Before opening the door, I look over my 
+shoulder to make sure that nobody is behind or next to the car. A carelessly opened door can cause an accident. Therefore, make sure you are safe before opening the door! If necessary, remind passengers to act carefully 
+before getting out of the car. 
   
-428. You car has a fault and can no longer be driven. What must you be aware of during towing?  
+431. You car has a fault and can no longer be driven. What must you be aware of during towing?  
 During towing  
 ✅ the hazard lights must be switched on on both vehicles  
 ✅ the towing cable should be kept as taut as possible  
 ❌ the motorway may only be used to shorten the journey to the next car garage  
-**Comment**:  Note when towing: The journey may only go as far as the nearest suitable workshop, leave the highway at the next exit,  
-hazard warning lights must be switched on in both vehicles. Drive slowly and make sure that the rope remains taut.  
+**Comment**:  Note when towing: The journey may only go as far as the nearest suitable workshop, leave the highway at the next exit, hazard warning lights must be switched on in both vehicles. Drive slowly and make sure 
+that the rope remains taut.  
   
-429. You car has a fault and can no longer be driven. What must you be aware of during towing?  
+433. You car has a fault and can no longer be driven. What must you be aware of during towing?  
 During towing  
 ✅ a towing bar should be used where possible  
 ❌ the rear fog lights should also be switched on to indicate the towing procedure  
 ✅ the force required to operate the brake pedal is significantly greater if the engine has failed  
-**Comment**:  If the engine fails due to a defect, the power steering and brake booster no longer work and the braking effect  
-is only slight - even with increased pedal pressure. If possible, use a tow bar for towing in such a case. It keeps the distance   
-between the two vehicles constant.  
+**Comment**: If the engine fails due to a defect, the power steering and brake booster no longer work and the braking effect  is only slight - even with increased pedal pressure. If possible, use a tow bar for towing in 
+such a case. It keeps the distance between the two vehicles constant.  
   
-430. Where is it sufficient to use your parking lights while your car is parked on an unlit roadway?  
+434. Where is it sufficient to use your parking lights while your car is parked on an unlit roadway?  
 ✅ In built-up areas  
 ❌ Outside built-up areas  
 ❌ On the hard shoulder of autobahns  
-**Comment**:  Parked vehicles must be clearly visible in the dark so that other vehicles can safely avoid them. If there is  
-insufficient street lighting, you must use your own lighting sources, for example parking lights or parking lights. As the  
-light from parking lights does not reach far, parking lights may only be used within built-up areas.  
+**Comment**: Parked vehicles must be clearly visible in the dark so that other vehicles can safely avoid them. If there is insufficient street lighting, you must use your own lighting sources, for example parking lights 
+or parking lights. As the light from parking lights does not reach far, parking lights may only be used within built-up areas.  
   
-431. You want to park in front of a St. Andrew's Cross in a built-up area. What is the minimum distance you must leave clear?  
+435. You want to park in front of a St. Andrew's Cross in a built-up area. What is the minimum distance you must leave clear?  
 Answer: 5m  
-**Comment**:  In urban areas, you are not allowed to park up to 5m in front of a St. Andrew's cross.  
+**Comment**: In urban areas, you are not allowed to park up to 5m in front of a St. Andrew's cross.  
   
-432. Where is stopping prohibited?  
+436. Where is stopping prohibited?  
 ✅ Outside parking areas on autobahns and clearways for motor vehicles only  
 ✅ Near or on sharp bends  
 ❌ At bus stops  
-**Comment**:  Stopping bans serve the flow and safety of traffic. For this reason, it is not permitted to stop on highways and motorways  
-outside of parking spaces and around sharp bends.  
+**Comment**: Stopping bans serve the flow and safety of traffic. For this reason, it is not permitted to stop on highways and motorways outside of parking spaces and around sharp bends.  
   
-433. What must you remember when towing?  
+437. What must you remember when towing?  
 ✅ The distance between the vehicles must not exceed 5 m  
 ❌ Motorcycles may only be towed with a fixed connection  
 ✅ Tow-rope/tow-bar must be clearly marked  
-**Comment**:  A tow rope or tow bar is difficult for other road users to see. You must therefore mark the rope or tow bar, e.g. with 
-a red cloth. In this way, other road users, e.g. pedestrians who want to cross the road between the two vehicles, are visually warned. 
-A small distance between the towing and towed vehicle - maximum 5m - supports this precautionary measure.  
+**Comment**:  A tow rope or tow bar is difficult for other road users to see. You must therefore mark the rope or tow bar, e.g. with a red cloth. In this way, other road users, e.g. pedestrians who want to cross the road 
+between the two vehicles, are visually warned. A small distance between the towing and towed vehicle - maximum 5m - supports this precautionary measure.  
   
-434. What is the maximum length of time you are allowed to stop at a bus stop provided you do not present an obstruction to buses?  
+438. What is the maximum length of time you are allowed to stop at a bus stop provided you do not present an obstruction to buses?  
 Answer: 3 minutes  
   
-435. Where may you park here?  
+439. Where may you park here?  
 In my direction of travel  
 ❌ on the right-hand hard shoulder only  
 ❌ on the left-hand hard shoulder only  
 ✅ on the left and right-hand hard shoulders  
-**Comment**:  Parking is permitted on both sides of streets with only one direction of travel (one-way streets), in this case on the 
-left and right-hand hard shoulder.  
+**Comment**:  Parking is permitted on both sides of streets with only one direction of travel (one-way streets), in this case on the left and right-hand hard shoulder.  
   
-436. Where is stopping prohibited?  ----IMP  
+440. Where is stopping prohibited?  ----IMP  
 ✅ On pedestrian crossings and up to 5 m before pedestrian crossings  
 ❌ Over manholes and other road covers  
 ❌ Immediately behind pedestrian crossings  
-**Comment**:  Stopping is a voluntary interruption of the journey that is not caused by the traffic situation or an order.  
-Stopping is prohibited where the “No stopping” sign prescribes it. Stopping is also prohibited on crosswalks and up to 5 m 
-in front of them.  
+**Comment**:  Stopping is a voluntary interruption of the journey that is not caused by the traffic situation or an order. Stopping is prohibited where the “No stopping” sign prescribes it. Stopping is also prohibited on 
+crosswalks and up to 5 m in front of them.  
   
-437. What does it mean when the flashing blue light of a vehicle is switched on but not the siren?  
+441. What does it mean when the flashing blue light of a vehicle is switched on but not the siren?  
 ❌ A breakdown vehicle is on duty and on its way to its destination  
 ✅ Warning of fire-brigade in action  
 ✅ Warning of an accident or other dangers  
-**Comment**:  Blue flashing light without emergency horn warns at accident sites or other police, fire department and other emergency sites.  
+**Comment**: Blue flashing light without emergency horn warns at accident sites or other police, fire department and other emergency sites.  
   
-438. What is the right course of action now?  
+442. What is the right course of action now?  
 I stop, switch off the engine and  
 ❌ wait in the vehicle for the scene of the accident to be cleared  
 ✅ exit the tunnel via the emergency exit  
 ✅ leave the ignition key or transponder behind when leaving the vehicle  
-**Comment**:  In the event of an accident with smoke in the tunnel, the following emergency rules apply: Immediately switch on the hazard  
-warning lights, pull over to the side of the road or into a lay-by and switch off the engine. Leave the ignition key in the ignition  
-(so that helpers can move the vehicle if necessary) and leave the vehicle. Look for the nearest escape route or emergency exit and,  
-if necessary, activate the fire alarm at the nearest emergency call station.  
+**Comment**: In the event of an accident with smoke in the tunnel, the following emergency rules apply: Immediately switch on the hazard warning lights, pull over to the side of the road or into a lay-by and switch off the 
+engine. Leave the ignition key in the ignition (so that helpers can move the vehicle if necessary) and leave the vehicle. Look for the nearest escape route or emergency exit and, if necessary, activate the fire alarm at 
+the nearest emergency call station.  
   
-439. What do you do in case of a breakdown in a tunnel?right  
+443. What do you do in case of a breakdown in a tunnel?  
 ❌ Let the engine run by way of precaution  
 ✅ Switch on the hazard warning lights  
 ✅ If possible, park the vehicle in an emergency bay  
-**Comment**:  In the event of a breakdown, switch on the hazard warning lights immediately and try to reach a breakdown bay where your vehicle  
-is relatively safe (otherwise park on the hard shoulder or on the far right-hand side of the road). Switch off the engine, get out to the  
-right if possible and call for help on the emergency telephone.  
+**Comment**: In the event of a breakdown, switch on the hazard warning lights immediately and try to reach a breakdown bay where your vehicle is relatively safe (otherwise park on the hard shoulder or on the far right-hand 
+side of the road). Switch off the engine, get out to the right if possible and call for help on the emergency telephone.  
   
-440. While driving in a tunnel you were forced to bring your vehicle to a halt due to a fire. What should you do now?  
+444. While driving in a tunnel you were forced to bring your vehicle to a halt due to a fire. What should you do now?  
 ✅ I trigger the fire alarm at the emergency call point  
 ✅ I extinguish the fire as best I can  
 ❌ I lock my vehicle  
-**Comment**:  If your vehicle catches fire in the tunnel, stop the vehicle with hazard warning lights flashing and trigger the fire alarm at the  
-emergency call station. If possible, extinguish the fire yourself, e.g. with a fire extinguisher from the emergency call station. Do not  
-lock the vehicle, leave the ignition key in the ignition.  
+**Comment**:  If your vehicle catches fire in the tunnel, stop the vehicle with hazard warning lights flashing and trigger the fire alarm at the emergency call station. If possible, extinguish the fire yourself, e.g. with 
+a fire extinguisher from the emergency call station. Do not lock the vehicle, leave the ignition key in the ignition.  
   
-441. As a basic rule, what lights of a motor vehicle must be turned on when driving in darkness?  
+445. As a basic rule, what lights of a motor vehicle must be turned on when driving in darkness?  
 ❌ The driving beam  
 ✅ The dipped headlight  
 ❌ Only the parking light  
 **Comment**:  STANDING lights alone are not sufficient for DRIVING in the dark, as the name suggests. To be able to see and be seen in the dark,  
 you have to switch on the low beam.  
   
-442. When driving, what can cause you to miss warning signals?  
+446. When driving, what can cause you to miss warning signals?  
 ❌ Driving at a low engine speed  
 ✅ Listening to loud music  
 ✅ Becoming distracting during a telephone call  
@@ -3252,7 +3228,7 @@ you have to switch on the low beam.
 intensive phone calls can lead to the siren or other warning signals being ignored, for example. This does not include  
 driving at low engine speed, as the engine is comparatively quiet in the low speed range.  
   
-443. What must you do now?  
+447. What must you do now?  
 I continue driving on my lane  
 ✅ as far to the right as possible  
 ❌ as far to the left as possible  
@@ -3261,13 +3237,13 @@ I continue driving on my lane
 behind (rear-view mirror). The vehicles in the two left-hand lanes have to form an emergency lane, so I have to drive as far to  
 the right as possible! TIP: Watch the movie again and pay attention to slowing down and hazard lights!  
   
-444. What should you do in this kind of visibility? (Main beam light on by the oncoming traffic)  
+448. What should you do in this kind of visibility? (Main beam light on by the oncoming traffic)  
 ❌ I switch on my main beam lights  
 ✅ I keep towards the right-hand edge of the carriageway  
 ✅ I reduce my speed  
 **Comment**:  If an oncoming vehicle dazzles me, I don't look at its headlights, but look to the right-hand side of the road. If necessary, I slow down.  
   
-445. You are driving on a road with one lane for each direction. A convoy of motor vehicles is driving up ahead of you.  
+449. You are driving on a road with one lane for each direction. A convoy of motor vehicles is driving up ahead of you.  
 Why should you refrain from overtaking in order to prevent a dangerous situation from occurring?  
 ✅ Because I should not break the convoy by pulling back into my lane early  
 ✅ Because the overtaking distance is considerably larger than with single vehicles  
@@ -3277,12 +3253,12 @@ or the fire department, must not be interrupted. In each case, this is a “clos
 because the situation is usually difficult to see and the length of the overtaking distance is very long and difficult to estimate.  
 In addition, prematurely cutting in when overtaking would cause unwanted interruptions.  
   
-446. You are being followed by an ambulance with its blue lights flashing and siren sounding. What should you do?  
+450. You are being followed by an ambulance with its blue lights flashing and siren sounding. What should you do?  
 ❌ I make way immediately once the traffic light has turned green  
 ❌ I prompt the driver of the vehicle beside me to make way  
 ✅ I move out of the way immediately without endangering others  
   
-447. Why should you always carry the European accident report form with you on your journey?  
+451. Why should you always carry the European accident report form with you on your journey?  
 Because, in the event of an accident, the European accident report form  
 ✅ enables the parties involved to independently document the accident  
 ✅ makes it easier to document the accident with foreign-speaking parties involved in the accident  
@@ -3292,21 +3268,21 @@ facilitate documentation across language barriers, but - if the parties involved
 to be recorded independently without the police. However, the parties involved cannot settle the question of liability among  
 themselves - not even with forms.  
   
-448. When are you allowed to use fog headlamps also during the day?  
+452. When are you allowed to use fog headlamps also during the day?  
 When visibility is considerably reduced  
 ✅ by rain  
 ❌ by ice on the windscreen  
 ✅ by fog or falling snow  
 **Comment**:  Fog lights may only be switched on if visibility is significantly impaired by rain, snowfall or fog. This also applies during the day.  
   
-449. What risks could arise if you drive with your main beam lights on?  
+453. What risks could arise if you drive with your main beam lights on?  
 ✅ Wild animals on the road will be dazzled and will remain stationary in the light beam  
 ✅ Oncoming road users will be dazzled  
 ❌ Stationary vehicles on my side of the road will not be detected until it is too late  
 **Comment**:  High beam dazzles oncoming traffic, who are then unable to see anything in time, e.g. pedestrians at the side of the  
 road. If wild animals are dazzled, they remain in the light cone on the road. Therefore, dip your headlights immediately.  
   
-450. What do you do in a tunnel with oncoming traffic?  
+454. What do you do in a tunnel with oncoming traffic?  
 ✅ Do not drive over the lane boundary markings  
 ✅ Do not make a U-turn  
 ❌ Drive over the lane boundary markings when overtaking  
@@ -3314,14 +3290,14 @@ road. If wild animals are dazzled, they remain in the light cone on the road. Th
 right-hand lane boundary and not the center line. Do not stop, except in an emergency, and look for an emergency stop bay. Under  
 no circumstances may you turn or reverse.  
   
-451. What can a flashing amber light on a vehicle be a warning for?  
+455. What can a flashing amber light on a vehicle be a warning for?  
 ✅ For a large transport proceeding at low speed  
 ✅ For an exceptionally wide vehicle  
 ✅ For dangers at roadworks or the scene of an accident  
 **Comment**:  Yellow flashing light warns of hazards at a work or accident site. It can also warn of vehicles with an unusual width or a slow-moving  
 large goods vehicle.  
   
-452. When will offences carrying two points be deleted from the Central Register of Road Traffic Offenders?  
+456. When will offences carrying two points be deleted from the Central Register of Road Traffic Offenders?  
 At the earliest after  
 ❌2 years  
 ❌3 years  
@@ -3329,21 +3305,21 @@ At the earliest after
 **Comment**:  Misdemeanors that are entered in the driving aptitude register (FAER) with 2 points are automatically deleted (erased) after 5 years at  
 the earliest, entries with one point after 2.5 years.  
   
-453. Why must you also drive with dipped headlight during the day when visibility is impaired by fog, rain or falling snow?  
+457. Why must you also drive with dipped headlight during the day when visibility is impaired by fog, rain or falling snow?  
 ✅ So that you will be more easily seen by other road users  
 ❌So that you can see traffic signs at greater distances  
 ❌So that you can drive at a higher speed  
 **Comment**:  If visibility is severely impaired by fog, rain or snowfall, the daytime running lights are not sufficient to draw attention to yourself.  
 With the more powerful low beam, the tail lights are also switched on, making your vehicle visible from behind.  
   
-454. What can a flashing blue light (without siren) mean?  
+458. What can a flashing blue light (without siren) mean?  
 ✅ Advance warning of a closed convoy  
 ✅ The vehicle is on duty. You should give way  
 ❌Without a siren, a flashing blue light does not mean anything  
 **Comment**:  Blue flashing lights alone are sometimes also used for emergency driving, but then these vehicles have no right of way. You should still  
 make way for them. Blue flashing lights can also announce a closed formation, e.g. a procession or a convoy of the German armed forces.  
   
-455. How can you tell the shortest way to the next emergency telephone on federal motorways?  
+459. How can you tell the shortest way to the next emergency telephone on federal motorways?  
 By the  
 ❌ground markings on the hard shoulder  
 ✅ black arrows on the delineators  
@@ -3351,7 +3327,7 @@ By the
 **Comment**:  On the highway, I can recognize the shortest route to the emergency call pillar by the next delineator. Black arrows in the upper white  
 area of the delineators indicate the direction to the next emergency call pillar.  
   
-456. You are involved in an accident in a carpark. The vehicle damage is minor. Everyone involved agrees that the police do not need to be informed.  
+460. You are involved in an accident in a carpark. The vehicle damage is minor. Everyone involved agrees that the police do not need to be informed.  
 What would be helpful now for the claims process?  
 ✅ Describing the cause of the accident in the accident report  
 ✅ Exchanging the necessary details with those involved  
@@ -3360,7 +3336,7 @@ What would be helpful now for the claims process?
 But then I should document everything exactly, with photos from different perspectives and a description of the course of the accident  
 in the accident report. This also includes exchanging the necessary personal and insurance data for the claims settlement.  
   
-457. You are driving in a tunnel and approach the end of a traffic jam. What do you do?  
+461. You are driving in a tunnel and approach the end of a traffic jam. What do you do?  
 ✅ Switch on the hazard warning lights  
 ❌Make a U-turn and leave the tunnel  
 ❌At the end of the traffic jam, switch off the engine and leave the vehicle  
@@ -3369,7 +3345,7 @@ behind. Maintain a distance of approx. 5 m from the vehicle in front and switch 
 period of time. Stay in the vehicle and listen to radio or loudspeaker announcements. Under no circumstances should you turn or  
 reverse.  
   
-458. Visibility is considerably reduced. When are you allowed to switch on fog headlamps?  
+462. Visibility is considerably reduced. When are you allowed to switch on fog headlamps?  
 ✅ In fog  
 ✅ In falling snow  
 ✅ In rain  
@@ -5391,3 +5367,11 @@ Because of the
 ❌ green vehicle  
 **Comment**: When turning left with oncoming traffic, I have to expect smaller vehicles to be obscured by larger ones. In this case, a smaller vehicle appears next to the large vehicle in the oncoming traffic, which may be
 driving straight ahead. So I have to wait and let the oncoming traffic pass. The other vehicles are of no importance to me here. TIP: Watch the movie again and pay attention to the movement from the front!
+
+726. What is the right course of action here?  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_1_06_104_1_ende.jpg)   
+❌ I sound my horn to prompt the cyclists to ride one behind the other  
+✅ I do not overtake the cyclists for now  
+❌ I overtake the cyclists  
+**Comment**: When overtaking bicycles or small electric vehicles within built-up areas, a minimum lateral distance of 1.5 m is prescribed. I can hardly keep that distance here as long as the two are riding side by side.
+That's why I don't overtake for the time being. I am only allowed to honk my horn in case of danger or outside built-up areas to indicate overtaking (§ 5, § 16 StVO).
