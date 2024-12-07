@@ -5358,3 +5358,10 @@ I have to
 ✅ approach the junction cautiously  
 **Comment**: The white marking on the road is called “shark's teeth” because of its appearance. It emphasizes an existing obligation to wait, in this case due to a right-before-left rule (intersection without right-of-way
 traffic signs). Therefore: Approach carefully, get an overview and behave according to the rules (I may drive here first, the driver on the left must wait).
+
+722. 721. How can you tell whether the rear fog lamp is switched on?  
+✅ By the amber indicator light  
+❌ By the red indicator light  
+❌ By the blue indicator light  
+**Comment**: The rear fog light may only be switched on when visibility is less than 50m. If it is switched on, a yellow indicator light comes on.
+
