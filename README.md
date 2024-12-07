@@ -5293,7 +5293,7 @@ from the left - and I am coming from the right. So I may drive after the vehicle
 also deteriorates noticeably. Overloading can also lead to damage to load-bearing vehicle parts.  
 
 717. Which statements are correct in this situation?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_1_02_110.jpg)
+![img](https://schueler.click-learn.info/BilderV2/AB_1_1_02_110.jpg)  
 (Hazard warning lights on)  
 ✅ The bus may be passed in either lane but no faster than at walking speed  
 ❌ The vehicles in the left lane may pass the bus without paying any special attention  
@@ -5305,7 +5305,7 @@ necessary, stop if passengers would otherwise be endangered.
 ![img](https://schueler.click-learn.info/BilderV2/BS_2_2_07_007_ende.jpg)  
 ❌ I move into the left-hand lane and overtake the red car in front of me  
 ✅ I stay in the middle lane and slow down  
-❌ I move to the right-hand lane and slow down
+❌ I move to the right-hand lane and slow down  
 **Comment**: After the announced lane narrowing, I expect a speed limit. If the bottleneck is not far away, it is no longer worth changing to the left-hand lane.I stay in “my” lane and reduce my speed.  
 TIP: Watch the movie again and pay attention to traffic signs (announced lane narrowing)!  
 
