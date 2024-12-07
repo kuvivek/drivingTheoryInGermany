@@ -4325,14 +4325,14 @@ traffic (including the person being overtaken).
 ✅ You must indicate to leave the roundabout  
   
 580. Why do you have to wait before the left turn?  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_2_09_002_1_ende.jpg)
 Because of the  
-❌bicycle  
+❌ bicycle  
 ✅ motorbike  
-❌car  
-**Comment**:  When turning left, I not only have to watch out for oncoming traffic, but also for vehicles behind the oncoming traffic:   
-What does the oncoming vehicle intend to do, e.g. turn (indicators)? Wasn't there a motorcycle or another vehicle in the shadow of   
-the oncoming vehicle? It may be driving straight ahead. I prefer to avoid dangerous encounters when turning. TIP: Watch the movie   
-again and watch out for movement or indicators in oncoming traffic!  
+❌ car  
+**Comment**:  When turning left, I not only have to watch out for oncoming traffic, but also for vehicles behind the oncoming traffic: What does the oncoming vehicle intend to do, e.g. turn (indicators)? Wasn't there a 
+motorcycle or another vehicle in the shadow of the oncoming vehicle? It may be driving straight ahead. I prefer to avoid dangerous encounters when turning. TIP: Watch the movie again and watch out for movement or 
+indicators in oncoming traffic! 
   
 581. What is true in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_1_4_41_020_1.jpg)  
 I may  
@@ -5349,3 +5349,12 @@ Therefore, I am allowed to cross both lines and overtake the cyclist if I am not
 ❌ continue the overtaking manoeuvre at an unchanged speed  
 **Comment**: In this case, I have to stop overtaking and move into the right-hand lane because the cyclist I have caught up with is accelerating unexpectedly - and I am keeping to the prescribed speed limit - even if
 the sign is not visible: I've  just passed it! TIP: Watch the movie again and pay attention to traffic signs (speed limit)!  
+
+721. What is the rule created by the road markings in this situation?  
+![img](https://schueler.click-learn.info/BilderV2/BS_1_4_42_010_1_ende.jpg)   
+I have to  
+❌ come to a stop in front of the road markings  
+❌ give way to the green truck  
+✅ approach the junction cautiously  
+**Comment**: The white marking on the road is called “shark's teeth” because of its appearance. It emphasizes an existing obligation to wait, in this case due to a right-before-left rule (intersection without right-of-way
+traffic signs). Therefore: Approach carefully, get an overview and behave according to the rules (I may drive here first, the driver on the left must wait).
