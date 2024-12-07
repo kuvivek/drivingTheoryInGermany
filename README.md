@@ -578,17 +578,16 @@ right and left must wait. As a left-turner, however, I must first allow the onco
 ❌ Observe the traffic coming from the right only  
 ✅ Be ready to brake  
 ✅ Reduce speed  
-**Comment**: The Cross sign in a Red Triangle indicates a junction or intersection with right of way from the right. For you, this  
-means: reduce speed, drive with increased attention and remain ready to brake so that you can give way if necessary.  
+**Comment**: The Cross sign in a Red Triangle indicates a junction or intersection with right of way from the right. For you, this means: reduce speed, drive with increased attention and remain ready to brake so that you 
+can give way if necessary.
   
 90. Are you allowed to park here?
 ![Image22](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_110.jpg)
 ✅ Yes, as a person accompanying blind persons with an official parking permit
 ❌ Yes, briefly for shopping
 ✅ Yes, as a seriously disabled person with an official parking permit
-**Comment**: P with disabled person means - The additional sign “Severely disabled persons with exceptional walking disabilities and  
-blind persons” permits parking only with an official parking permit, e.g. for severely disabled persons and persons accompanying blind  
-persons.  
+**Comment**: P with disabled person means - The additional sign “Severely disabled persons with exceptional walking disabilities and blind persons” permits parking only with an official parking permit, e.g. for severely 
+disabled persons and persons accompanying blind persons.  
   
 91. What is the minimum distance you must leave clear when stopping or parking in front of a pedestrian crossing? __5__ m  
   
@@ -596,54 +595,49 @@ persons.
 ❌ This person belongs to a particular profession  
 ✅ The wearer is disabled  
 ✅ I am obliged to behave in a particular way towards this person  
-**Comment**:  Visually impaired and blind people are among the most vulnerable road users. Increased consideration is required here.  
-Expect unusual behavior and drive with extreme caution.  
+**Comment**:  Visually impaired and blind people are among the most vulnerable road users. Increased consideration is required here. Expect unusual behavior and drive with extreme caution.  
   
 93. Where are you allowed to park on the left in the direction of travel?  
 ✅ Where there are rails on the right-hand side  
 ❌ Where parking is prohibited on the right  
 ✅ In one-way streets  
-**Comment**:  Anyone who leaves their vehicle or stops for longer than 3 minutes must park. In one-way streets or if there are rails on 
-the right-hand side, you may also park on the left.  
+**Comment**:  Anyone who leaves their vehicle or stops for longer than 3 minutes must park. In one-way streets or if there are rails on the right-hand side, you may also park on the left.  
   
 94. You are approaching a bus stop marked like this. What do you do if you see children there?
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_008.jpg) Sign 224-51  
 ❌ Speed must not be reduced when a bus stops at a stopping bay  
 ✅ Reduce your speed and be ready to brake+ää  
 ❌ A reduction in speed is only necessary when a school bus is stopping there  
-**Comment**:  The signs mark a school bus stop. If you approach the bus stop and see children there, you must reduce your speed. Stay 
-ready to slow down, e.g. because other children could run across the road to the bus stop.  
-  
+**Comment**:  The signs mark a school bus stop. If you approach the bus stop and see children there, you must reduce your speed. Stay ready to slow down, e.g. because other children could run across the road to the bus 
+stop.  
+
 95. You want to turn out of a road with a sunken kerbstone into another road. A car is coming from the left. What applies here?  
 ✅ Whoever turns into a road over a sunken kerbstone must wait  
 ❌ The rule "right before left"  
 ❌ The sunken kerbstone is of no relevance for the obligation to wait  
-**Comment**:  If you want to turn onto a road via a dropped kerb, all other road users have priority. Here you are obliged to 
-wait for the car coming from the left: lowered kerbs are regarded in road traffic as property entrances (§ 10 StVO).  
+**Comment**:  If you want to turn onto a road via a dropped kerb, all other road users have priority. Here you are obliged to wait for the car coming from the left: lowered kerbs are regarded in road traffic as property 
+entrances (§ 10 StVO).  
   
 96. Where must you particularly reckon with dirt on the roadway and therefore danger of skidding?  
 ❌ At innercity crossroads  
 ✅ At junctions with farm tracks  
 ✅ Near construction sites  
-**Comment**:  In the area of roadworks and at the junctions of country lanes, you must expect heavy soiling of the road surface. 
-Be prepared for an uneven and slippery road surface and adjust your speed accordingly.  
+**Comment**:  In the area of roadworks and at the junctions of country lanes, you must expect heavy soiling of the road surface. Be prepared for an uneven and slippery road surface and adjust your speed accordingly.  
   
 97. What applies according to this traffic sign?   
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_140.jpg)
 ✅ I may only park on designated places  
 ✅ I have to drive at walking speed  
 ✅ I may not impede pedestrians  
-**Comment**:  A traffic-calmed area begins here. Children's games are allowed everywhere, so I have to pay particular attention to  
-children playing. Driving is only permitted at walking speed. Pedestrians go first: I have to wait if necessary. Parking is only  
-permitted in marked areas.  
+**Comment**:  A traffic-calmed area begins here. Children's games are allowed everywhere, so I have to pay particular attention to children playing. Driving is only permitted at walking speed. Pedestrians go first: I have 
+to wait if necessary. Parking is only permitted in marked areas.  
   
 98. What must you do upon seeing this traffic sign?  
 ✅ I must approach at a moderate speed if it is clear that pedestrians want to cross the road  
 ✅ I must allow the pedestrians to cross the road  
 ✅ I may not remain stationary on the pedestrian crossing if the traffic backs up  
-**Comment**:  The sign is located directly at the “crosswalk”. Approach at a moderate speed and allow pedestrians to cross if  
-necessary. For safety reasons, it is generally not permitted to overtake at crosswalks. If traffic is at a standstill, you must not  
-come to a standstill on the crossing and block it for pedestrians: Wait in front of it.  
+**Comment**: The sign is located directly at the “crosswalk”. Approach at a moderate speed and allow pedestrians to cross if necessary. For safety reasons, it is generally not permitted to overtake at crosswalks. If 
+traffic is at a standstill, you must not come to a standstill on the crossing and block it for pedestrians: Wait in front of it.  
   
 99. Ahead of the motorbike a car is seeking to reverse on the road. What should you anticipate?  
 ✅ That the car continues to reverse  
@@ -656,8 +650,8 @@ The start of a zone with
 ✅ a permitted maximum speed of 30 km/h  
 ❌ a recommended speed of 30 km/h  
 ❌ an obligatory minimum speed of 30 km/h  
-**Comment**:  It is not permitted to drive faster than indicated within an area marked in this way. There is no signage for individual 
-streets.  The maximum permitted speed here is 30 km/h. Speeds below 30 km/h are also possible. The end of such areas is signposted.  
+**Comment**: It is not permitted to drive faster than indicated within an area marked in this way. There is no signage for individual streets. The maximum permitted speed here is 30 km/h. Speeds below 30 km/h are also 
+possible. The end of such areas is signposted. 
   
 101. You wish to overtake a farm tractor with a mounted implement extending beyond its back. What must you remember?  
 ✅ The rear lights may be heavily soiled or concealed, making direction signals difficult or impossible to see when they are on  
@@ -668,27 +662,27 @@ streets.  The maximum permitted speed here is 30 km/h. Speeds below 30 km/h are 
 ✅ Before sunken kerbstones  
 ❌ Immediately behind pedestrian crossings  
 ✅ At the edge of the roadway if this would prevent others from using designated parking areas  
-**Comment**:  If you leave your vehicle or stop for more than 3 minutes, you are parking. Parking is not permitted everywhere. It is   
-prohibited, for example, in front of kerbs and on the edge of the road if this prevents the use of marked parking spaces.  
-  
-103. At junctions without priority traffic signs or traffic lights, the vehicle coming from the right has right of way.  
+**Comment**:  If you leave your vehicle or stop for more than 3 minutes, you are parking. Parking is not permitted everywhere. It is prohibited, for example, in front of kerbs and on the edge of the road if this prevents 
+the use of marked parking spaces.
+
+104. At junctions without priority traffic signs or traffic lights, the vehicle coming from the right has right of way.  
 Here I have to let the vehicle coming from the right go first. Then I drive. Oncoming traffic turning left must wait until everything is clear.  
   
-104. What is true of permanently illuminated signs?![img](https://schueler.click-learn.info/BilderV2/AB_2_2_37_007.jpg)  
+105. What is true of permanently illuminated signs?![img](https://schueler.click-learn.info/BilderV2/AB_2_2_37_007.jpg)  
 ❌ Permanently illuminated signs apply to multi-track motor vehicles only  
 ✅ Vehicles may not stop at the side of carriageways with permanently illuminated signs  
 ✅ Permanently illuminated signs either block lanes or open them up to traffic  
-**Comment**:  Permanent light signals close lanes or open them to traffic: Red crossed diagonal beams close a lane.  
-Because it may be open to oncoming traffic and because the permanent light signals can be changed, stopping is prohibited in all lanes.  
-  
-105. Traffic signs regulate the right of way here. The oncoming vehicle and I are on the priority road. The vehicle on the left must “give way”.  
+**Comment**:  Permanent light signals close lanes or open them to traffic: Red crossed diagonal beams close a lane. Because it may be open to oncoming traffic and because the permanent light signals can be changed, 
+stopping is prohibited in all lanes.   
+
+106. Traffic signs regulate the right of way here. The oncoming vehicle and I are on the priority road. The vehicle on the left must “give way”.  
 However, as a left-turning driver, I must allow the oncoming vehicle to turn before I drive.  
   
-106. Traffic signs regulate the right of way here. The vehicle from the right and I ride on the priority road that bends to the right.  
+107. Traffic signs regulate the right of way here. The vehicle from the right and I ride on the priority road that bends to the right.  
 The vehicle on the right follows the course of the priority road. I have to let him pass first because I want to leave the priority road.  
 The vehicle on the side road must “give way” to all others.  
   
-107. During traffic congestion, what parts of the road infrastructure must be kept clear?  
+108. During traffic congestion, what parts of the road infrastructure must be kept clear?  
 ✅ Pedestrian crossings  
 ✅ Traffic confluences  
 ❌ Bus stops  
@@ -696,17 +690,17 @@ The vehicle on the side road must “give way” to all others.
 Even if I actually have priority, I must not drive on. I must also keep crosswalks clear in such situations.  
 Buses move along with the flow of traffic. I have to drive past their stops if possible so that I don't block them.  
   
-108. At junctions without priority traffic signs or traffic lights, the vehicle coming from the right has right of way.  
+109. At junctions without priority traffic signs or traffic lights, the vehicle coming from the right has right of way.  
 Here I have to let the vehicle coming from the right go first. Then I drive. Oncoming traffic turning left must wait until everything is clear.  
   
-109. Which are the areas you must not drive into when there is traffic congestion?  
+110. Which are the areas you must not drive into when there is traffic congestion?  
 ✅ Crossroads  
 ❌ Driveways  
 ✅ Level crossings  
 **Comment**:  You must keep intersections, road junctions and railroad crossings clear in slow-moving traffic.  
 Even if you actually have the right of way, you must not drive on. You must also keep crosswalks clear in such situations.  
   
-110. What is correct in this situation?  
+111. What is correct in this situation?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_015.jpg)
 ❌ I have to wait in the centre of the junction  
 ❌ I must allow the oncoming traffic to pass through  
@@ -715,7 +709,7 @@ Even if you actually have the right of way, you must not drive on. You must also
 turning. However, the green arrow on the left behind the intersection indicates that oncoming traffic has red. You can therefore turn 
 left quickly here, oncoming traffic must wait.  
   
-111. What must you be aware of here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_05_107_1.jpg)  
+112. What must you be aware of here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_05_107_1.jpg)  
 ✅ That children may run onto the road  
 ✅ Of vehicles speeding  
 ✅ That junctions will not be noticed  
@@ -723,7 +717,7 @@ left quickly here, oncoming traffic must wait.
 to overlook junctions because they look like driveways. There is also a risk of children unexpectedly running out of driveways  
 onto the road.  
   
-112. What do you have to watch out for, when crossing a priority road?  
+113. What do you have to watch out for, when crossing a priority road?  
 I watch out for  
 ✅ the weather conditions  
 ✅ the speed and the distance of the cross traffic  
@@ -731,7 +725,7 @@ I watch out for
 **Comment**:  Faster traffic is to be expected on a priority road. To cross safely, I must therefore take into account  
 the width of the road, my ability to accelerate, the speed of cross traffic and the weather conditions (e.g. wet conditions).  
   
-113. What is the right course of action?  
+114. What is the right course of action?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_09_121.jpg)
 ✅ I have to allow the cyclist to pass through  
 ✅ I have to wait at the stop line  
@@ -739,7 +733,7 @@ the width of the road, my ability to accelerate, the speed of cross traffic and 
 **Comment**:  At this junction, you must observe the “Stop” sign and stop at the stop line. If you are turning left,  
 you must allow the oncoming cyclist riding straight ahead to pass.  
   
-114. How should you behave in this situation?  
+115. How should you behave in this situation?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_010.jpg)  
 ❌ Stop on the line of sight  
 ✅ Pass through the crossing without stopping  
@@ -748,21 +742,21 @@ you must allow the oncoming cyclist riding straight ahead to pass.
 traffic light signal takes precedence. The traffic sign only comes into effect if the traffic light fails or the yellow  
 flashing light is on. In this case, you can cross the intersection without stopping, as the traffic light is green.  
   
-115. What do you have to be aware of when you see this traffic sign combination? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_136.jpg)  
+116. What do you have to be aware of when you see this traffic sign combination? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_136.jpg)  
 ✅ If I am following the priority road, I have to signal a left-turn  
 ❌ The direction of traffic to the left is prescribed  
 ❌ If I continue driving straight ahead, I have to signal a right-turn  
 **Comment**:  This traffic sign combination indicates that the priority road bends to the left. If you follow the priority road, you must turn left.  
 Pay particular attention to pedestrians; you may have to wait.  
   
-116. What is the right course of action?  
+117. What is the right course of action?  
 ❌ The tram must allow me to make the turn first  
 ✅ I have to allow the green vehicle to pass through  
 ✅ I have to allow the tram to pass through  
 **Comment**:  Traffic signs regulate the right of way here. My oncoming traffic and I must “give way” and allow the streetcar to pass.  
 As I want to turn left, I must also allow the oncoming vehicle to pass before I turn.  
   
-117. What must you be prepared for here?  
+118. What must you be prepared for here?  
 ✅ People walking on the road  
 ✅ Vehicles turning onto the road  
 ✅ Oncoming vehicles turning left  
@@ -770,21 +764,21 @@ As I want to turn left, I must also allow the oncoming vehicle to pass before I 
 the forest) are to be expected. Other vehicles from oncoming traffic could also approach the parking lot or drivers leaving the parking  
 lot could turn onto my lane without paying attention.  
   
-118. What is allowed in the zone which starts here?  
+119. What is allowed in the zone which starts here?  
 ❌ Parking, provided a parking disc is used  
 ✅ Stopping for up to 3 minutes  
 ✅ Stopping for loading or unloading as well as boarding or alighting  
 **Comment**:  The restricted stopping ban applies within the entire area. It is permitted to stop on the carriageway for up to 3  
 minutes. You may also stop for longer to load or unload and to get in or out of the vehicle, but without unnecessary delay.  
   
-119. What do these traffic signs indicate? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_131.jpg)  
+120. What do these traffic signs indicate? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_131.jpg)  
 ✅ Start of a no-overtaking area 200 m ahead  
 ❌ No overtaking for 200 m  
 ❌ End of a no-overtaking area 200 m ahead  
 **Comment**:  Multi-lane motor vehicles (cars, trucks) and motorcycles with sidecars may not be overtaken. The no overtaking zone is 3  
 km long. Overtaking motorcycles without sidecars, mopeds, streetcars and non-motorized vehicles is permitted.  
   
-120. What must you reckon with when you see these traffic signs?  
+121. What must you reckon with when you see these traffic signs?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_115.jpg)  
 ❌ The roadway narrowing for 50 m  
 ❌ A road widening 50 m ahead  
@@ -792,7 +786,7 @@ km long. Overtaking motorcycles without sidecars, mopeds, streetcars and non-mot
 **Comment**:  The traffic sign combination indicates a lane narrowing. The additional sign indicates the distance to the narrowing, in  
 this case 50m. Adjust your speed and pay attention to oncoming traffic.  
   
-121. Which vehicles are allowed to park here?  
+122. Which vehicles are allowed to park here?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_112.jpg)  
 ✅ Vehicles with a permissible total mass of up to 2.8 t  
 ✅ Motorcycles  
@@ -800,7 +794,7 @@ this case 50m. Adjust your speed and pay attention to oncoming traffic.
 **Comment**:  Vehicles with a maximum permissible mass of up to 2.8 tons may park on the sidewalk in the manner indicated.  
 This includes motor vehicles as well as motorcycles and trailers.  
   
-122. What applies from this traffic sign onwards?  
+123. What applies from this traffic sign onwards?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_42_101.jpg)  
 ✅ Parking cars may be safely marked with parking light  
 ✅ You may not sound your horn to signal your intention to overtake  
@@ -808,7 +802,7 @@ This includes motor vehicles as well as motorcycles and trailers.
 **Comment**:  This traffic sign is located at the beginning of a built-up area. Within built-up areas, you must not sound the  
 horn to indicate your intention to overtake. Parked cars may be secured with the parking light.  
   
-123. What do you do when you see this traffic sign?(Sign. 308 ❌Priority over oncoming traffic. There is a narrow passage ahead.)  
+124. What do you do when you see this traffic sign?(Sign. 308 ❌Priority over oncoming traffic. There is a narrow passage ahead.)  
 ✅ You must be ready to stop despite taking precedence  
 ✅ You may only take precedence when the narrowing is clear  
 ❌ You must give precedence to the oncoming traffic  
@@ -816,7 +810,7 @@ horn to indicate your intention to overtake. Parked cars may be secured with the
 oncoming traffic. Oncoming traffic must wait. If you have priority, you must still be prepared to stop and may only use the  
 priority if the lane is clear.  
   
-124. How should you act at a point of danger indicated by this sign?   
+125. How should you act at a point of danger indicated by this sign?   
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_150.jpg)   
 I should  
 ✅ avoid sudden manoeuvres  
@@ -826,7 +820,7 @@ I should
 This can make the road slippery and cause damage to the paintwork: it is essential to reduce speed, keep your distance and  
 avoid sharp steering movements!  
   
-125. When must you wait at this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_001.jpg)  
+126. When must you wait at this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_001.jpg)  
 ✅ When a rail vehicle is approaching  
 ✅ When a railway employee is waving a white-red-white flag  
 ✅ When the level crossing cannot be crossed without having to stop on it  
@@ -835,7 +829,7 @@ must be given to rail traffic. You must wait in front of the sign if a rail vehi
 is waving a white-red-white flag. If you are unable to cross the crossing without stopping due to slow-moving traffic, you  
 must also wait in front of it.  
   
-126. Which vehicles are you allowed to overtake where you see this traffic sign?  
+127. Which vehicles are you allowed to overtake where you see this traffic sign?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_129.jpg)  
 ❌ Motorcycle with sidecar  
 ✅ Motorcycle without sidecar  
@@ -844,7 +838,7 @@ must also wait in front of it.
 motorcycles with sidecars may not be overtaken. Overtaking motorcycles without sidecars, mopeds, streetcars and non-motorized  
 vehicles is permitted.  
   
-127. What must you anticipate with this road sign?  
+128. What must you anticipate with this road sign?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_143.jpg)  
 ✅ You are nearing a hard right-hand bend  
 ✅ Oncoming traffic might cut the corner  
@@ -853,14 +847,14 @@ vehicles is permitted.
 glance. What to do at this traffic sign: Do not enter too quickly, reduce speed if necessary and watch out for vehicles ahead.  
 Drive as far to the right as possible: Oncoming vehicles could cut the bend.  
   
-128. What ends here?  
+129. What ends here?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_136.jpg)  
 ❌ A no-stopping area  
 ✅ A no-waiting area  
 ❌ All previous zonal prohibitions  
 **Comment**:  The traffic sign ends a zone with a restricted no-stopping zone.  
   
-129. What does this traffic sign combination mean to you?  
+130. What does this traffic sign combination mean to you?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_141.jpg)  
 ❌ If I continue driving straight ahead, I have to allow right of way to vehicles arriving from the right  
 ❌ I am not permitted to turn right or drive straight ahead  
@@ -869,7 +863,7 @@ Drive as far to the right as possible: Oncoming vehicles could cut the bend.
 The thick line on the additional sign shows the further course of the priority road. So I stay on the priority road when  
 I turn left here.  
   
-130. What should you do as you draw near to this heavy goods transport?![img](https://schueler.click-learn.info/BilderV2/AB_2_2_36_001_1.jpg)  
+131. What should you do as you draw near to this heavy goods transport?![img](https://schueler.click-learn.info/BilderV2/AB_2_2_36_001_1.jpg)  
 ❌ I overtake taking extra care  
 ✅ I refrain from overtaking  
 ✅ I move into the right-hand lane  
@@ -878,33 +872,33 @@ takes precedence. It indicates that overtaking is prohibited. Below it, an addit
 goods vehicle (with excess width). So I don't overtake and switch to the right-hand lane until one of us turns or the  
 escort vehicle signals that overtaking is possible.  
   
-131. What must you observe when parking here?  
+132. What must you observe when parking here?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_111.jpg)  
 ✅ The parking time indicated on the parking ticket may not be exceeded  
 ✅ The parking ticket must be put in a place so it can be easily read when controlled  
 ❌ Parking ticket and parking disc rank equal  
   
-132. What must you do when you see this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_007.jpg)  
+133. What must you do when you see this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_007.jpg)  
 ✅ You must pass on the right of traffic islands  
 ❌ You may not turn left in front of this sign  
 ❌ You are obliged to turn right  
 **Comment**:  This sign specifies the side on which you must drive past traffic islands, obstacles, roadworks, etc. You must 
 pass on the right. Here you must drive past on the right.  
   
-133. What must you reckon with when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_116.jpg)  
+134. What must you reckon with when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_116.jpg)  
 ✅ Men at work on the roadway  
 ✅ Traffic from road construction vehicles  
 ✅ Construction materials on the roadway  
 **Comment**:  This traffic sign indicates a construction site. For example, construction vehicles may be maneuvering,  
 workers may be on the road or construction materials may be lying on the road. Drive with increased attention.  
   
-134. What do you do within this danger section? (Red Traingular border with running dear.)  
+135. What do you do within this danger section? (Red Traingular border with running dear.)  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_40_004.jpg)
 ✅ Do not avoid hitting wild animals if oncoming traffic would be endangered  
 ✅ Dip the headlights and brake when you see wild animals  
 ✅ Drive more slowly, watch out for wild animals  
   
-135. What does this traffic sign indicate? (Up arrow and below U3 in a Yellow board)  
+136. What does this traffic sign indicate? (Up arrow and below U3 in a Yellow board)  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_135.jpg)  
 ✅ A numbered diversion  
 ❌ A numbered underground car park  
@@ -912,14 +906,14 @@ workers may be on the road or construction materials may be lying on the road. D
 **Comment**:  The sign(Das Zeichen) indicates the start of a detour(diversion) route. Where it is necessary to distinguish  
 between several detour routes, it may be numbered (numbered detour route).  
   
-136. Which vehicles are not allowed to use a road sign-posted like this?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_118.jpg)  
+137. Which vehicles are not allowed to use a road sign-posted like this?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_118.jpg)  
 ❌ Motorcycles  
 ✅ Cars  
 ✅ Trucks  
 **Comment**:  The sign prohibits motor vehicles and other multi-lane motor vehicles from driving on the road.  
 This includes cars and trucks, for example. Two-wheelers and non-motorized vehicles may use the road.  
   
-137. What must you be aware of when you see this road traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_153.jpg)  
+138. What must you be aware of when you see this road traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_153.jpg)  
 ✅ Avoid stopping and parking  
 ✅ Stones may be lying on the roadway  
 ✅ Vehicles in front may brake suddenly  
@@ -927,7 +921,7 @@ This includes cars and trucks, for example. Two-wheelers and non-motorized vehic
 rocks(durch Steinschlag - through falling rocks). Here I drive attentively, watch out for vehicles ahead and for obstacles  
 (boulders) on the road: if necessary, I reduce speed!  
   
-138. What do you do when you see this traffic sign?  
+139. What do you do when you see this traffic sign?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_004.jpg)   
 ✅ When there are two lanes in one direction, employ the zipper feed-in method  
 ✅ Give precedence to oncoming traffic  
@@ -935,7 +929,7 @@ rocks(durch Steinschlag - through falling rocks). Here I drive attentively, watc
 **Comment**:  The traffic sign indicates a narrowing of your own lane, so you must give priority to oncoming traffic.  
 If it is located on a road with two lanes for one direction, the zipper method is used.  
   
-139. You are driving a motor vehicle with a manual gearbox. What must you consider when you see this road sign?  
+140. You are driving a motor vehicle with a manual gearbox. What must you consider when you see this road sign?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_156.jpg)  
 ✅ The braking distance is longer  
 ❌ The braking response will be better if no gear is engaged  
@@ -945,7 +939,7 @@ than on level ground. You would therefore have to brake harder and more frequent
 is dangerous: the brake gets hot and the effect diminishes. That's why I let the engine do the braking and shift to a lower gear  
 before the downhill section  
   
-140. What applies with this traffic sign?  
+141. What applies with this traffic sign?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_162.jpg)  
 ✅ I may only continue driving by taking a right turn  
 ✅ I have to signal a right-turn  
@@ -954,14 +948,14 @@ before the downhill section
 turn right before the traffic sign. When doing so, I must indicate the change of direction by flashing my lights, as I would  
 when turning “voluntarily”.  
   
-141. What must you anticipate when you see this road sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_010.jpg)  
+142. What must you anticipate when you see this road sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_010.jpg)  
 ✅ A pedestrian crossing that is hard to see  
 ✅ Pedestrians that might cross the road  
 ❌ Pedestrians who may only cross the road from the right  
 **Comment**:  The danger sign with this symbol warns of particular dangers posed by pedestrians. It indicates a crosswalk.  
 I drive carefully here and watch out for vehicles in front: If necessary, I reduce my speed!  
   
-142. What vehicles may enter a zone with this sign?  
+143. What vehicles may enter a zone with this sign?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_021.jpg)  
 ✅ Vehicles driven by residents  
 ✅ Small electric vehicles  
@@ -970,7 +964,7 @@ I drive carefully here and watch out for vehicles in front: If necessary, I redu
 may also enter the zone if they are driven by residents. This can also include cars and motorcycles, for example. Because  
 “residents” are the people who live in this street.  
   
-143. You pass this traffic sign while driving outside a built-up area. How far off is the hazard to be expected?  
+144. You pass this traffic sign while driving outside a built-up area. How far off is the hazard to be expected?  
 (Red triangular border on a white background with Blac exclaimation mark in the middle)  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_101.jpg)   
 ❌ Between 50 m and 150 m  
@@ -980,7 +974,7 @@ may also enter the zone if they are driven by residents. This can also include c
 the danger(or hazardous - Gefahrenstelle) zone is to be expected at a distance of around 150 to 250 m outside built-up areas.  
 In urban areas, the distance (Abstand) may be considerably(deutlich) shorter(kürzer).  
   
-144. What applies when you see this traffic sign? (Yellow board with City name mentioned as Mehlem Stadt Bonn)  
+145. What applies when you see this traffic sign? (Yellow board with City name mentioned as Mehlem Stadt Bonn)  
 I may  
 ❌ drive faster than 50 km/h because this is a multi-lane carriageway  
 ✅ drive more quickly in the right-hand lane than vehicles travelling in the left-hand lane  
@@ -991,7 +985,7 @@ of lane (for vehicles up to 3.5 t gross vehicle weight). This also means that I 
 in the left-hand lane. - but not faster than 50 km/h. In fact, multi-lane carriageways have nothing to do with speed limits.  
 More than 50 km/h is only permitted if a traffic sign permits a different speed limit.  
   
-145. What vehicles are permitted to use this road?  
+146. What vehicles are permitted to use this road?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_148.jpg)
 ✅ Cycles and motorcycles that are pushed  
 ❌ Electric-powered vehicles  
@@ -999,7 +993,7 @@ More than 50 km/h is only permitted if a traffic sign permits a different speed 
 **Comment**:  This traffic sign prohibits(verbietet from verboten) motor vehicles of all kinds from using this road. Manual vehicles, 
 motorcycles and bicycles may be pushed. Additional signs may indicate possible exceptions.  
   
-146. What applies in the area 15 m in front of and behind this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_161.jpg)  
+147. What applies in the area 15 m in front of and behind this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_161.jpg)  
 I may  
 ✅ not obstruct passengers boarding or alighting  
 ✅ stop  
@@ -1008,21 +1002,21 @@ I may
 here, e.g. to allow someone to get on or off. Parking is prohibited in the bus stop area, i.e. up to 15 m in front of and behind the 
 traffic sign.  
   
-147. What applies with this traffic sign? (Left Down Arrow in the blue circular background)  
+148. What applies with this traffic sign? (Left Down Arrow in the blue circular background)  
 ❌ I am obliged to turn left  
 ✅ I have to drive past obstructions on the left  
 ❌ I may not turn right before the sign  
 **Comment**:  This traffic sign specifies the side on which you must drive past traffic islands, obstacles, roadworks, etc. I must pass 
 on the left here. A corresponding arrow indicates that you must pass on the right.  
   
-148. Which prohibitions cease to apply when you see this sign?    
+149. Which prohibitions cease to apply when you see this sign?    
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_133.jpg)
 ✅ No overtaking  
 ✅ Speed restrictions  
 ❌ No parking  
 **Comment**:  All route prohibitions - speed limit, minimum speed, no overtaking - are lifted again from here.  
   
-149. What does this traffic sign indicate? (CNG)  
+150. What does this traffic sign indicate? (CNG)  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_42_104.jpg)  
 A 
 ✅ natural gas fuel station  
@@ -1031,7 +1025,7 @@ A
 **Comment**:   
 This traffic sign indicates a natural gas filling station: CNG = Compressed Natural Gas.  
   
-150. What should you do as you draw near to this heavy goods transport?  
+151. What should you do as you draw near to this heavy goods transport?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_2_2_36_001.jpg)   
 ✅ I refrain from overtaking  
 ❌ I overtake taking extra care  
