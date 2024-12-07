@@ -5359,9 +5359,26 @@ I have to
 **Comment**: The white marking on the road is called “shark's teeth” because of its appearance. It emphasizes an existing obligation to wait, in this case due to a right-before-left rule (intersection without right-of-way
 traffic signs). Therefore: Approach carefully, get an overview and behave according to the rules (I may drive here first, the driver on the left must wait).
 
-722. 721. How can you tell whether the rear fog lamp is switched on?  
+722. How can you tell whether the rear fog lamp is switched on?  
 ✅ By the amber indicator light  
 ❌ By the red indicator light  
 ❌ By the blue indicator light  
 **Comment**: The rear fog light may only be switched on when visibility is less than 50m. If it is switched on, a yellow indicator light comes on.
 
+723. Why are you not permitted to now overtake the bus driving ahead of you?  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_2_05_019_ende.jpg)  
+❌ Because of the lack of road markings  
+✅ Because the hazard lights of the bus are switched on  
+✅ Because of the motorbike  
+**Comment**: A bus or school bus drives to a stop without a stop bay with its hazard warning lights switched on. As long as it is moving, I am not allowed to overtake. If the bus stops, I may only pass at walking speed and
+at such a distance that passengers are neither endangered nor hindered. I must also be considerate of the motorcycle approaching from behind (now next to me?!). Missing lane markings are not important. TIP: Watch the movie
+again and pay attention to the rear-view mirrors!  
+
+724. Why should you not overtake the moped rider in this situation?  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_1_06_107_1_ende.jpg)  
+✅ Because this might cause the moped rider to fall  
+✅ Because I am not allowed to drive significantly faster than the moped rider  
+✅ Because I am unable to maintain the requisite amount of side clearance  
+**Comment**: The road is very narrow due to the roadworks, so it is not possible to keep the prescribed side distance when overtaking. The motorcyclist could feel pressured, swerve and crash. In any case, I'm not allowed
+to drive faster than 30 km/h here (traffic sign at the beginning of the movie). Then I would only be a little faster than the moped (25 km/h). TIP: Watch the movie questions several times, sometimes you have already driven
+past the hint!  
