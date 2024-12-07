@@ -5382,3 +5382,12 @@ again and pay attention to the rear-view mirrors!
 **Comment**: The road is very narrow due to the roadworks, so it is not possible to keep the prescribed side distance when overtaking. The motorcyclist could feel pressured, swerve and crash. In any case, I'm not allowed
 to drive faster than 30 km/h here (traffic sign at the beginning of the movie). Then I would only be a little faster than the moped (25 km/h). TIP: Watch the movie questions several times, sometimes you have already driven
 past the hint!  
+
+725. Why are you not allowed to take the turn now?  
+![img](https://schueler.click-learn.info/BilderV2/BS_1_2_09_135_1_ende.jpg)  
+Because of the  
+✅ light blue car  
+❌ yellow car  
+❌ green vehicle  
+**Comment**: When turning left with oncoming traffic, I have to expect smaller vehicles to be obscured by larger ones. In this case, a smaller vehicle appears next to the large vehicle in the oncoming traffic, which may be
+driving straight ahead. So I have to wait and let the oncoming traffic pass. The other vehicles are of no importance to me here. TIP: Watch the movie again and pay attention to the movement from the front!
