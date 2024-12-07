@@ -1119,50 +1119,44 @@ is longer than on a level road and the braking effect may decrease.
 ✅ Icy conditions  
 ❌ Avalanches  
 ✅ Packed snow  
-**Comment**:  The danger sign with the “snowflake” symbol warns of particularly dangerous situations due to slippery snow or  
-ice: If the outside temperature is appropriate, it is essential to reduce speed!  
+**Comment**:  The danger sign with the “snowflake” symbol warns of particularly dangerous situations due to slippery snow or ice: If the outside temperature is appropriate, it is essential to reduce speed!  
   
 163. Who is allowed to enter a street sign-posted like this?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_116.jpg)  
 ✅ Residents  
 ❌ Through-traffic  
 ✅ People visiting residents  
-**Comment**:  The sign prohibits motor vehicles of all kinds. Manual vehicles, motorcycles and bicycles may be pushed.  
-The additional sign exempts residents, their visitors and suppliers from this ban.  
+**Comment**:  The sign prohibits motor vehicles of all kinds. Manual vehicles, motorcycles and bicycles may be pushed. The additional sign exempts residents, their visitors and suppliers from this ban.  
   
 164. What must you be prepared for here?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_159.jpg)  
 ✅ People walking on the road  
 ✅ Vehicles turning onto the road  
 ✅ Oncoming vehicles turning left  
-**Comment**:  Indication of a parking lot for hikers: With this traffic sign, not only pedestrians (e.g. from the parking lot  
-towards the forest) are to be expected. Other vehicles from oncoming traffic could also approach the parking lot or people  
-leaving the parking lot could turn onto the road without paying attention.  
+**Comment**: Indication of a parking lot for hikers: With this traffic sign, not only pedestrians (e.g. from the parking lot towards the forest) are to be expected. Other vehicles from oncoming traffic could also approach
+the parking lot or people leaving the parking lot could turn onto the road without paying attention.  
   
 165. You are approaching this combination of traffic signs. What must you remember?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_141.jpg)  
 ✅ You must indicate to leave the roundabout  
 ✅ Vehicles in the roundabout have priority  
 ❌ You must indicate when entering the roundabout  
-**Comment**:  If the junction(Einmündung) to a traffic circle is marked(gekennzeichnet) as such, traffic on the roundabout
-(Kreisverkehr) lane has priority(right of way). Flashing when entering the roundabout is 'expressly prohibited'(ausdrücklich  
-verboten). However, you must indicate when leaving the traffic circle.  
+**Comment**:  If the junction(Einmündung) to a traffic circle is marked(gekennzeichnet) as such, traffic on the roundabout(Kreisverkehr) lane has priority(right of way). Flashing when entering the roundabout is 'expressly 
+prohibited'(ausdrücklich verboten). However, you must indicate when leaving the traffic circle.  
   
 166. What must you anticipate with this road sign?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_144.jpg)  
 ❌ With an underpass for cyclists  
 ✅ With cyclists who may cross the carriageway  
 ❌ With a "cyclists prohibited" zone  
-**Comment**:  This danger sign warns of cyclists crossing the road. It is located at places where cyclists frequently or  
-unexpectedly cross the road or enter it, e.g. because a cycle path ends.  
+**Comment**:  This danger sign warns of cyclists crossing the road. It is located at places where cyclists frequently or unexpectedly cross the road or enter it, e.g. because a cycle path ends.  
   
 167. What do you do when you see this traffic sign? (Warning Traffic sign with Sharp bends)  
 ✅ Reduce your speed  
 ❌ Accelerate strongly immediately after the right bend  
 ✅ Drive as far as possible over on the right-hand side  
-**Comment**:  This traffic sign warns of sharp bends, which can be more dangerous than is apparent at first glance.  
-Behavior at this sign: Do not enter too quickly, reduce speed if necessary. Downshift if necessary. Drive as far to  
-the right as possible.  
+**Comment**:  This traffic sign warns of sharp bends, which can be more dangerous than is apparent at first glance. Behavior at this sign: Do not enter too quickly, reduce speed if necessary. Downshift if necessary. Drive 
+as far to the right as possible.  
   
 168. What does this traffic sign indicate? (Red + sign within a white background with blue square border)  
 ✅ A first aid station  
@@ -1174,292 +1168,262 @@ the right as possible.
 ✅ Street lighting does not stay on all night  
 ❌ Vehicles may not be parked here  
 ❌ Vehicles may be parked here all night without lights  
-**Comment**:  According to regulations, vehicles parked at the side of the road must also be recognizable in the dark.  
-This traffic sign draws attention to the fact that the street lighting is not on all night.  
-You must observe this if you park your vehicle here. If you want to park there all night, you must make your vehicle recognizable,  
-e.g. with parking lights.  
+**Comment**: According to regulations, vehicles parked at the side of the road must also be recognizable in the dark. This traffic sign draws attention to the fact that the street lighting is not on all night. You must 
+observe this if you park your vehicle here. If you want to park there all night, you must make your vehicle recognizable,  e.g. with parking lights.
   
-170. When may you stop here? (No stopping sign with bottom written as werktags)  
+171. When may you stop here? (No stopping sign with bottom written as werktags)  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_027.jpg)  
 ❌ On Saturdays  
 ✅ On Sundays  
 ✅ On public holidays  
-**Comment**:  The red and blue sign means “No stopping”. It prohibits stopping or parking on the carriageway.  
-The additional sign “weekdays” restricts the prohibition to working days: Monday to Saturday inclusive count as working days.  
-This means that stopping and parking is permitted by this sign on Sundays and other public holidays (regardless of the day of  
-the week). On Saturdays and other working days only if a public holiday falls on a Saturday or working day.  
+**Comment**: The red and blue sign means “No stopping”. It prohibits stopping or parking on the carriageway. The additional sign “weekdays” restricts the prohibition to working days: Monday to Saturday inclusive count as 
+working days. This means that stopping and parking is permitted by this sign on Sundays and other public holidays (regardless of the day of the week). On Saturdays and other working days only if a public holiday falls on a 
+Saturday or working day.
   
-171. What is true in the case of this traffic sign combination? (Bicycle with left and right arrow and also Give way symbol below it.)  
+173. What is true in the case of this traffic sign combination? (Bicycle with left and right arrow and also Give way symbol below it.)  
 I have to give way while also  
 ✅ watching out for cyclists coming from the left and right  
 ✅ watching out for electric scooter traffic coming from the left and right  
 ❌ only watching out for motor vehicle traffic coming from the left and right on the priority road  
-**Comment**:  The sign combination warns of cycle paths for both directions on priority roads. Not only do I have to give way,  
-I also have to expect cyclists on the right and left when turning. Small electric vehicles (e.g. e-scooters) are also permitted  
-on cycle paths.  
+**Comment**:  The sign combination warns of cycle paths for both directions on priority roads. Not only do I have to give way, I also have to expect cyclists on the right and left when turning. Small electric vehicles 
+(e.g. e-scooters) are also permitted on cycle paths.  
   
-172. What does this traffic sign warn you of? (Car slippering warning sign)  
+174. What does this traffic sign warn you of? (Car slippering warning sign)  
 ✅ Danger of skidding when the roadway is wet  
 ✅ Danger of skidding when the roadway is dirty  
 ❌ Drivers under the influence of alcohol  
-**Comment**:  This sign warns of slippery road surfaces. There is a risk of skidding if the road surface is wet or dirty.  
-Do not brake, accelerate or steer abruptly.  
+**Comment**:  This sign warns of slippery road surfaces. There is a risk of skidding if the road surface is wet or dirty. Do not brake, accelerate or steer abruptly.  
   
-173. What do you do when you see this traffic sign? (Roadways narrowing warning sign)  
+175. What do you do when you see this traffic sign? (Roadways narrowing warning sign)  
 ✅ Refrain from overtaking  
 ❌ Always stop before the road narrows  
 ✅ Reduce your speed  
 **Comment**:  After such a sign, the roadway will become noticeably narrower. Adjust your speed and pay attention to oncoming traffic. Do not overtake.  
   
-174. What do the white markings on the road mean in this situation?![img](https://schueler.click-learn.info/BilderV2/AB_1_4_42_009_1.jpg)  
+176. What do the white markings on the road mean in this situation?![img](https://schueler.click-learn.info/BilderV2/AB_1_4_42_009_1.jpg)  
 The white markings  
 ❌ are a warning about the poor state of the road surface  
 ✅ highlight a duty to give-way due to the right-before-left rule  
 ❌ indicate a traffic-calming zone  
-**Comment**: The white marking on the road is called “shark's teeth” because of its appearance. It emphasizes an existing obligation  
-to wait, in this case due to a right-before-left rule (intersection without right-of-way traffic signs). Other traffic signs with  
-corresponding, clear symbols indicate “traffic-calmed areas” or poor road conditions.  
+**Comment**: The white marking on the road is called “shark's teeth” because of its appearance. It emphasizes an existing obligation to wait, in this case due to a right-before-left rule (intersection without right-of-way 
+traffic signs). Other traffic signs with corresponding, clear symbols indicate “traffic-calmed areas” or poor road conditions.  
   
-175. You are driving a motor vehicle with a manual gearbox. What is the correct thing to do when you see this traffic sign?  
+177. You are driving a motor vehicle with a manual gearbox. What is the correct thing to do when you see this traffic sign?  
 (12% higher gradient from left to right in warning sign)  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_157.jpg)  
 ❌ I always change up to a higher gear  
 ❌ I drive down this descent carefully  
 ✅ I change down to a lower gear if necessary  
-**Comment**:  The symbol warns of a steep incline (the 2nd figure is further up). If necessary, shift down to a lower gear before an  
-uphill gradient in order to accelerate better uphill.  
+**Comment**:  The symbol warns of a steep incline (the 2nd figure is further up). If necessary, shift down to a lower gear before an uphill gradient in order to accelerate better uphill.  
   
-176. What applies when you see this traffic sign?  
+178. What applies when you see this traffic sign?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_2_4_42_008.jpg)  
 I may  
 ✅ drive more quickly in the right-hand lane than vehicles travelling in the left-hand lane  
 ❌ drive faster than 50 km/h because this is a multi-lane carriageway  
 ✅ choose whatever lane I wish for my direction of travel  
-**Comment**: The rules for driving within built-up areas apply immediately after the town sign: Maximum speed 50 km/h and -   
-if there are several lanes for one direction - free choice of lane (for vehicles up to 3.5 t gross vehicle weight). This also   
-means that I can drive faster in the right-hand lane than in the left-hand lane. - but not faster than 50 km/h. In fact,   
-multi-lane carriageways have nothing to do with speed limits. More than 50 km/h is only permitted if a traffic sign permits a   
-different speed limit.  
+**Comment**: The rules for driving within built-up areas apply immediately after the town sign: Maximum speed 50 km/h and - if there are several lanes for one direction - free choice of lane (for vehicles up to 3.5 t gross 
+vehicle weight). This also means that I can drive faster in the right-hand lane than in the left-hand lane. - but not faster than 50 km/h. In fact, multi-lane carriageways have nothing to do with speed limits. More than 50 
+km/h is only permitted if a traffic sign permits a different speed limit.  
   
-177. What does this traffic sign indicate?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_119.jpg)  
+179. What does this traffic sign indicate?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_119.jpg)  
 ❌ A road closed to vehicle traffic  
 ✅ A cul-de-sac  
 ❌ An underpass  
 **Comment**: The traffic sign indicates that this road is a dead end.  
   
-178. What situation applies according to this traffic sign? 
+180. What situation applies according to this traffic sign? 
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_172.jpg)  
 (30 in a red circluar boarder within a white background and bottom 22-6h Lärmshutz)  
 A maximum speed limit of 30 km/h, which  
 ✅ applies between 10 pm and 6 am  
 ❌ applies between 6 am and 10 pm  
 ❌ does not apply to electric vehicles  
-**Comment**: Time specifications can restrict traffic bans to certain times of day. The times are displayed as “from - to”.  
-The speed limit of 30 km/h only applies from 10 p.m. to 6 a.m., i.e. at night. During the day, between 6 a.m. and 10 p.m.,  
-you can drive faster, usually 50 km/h in urban areas. There is no exception for electric vehicles.  
+**Comment**: Time specifications can restrict traffic bans to certain times of day. The times are displayed as “from - to”. The speed limit of 30 km/h only applies from 10 p.m. to 6 a.m., i.e. at night. During the day, 
+between 6 a.m. and 10 p.m., you can drive faster, usually 50 km/h in urban areas. There is no exception for electric vehicles.  
   
-179. What does this traffic sign combination indicate?  
+181. What does this traffic sign combination indicate?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_164.jpg)  
 The road signposted like this  
 ✅ may be used by winter sports enthusiasts  
 ❌ may not be used by traffic in winter  
 ❌ may only be used with snow chains  
-**Comment**: This combination calls for caution: The upper traffic sign warns of a danger zone. The additional sign permits winter   
-sports. I must therefore watch out for winter sports enthusiasts here and drive at walking pace if necessary.  
+**Comment**: This combination calls for caution: The upper traffic sign warns of a danger zone. The additional sign permits winter sports. I must therefore watch out for winter sports enthusiasts here and drive at walking 
+pace if necessary. 
   
-180. What must you be prepared for here?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_139.jpg) Sign 356  
+182. What must you be prepared for here?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_139.jpg) Sign 356  
 ✅ That children will cross the road more frequently than usual  
 ✅ That the flowing traffic will come to a stop  
 ❌ That children will be playing on the road under supervision  
-**Comment**: Traffic assistants (e.g. school crossing guards) support traffic control.  
-Pay particular attention when driving and expect children to run across the road. Moving traffic can also be stopped to allow children   
+**Comment**: Traffic assistants (e.g. school crossing guards) support traffic control. Pay particular attention when driving and expect children to run across the road. Moving traffic can also be stopped to allow children  
 to cross the road.  
   
-181. Which traffic sign refers to the permissible total mass?  
+183. Which traffic sign refers to the permissible total mass?  
 (5.5 t in white background withred border  and Truck in white background with red border and 7,5t in bottom.)  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_41_102.jpg) __2__
-**Comment**: The first traffic sign indicates the maximum permissible actual mass.  
-The second traffic sign refers to the permissible total mass.  
+**Comment**: The first traffic sign indicates the maximum permissible actual mass. The second traffic sign refers to the permissible total mass.  
   
-182. What do these traffic signs indicate?  
+184. What do these traffic signs indicate?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_121.jpg)  
 ✅ No entry 100 m ahead  
 ❌ A customs post 100 m ahead  
 ❌ A one-way street 100 m long  
-**Comment**:  The upper sign prohibits entry into this road. The additional sign indicates the distance to the no-entry zone,  
-in this case 100m. Watch out for vehicles that may leave the road.  
+**Comment**:  The upper sign prohibits entry into this road. The additional sign indicates the distance to the no-entry zone, in this case 100m. Watch out for vehicles that may leave the road.  
   
-183. What dangers can arise if this traffic sign is ignored?  
+185. What dangers can arise if this traffic sign is ignored?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_109.jpg)  
 ✅ The vehicle could go into a skid and endanger oncoming traffic  
 ✅ The load could be damaged  
 ✅ The vehicle could suffer a broken axle or spring fracture  
-**Comment**: The sign warns of uneven road surfaces. If the speed is too high, the vehicle could skid and endanger oncoming traffic.  
-In addition, cargo could be damaged or the vehicle could suffer axle and spring breakage. Therefore, adjust your speed.  
+**Comment**: The sign warns of uneven road surfaces. If the speed is too high, the vehicle could skid and endanger oncoming traffic. In addition, cargo could be damaged or the vehicle could suffer axle and spring breakage. 
+Therefore, adjust your speed. 
   
-184. What must you anticipate with this road sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_154.jpg)  
+186. What must you anticipate with this road sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_154.jpg)  
 ✅ Vehicles that brake suddenly  
 ✅ Other road users may become distracted  
 ✅ Sudden noise from aeroplanes  
-**Comment**: The danger sign with this symbol warns of special danger situations due to air traffic.  
-I do not allow myself to be irritated by aircraft noise and drive attentively, paying attention to the vehicles ahead  
+**Comment**: The danger sign with this symbol warns of special danger situations due to air traffic. I do not allow myself to be irritated by aircraft noise and drive attentively, paying attention to the vehicles ahead  
 and reducing my speed if necessary!  
   
-185. What vehicles may you overtake when this traffic sign is displayed?  
+187. What vehicles may you overtake when this traffic sign is displayed?  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_41_108.jpg)  
 ✅ No vehicles  
 ❌ Multi-track vehicles  
 ❌ Single-track vehicles  
-**Comment**: StVO: The sign means “Prohibition of overtaking single-track vehicles for multi-track motor vehicles and motorcycles with   
-sidecars”. The explanatory note goes on to say: Anyone driving a multi-lane motor vehicle may not overtake single - AND multi-lane   
-vehicles. So none.  
+**Comment**: StVO: The sign means “Prohibition of overtaking single-track vehicles for multi-track motor vehicles and motorcycles with sidecars”. The explanatory note goes on to say: Anyone driving a multi-lane motor 
+vehicle may not overtake single - AND multi-lane vehicles. So none.  
   
-186. What do the white markings on the road mean in this situation?  
+188. What do the white markings on the road mean in this situation?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_4_42_009.jpg)  
 The white markings  
 ❌ are a warning about the poor state of the road surface  
 ✅ highlight a duty to give-way due to the right-before-left rule  
 ❌ indicate a traffic-calming zone  
-**Comment**: The white marking on the road is called “shark's teeth” because of its appearance. It emphasizes an existing obligation to   
-wait, in this case due to a right-before-left rule (intersection without right-of-way traffic signs). Other traffic signs with   
-corresponding, clear symbols indicate “traffic-calmed areas” or poor road conditions.  
+**Comment**: The white marking on the road is called “shark's teeth” because of its appearance. It emphasizes an existing obligation to wait, in this case due to a right-before-left rule (intersection without right-of-way 
+traffic signs). Other traffic signs with corresponding, clear symbols indicate “traffic-calmed areas” or poor road conditions.  
   
-187. What vehicles may be parked alongside other parked cars on the roadway?  
+189. What vehicles may be parked alongside other parked cars on the roadway?  
 ✅ All taxis when passengers get in or out  
 ❌ All vehicles when they have their hazard lights switched on  
 ❌ All vehicles when they are being loaded or unloaded  
-**Comment**: Cabs (also: cabs) are allowed to stop in the second row to let passengers on and off if traffic permits. I should always   
-expect this when a cab drives ahead of me.  
+**Comment**: Cabs (also: cabs) are allowed to stop in the second row to let passengers on and off if traffic permits. I should always expect this when a cab drives ahead of me.  
   
-188. What actions should you anticipate at such stops?  
+190. What actions should you anticipate at such stops?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_02_122.jpg)  
 ✅ Pedestrians will run across the road to the tram-stop island  
 ❌ Pedestrians will wait until the road is clear  
 ✅ Pedestrians will step off the tram-stop island unheedingly  
-**Comment**: Pedestrians sometimes leave stops carelessly. It can also happen that pedestrians run across the road from the other side   
-to catch the streetcar.  
+**Comment**: Pedestrians sometimes leave stops carelessly. It can also happen that pedestrians run across the road from the other side to catch the streetcar.  
   
-189. What applies with this traffic sign? (No stopping and parking sign and below mentioned is TAXI)  
+191. What applies with this traffic sign? (No stopping and parking sign and below mentioned is TAXI)  
 ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_163.jpg)
 ❌ I may stop  
 ✅ I have to anticipate taxi moving off and coming to a stop  
 ❌ I may park  
-**Comment**: Cabs have fixed stands that are marked with this sign. I have to expect cabs arriving and departing there.  
-Only cabs are allowed to stop at the stands.  
+**Comment**: Cabs have fixed stands that are marked with this sign. I have to expect cabs arriving and departing there. Only cabs are allowed to stop at the stands.  
   
-190. What is the correct course of action in this situation? (Repeated but order changed)  
+192. What is the correct course of action in this situation? (Repeated but order changed)  
 ❌ I slow down to walking speed now  
 ✅ I maintain my speed  
 ✅ I drive with an increased level of alertness  
-**Comment**:  The bus in oncoming traffic is parked in a lay-by next to the road without hazard warning lights. Therefore, 
-I do not have to slow down to walking speed, but may maintain my speed (observe the speed limit!). Increased attention and 
-caution are always required in such situations.  
+**Comment**:  The bus in oncoming traffic is parked in a lay-by next to the road without hazard warning lights. Therefore, I do not have to slow down to walking speed, but may maintain my speed (observe the speed limit!). 
+Increased attention and caution are always required in such situations.  
   
-191. What should you anticipate when pedestrians are crossing the road?  
+193. What should you anticipate when pedestrians are crossing the road?  
 Pedestrians can  
 ✅ be inattentive  
 ✅ come to a sudden stop  
 ✅ turn back, after half-way  
   
-192. What is correct in this situation? (There is a truck coming from the incoming traffic in the same lane. And to my left and 
-right both side are bike lane)  
+194. What is correct in this situation? (There is a truck coming from the incoming traffic in the same lane. And to my left and right both side are bike lane)  
 I am  
 ✅ allowed to drive on the advisory bike lane only until I am past the truck.  
 ❌ not allowed to drive on the advisory bike lane  
 ✅ allowed to drive on the advisory bike lane after I have ruled out any risk to cyclists by carefully observing the road traffic situation  
-**Comment**:  There is no general ban on using the hard shoulder, but the hard shoulder is there for the safety of cyclists.  
-If nobody is using the lane and I am not putting cyclists in danger, I can temporarily use the area with my vehicle, e.g. to  
-avoid traffic. Once I have passed the bottleneck (caused here by oncoming traffic), I leave the hard shoulder again.  
+**Comment**: There is no general ban on using the hard shoulder, but the hard shoulder is there for the safety of cyclists. If nobody is using the lane and I am not putting cyclists in danger, I can temporarily use the 
+area with my vehicle, e.g. to avoid traffic. Once I have passed the bottleneck (caused here by oncoming traffic), I leave the hard shoulder again.  
   
-193. What must you note when overtaking the cyclists in this situation?  
+195. What must you note when overtaking the cyclists in this situation?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_05_125.jpg)  
 ✅ The incline causes the cyclists to sway  
 ❌ I must overtake with at least 1.0 m of side clearance  
 ✅ I must overtake with at least 1.5 m of side clearance  
-**Comment**:  When overtaking cyclists, I always have to reckon with an unsafe driving style or a “swinging movement” to the sides.  
-Especially on an incline. The prescribed minimum distance to the side when overtaking is 1.5 m in urban areas (at least 2 m rural or outside urban areas).  
+**Comment**: When overtaking cyclists, I always have to reckon with an unsafe driving style or a “swinging movement” to the sides. Especially on an incline. The prescribed minimum distance to the side when overtaking is 
+1.5 m in urban areas (at least 2 m rural or outside urban areas).  
   
-194. You would like to drive past a local transport bus, which has come to a stop at a bus stop. What must you be aware of?  
+196. You would like to drive past a local transport bus, which has come to a stop at a bus stop. What must you be aware of?  
 I have to  
 ✅ drive past carefully  
 ✅ watch out for oncoming traffic  
 ✅ drive past maintaining sufficient space to the side  
-**Comment**:  If a bus stops at a bus stop, you must expect people to cross the road in front of or behind the bus.  
-Therefore, only drive past carefully and at a sufficient distance to avoid endangering passengers - be aware of oncoming traffic.  
+**Comment**: If a bus stops at a bus stop, you must expect people to cross the road in front of or behind the bus. Therefore, only drive past carefully and at a sufficient distance to avoid endangering passengers - be 
+aware of oncoming traffic.  
   
-195. What must you be aware of when driving a quad?  
+197. What must you be aware of when driving a quad?  
 ✅ Wearing a suitable crash helmet is mandatory  
 ❌ The handling characteristics are similar to those of a car  
 ✅ Quads are prone to tipping over when driving through tight bends  
-**Comment**:  You are similarly unprotected on quad bikes as on motorcycles. This is why helmets are also compulsory here.  
-When cornering, quads - unlike four-wheeled cars, for example - can have a tendency to tip over.  
+**Comment**: You are similarly unprotected on quad bikes as on motorcycles. This is why helmets are also compulsory here. When cornering, quads - unlike four-wheeled cars, for example - can have a tendency to tip over.  
   
-196. Why must you drive slowly here and be ready to brake?  
+198. Why must you drive slowly here and be ready to brake?  
 ❌ Because the blue truck is moving off  
 ✅ Because the traffic situation is confusing  
 ✅ Because there is a child on the carriageway  
-**Comment**:  Wherever the traffic situation is unclear, I have to drive carefully, i.e. slowly and be ready to brake.  
-Especially if other vehicles slow down and flash their lights in front of me, if children can be seen at the side of  
-the road or even want to cross the road: Stop if necessary. The vehicle approaching in oncoming traffic is of no interest to me.  
+**Comment**: Wherever the traffic situation is unclear, I have to drive carefully, i.e. slowly and be ready to brake. Especially if other vehicles slow down and flash their lights in front of me, if children can be seen at 
+the side of the road or even want to cross the road: Stop if necessary. The vehicle approaching in oncoming traffic is of no interest to me.  
   
-197. Why should you allow the truck to change lane? (Video question: The truck indicates with its flashing lights that it wants to turn left into my lane. )  
+199. Why should you allow the truck to change lane? (Video question: The truck indicates with its flashing lights that it wants to turn left into my lane. )  
 ❌ Because the alternate merging procedure applies here  
 ✅ Because the driver of the truck may fail to see me  
 ✅ Because I should show due consideration to the truck  
-**Comment**:  The truck indicates with its flashing lights that it wants to turn left into my lane. Maybe he didn't see me properly.  
-Besides, it's not far to the junction: I let him go ahead out of consideration. The zipper procedure is only to be used at lane  
-narrowings, not when changing lanes as here.  
+**Comment**:  The truck indicates with its flashing lights that it wants to turn left into my lane. Maybe he didn't see me properly. Besides, it's not far to the junction: I let him go ahead out of consideration. The 
+zipper procedure is only to be used at lane narrowings, not when changing lanes as here.  
   
-198. You want to transport furniture in the van shown here (up to 3.5 t). Compared to driving a car, what do you have to be aware of?  
+200. You want to transport furniture in the van shown here (up to 3.5 t). Compared to driving a car, what do you have to be aware of?  
 The van  
 ![img](https://schueler.click-learn.info/BilderV2/AB_2_7_01_161.jpg)   
 ✅ is vulnerable to sidewinds  
 ✅ can roll over more easily when cornering  
 ✅ requires special attention regarding vertical clearances  
-**Comment**:  Vans have a higher center of gravity than cars, so they can tip over more easily even when heavily loaded.  
-The large surface area also makes the vehicle more susceptible to the influence of crosswinds. In addition, I have  
-to pay attention to the clearance height on driveways or bridges, for example!  
+**Comment**: Vans have a higher center of gravity than cars, so they can tip over more easily even when heavily loaded. The large surface area also makes the vehicle more susceptible to the influence of crosswinds. In 
+addition, I have to pay attention to the clearance height on driveways or bridges, for example!  
   
-199. What do you have to be aware of when you see this traffic sign? (Traffic calmed area sign, wherein children playing  
+201. What do you have to be aware of when you see this traffic sign? (Traffic calmed area sign, wherein children playing  
 football with parent and there is car parked nearby. And sideways are housing society. And a car is an onccoming car on the lane.)  
 ✅ Pedestrians are entitled to use the entire breadth of the road  
 ✅ Motor vehicles have to drive at walking speed  
 ✅ Children may play across the entire road  
-**Comment**:  The sign is called “Traffic-calmed area”(Verkehrsberuhigter Bereich). Here, children are allowed to play anywhere  
-and pedestrians are allowed to use the full width of the road. I am only allowed to drive at walking speed - i.e. no faster than  
-4 to 7 km/h. If necessary, I have to wait.  
+**Comment**: The sign is called “Traffic-calmed area”(Verkehrsberuhigter Bereich). Here, children are allowed to play anywhere and pedestrians are allowed to use the full width of the road. I am only allowed to drive at 
+walking speed - i.e. no faster than 4 to 7 km/h. If necessary, I have to wait.  
   
-200. A horse-drawn carriage is coming towards you. What should you do?  
+202. A horse-drawn carriage is coming towards you. What should you do?  
 I should  
 ✅ Avoid making noise  
 ✅ drive as far to the right as possible  
 ❌ switch on parking light  
-**Comment**:  Horses are living creatures(Pferde sind Lebewesen) that react differently(unterschiedlich) to their environment.  
-To avoid making them unnecessarily(unnötig) nervous in traffic, I should be considerate, avoid noise and ride as far to the  
-right as possible,  reducing my own speed if necessary.  
+**Comment**: Horses are living creatures(Pferde sind Lebewesen) that react differently(unterschiedlich) to their environment. To avoid making them unnecessarily(unnötig) nervous in traffic, I should be considerate, avoid 
+noise and ride as far to the right as possible,  reducing my own speed if necessary.  
   
-201. You want to overtake a horse-drawn carriage on a rural road. What should you do?  
+203. You want to overtake a horse-drawn carriage on a rural road. What should you do?  
 I overtake with  
 ✅ as little noise as possible  
 ✅ the most space to the side as possible  
 ❌ a high engine speed  
   
-202. What must you anticipate in this situation?  
+204. What must you anticipate in this situation?  
 ❌ The cyclist will dismount to allow me to pass  
 ✅ The cyclist will pull out to the left  
 ✅ Oncoming traffic  
-**Comment**: I have to expect that the person in front of me will drive past the parked car on the left. On this narrow road,  
-I can only pass cars and others with caution, as oncoming traffic can suddenly appear. If it gets too narrow, I have to wait behind the  
-obstacle or the person in front of me. I don't expect anyone to stop, dismount and let me pass.  
+**Comment**: I have to expect that the person in front of me will drive past the parked car on the left. On this narrow road, I can only pass cars and others with caution, as oncoming traffic can suddenly appear. If it 
+gets too narrow, I have to wait behind the obstacle or the person in front of me. I don't expect anyone to stop, dismount and let me pass.  
   
-203. What must you be aware of?  
+205. What must you be aware of?  
 ✅ Pedestrians could cross the road  
 ❌ I may not drive past the bus  
 ✅ I may drive past the bus at walking speed  
-**Comment**: If a bus with hazard warning lights comes to a halt at a bus stop, other vehicles may only pass at walking speed:  
-passengers or other people could cross the road at any time without paying attention!  
+**Comment**: If a bus with hazard warning lights comes to a halt at a bus stop, other vehicles may only pass at walking speed: passengers or other people could cross the road at any time without paying attention!  
   
-204. How do you respond to pedestrians wishing to cross the road into which you want to turn?  
+206. How do you respond to pedestrians wishing to cross the road into which you want to turn?  
 ❌ Only wait if the pedestrians are using a marked crossing  
 ✅ Allow the pedestrians to cross the road  
 ❌ Make the turn quickly before the pedestrians  
@@ -1467,7 +1431,7 @@ passengers or other people could cross the road at any time without paying atten
 give way to people who want to cross the road. It does not matter whether there are pedestrian crossings or traffic lights,  
 for example, or not.  
   
-205. Why are you particularly at risk, if you are riding a two-wheeler?  
+207. Why are you particularly at risk, if you are riding a two-wheeler?  
 ✅ Because my speed can be underestimated  
 ✅ Because I can be easily overlooked  
 ✅ Because I am at greater risk of injury in the event of an accident  
