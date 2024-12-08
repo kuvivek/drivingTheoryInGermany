@@ -232,6 +232,7 @@ the left.
 34. What is true in this situation about using the hard shoulder?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_2_07_013.jpg"  width="50%"/>  
 The hard shoulder  
+
 ✅ may only be used in the case of a breakdown  
 ❌ must be used in the same way as a right-hand lane  
 ❌ may only be used by trucks  
