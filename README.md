@@ -33,7 +33,7 @@ the hard shoulder as a right-hand lane until the regulation is lifted again by a
 ✅ To school buses with children boarding or alighting  
 ✅ To vehicles which have broken down  
 ✅ To a traffic congestion  
-**Comment**: Hazard warning lights warn follo wing vehicles of various dangers. It indicates obstacles on the road, e.g. a broken-down vehicle or a traffic jam. School buses from which children are getting on and off also 
+**Comment**: Hazard warning lights warn following vehicles of various dangers. It indicates obstacles on the road, e.g. a broken-down vehicle or a traffic jam. School buses from which children are getting on and off also 
 use them, as children sometimes cross the road carelessly.  
 
 6. What must a motor vehicle's maximum speed, determined by its construction, be at least if you want to use this road?
