@@ -127,6 +127,7 @@ all others as far to the right as possible in their lanes.
   
 21. What does this traffic sign mean?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_142.jpg"  width="50%"/>  
+
 ❌ You are only allowed to drive at walking speed  
 ❌ You must indicate when entering the roundabout  
 ✅ Stopping on the roundabout is forbidden  
@@ -178,7 +179,9 @@ employee is waving a white-red-white flag.
   
 28. When are you allowed to remain on the left-hand lane in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_6_06_213.jpg"  width="50%"/>   
+
 If my vehicle  
+
 ❌ is 2 m wide according to the registration certificate part I (Motor Vehicle Registration)  
 ✅ including the load actually has a maximum width of 2 m  
 **Comment**:  The sign indicates a lane narrowing. Only vehicles with an actual width of 2 m may use the left-hand lane. This applies including load and wing mirrors. It should also be noted that the vehicle width is 
@@ -186,6 +189,7 @@ stated in the vehicle documents without wing mirrors. If my vehicle is too wide,
   
 29. What does this traffic sign combination indicate?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_2_19_113.jpg"  width="50%"/>  
+
 A rail crossing  
 ✅ which I may cross at a maximum speed of 10 km/h  
 ✅ which I may approach at a maximum speed of 10 km/h  
