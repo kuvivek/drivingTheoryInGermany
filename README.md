@@ -8,7 +8,7 @@ What must you remember?
 crossings within this industrial area.
 
 2. You want to leave the motorway at the next exit. What is the correct course of action in this situation?
-![Image1](https://schueler.click-learn.info/BilderV2/BS_2_2_18_022_ende.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_18_022_ende.jpg"  width="50%"/>  
 ✅ I turn on my right-side indicators now  
 ✅ I observe the traffic behind me  
 ❌ I begin now to smoothly brake down to 60 km/h  
@@ -16,7 +16,7 @@ crossings within this industrial area.
 before leaving the highway. I may only slow down to pull out on the merging lane, i.e. when I have already left the highway. Braking on the highway is only necessary in traffic jams or at speed limits.  
 
 3. What is true about using the hard shoulder in this situation?
-![Image2](https://schueler.click-learn.info/BilderV2/AB_2_2_07_012.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_07_012.jpg"  width="50%"/>  
 The hard shoulder  
 ❌ may only be used by trucks  
 ✅ must be used like a right-hand lane  
@@ -37,7 +37,7 @@ the hard shoulder as a right-hand lane until the regulation is lifted again by a
 use them, as children sometimes cross the road carelessly.  
 
 6. What must a motor vehicle's maximum speed, determined by its construction, be at least if you want to use this road?
-![Image3](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_116.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_116.jpg"  width="50%"/>  
 ✅ 61 km/h  
 ❌ 51 km/h  
 ❌ 81 km/h  
@@ -76,7 +76,7 @@ therefore only drive fast enough to stop within half your visibility.
 **Comment**: Approach level crossings at moderate speed only. You must wait in front of the St. Andrew's cross when the barriers are closed.  
 
 12. What do you have to be aware of when you see this traffic sign combination?  
-![Image4](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_135.jpg)  
+![Image4](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_135.jpg"  width="50%"/>  
 ❌ A rail crossing at a distance of 120 m  
 ✅ A rail crossing at a distance of 240 m  
 ✅ No overtaking of vehicles permitted  
@@ -122,13 +122,13 @@ all others as far to the right as possible in their lanes.
 ✅ I might not respond to hazards in good enough time  
 ✅ Cross winds can negatively affect my stability on the road  
   
-19. What does this traffic sign mean? ![Image5](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_142.jpg)  
+19. What does this traffic sign mean? ![Image5](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_142.jpg"  width="50%"/>  
 ❌ You are only allowed to drive at walking speed  
 ❌ You must indicate when entering the roundabout  
 ✅ Stopping on the roundabout is forbidden  
 **Comment**:  In a traffic circle marked in this way, the vehicles in the circle have right of way. It is not permitted to stop in a traffic circle.  
   
-20. What vehicles may enter a cycle highway that has this sign? ![Image6](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_018.jpg)  
+20. What vehicles may enter a cycle highway that has this sign? ![Image6](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_018.jpg"  width="50%"/>  
 ❌ All mopeds with a maximum design speed less than 25 km/h  
 ✅ All vehicles driven by residents  
 ❌ All cars, provided they travel at walking speed  
@@ -157,7 +157,7 @@ out of the broken-down vehicle. A person in front of the broken-down vehicle sho
 shoulder. Secure the danger zone by switching on the hazard warning lights and setting up the warning triangle.  
 
 24. As a resident, you want to drive into a cycle highway that has this sign. What must you be aware of when doing so?  
-![Image7](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_168.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_168.jpg"  width="50%"/>  
 ✅ Cycles may travel alongside one another  
 ✅ Cycle traffic may not be impeded  
 ✅ Vehicles may not be driven faster than 30 km/h  
@@ -172,7 +172,7 @@ vehicles -but only at a maximum speed of 30 km/h.
 employee is waving a white-red-white flag.
   
 26. When are you allowed to remain on the left-hand lane in this situation?  
-![Image8](https://schueler.click-learn.info/BilderV2/AB_2_6_06_213.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_6_06_213.jpg"  width="50%"/>   
 If my vehicle  
 ❌ is 2 m wide according to the registration certificate part I (Motor Vehicle Registration)  
 ✅ including the load actually has a maximum width of 2 m  
@@ -180,7 +180,7 @@ If my vehicle
 stated in the vehicle documents without wing mirrors. If my vehicle is too wide, I must change to the right-hand lane in good time.  
   
 27. What does this traffic sign combination indicate?  
-![Image9](https://schueler.click-learn.info/BilderV2/VZ_1_2_19_113.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_2_19_113.jpg"  width="50%"/>  
 A rail crossing  
 ✅ which I may cross at a maximum speed of 10 km/h  
 ✅ which I may approach at a maximum speed of 10 km/h  
@@ -201,7 +201,7 @@ Because the traffic information
 **Comment**:  Something can always happen on the highway. I make sure I'm informed in good time about accidents, traffic jams, wrong-way drivers or obstructions by switching on the traffic radio.  
   
 30. What must you do when a traffic jam forms on this road?   
-![Image10](https://schueler.click-learn.info/BilderV2/AB_2_2_18_015_1.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_18_015_1.jpg"  width="50%"/>  
 Remaining within my lane, I  
 ❌ drive as far to the right as possible  
 ❌ continuing driving in the centre  
@@ -210,7 +210,7 @@ Remaining within my lane, I
 as far to the left as possible, all others as far to the right as possible.  
   
 31. A traffic jam is building up here. What is the correct procedure?  
-![Imag11](https://schueler.click-learn.info/BilderV2/AB_2_1_08_008.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_08_008.jpg"  width="50%"/>  
 ✅ If possible, switch on hazard warning lights to warn vehicles following behind  
 ✅ Drive as far as possible to the right in order to leave room for a channel on the left  
 ❌ Drive as far as possible to the left in order to leave room for a channel on the right  
@@ -219,7 +219,7 @@ lanes for one direction, a clear lane must therefore be formed between the left 
 the left. 
   
 32. What is true in this situation about using the hard shoulder?  
-![Image12](https://schueler.click-learn.info/BilderV2/AB_2_2_07_013.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_07_013.jpg"  width="50%"/>  
 The hard shoulder  
 ✅ may only be used in the case of a breakdown  
 ❌ must be used in the same way as a right-hand lane  
@@ -238,7 +238,7 @@ down.
 The speed limit for cars outside built-up areas on roads with one lane in each direction is ___100___ km/h.  
   
 35. What is the right course of action now?  
-![Image13](https://schueler.click-learn.info/BilderV2/BS_2_2_18_016_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_18_016_ende.jpg"  width="50%"/>  
 ✅ I warn the driver by sounding my horn and flashing my lights  
 ✅ I drive over to the right-side as far as possible  
 ✅ I notify the police  
@@ -246,7 +246,7 @@ The speed limit for cars outside built-up areas on roads with one lane in each d
 report the wrong-way driver to the police.  
   
 36.  What does this traffic sign mean?  
-![Imag14](https://schueler.click-learn.info/BilderV2/VZ_1_2_19_109.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_2_19_109.jpg"  width="50%"/>  
 ✅ Indication of existing overhead electrical wires  
 ✅ You must always wait when a rail vehicle is approaching  
 ✅ Rail traffic always has priority  
@@ -262,7 +262,7 @@ Because this
 reduced. In addition, an even flow of traffic could be achieved. However, this is a recommendation, not a prescribed maximum speed (speed limit).  
   
 38.  What do you have to be aware of in this situation?  
-![Image14](https://schueler.click-learn.info/BilderV2/AB_2_1_04_005.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_04_005.jpg"  width="50%"/>  
 Due to the constant changing of light and shadow  
 ❌ I am more easily able to judge distances  
 ✅ I have to drive with particular care  
@@ -277,7 +277,7 @@ therefore adapt my speed to the visibility conditions and drive particularly car
 **Comment**:  The sign means: Riders must use this path with their horses! Use is prohibited for all other road users.  
   
 40. What does this traffic sign indicate?  
-![Image15](https://schueler.click-learn.info/BilderV2/VZ_2_4_42_006.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_42_006.jpg"  width="50%"/>  
 ❌ Federal road (Bundesstrasse) 22  
 ✅ A diversion for autobahn traffic when required  
 ❌ An underground station  
@@ -430,7 +430,7 @@ organization may not be picked up and held in the hand while driving. Only voice
   
 67. The red car in front of you has been driving slowly for some time now. What is the correct course of action in    
 this situation?   
-![Image16](https://schueler.click-learn.info/BilderV2/BS_2_1_11_014_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_11_014_ende.jpg"  width="50%"/>  
 ❌ I close the distance and sound my horn  
 ✅ I maintain my speed  
 ❌ I overtake, because the road is clear  
@@ -517,7 +517,7 @@ mistakes.
 paths are not considered roads and are therefore not taken into account when they meet a developed road.  
   
 80. What is correct?  
-![Image17](https://schueler.click-learn.info/BilderV2/AB_1_2_36_004.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_36_004.jpg"  width="50%"/>  
 ✅ I must get ready to proceed  
 ✅ The yellow car must leave the crossroads  
 ❌ I can turn now  
@@ -525,12 +525,12 @@ paths are not considered roads and are therefore not taken into account when the
 intersection for the next signal. The yellow car must clear the junction and you must prepare to continue your journey.    
   
 81. What is correct?  
-![Image18](https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg"  width="50%"/>  
 ✅ Wait at the crossroads  
 ❌ Turn without stopping  
 **Comment**: If you see a police officer with his arms outstretched to the side in front or behind you at the junction, you must wait in front of the junction.  
   
-82. What applies here?![Image19](https://schueler.click-learn.info/BilderV2/AB_1_2_36_101.jpg)  
+82. What applies here?![Image19](https://schueler.click-learn.info/BilderV2/AB_1_2_36_101.jpg"  width="50%"/>  
 ❌ Turning off is prohibited  
 ❌ You must wait for further signals from the police officer before the crossroads may be entered  
 ✅ The crossroads may be crossed  
@@ -554,7 +554,7 @@ Otherwise I'm blocking the junction! If I have to, I prefer to wait until the ne
 expecting others to make mistakes.  
   
 86. Who has priority here?  
-![Image20](https://schueler.click-learn.info/BilderV2/AB_1_2_36_015.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_36_015.jpg"  width="50%"/>  
 ✅ The red car  
 ❌ Me  
 ❌ The motorbike  
@@ -562,7 +562,7 @@ expecting others to make mistakes.
 lights. In this case, he gives cross traffic the go-ahead, I have to wait. The car wants to go straight ahead and is allowed to go first because the motorcycle has to let it go first as it is turning left.  
   
 87. What is the right thing to do?  
-![Image21](https://schueler.click-learn.info/BilderV2/AB_1_3_01_060.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_060.jpg"  width="50%"/>  
 ✅ The yellow car has to wait  
 ✅ I have to indicate  
 ❌ I have to wait  
@@ -574,7 +574,7 @@ so they have to wait and let me go first.
 right and left must wait. As a left-turner, however, I must first allow the oncoming vehicle to pass before I turn.  
   
 89. What do you do when you see this traffic sign?  
-![Image21](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_001.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_001.jpg"  width="50%"/>  
 ❌ Observe the traffic coming from the right only  
 ✅ Be ready to brake  
 ✅ Reduce speed  
@@ -582,7 +582,7 @@ right and left must wait. As a left-turner, however, I must first allow the onco
 can give way if necessary.
   
 90. Are you allowed to park here?
-![Image22](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_110.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_110.jpg"  width="50%"/>  
 ✅ Yes, as a person accompanying blind persons with an official parking permit
 ❌ Yes, briefly for shopping
 ✅ Yes, as a seriously disabled person with an official parking permit
@@ -604,7 +604,7 @@ disabled persons and persons accompanying blind persons.
 **Comment**:  Anyone who leaves their vehicle or stops for longer than 3 minutes must park. In one-way streets or if there are rails on the right-hand side, you may also park on the left.  
   
 94. You are approaching a bus stop marked like this. What do you do if you see children there?
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_008.jpg) Sign 224-51  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_008.jpg"  width="50%"/>   Sign 224-51  
 ❌ Speed must not be reduced when a bus stops at a stopping bay  
 ✅ Reduce your speed and be ready to brake+ää  
 ❌ A reduction in speed is only necessary when a school bus is stopping there  
@@ -625,7 +625,7 @@ entrances (§ 10 StVO).
 **Comment**:  In the area of roadworks and at the junctions of country lanes, you must expect heavy soiling of the road surface. Be prepared for an uneven and slippery road surface and adjust your speed accordingly.  
   
 97. What applies according to this traffic sign?   
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_140.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_140.jpg"  width="50%"/>  
 ✅ I may only park on designated places  
 ✅ I have to drive at walking speed  
 ✅ I may not impede pedestrians  
@@ -668,7 +668,7 @@ the use of marked parking spaces.
 104. At junctions without priority traffic signs or traffic lights, the vehicle coming from the right has right of way.  
 Here I have to let the vehicle coming from the right go first. Then I drive. Oncoming traffic turning left must wait until everything is clear.  
   
-105. What is true of permanently illuminated signs?![img](https://schueler.click-learn.info/BilderV2/AB_2_2_37_007.jpg)  
+105. What is true of permanently illuminated signs?<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_37_007.jpg"  width="50%"/>  
 ❌ Permanently illuminated signs apply to multi-track motor vehicles only  
 ✅ Vehicles may not stop at the side of carriageways with permanently illuminated signs  
 ✅ Permanently illuminated signs either block lanes or open them up to traffic  
@@ -701,7 +701,7 @@ Here I have to let the vehicle coming from the right go first. Then I drive. Onc
 Even if you actually have the right of way, you must not drive on. You must also keep crosswalks clear in such situations.  
   
 111. What is correct in this situation?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_015.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_37_015.jpg"  width="50%"/>  
 ❌ I have to wait in the centre of the junction  
 ❌ I must allow the oncoming traffic to pass through  
 ✅ I may turn unimpeded  
@@ -709,7 +709,7 @@ Even if you actually have the right of way, you must not drive on. You must also
 turning. However, the green arrow on the left behind the intersection indicates that oncoming traffic has red. You can therefore turn 
 left quickly here, oncoming traffic must wait.  
   
-112. What must you be aware of here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_05_107_1.jpg)  
+112. What must you be aware of here? <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_05_107_1.jpg"  width="50%"/>  
 ✅ That children may run onto the road  
 ✅ Of vehicles speeding  
 ✅ That junctions will not be noticed  
@@ -726,7 +726,7 @@ I watch out for
 the width of the road, my ability to accelerate, the speed of cross traffic and the weather conditions (e.g. wet conditions).  
   
 114. What is the right course of action?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_2_09_121.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_09_121.jpg"  width="50%"/>  
 ✅ I have to allow the cyclist to pass through  
 ✅ I have to wait at the stop line  
 ❌ I may make the turn in front of the cyclist  
@@ -734,7 +734,7 @@ the width of the road, my ability to accelerate, the speed of cross traffic and 
 you must allow the oncoming cyclist riding straight ahead to pass.  
   
 115. How should you behave in this situation?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_010.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_37_010.jpg"  width="50%"/>  
 ❌ Stop on the line of sight  
 ✅ Pass through the crossing without stopping  
 ❌ Stop on the stop line  
@@ -742,7 +742,7 @@ you must allow the oncoming cyclist riding straight ahead to pass.
 traffic light signal takes precedence. The traffic sign only comes into effect if the traffic light fails or the yellow  
 flashing light is on. In this case, you can cross the intersection without stopping, as the traffic light is green.  
   
-116. What do you have to be aware of when you see this traffic sign combination? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_136.jpg)  
+116. What do you have to be aware of when you see this traffic sign combination? <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_136.jpg"  width="50%"/>  
 ✅ If I am following the priority road, I have to signal a left-turn  
 ❌ The direction of traffic to the left is prescribed  
 ❌ If I continue driving straight ahead, I have to signal a right-turn  
@@ -771,7 +771,7 @@ lot could turn onto my lane without paying attention.
 **Comment**:  The restricted stopping ban applies within the entire area. It is permitted to stop on the carriageway for up to 3  
 minutes. You may also stop for longer to load or unload and to get in or out of the vehicle, but without unnecessary delay.  
   
-120. What do these traffic signs indicate? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_131.jpg)  
+120. What do these traffic signs indicate? <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_131.jpg"  width="50%"/>  
 ✅ Start of a no-overtaking area 200 m ahead  
 ❌ No overtaking for 200 m  
 ❌ End of a no-overtaking area 200 m ahead  
@@ -779,7 +779,7 @@ minutes. You may also stop for longer to load or unload and to get in or out of 
 km long. Overtaking motorcycles without sidecars, mopeds, streetcars and non-motorized vehicles is permitted.  
   
 121. What must you reckon with when you see these traffic signs?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_115.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_115.jpg"  width="50%"/>  
 ❌ The roadway narrowing for 50 m  
 ❌ A road widening 50 m ahead  
 ✅ The roadway narrowing approximately 50 m ahead  
@@ -787,7 +787,7 @@ km long. Overtaking motorcycles without sidecars, mopeds, streetcars and non-mot
 this case 50m. Adjust your speed and pay attention to oncoming traffic.  
   
 122. Which vehicles are allowed to park here?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_112.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_112.jpg"  width="50%"/>  
 ✅ Vehicles with a permissible total mass of up to 2.8 t  
 ✅ Motorcycles  
 ❌ Vehicles with a permissible total mass of more than 3.5 t  
@@ -795,7 +795,7 @@ this case 50m. Adjust your speed and pay attention to oncoming traffic.
 This includes motor vehicles as well as motorcycles and trailers.  
   
 123. What applies from this traffic sign onwards?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_42_101.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_42_101.jpg"  width="50%"/>  
 ✅ Parking cars may be safely marked with parking light  
 ✅ You may not sound your horn to signal your intention to overtake  
 ❌ You may drive with parking light in the darkness  
@@ -811,7 +811,7 @@ oncoming traffic. Oncoming traffic must wait. If you have priority, you must sti
 priority if the lane is clear.  
   
 125. How should you act at a point of danger indicated by this sign?   
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_150.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_150.jpg"  width="50%"/>   
 I should  
 ✅ avoid sudden manoeuvres  
 ✅ maintain the greatest possible distance to the vehicle ahead  
@@ -820,7 +820,7 @@ I should
 This can make the road slippery and cause damage to the paintwork: it is essential to reduce speed, keep your distance and  
 avoid sharp steering movements!  
   
-126. When must you wait at this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_001.jpg)  
+126. When must you wait at this traffic sign? <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_001.jpg"  width="50%"/>  
 ✅ When a rail vehicle is approaching  
 ✅ When a railway employee is waving a white-red-white flag  
 ✅ When the level crossing cannot be crossed without having to stop on it  
@@ -830,7 +830,7 @@ is waving a white-red-white flag. If you are unable to cross the crossing withou
 must also wait in front of it.  
   
 127. Which vehicles are you allowed to overtake where you see this traffic sign?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_129.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_129.jpg"  width="50%"/>  
 ❌ Motorcycle with sidecar  
 ✅ Motorcycle without sidecar  
 ❌ Car  
@@ -839,7 +839,7 @@ motorcycles with sidecars may not be overtaken. Overtaking motorcycles without s
 vehicles is permitted.  
   
 128. What must you anticipate with this road sign?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_143.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_143.jpg"  width="50%"/>  
 ✅ You are nearing a hard right-hand bend  
 ✅ Oncoming traffic might cut the corner  
 ✅ Vehicles in front of me might slow down sharply  
@@ -848,14 +848,14 @@ glance. What to do at this traffic sign: Do not enter too quickly, reduce speed 
 Drive as far to the right as possible: Oncoming vehicles could cut the bend.  
   
 129. What ends here?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_136.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_136.jpg"  width="50%"/>  
 ❌ A no-stopping area  
 ✅ A no-waiting area  
 ❌ All previous zonal prohibitions  
 **Comment**:  The traffic sign ends a zone with a restricted no-stopping zone.  
   
 130. What does this traffic sign combination mean to you?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_141.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_141.jpg"  width="50%"/>  
 ❌ If I continue driving straight ahead, I have to allow right of way to vehicles arriving from the right  
 ❌ I am not permitted to turn right or drive straight ahead  
 ✅ I am on a priority road that bends left  
@@ -863,7 +863,7 @@ Drive as far to the right as possible: Oncoming vehicles could cut the bend.
 The thick line on the additional sign shows the further course of the priority road. So I stay on the priority road when  
 I turn left here.  
   
-131. What should you do as you draw near to this heavy goods transport?![img](https://schueler.click-learn.info/BilderV2/AB_2_2_36_001_1.jpg)  
+131. What should you do as you draw near to this heavy goods transport?<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_36_001_1.jpg"  width="50%"/>  
 ❌ I overtake taking extra care  
 ✅ I refrain from overtaking  
 ✅ I move into the right-hand lane  
@@ -873,19 +873,19 @@ goods vehicle (with excess width). So I don't overtake and switch to the right-h
 escort vehicle signals that overtaking is possible.  
   
 132. What must you observe when parking here?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_111.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_111.jpg"  width="50%"/>  
 ✅ The parking time indicated on the parking ticket may not be exceeded  
 ✅ The parking ticket must be put in a place so it can be easily read when controlled  
 ❌ Parking ticket and parking disc rank equal  
   
-133. What must you do when you see this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_007.jpg)  
+133. What must you do when you see this traffic sign? <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_007.jpg"  width="50%"/>  
 ✅ You must pass on the right of traffic islands  
 ❌ You may not turn left in front of this sign  
 ❌ You are obliged to turn right  
 **Comment**:  This sign specifies the side on which you must drive past traffic islands, obstacles, roadworks, etc. You must 
 pass on the right. Here you must drive past on the right.  
   
-134. What must you reckon with when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_116.jpg)  
+134. What must you reckon with when you see this traffic sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_116.jpg"  width="50%"/>  
 ✅ Men at work on the roadway  
 ✅ Traffic from road construction vehicles  
 ✅ Construction materials on the roadway  
@@ -893,27 +893,27 @@ pass on the right. Here you must drive past on the right.
 workers may be on the road or construction materials may be lying on the road. Drive with increased attention.  
   
 135. What do you do within this danger section? (Red Traingular border with running dear.)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_40_004.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_40_004.jpg"  width="50%"/>  
 ✅ Do not avoid hitting wild animals if oncoming traffic would be endangered  
 ✅ Dip the headlights and brake when you see wild animals  
 ✅ Drive more slowly, watch out for wild animals  
   
 136. What does this traffic sign indicate? (Up arrow and below U3 in a Yellow board)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_135.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_135.jpg"  width="50%"/>  
 ✅ A numbered diversion  
 ❌ A numbered underground car park  
 ❌ Tram line no. 3  
 **Comment**:  The sign(Das Zeichen) indicates the start of a detour(diversion) route. Where it is necessary to distinguish  
 between several detour routes, it may be numbered (numbered detour route).  
   
-137. Which vehicles are not allowed to use a road sign-posted like this?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_118.jpg)  
+137. Which vehicles are not allowed to use a road sign-posted like this?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_118.jpg"  width="50%"/>  
 ❌ Motorcycles  
 ✅ Cars  
 ✅ Trucks  
 **Comment**:  The sign prohibits motor vehicles and other multi-lane motor vehicles from driving on the road.  
 This includes cars and trucks, for example. Two-wheelers and non-motorized vehicles may use the road.  
   
-138. What must you be aware of when you see this road traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_153.jpg)  
+138. What must you be aware of when you see this road traffic sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_153.jpg"  width="50%"/>  
 ✅ Avoid stopping and parking  
 ✅ Stones may be lying on the roadway  
 ✅ Vehicles in front may brake suddenly  
@@ -922,7 +922,7 @@ rocks(durch Steinschlag - through falling rocks). Here I drive attentively, watc
 (boulders) on the road: if necessary, I reduce speed!  
   
 139. What do you do when you see this traffic sign?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_004.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_004.jpg"  width="50%"/>   
 ✅ When there are two lanes in one direction, employ the zipper feed-in method  
 ✅ Give precedence to oncoming traffic  
 ❌ Where there are two lanes in one direction and you are driving on the left lane, you take absolute precedence  
@@ -930,7 +930,7 @@ rocks(durch Steinschlag - through falling rocks). Here I drive attentively, watc
 If it is located on a road with two lanes for one direction, the zipper method is used.  
   
 140. You are driving a motor vehicle with a manual gearbox. What must you consider when you see this road sign?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_156.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_156.jpg"  width="50%"/>  
 ✅ The braking distance is longer  
 ❌ The braking response will be better if no gear is engaged  
 ✅ Applying the brakes for a longer time will diminish the braking response  
@@ -940,7 +940,7 @@ is dangerous: the brake gets hot and the effect diminishes. That's why I let the
 before the downhill section  
   
 141. What applies with this traffic sign?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_162.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_162.jpg"  width="50%"/>  
 ✅ I may only continue driving by taking a right turn  
 ✅ I have to signal a right-turn  
 ❌ I may also continue driving by taking a left turn  
@@ -948,7 +948,7 @@ before the downhill section
 turn right before the traffic sign. When doing so, I must indicate the change of direction by flashing my lights, as I would  
 when turning “voluntarily”.  
   
-142. What must you anticipate when you see this road sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_010.jpg)  
+142. What must you anticipate when you see this road sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_010.jpg"  width="50%"/>  
 ✅ A pedestrian crossing that is hard to see  
 ✅ Pedestrians that might cross the road  
 ❌ Pedestrians who may only cross the road from the right  
@@ -956,7 +956,7 @@ when turning “voluntarily”.
 I drive carefully here and watch out for vehicles in front: If necessary, I reduce my speed!  
   
 143. What vehicles may enter a zone with this sign?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_021.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_021.jpg"  width="50%"/>  
 ✅ Vehicles driven by residents  
 ✅ Small electric vehicles  
 ✅ Bicycles  
@@ -966,7 +966,7 @@ may also enter the zone if they are driven by residents. This can also include c
   
 144. You pass this traffic sign while driving outside a built-up area. How far off is the hazard to be expected?  
 (Red triangular border on a white background with Blac exclaimation mark in the middle)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_101.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_101.jpg"  width="50%"/>   
 ❌ Between 50 m and 150 m  
 ❌ Between 250 m and 350 m  
 ✅ Between 150 m and 250 m  
@@ -986,14 +986,14 @@ in the left-hand lane. - but not faster than 50 km/h. In fact, multi-lane carria
 More than 50 km/h is only permitted if a traffic sign permits a different speed limit.  
   
 146. What vehicles are permitted to use this road?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_148.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_148.jpg"  width="50%"/>  
 ✅ Cycles and motorcycles that are pushed  
 ❌ Electric-powered vehicles  
 ❌ Motor vehicles  
 **Comment**:  This traffic sign prohibits(verbietet from verboten) motor vehicles of all kinds from using this road. Manual vehicles, 
 motorcycles and bicycles may be pushed. Additional signs may indicate possible exceptions.  
   
-147. What applies in the area 15 m in front of and behind this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_161.jpg)  
+147. What applies in the area 15 m in front of and behind this traffic sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_161.jpg"  width="50%"/>  
 I may  
 ✅ not obstruct passengers boarding or alighting  
 ✅ stop  
@@ -1010,14 +1010,14 @@ traffic sign.
 on the left here. A corresponding arrow indicates that you must pass on the right.  
   
 149. Which prohibitions cease to apply when you see this sign?    
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_133.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_133.jpg"  width="50%"/>  
 ✅ No overtaking  
 ✅ Speed restrictions  
 ❌ No parking  
 **Comment**:  All route prohibitions - speed limit, minimum speed, no overtaking - are lifted again from here.  
   
 150. What does this traffic sign indicate? (CNG)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_42_104.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_42_104.jpg"  width="50%"/>  
 A 
 ✅ natural gas fuel station  
 ❌ hydrogen filling station  
@@ -1026,7 +1026,7 @@ A
 This traffic sign indicates a natural gas filling station: CNG = Compressed Natural Gas.  
   
 151. What should you do as you draw near to this heavy goods transport?  
-![img](https://schueler.click-learn.info/BilderV2/AB_2_2_36_001.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_36_001.jpg"  width="50%"/>   
 ✅ I refrain from overtaking  
 ❌ I overtake taking extra care  
 ✅ I move into the right-hand lane  
@@ -1035,21 +1035,21 @@ It indicates that overtaking is prohibited. Below it, an additional sign explain
 So I don't overtake and switch to the right-hand lane until one of us turns or the escort vehicle signals that overtaking is possible.  
   
 151 What does this traffic sign indicate? (Zoll Duane)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_143.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_143.jpg"  width="50%"/>   
 ❌ A prohibition on through-traffic  
 ❌ A toll road  
 ✅ A customs point  
 **Comment**:  The traffic sign indicates a customs office(eine Zollstelle hin), e.g. at a border crossing(Grenzübergang).  
   
 152. What must you reckon with when you see this traffic sign? (A traingular Warning sign background with three cars sign symbols back to back)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_118.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_118.jpg"  width="50%"/>  
 ❌ The roadway widens into three lanes  
 ✅ Traffic congestion  
 ✅ The vehicles driving in front may suddenly brake  
 **Comment**:  This sign is erected on a stretch of road with regular congestion, e.g. when the end of a traffic jam is not visible  
 from a long distance at blind spots. You should therefore anticipate sudden braking by the vehicle in front.  
   
-153. What must you be aware of when you see this road traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_152.jpg)  
+153. What must you be aware of when you see this road traffic sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_152.jpg"  width="50%"/>  
 ✅ The road leads to the bank of a waterway  
 ❌ The entrance and exit point must be kept clear for amphibious vehicles  
 ✅ When it is dark or visibility is poor, areas of water are difficult to distinguish from the road  
@@ -1070,7 +1070,7 @@ It is best not to blindly follow the navigation device and pay attention to sign
 I must expect dirty road surfaces or animals on the road and reduce my speed!  
   
 156. What motor vehicles may enter an environment zone that has this sign?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_2_5_01_012.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/VZ_2_5_01_012.jpg"  width="50%"/>   
 ✅ Motorcycles  
 ❌ Motor vehicles that meet the requirements for a green particulate emissions sticker, even if no such sticker is attached  
 ✅ Motor vehicles with a green particulate emissions sticker  
@@ -1085,21 +1085,21 @@ I must expect dirty road surfaces or animals on the road and reduce my speed!
 For example, they indicate a trailer parked within a built-up area. However, warning signs can also indicate a vehicle with excess width.  
   
 158. You need assistance on the autobahn. Which information does the arrow on the roadside marker give you? 
-![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_43_002.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_43_002.jpg"  width="50%"/>  
 ❌ Next exit in the direction of the arrow  
 ✅ Nearest emergency call telephone in the direction of the arrow  
 ❌ Nearest car park in the direction of the arrow  
 **Comment**:  The arrow on the delineator points in the direction of the nearest emergency call point.  
   
 159. What is permitted where you see these traffic signs?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_016.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_016.jpg"  width="50%"/>  
 ✅ Severely disabled persons with the appropriate numbered parking permit may park here  
 ❌ With a parking ticket from a parking-ticket machine (Parkscheinautomat), anyone is allowed to park here for an unlimited period  
 ✅ Anyone is allowed to stop to pick up or drop passengers  
 **Comment**: 'Severely disabled persons' (Schwerbehinderte) with a special(besonderem) parking permit may park here; the 
 correspondingly numbered parking permit must be 'clearly visible'(sichtbar). Anyone may stop here to let passengers in and out.  
   
-160. What do you have to expect after these traffic signs?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_106.jpg) ---IMP    
+160. What do you have to expect after these traffic signs?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_106.jpg"  width="50%"/>   ---IMP    
 ❌ An uphill slope 800 m in length  
 ✅ A downhill slope 800 m in length  
 ❌ The beginning of a downhill slope 800 m ahead  
@@ -1108,28 +1108,28 @@ of the road, in this case a downward gradient of 800m. A downhill section is a d
 is longer than on a level road and the braking effect may decrease.  
   
 161. What must you remember when you see this traffic sign? (Red circular board with horizontal white strip)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_013.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_013.jpg"  width="50%"/>  
 ✅ Vehicles may come out of this road  
 ❌ You may enter this road  
 ✅ You may not enter this road  
 **Comment**:  The sign prohibits entry to this road. Watch out for vehicles that may leave the road.  
   
 162. What does this traffic sign indicate? (Danger sign with snowflake sign)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_148.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_148.jpg"  width="50%"/>  
 ✅ Icy conditions  
 ❌ Avalanches  
 ✅ Packed snow  
 **Comment**:  The danger sign with the “snowflake” symbol warns of particularly dangerous situations due to slippery snow or ice: If the outside temperature is appropriate, it is essential to reduce speed!  
   
 163. Who is allowed to enter a street sign-posted like this?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_116.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_116.jpg"  width="50%"/>  
 ✅ Residents  
 ❌ Through-traffic  
 ✅ People visiting residents  
 **Comment**:  The sign prohibits motor vehicles of all kinds. Manual vehicles, motorcycles and bicycles may be pushed. The additional sign exempts residents, their visitors and suppliers from this ban.  
   
 164. What must you be prepared for here?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_159.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_159.jpg"  width="50%"/>  
 ✅ People walking on the road  
 ✅ Vehicles turning onto the road  
 ✅ Oncoming vehicles turning left  
@@ -1137,7 +1137,7 @@ is longer than on a level road and the braking effect may decrease.
 the parking lot or people leaving the parking lot could turn onto the road without paying attention.  
   
 165. You are approaching this combination of traffic signs. What must you remember?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_141.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_141.jpg"  width="50%"/>  
 ✅ You must indicate to leave the roundabout  
 ✅ Vehicles in the roundabout have priority  
 ❌ You must indicate when entering the roundabout  
@@ -1145,7 +1145,7 @@ the parking lot or people leaving the parking lot could turn onto the road witho
 prohibited'(ausdrücklich verboten). However, you must indicate when leaving the traffic circle.  
   
 166. What must you anticipate with this road sign?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_144.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_144.jpg"  width="50%"/>  
 ❌ With an underpass for cyclists  
 ✅ With cyclists who may cross the carriageway  
 ❌ With a "cyclists prohibited" zone  
@@ -1172,7 +1172,7 @@ as far to the right as possible.
 observe this if you park your vehicle here. If you want to park there all night, you must make your vehicle recognizable,  e.g. with parking lights.
   
 171. When may you stop here? (No stopping sign with bottom written as werktags)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_027.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_027.jpg"  width="50%"/>  
 ❌ On Saturdays  
 ✅ On Sundays  
 ✅ On public holidays  
@@ -1200,7 +1200,7 @@ I have to give way while also
 ✅ Reduce your speed  
 **Comment**:  After such a sign, the roadway will become noticeably narrower. Adjust your speed and pay attention to oncoming traffic. Do not overtake.  
   
-176. What do the white markings on the road mean in this situation?![img](https://schueler.click-learn.info/BilderV2/AB_1_4_42_009_1.jpg)  
+176. What do the white markings on the road mean in this situation?<img src="https://schueler.click-learn.info/BilderV2/AB_1_4_42_009_1.jpg"  width="50%"/>  
 The white markings  
 ❌ are a warning about the poor state of the road surface  
 ✅ highlight a duty to give-way due to the right-before-left rule  
@@ -1210,14 +1210,14 @@ traffic signs). Other traffic signs with corresponding, clear symbols indicate �
   
 177. You are driving a motor vehicle with a manual gearbox. What is the correct thing to do when you see this traffic sign?  
 (12% higher gradient from left to right in warning sign)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_157.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_157.jpg"  width="50%"/>  
 ❌ I always change up to a higher gear  
 ❌ I drive down this descent carefully  
 ✅ I change down to a lower gear if necessary  
 **Comment**:  The symbol warns of a steep incline (the 2nd figure is further up). If necessary, shift down to a lower gear before an uphill gradient in order to accelerate better uphill.  
   
 178. What applies when you see this traffic sign?  
-![img](https://schueler.click-learn.info/BilderV2/AB_2_4_42_008.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_4_42_008.jpg"  width="50%"/>  
 I may  
 ✅ drive more quickly in the right-hand lane than vehicles travelling in the left-hand lane  
 ❌ drive faster than 50 km/h because this is a multi-lane carriageway  
@@ -1226,14 +1226,14 @@ I may
 vehicle weight). This also means that I can drive faster in the right-hand lane than in the left-hand lane. - but not faster than 50 km/h. In fact, multi-lane carriageways have nothing to do with speed limits. More than 50 
 km/h is only permitted if a traffic sign permits a different speed limit.  
   
-179. What does this traffic sign indicate?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_119.jpg)  
+179. What does this traffic sign indicate?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_119.jpg"  width="50%"/>  
 ❌ A road closed to vehicle traffic  
 ✅ A cul-de-sac  
 ❌ An underpass  
 **Comment**: The traffic sign indicates that this road is a dead end.  
   
 180. What situation applies according to this traffic sign? 
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_172.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_172.jpg"  width="50%"/>  
 (30 in a red circluar boarder within a white background and bottom 22-6h Lärmshutz)  
 A maximum speed limit of 30 km/h, which  
 ✅ applies between 10 pm and 6 am  
@@ -1243,7 +1243,7 @@ A maximum speed limit of 30 km/h, which
 between 6 a.m. and 10 p.m., you can drive faster, usually 50 km/h in urban areas. There is no exception for electric vehicles.  
   
 181. What does this traffic sign combination indicate?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_164.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_164.jpg"  width="50%"/>  
 The road signposted like this  
 ✅ may be used by winter sports enthusiasts  
 ❌ may not be used by traffic in winter  
@@ -1251,7 +1251,7 @@ The road signposted like this
 **Comment**: This combination calls for caution: The upper traffic sign warns of a danger zone. The additional sign permits winter sports. I must therefore watch out for winter sports enthusiasts here and drive at walking 
 pace if necessary. 
   
-182. What must you be prepared for here?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_139.jpg) Sign 356  
+182. What must you be prepared for here?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_139.jpg"  width="50%"/>   Sign 356  
 ✅ That children will cross the road more frequently than usual  
 ✅ That the flowing traffic will come to a stop  
 ❌ That children will be playing on the road under supervision  
@@ -1260,25 +1260,25 @@ to cross the road.
   
 183. Which traffic sign refers to the permissible total mass?  
 (5.5 t in white background withred border  and Truck in white background with red border and 7,5t in bottom.)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_41_102.jpg) __2__
+<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_41_102.jpg"  width="50%"/>   __2__
 **Comment**: The first traffic sign indicates the maximum permissible actual mass. The second traffic sign refers to the permissible total mass.  
   
 184. What do these traffic signs indicate?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_121.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_121.jpg"  width="50%"/>  
 ✅ No entry 100 m ahead  
 ❌ A customs post 100 m ahead  
 ❌ A one-way street 100 m long  
 **Comment**:  The upper sign prohibits entry into this road. The additional sign indicates the distance to the no-entry zone, in this case 100m. Watch out for vehicles that may leave the road.  
   
 185. What dangers can arise if this traffic sign is ignored?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_109.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_109.jpg"  width="50%"/>  
 ✅ The vehicle could go into a skid and endanger oncoming traffic  
 ✅ The load could be damaged  
 ✅ The vehicle could suffer a broken axle or spring fracture  
 **Comment**: The sign warns of uneven road surfaces. If the speed is too high, the vehicle could skid and endanger oncoming traffic. In addition, cargo could be damaged or the vehicle could suffer axle and spring breakage. 
 Therefore, adjust your speed. 
   
-186. What must you anticipate with this road sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_154.jpg)  
+186. What must you anticipate with this road sign? <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_154.jpg"  width="50%"/>  
 ✅ Vehicles that brake suddenly  
 ✅ Other road users may become distracted  
 ✅ Sudden noise from aeroplanes  
@@ -1286,7 +1286,7 @@ Therefore, adjust your speed.
 and reducing my speed if necessary!  
   
 187. What vehicles may you overtake when this traffic sign is displayed?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_41_108.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_41_108.jpg"  width="50%"/>  
 ✅ No vehicles  
 ❌ Multi-track vehicles  
 ❌ Single-track vehicles  
@@ -1294,7 +1294,7 @@ and reducing my speed if necessary!
 vehicle may not overtake single - AND multi-lane vehicles. So none.  
   
 188. What do the white markings on the road mean in this situation?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_4_42_009.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_4_42_009.jpg"  width="50%"/>  
 The white markings  
 ❌ are a warning about the poor state of the road surface  
 ✅ highlight a duty to give-way due to the right-before-left rule  
@@ -1309,14 +1309,14 @@ traffic signs). Other traffic signs with corresponding, clear symbols indicate �
 **Comment**: Cabs (also: cabs) are allowed to stop in the second row to let passengers on and off if traffic permits. I should always expect this when a cab drives ahead of me.  
   
 190. What actions should you anticipate at such stops?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_1_02_122.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_02_122.jpg"  width="50%"/>  
 ✅ Pedestrians will run across the road to the tram-stop island  
 ❌ Pedestrians will wait until the road is clear  
 ✅ Pedestrians will step off the tram-stop island unheedingly  
 **Comment**: Pedestrians sometimes leave stops carelessly. It can also happen that pedestrians run across the road from the other side to catch the streetcar.  
   
 191. What applies with this traffic sign? (No stopping and parking sign and below mentioned is TAXI)  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_163.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_163.jpg"  width="50%"/>  
 ❌ I may stop  
 ✅ I have to anticipate taxi moving off and coming to a stop  
 ❌ I may park  
@@ -1344,7 +1344,7 @@ I am
 area with my vehicle, e.g. to avoid traffic. Once I have passed the bottleneck (caused here by oncoming traffic), I leave the hard shoulder again.  
   
 195. What must you note when overtaking the cyclists in this situation?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_2_05_125.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_05_125.jpg"  width="50%"/>  
 ✅ The incline causes the cyclists to sway  
 ❌ I must overtake with at least 1.0 m of side clearance  
 ✅ I must overtake with at least 1.5 m of side clearance  
@@ -1381,7 +1381,7 @@ zipper procedure is only to be used at lane narrowings, not when changing lanes 
   
 200. You want to transport furniture in the van shown here (up to 3.5 t). Compared to driving a car, what do you have to be aware of?  
 The van  
-![img](https://schueler.click-learn.info/BilderV2/AB_2_7_01_161.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_7_01_161.jpg"  width="50%"/>   
 ✅ is vulnerable to sidewinds  
 ✅ can roll over more easily when cornering  
 ✅ requires special attention regarding vertical clearances  
@@ -1646,7 +1646,7 @@ __100__ m
 and often one animal is followed by others. It is not recommended to switch on the high beam, but to switch it off (glare effect).  
   
 233. What should you anticipate in this situation? (Bend in the road in a wooden area/jungle area)  
-![img](https://schueler.click-learn.info/BilderV2/AB_2_1_05_105.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_05_105.jpg"  width="50%"/>  
 ✅ Wild animals crossing the road  
 ✅ Slow-moving vehicle on my side of the road  
 ✅ Fast oncoming traffic cutting the corner  
@@ -1695,7 +1695,7 @@ like a wall. This means that when I enter the slipstream, my vehicle can initial
 against the wind: there is no slipstream for it there, at best it could be “pushed” to the left by the wind.  
   
 239. Why are you not allowed to take the turn now?  Video Question: 
-![img](https://schueler.click-learn.info/BilderV2/BS_1_2_09_135_1_ende.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_09_135_1_ende.jpg"  width="50%"/>  
 Because of the  
 ❌ yellow car  
 ❌ green vehicle  
@@ -2019,7 +2019,7 @@ middle of the road or above the guide line. Otherwise you will endanger oncoming
 **Comment**:  If a collision with game can no longer be avoided, I have to brake. I hold the steering wheel or handlebars firmly and  
 try to maintain the direction of travel, i.e. stay on the road.  
   
-285. What should you be prepared for here?![img](https://schueler.click-learn.info/BilderV2/AB_2_1_03_037.jpg)  
+285. What should you be prepared for here?<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_03_037.jpg"  width="50%"/>  
 ✅ For the poor visibility of my vehicle  
 ✅ For an extended braking distance  
 ❌ For increased tyre traction  
@@ -2208,7 +2208,7 @@ The motorcyclist could feel pressured, swerve and crash. In any case, I'm not al
 at the beginning of the movie). Then I would only be a little faster than the moped (25 km/h). TIP: Watch the movie questions several  
 times, sometimes you have already driven past the hint!  
   
-310. You want to turn left. Which line should you follow?![img](https://schueler.click-learn.info/BilderV2/AB_2_2_09_011_1.jpg)  
+310. You want to turn left. Which line should you follow?<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_09_011_1.jpg"  width="50%"/>  
 ❌ The right driving line  
 ✅ The left driving line  
 ❌ The middle driving line  
@@ -2225,7 +2225,7 @@ expect bicycle traffic here either: I must follow the left-hand lane.
 in heavy and fast-moving traffic, in confusing traffic situations, in fog, in front of and behind bends or crests.  
   
 312. I want to re-join the road. What is the correct assessment of this situation? (repeated question)   
-![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_162.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_162.jpg"  width="50%"/>  
 When they approach me from the rear  
 ❌ drivers give my priority in re-joining the road  
 ✅ drivers only see me late  
@@ -2370,7 +2370,7 @@ maneuver being aborted.
 **Comment**:  I am on a priority road. That's why the white car on my right has to wait for me. But the oncoming streetcar is  
 turning left in front of me: I have to stop and let it pass. TIP: Watch the movie again and pay attention to traffic signs!  
   
-330. You want to turn right at the junction. What is the right thing to do?![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg)  
+330. You want to turn right at the junction. What is the right thing to do?<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg"  width="50%"/>  
 ✅ I change lanes as early as possible  
 ❌ I may only cross over the cycle lane at walking speed  
 ✅ I may not impede cyclists in the cycle lane  
@@ -2407,7 +2407,7 @@ traffic. The length of the overtaking distance depends not only on the speed and
 also be aware that the outline of the vehicle in front of me may obscure the vehicles in front.  
   
 334. You want to overtake. What should you do? Video Question:  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_1_06_008_1_ende.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_008_1_ende.jpg"  width="50%"/>  
 I overtake  
 ✅ only if there is no oncoming vehicle  
 ❌ at the same time, as the quad bike  
@@ -2707,7 +2707,7 @@ the windshield wiper blades may be worn. However, there may also be a film of oi
   
 371. While driving, you use the adaptive cruise control (ACC). The speed is set to 100 km/h. What must you be prepared for  
 before entering a bend in the road? ----IMP  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_7_06_118_ende.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_7_06_118_ende.jpg"  width="50%"/>   
 ❌ The ACC will prompt me to reduce my speed  
 ✅ I have to adjust my speed to the situation  
 ✅ The ACC may cause my vehicle to accelerate  
@@ -2952,7 +2952,7 @@ of the road edges.” If there is a cycle path to the right of the road in the d
 up to 8 m in front of an intersection/junction park.  
   
 401. What is allowed on priority roads outside built-up areas? ---- IMP  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_104.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_104.jpg"  width="50%"/>  
 ✅ Parking on the hard shoulder  
 ❌ Parking on the roadway  
 ✅ Stopping on the right edge of the roadway  
@@ -3064,7 +3064,7 @@ marked lanes with directional arrows, at cab ranks and on the carriageway if the
 stopping can be dangerous, e.g. on narrow and confusing roads and at level crossings.  
   
 421. Who has stopped incorrectly?    
-![img](https://schueler.click-learn.info/BilderV2/AB_1_2_12_126_1.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_12_126_1.jpg"  width="50%"/>  
 ❌ Both cars  
 ✅ The blue van  
 ❌ The green car  
@@ -3656,7 +3656,7 @@ a bend too quickly or drive too close. In addition, it does not automatically re
 height, weight and age of the child and officially approved. The approval can be recognized by the test mark.  
   
 496. How can lane changing assist help you in this situation without steering override?   
-![img](https://schueler.click-learn.info/BilderV2/AB_2_2_18_104.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_18_104.jpg"  width="50%"/>  
 The assist  
 ✅ warns of a possible collision with a vehicle in the middle lane  
 ❌ brakes the speed of my vehicle  
@@ -3666,7 +3666,7 @@ with a vehicle in the middle lane. But that's all. An independent lane change is
 by another assistant, adaptive cruise control.  
   
 497. What does the red symbol on the tyre indicate?   
-![img](https://schueler.click-learn.info/BilderV2/AB_2_7_05_103.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_7_05_103.jpg"  width="50%"/>  
 This tyre  
 ✅ is suitable for wintry weather conditions  
 ✅ also assists driving performance in snowy conditions  
@@ -3700,7 +3700,7 @@ When driving
 **Comment**:  Recuperation recovers energy by braking when driving an electric car. If the battery is fully charged or has not yet  
 reached its operating temperature, the recuperation effect may be limited. Eco mode would increase rather than reduce recuperation.  
   
-501. This indicator lamp lights up. What could be the cause of this?![img](https://schueler.click-learn.info/BilderV2/AB_2_7_05_107.jpg)  
+501. This indicator lamp lights up. What could be the cause of this?<img src="https://schueler.click-learn.info/BilderV2/AB_2_7_05_107.jpg"  width="50%"/>  
 ✅ A recently performed wheel change  
 ✅ The inflation pressure is too low in one tyre  
 ❌A loose wheel nut  
@@ -3803,7 +3803,7 @@ of seat belts, they CANNOT replace them.
 **Comment**Cruise control is the term used to describe automatic speed control that can be set to a specific value by the driver (e.g. 80 or  
 120 km/h). If the vehicle drives at a constant speed, this leads to an energy-saving driving style.  
   
-514. How can lane changing assist help you in this situation without steering override?![img](https://schueler.click-learn.info/BilderV2/AB_2_2_18_104_1.jpg)  
+514. How can lane changing assist help you in this situation without steering override?<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_18_104_1.jpg"  width="50%"/>  
 The assist  
 ❌brakes the speed of my vehicle  
 ✅ warns of a possible collision with a vehicle in the middle lane  
@@ -4092,7 +4092,7 @@ When driving
 **Comment**:  Recuperation recovers energy by braking when driving an electric car. If the battery is fully charged or has not yet reached its operating   
 temperature, the recuperation effect may be limited. Eco mode would increase rather than reduce recuperation.  
   
-551. While driving, you use your vehicle’s adaptive cruise control (ACC) system. What must you anticipate in these weather conditions?![img](https://schueler.click-learn.info/BilderV2/AB_2_1_03_119.jpg)  
+551. While driving, you use your vehicle’s adaptive cruise control (ACC) system. What must you anticipate in these weather conditions?<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_03_119.jpg"  width="50%"/>  
 ✅ I have to personally control my speed and distance  
 ❌The ACC stops the vehicle  
 ✅ The functionality of the ACC may be negatively affected  
@@ -4148,14 +4148,14 @@ child and officially approved. Approval can be recognized by the ECE test mark.
 which can result in a collision or dangerous evasive maneuvers. If you turn off your headlights too late, you endanger other road users by   
 massively obstructing their view.  
   
-559. What is the right course of action here?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_043_1.jpg)  
+559. What is the right course of action here?<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_043_1.jpg"  width="50%"/>  
 ✅ The red car may proceed ahead of the motorbike  
 ✅ I may proceed ahead of the motorbike  
 ❌I may proceed ahead of the red car  
 **Comment**:  Traffic signs regulate the right of way here. The vehicle coming from the left and I have to wait until the vehicle on the priority road   
 with the right turn has passed. Then I can drive because the rule RIGHT BEFORE LEFT applies to the roads below. The vehicle coming from my left goes last.  
   
-560. Who has priority here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_039.jpg)  
+560. Who has priority here? <img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_039.jpg"  width="50%"/>  
 ❌The red truck  
 ✅ The electric scooter  
 ❌Me  
@@ -4170,7 +4170,7 @@ The vehicle on the left is coming from the side road and must “give way” to 
 **Comment**:  If visibility is restricted, you must “feel your way” carefully into the junction, i.e. drive forward slowly until you can see the   
 other road. Only when the traffic situation allows you to do so may you cross the priority road quickly.  
   
-562. What is correct in this situation?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_012.jpg)  
+562. What is correct in this situation?<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_37_012.jpg"  width="50%"/>  
 ❌Traffic turning left may proceed  
 ✅ Traffic turning right may proceed  
 ❌Traffic continuing ahead may proceed  
@@ -4178,7 +4178,7 @@ other road. Only when the traffic situation allows you to do so may you cross th
 this means that drivers going straight ahead and those turning left must wait. The traffic light with the green arrow only applies to   
 drivers turning right, who are allowed to drive in this situation.  
   
-563. What is the right thing to do? ![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_038.jpg)  
+563. What is the right thing to do? <img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_038.jpg"  width="50%"/>  
 ✅ I have to give way to the blue car  
 ✅ I have to give way to the motorcycle  
 ❌I may drive out before the blue car  
@@ -4186,7 +4186,7 @@ drivers turning right, who are allowed to drive in this situation.
 from the right and I are driving on roads that require waiting. The following applies to me: Whoever is coming from the right has right of way.   
 I must let traffic coming from the right go first.  
   
-564. What is the right course of action here?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_047_1.jpg)  
+564. What is the right course of action here?<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_047_1.jpg"  width="50%"/>  
 I have to  
 ✅ allow the green bus to pass through  
 ✅ stop on the stop line  
@@ -4212,14 +4212,14 @@ Answer: 130 km/h
 **Comment**:  Allow the vehicle to pull out and do not tailgate it. Keep a sufficient distance. Allow the vehicle in front to complete its overtaking  
 maneuver in peace, even if you have to wait a little longer.  
   
-568. What must you reckon with here? ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_08_005.jpg)  
+568. What must you reckon with here? <img src="https://schueler.click-learn.info/BilderV2/AB_2_1_08_005.jpg"  width="50%"/>  
 ✅ The vehicle in front changing lanes  
 ✅ Denser traffic beyond the underpass  
 ❌The right-hand lane coming to an end  
 **Comment**:  The left lane will soon end. You should therefore expect the vehicle in front to move into your lane. Because you cannot see the   
 further course of the road, you should also expect traffic to become more congested after the bend.  
   
-569. You want to leave the motorway. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_2_1_08_030_1.jpg)  
+569. You want to leave the motorway. What is the right course of action?<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_08_030_1.jpg"  width="50%"/>  
 ✅ I use the speedometer to check my speed at short intervals  
 ❌I reduce my speed only once I am at the turn  
 ✅ I reduce my speed now  
@@ -4254,7 +4254,7 @@ I have to
 continuing to move over.   
 
 574. What is the right course of action now? --Video Question  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_2_07_004_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_07_004_ende.jpg"  width="50%"/>  
 ❌ I stay in the centre lane  
 ❌ I move into the left-hand lane  
 ✅ I move into the right-hand lane  
@@ -4268,7 +4268,7 @@ obstructing anyone and the next slower vehicle is at least within sight. TIP: Wa
 **Comment**: If a vehicle is being towed away, the hazard warning lights on both vehicles must be switched on. The two vehicles form a long and slow obstacle. This is particularly dangerous on highways because traffic 
 moves very quickly there. For this reason, the tow truck must leave the highway at the next exit.  
   
-576. What is the right course of action now? ![img](https://schueler.click-learn.info/BilderV2/BS_2_1_07_026_1_ende.jpg)  
+576. What is the right course of action now? <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_026_1_ende.jpg"  width="50%"/>  
 ❌ I move into the left-hand lane  
 ✅ I allow the tractor to pull into the lane  
 ✅ I reduce my speed further  
@@ -4276,7 +4276,7 @@ moves very quickly there. For this reason, the tow truck must leave the highway 
 is for oncoming traffic and not suitable for swerving, especially as the red and white traffic sign in front of the tractor marks a bend that I can't see. Now I have to slow down and allow the tractor to merge. TIP: Watch 
 the movie again and literally “look ahead”!  
   
-578. What must you anticipate on the other side of this crest in the road? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_103.jpg)  
+578. What must you anticipate on the other side of this crest in the road? <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_103.jpg"  width="50%"/>  
 ✅ There may be a slow moving vehicle on my side of the road  
 ✅ A vehicle may be stationary there  
 ✅ There may be an oncoming vehicle on my side of the road  
@@ -4295,7 +4295,7 @@ I may
 ✅ You must indicate to leave the roundabout  
   
 581. Why do you have to wait before the left turn?  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_2_09_002_1_ende.jpg)
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_09_002_1_ende.jpg"  width="50%"/>  
 Because of the  
 ❌ bicycle  
 ✅ motorbike  
@@ -4304,7 +4304,7 @@ Because of the
 motorcycle or another vehicle in the shadow of the oncoming vehicle? It may be driving straight ahead. I prefer to avoid dangerous encounters when turning. TIP: Watch the movie again and watch out for movement or 
 indicators in oncoming traffic! 
   
-582. What is true in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_1_4_41_020_1.jpg)  
+582. What is true in this situation? <img src="https://schueler.click-learn.info/BilderV2/AB_1_4_41_020_1.jpg"  width="50%"/>  
 I may  
 ✅ not drive on the restricted zone  
 ❌use the restricted zone to make a turn  
@@ -4325,7 +4325,7 @@ with several marked lanes for one direction ❌except on freeways.
 **Comment**:  The speed limit of 130 km/h applies not only on freeways, but also outside built-up areas on motorways with physically separated   
 lanes or with at least two marked lanes for each direction.  
   
-585. What is the right course of action now? ![img](https://schueler.click-learn.info/BilderV2/BS_2_1_07_025_ende.jpg)  
+585. What is the right course of action now? <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_025_ende.jpg"  width="50%"/>  
 ✅ I brake sharply  
 ✅ I yield my right of way  
 ❌I continue driving as before  
@@ -4356,7 +4356,7 @@ in case of traffic congestion?
 St. Andrew's cross if you have to stop at the level crossing due to a traffic jam or slow-moving traffic. Cross the level 
 crossing quickly.  
   
-589. You are driving on this motorway. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_2_4_41_004_1.jpg)  
+589. You are driving on this motorway. What is the right course of action?<img src="https://schueler.click-learn.info/BilderV2/AB_2_4_41_004_1.jpg"  width="50%"/>  
 ❌ I remain in my current lane  
 ✅ I move into the right-hand lane  
 ❌ I only use the left-hand lane if there is a breakdown  
@@ -4386,7 +4386,7 @@ only stop on the hard shoulder in emergencies (e.g. flat tire), but must then se
 **Comment**:  Special care must be taken in parking lots. Always expect people to enter the carriageway, for example when they 
 leave their vehicle. Vehicles parked incorrectly or pulling out can also be dangerous here.  
   
-593. What should you anticipate when driving out the exit slip road?![img](https://schueler.click-learn.info/BilderV2/AB_2_1_08_033_1.jpg)  
+593. What should you anticipate when driving out the exit slip road?<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_08_033_1.jpg"  width="50%"/>  
 ✅ A fallen load  
 ✅ People on the carriageway  
 ✅ A broken-down vehicle  
@@ -4709,7 +4709,7 @@ The caravan
 **Comment**:  When I am on the road with a vehicle combination, I must pay particular attention to the behavior of the trailer on bends: It can swing out to the right over the edge of the road or cut the bend (left-hand 
 bend) or swing out over the middle of the road (right-hand bend).  
   
-636. What must you do when you see this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_40_003.jpg)  
+636. What must you do when you see this traffic sign? <img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_40_003.jpg"  width="50%"/>  
 ✅ Reduce speed before the bend  
 ✅ Drive as far as possible over on the right-hand side  
 **Comment**: There is a sharp left-hand bend. Centrifugal force is at work when cornering. It tries to pull the vehicle to the outside of the bend, i.e. to the outside right in a left-hand bend. The faster you drive, the 
@@ -4745,7 +4745,7 @@ more likely to skid over the rear axle.
 the trailer coupling of the motor vehicle.  
   
 641. Where are you particularly at risk during an overtaking manoeuvre here?  
-![img](https://schueler.click-learn.info/BilderV2/AB_2_1_03_038.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_03_038.jpg"  width="50%"/>  
 ✅ When driving out of the truck’s wind-sheltered area  
 ❌ When changing lane after overtaking  
 ✅ When driving into the truck’s wind-sheltered area  
@@ -4754,7 +4754,7 @@ the trailer coupling of the motor vehicle.
   **2**. when pulling out, the wind pushes my vehicle significantly to the left again and I have to counter-steer.  
   When changing lanes after overtaking, however, the crosswind is constant and not a particular hazard.  
   
-642. You want to turn left. What driving line should you maintain?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_09_019.jpg)  
+642. You want to turn left. What driving line should you maintain?<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_09_019.jpg"  width="50%"/>  
 ❌ The left driving line  
 ❌ Both driving lines are possible  
 ✅ The right driving line  
@@ -4773,14 +4773,14 @@ the trailer coupling of the motor vehicle.
 **Comment**: To increase performance, drivers of heavy trucks and road trains have to downshift before an incline. On freeways, this can lead to large speed differences to the slow-moving trucks in the right-hand lane - 
 and to sudden overtaking maneuvers.
 
-645. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_017.jpg)  
+645. What is the right course of action? <img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_017.jpg"  width="50%"/>  
 ✅ I have to allow the motorcycle to pass through  
 ❌ I have to allow the bus to pass through  
 ✅ I take priority before the bus   
 **Comment**: Traffic signs regulate the right of way here. Oncoming traffic and I have “right of way” at this junction, cross traffic from the right and left must wait. As a left-turner, however, I must first allow the 
 oncoming vehicle to pass before I turn.  
   
-646. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_117_1.jpg)  
+646. What is the right course of action? <img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_117_1.jpg"  width="50%"/>  
 I have to  
 ✅ stop on the stop line  
 ✅ give way to the bus  
@@ -4823,79 +4823,79 @@ I have to
 ✅ provide my name and address upon demand to those entitled to this information  
 ✅ move promptly to the side of the roadway if damage is minor  
   
-652. What is correct? ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg)  
+652. What is correct? <img src="https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg"  width="50%"/>  
 ❌ Turn without stopping  
 ✅ Wait at the crossroads  
 **Comment**: If you see a police officer with his arms outstretched to the side in front or behind you at the intersection, you must wait in front of the intersection.  
   
 653.  When may you take the turn?  
-![img](https://schueler.click-learn.info/BilderV2/BS_1_2_11_114_ende.jpg) A video question
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_11_114_ende.jpg"  width="50%"/>   A video question
 ✅ Only once the truck driver has used a hand signal to clearly indicate he is foregoing his right of way  
 ❌ Immediately, because the truck driver is prompting me to do that  
 ✅ Only if I do not endanger or significantly impede the cross traffic  
 **Comment**: Do not take any risks: The light signals may mean that the truck driver is waiving his right of way and letting me go first. To be on the safe side, I wait for a clear hand signal before driving off carefully 
 and without endangering others.    
   
-654. What do you do when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_001.jpg)  
+654. What do you do when you see this traffic sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_001.jpg"  width="50%"/>  
 ❌ Observe the traffic coming from the right only  
 ✅ Reduce speed  
 ✅ Be ready to brake  
 **Comment**: The sign indicates a junction or intersection with right of way from the right. For you, this means: reduce your speed, drive with increased attention and stay ready to brake so that you can give way if 
 necessary.  
   
-655. You see this traffic sign. What must you reckon with?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_005.jpg)  
+655. You see this traffic sign. What must you reckon with?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_005.jpg"  width="50%"/>  
 ❌ Oncoming traffic taking precedence  
 ✅ Dazzle from oncoming traffic at night  
 ✅ Oncoming traffic  
 **Comment**:  The sign indicates that oncoming traffic on your own lane is to be expected, e.g. if a lane on the highway is temporarily open for both directions due to construction work. You must drive clearly to the 
 right. At night, glare from oncoming traffic must be expected.  
   
-656. What must you anticipate with this road sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_144.jpg)  
+656. What must you anticipate with this road sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_144.jpg"  width="50%"/>  
 ✅ With cyclists who may cross the carriageway  
 ❌ With a "cyclists prohibited" zone  
 ❌ With an underpass for cyclists  
 **Comment**:  This danger sign warns of cyclists crossing the road. It is located at places where cyclists frequently or unexpectedly cross the road or enter it, e.g. because a cycle path ends.  
   
-657. What do these traffic signs indicate?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_130.jpg)  
+657. What do these traffic signs indicate?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_130.jpg"  width="50%"/>  
 ❌ Roadway with two lanes in one direction for 3 km  
 ❌ Start of a no-overtaking area 3 km ahead  
 ✅ No overtaking for 3 km  
 **Comment**: Multi-lane vehicles (cars, trucks) and motorcycles with sidecars may not be overtaken. The no overtaking zone is 3 km long. Overtaking motorcycles without sidecars, mopeds, streetcars and non-motorized 
 vehicles is permitted.  
   
-658. What must you remember when you see this traffic sign?![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_41_101.jpg)  
+658. What must you remember when you see this traffic sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_41_101.jpg"  width="50%"/>  
 ✅ Use snow-chains  
 ❌ Track-vehicles have priority  
 ✅ Maximum permissible speed 50 km/h  
 **Comment**: This traffic sign is put up when a road can no longer be driven on normally due to large amounts of snow. You are not allowed to drive on this road without snow chains as you would break down and obstruct 
 other traffic. You are only allowed to drive at a maximum speed of 50 km/h with snow chains.  
   
-659. What does this traffic sign indicate?![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_42_002.jpg)  
+659. What does this traffic sign indicate?<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_42_002.jpg"  width="50%"/>  
 ❌ The end of the autobahn  
 ❌ Motor vehicles prohibited  
 ✅ The end of the clearway for motor vehicles only  
   
-660. What motor vehicles may enter an environment zone that has this sign?![img](https://schueler.click-learn.info/BilderV2/VZ_2_5_01_012.jpg)  
+660. What motor vehicles may enter an environment zone that has this sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_2_5_01_012.jpg"  width="50%"/>  
 ✅ Motorcycles  
 ❌ Motor vehicles that meet the requirements for a green particulate emissions sticker, even if no such sticker is attached  
 ✅ Motor vehicles with a green particulate emissions sticker   
 **Comment**: Low emission zones serve to reduce harmful air pollution in urban areas. Only low-emission vehicles are allowed to drive here - as long as the corresponding sticker (in this case GREEN) is displayed correctly. 
 Motorcycles do not have a sticker and are generally free to drive.  
   
-661. Which prohibitions cease to apply when you see this sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_133.jpg)
+661. Which prohibitions cease to apply when you see this sign? <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_133.jpg"  width="50%"/>  
 ✅ No overtaking  
 ✅ Speed restrictions  
 ❌ No parking  
 **Comment**: All route prohibitions - speed limit, minimum speed, no overtaking - are lifted from this point onwards.  
   
-662. What dangers can arise if this traffic sign is ignored?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_109.jpg)  
+662. What dangers can arise if this traffic sign is ignored?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_109.jpg"  width="50%"/>  
 ✅ The load could be damaged  
 ✅ The vehicle could suffer a broken axle or spring fracture  
 ✅ The vehicle could go into a skid and endanger oncoming traffic  
 **Comment**: The sign warns of uneven road surfaces. If the speed is too high, the vehicle could skid and endanger oncoming traffic. In addition, cargo could be damaged or the vehicle could suffer axle and spring breakage. 
 Therefore, adjust your speed.  
   
-663. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_021_1.jpg)  
+663. What is the right course of action?<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_021_1.jpg"  width="50%"/>  
 I may  
 ✅ only turn after the yellow bus  
 ✅ turn before the motorcycle  
@@ -4918,12 +4918,12 @@ I have to
 **Comment**: If I have technically modified my vehicle and obtained a corresponding certificate, I must always carry the certificate or confirmation with me. If necessary, I must also have the modification entered in the 
 registration certificate part I. 
   
-666. What ends here?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_136.jpg)  
+666. What ends here?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_136.jpg"  width="50%"/>  
 ❌ All previous zonal prohibitions  
 ❌ A no-stopping area  
 ✅ A no-waiting area  
   
-667. What must you be prepared for here?![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_159.jpg)  
+667. What must you be prepared for here?<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_159.jpg"  width="50%"/>  
 ✅ People walking on the road  
 ✅ Vehicles turning onto the road  
 ✅ Oncoming vehicles turning left  
@@ -4937,7 +4937,7 @@ parking lot or drivers leaving the parking lot could turn onto my lane without p
 **Comment**:  Wait and watch the traffic if you do not immediately see the right-of-way situation. If necessary, communicate with other   
 road users, e.g. using hand signals.  
   
-669. What is the right thing to do?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_060.jpg)  
+669. What is the right thing to do?<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_060.jpg"  width="50%"/>  
 ✅ The yellow car has to wait  
 ❌ I have to wait  
 ✅ I have to indicate  
@@ -4946,35 +4946,35 @@ here. Therefore, the usual right of way rules apply here! The blue arrow sign me
 for traffic circles, I have to indicate when entering and leaving the traffic circle. The traffic in the circle does NOT have  
 right of way here. For them, the rule is: RIGHT BEFORE LEFT, so they have to wait and let me go first.  
   
-670. You have taken the right lane by mistake although you want to turn left. How are you allowed to proceed?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_102.jpg)  
+670. You have taken the right lane by mistake although you want to turn left. How are you allowed to proceed?<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_37_102.jpg"  width="50%"/>  
 ✅ Straight ahead  
 ✅ To the right  
 ❌ To the left when the traffic lights are "green"  
 **Comment**: Arrows on the road indicate the direction of travel at the next junction. They recommend that you get into the lane early. As long as the lines are broken, you may change lanes. If the lines are solid, you 
 must follow the direction of travel indicated by the arrows. This means that in the situation shown you may only drive straight ahead or turn right.  
   
-671. You want to continue driving straight ahead. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_11_103.jpg)  
+671. You want to continue driving straight ahead. What is the right course of action?<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_11_103.jpg"  width="50%"/>  
 ✅ I move to the right if there is sufficient space in the traffic  
 ✅ I remain waiting in my lane  
 ❌ I overtake the vehicle alongside me and switch lanes  
 **Comment**: The waiting left-turner is blocking the straight ahead lane. However, swerving into the right-hand lane is only possible if there is a sufficiently large gap in traffic. Until then, I must stay in the lane, 
 watch the traffic and stop if necessary. Only change lanes if it is safe to do so!  
   
-672. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_120.jpg)  
+672. What is the right course of action?<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_120.jpg"  width="50%"/>  
 ✅ I have to allow the blue vehicle to pass  
 ❌ I have to allow the green vehicle to pass through  
 ✅ I may make the turn before the green vehicle  
 **Comment**: Traffic signs regulate the right of way here. The vehicle on the right and I are driving on the priority road with the right turn. The vehicle on the right follows the course of the priority road. I have to 
 let it pass first because I want to leave the priority road. The vehicle on the side road must “give way” to all others.  
   
-673. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_048.jpg)  
+673. What is the right course of action?<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_048.jpg"  width="50%"/>  
 ❌ I am the first to proceed  
 ❌ I allow the motorcycle to turn before me  
 ✅ I allow the blue car to turn  
 **Comment**: At junctions without priority traffic signs or traffic lights, the vehicle coming from the right has right of way. Here I have to let the vehicle coming from the right go first. Then I drive. Oncoming traffic 
 turning left must wait until everything is clear.  
   
-674. What must you heed in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_02_108.jpg)  
+674. What must you heed in this situation? <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_02_108.jpg"  width="50%"/>  
 (Hazard warning lights on)  
 You may  
 ✅ pass at walking speed only  
@@ -4995,14 +4995,14 @@ limit until the next roadworthiness test must be performed?
 Answer: The time limit is ___24___ months  
 **Comment**:  The first main inspection of a new vehicle is due after three years. After that, cars must be inspected every two years (=24 months).  
   
-677. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_018_1.jpg)  
+677. What is the right course of action?<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_018_1.jpg"  width="50%"/>  
 ❌ I have to allow the truck to pass through  
 ✅ I have to allow the yellow van to pass through  
 ✅ I take priority before the truck  
 **Comment**:  Traffic signs regulate the right of way here. My opponent and I must “give way” and allow vehicles on the priority road to pass first. I then drive in front of the oncoming left-turner, as I continue straight 
 ahead.  
   
-678. What must you be aware of here?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_12_123.jpg)  
+678. What must you be aware of here?<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_12_123.jpg"  width="50%"/>  
 ✅ It is not permitted to stop to the left of the boundary line of the carriageway  
 ✅ Slower moving vehicles must use the hard shoulder if possible  
 ❌ Driving across the boundary line of the carriageway is prohibited at all times  
@@ -5039,13 +5039,13 @@ I have to
 approach the traffic circle  slowly, so I slow down in good time. I only indicate when exiting to show others where I am leaving the traffic circle. Tip: Watch the movie again at your leisure and pay attention to the 
 traffic signs!  
   
-683. When may you use the right-hand hard shoulder?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_02_101.jpg)  
+683. When may you use the right-hand hard shoulder?<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_02_101.jpg"  width="50%"/>  
 ✅ For stopping and parking  
 ✅ For driving a slow-moving vehicle  
 ❌ For overtaking  
 **Comment**: The right-hand hard shoulder may be used for stopping and parking. You may also drive on it with slow vehicles.  
   
-684. What is the right course of action? ![img](https://schueler.click-learn.info/BilderV2/BS_1_1_07_174_ende.jpg)  
+684. What is the right course of action? <img src="https://schueler.click-learn.info/BilderV2/BS_1_1_07_174_ende.jpg"  width="50%"/>  
 ✅ I remain waiting in my lane for now  
 ✅ I continue braking  
 ❌ I steer to the left now  
@@ -5053,7 +5053,7 @@ traffic signs!
 would be dangerous! Only when everything is clear beside and behind me can I change lanes and drive past the obstacle. TIP: Watch the movie several times and pay attention to the movements of others (also in the rear-view 
 mirrors)!  
   
-685. The vehicles ahead of you are driving at about 30 km/h. Why are you not permitted to overtake before the road bend? ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_06_035.jpg)  
+685. The vehicles ahead of you are driving at about 30 km/h. Why are you not permitted to overtake before the road bend? <img src="https://schueler.click-learn.info/BilderV2/AB_2_1_06_035.jpg"  width="50%"/>  
 ✅ Because my overtaking distance is too long  
 ✅ Because the red car might pull out to overtake  
 ❌ Because I am not permitted to cross the lane marking  
@@ -5061,7 +5061,7 @@ mirrors)!
 into account that the person in front of me could pull out to overtake myself. I can drive over the guideline - here, but the overall risk of an overtaking maneuver before the curve is too great. (*I may drive over  
 interrupted guidelines, but I may not drive over lines without interruptions.)  
   
-686. Why might taking the right turn be dangerous here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_03_116.jpg)  
+686. Why might taking the right turn be dangerous here? <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_03_116.jpg"  width="50%"/>  
 ✅ Because vehicles emerging from the side street could start to skid  
 ✅ Because I might possibly not be able to stop in time, if pedestrians are crossing the side street  
 ✅ Because my vehicle might start to skid if I take the turn too fast  
@@ -5069,21 +5069,21 @@ interrupted guidelines, but I may not drive over lines without interruptions.)
 in the slush.  
   
 687. Why do you have to pay particular attention here?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_1_03_114.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_03_114.jpg"  width="50%"/>  
 ✅ Because the road surface is uneven  
 ✅ Because it is not clear which direction the road will take  
 ✅ Because oncoming traffic could cut the corner  
 **Comment**:  You should drive carefully here, as the road surface has been repaired and has an unfavorable effect on cornering. The course of the road is unclear, someone may have broken down behind the bend, for example, 
 or a vehicle may be coming towards you that is cutting the bend.  
   
-688. What do you have to be aware of in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_2_6_06_216.jpg)  
+688. What do you have to be aware of in this situation? <img src="https://schueler.click-learn.info/BilderV2/AB_2_6_06_216.jpg"  width="50%"/>  
 ✅ In 200 m the width of the left-hand lane is going to narrow  
 ✅ Including its exterior mirrors, my vehicle is wider than the width specified in the vehicle documents  
 ❌ The left-hand lane is going to narrow for a distance of 200 m  
 **Comment**: The sign indicates a lane narrowing after 200 m. The left-hand lane narrows to 2 m actual width. The vehicle width is stated in the vehicle documents without wing mirrors. My vehicle can therefore be wider 
 than 2 m. If in doubt, I change to the right-hand lane in good time.  
   
-689. What must you anticipate in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_02_005_1.jpg)  
+689. What must you anticipate in this situation? <img src="https://schueler.click-learn.info/BilderV2/AB_2_1_02_005_1.jpg"  width="50%"/>  
 ✅ Children walking out onto the road  
 ✅ People exiting their vehicles via the side nearest the road  
 ❌ There is a pedestrian crossing up ahead  
@@ -5099,7 +5099,7 @@ I have to
 registration office. 
   
 691. After turning left, you want to turn immediately right. How should you position your vehicle?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_2_09_104.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_09_104.jpg"  width="50%"/>  
 Like  
 ❌ the green car  
 ❌ the blue car  
@@ -5107,7 +5107,7 @@ Like
 **Comment**: All drivers turning left must get into the lane in good time and avoid endangering the traffic behind them. Anyone who wants to turn right again immediately after turning left must - like the red car - get 
 into the right-hand lane if there are two left-turn lanes.  
   
-692. You want to turn right at the junction. What is the right thing to do? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg)  
+692. You want to turn right at the junction. What is the right thing to do? <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg"  width="50%"/>  
 ✅ I change lanes as early as possible  
 ✅ I may not impede cyclists in the cycle lane  
 ❌ I may only cross over the cycle lane at walking speed  
@@ -5115,7 +5115,7 @@ into the right-hand lane if there are two left-turn lanes.
 possible, so I have a reserve. I drive at the permitted speed so that I don't obstruct cyclists or other vehicles when I change lanes. If I had to slow down to walking speed, it would be far too dangerous for the cyclist 
 behind me (rear-view mirror), for example! 
   
-693. What is the correct course of action in this situation? ![img](https://schueler.click-learn.info/BilderV2/BS_1_2_07_105_ende.jpg)  
+693. What is the correct course of action in this situation? <img src="https://schueler.click-learn.info/BilderV2/BS_1_2_07_105_ende.jpg"  width="50%"/>  
 ✅ I move over to the right-hand lane after around 200 m  
 ✅ I may overtake the vehicles driving in the right-hand lane  
 ❌ I move into the right-hand lane now  
@@ -5132,26 +5132,26 @@ What is the right course of action?
 **Comment**:  If someone is driving very slowly in front of me, excitement doesn't help. Perhaps he has a good reason for it. The best thing to do is to match your own speed to the vehicle in front. Keep a safe distance 
 and only overtake when there is an opportunity to overtake safely.  
   
-695. Where may you park here? ![img](https://schueler.click-learn.info/BilderV2/AB_1_2_12_128_1.jpg)  
+695. Where may you park here? <img src="https://schueler.click-learn.info/BilderV2/AB_1_2_12_128_1.jpg"  width="50%"/>  
 In my direction of travel  
 ❌ on the left-hand hard shoulder only  
 ❌ on the right-hand hard shoulder only  
 ✅ on the left and right-hand hard shoulders  
 **Comment**:  Parking is permitted on both sides of roads with only one direction of travel (one-way streets), in this case on the left and right-hand hard shoulder.  
   
-696. Why might driving along this road become dangerous? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_04_108.jpg)  
+696. Why might driving along this road become dangerous? <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_04_108.jpg"  width="50%"/>  
 ❌Because oncoming vehicles will only be detected very late  
 ✅ Because persons on the road can be easily overlooked  
 ✅ Because poorly lit vehicles can be difficult to detect  
 **Comment**:  The poor illumination can easily lead to pedestrians crossing the road in dark areas being overlooked. Poorly lit vehicles are also difficult to see in such areas.  
   
-697. What must you anticipate when you see this road sign?![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_010.jpg)  
+697. What must you anticipate when you see this road sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_010.jpg"  width="50%"/>  
 ✅ Pedestrians that might cross the road  
 ✅ A pedestrian crossing that is hard to see  
 ❌ Pedestrians who may only cross the road from the right  
 **Comment**:  The danger sign with this symbol warns of particular dangers posed by pedestrians. It indicates a crosswalk. I drive carefully here and watch out for vehicles in front: If necessary, I reduce my speed!  
   
-698. What is the right course of action now? Video Question ![img](https://schueler.click-learn.info/BilderV2/BS_1_2_37_018_ende.jpg) .   
+698. What is the right course of action now? Video Question <img src="https://schueler.click-learn.info/BilderV2/BS_1_2_37_018_ende.jpg"  width="50%"/>   .   
 ❌ I drive through the junction quickly, because "yellow" is displayed    
 ✅ I allow any cross traffic the right of way    
 ❌ wait at the stop line for the next set of green lights    
@@ -5164,7 +5164,7 @@ traffic and give priority to pedestrians, for example.
 ✅ Place wheel chocks under the wheels    
 **Comment**: To prevent a parked trailer from rolling away on a slope, it must always be secured before uncoupling. To do this, apply the parking brake and place wheel chocks in front of the wheels.    
   
-700. What should you do? ![img](https://schueler.click-learn.info/BilderV2/BS_1_2_37_013_ende.jpg) .   
+700. What should you do? <img src="https://schueler.click-learn.info/BilderV2/BS_1_2_37_013_ende.jpg"  width="50%"/>   .   
 ❌ Slow down  
 ✅ Continue driving    
 **Comment**: You drive at 40 to 50 km/h and the traffic light changes to yellow. If there are only about 10 m to the traffic light, as in this case, it is too close to brake: drive on.  
@@ -5176,7 +5176,7 @@ traffic and give priority to pedestrians, for example.
 **Comment**: High fuel consumption is caused by a number of factors. Unnecessarily heavy acceleration & braking instead of a smooth and steady driving style are just as much a part of it as driving at high engine speeds.  
   
 702. You have taken the right lane by mistake although you want to turn left. How are you allowed to proceed?   
-![img](https://schueler.click-learn.info/BilderV2/AB_1_2_37_102.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_37_102.jpg"  width="50%"/>  
 ✅ Straight ahead    
 ✅ To the right    
 ❌ To the left when the traffic lights are "green"    
@@ -5197,7 +5197,7 @@ I have to
 **Comment**:  The registration office must know who owns a vehicle and who is liable in the event of damage: When I purchase a vehicle, I must have it registered immediately and submit proof of insurance to the 
 registration office.  
   
-705. What must you do upon seeing this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_1_4_42_138.jpg)    
+705. What must you do upon seeing this traffic sign? <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_138.jpg"  width="50%"/>    
 ✅ I may not remain stationary on the pedestrian crossing if the traffic backs up    
 ✅ I must approach at a moderate speed if it is clear that pedestrians want to cross the road    
 ✅ I must allow the pedestrians to cross the road    
@@ -5238,7 +5238,7 @@ There is a particular risk of skidding in bends due to strong steering input.
 the workshop provides peace of mind.  
   
 711. What is the right course of action?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_021_1.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_021_1.jpg"  width="50%"/>  
 I may  
 ✅ turn before the motorcycle  
 ❌ be the first to make my turn  
@@ -5247,7 +5247,7 @@ I may
 turn before I drive. 
   
 712. What should you do now? (Muggup)  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_1_08_016_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_08_016_ende.jpg"  width="50%"/>  
 ✅ I slow my vehicle down  
 ❌ I continue driving in the clear lane  
 ✅ I switch on my hazard lights  
@@ -5263,7 +5263,7 @@ allowed to drive the vehicle on public roads. The vehicle must be deregistered a
 
 714. A light signal with no level crossing sign is positioned before a level crossing, and in front of a junction with a road to the   
 right. The red light is illuminated. Where must you wait?  
-![img](https://schueler.click-learn.info/BilderV2/VZ_1_2_19_110.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_2_19_110.jpg"  width="50%"/>  
 ✅ At the stop line  
 ✅ In front of the light signal, if there is no stop line  
 ❌ I can drive up to the level crossing after watching out for other traffic  
@@ -5271,7 +5271,7 @@ right. The red light is illuminated. Where must you wait?
 the light.  
 
 715. What is the right course of action here?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_3_01_047.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_047.jpg"  width="50%"/>  
 I have to  
 ✅ allow the blue car to pass through  
 ✅ stop on the stop line  
@@ -5287,7 +5287,7 @@ from the left - and I am coming from the right. So I may drive after the vehicle
 also deteriorates noticeably. Overloading can also lead to damage to load-bearing vehicle parts.  
 
 717. Which statements are correct in this situation?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_1_02_110.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_02_110.jpg"  width="50%"/>  
 (Hazard warning lights on)  
 ✅ The bus may be passed in either lane but no faster than at walking speed  
 ❌ The vehicles in the left lane may pass the bus without paying any special attention  
@@ -5296,7 +5296,7 @@ also deteriorates noticeably. Overloading can also lead to damage to load-bearin
 necessary, stop if passengers would otherwise be endangered.  
 
 718. What should you do?
-![img](https://schueler.click-learn.info/BilderV2/BS_2_2_07_007_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_07_007_ende.jpg"  width="50%"/>  
 ❌ I move into the left-hand lane and overtake the red car in front of me  
 ✅ I stay in the middle lane and slow down  
 ❌ I move to the right-hand lane and slow down  
@@ -5304,7 +5304,7 @@ necessary, stop if passengers would otherwise be endangered.
 TIP: Watch the movie again and pay attention to traffic signs (announced lane narrowing)!  
 
 719. You want to overtake. What is the right thing to do?  
-![img](https://schueler.click-learn.info/BilderV2/AB_1_4_41_167.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_4_41_167.jpg"  width="50%"/>   
 I may  
 ✅ overtake  
 ❌ not overtake  
@@ -5313,7 +5313,7 @@ I may
 Therefore, I am allowed to cross both lines and overtake the cyclist if I am not endangering anyone.
 
 720. What is the right thing to do in this situation? - Video Question  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_2_05_011_ende.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_05_011_ende.jpg"  width="50%"/>   
 ✅ I cease the overtaking manoeuvre and move into the right-hand lane  
 ❌ I accelerate and continue the overtaking manoeuvre  
 ❌ continue the overtaking manoeuvre at an unchanged speed  
@@ -5321,7 +5321,7 @@ Therefore, I am allowed to cross both lines and overtake the cyclist if I am not
 the sign is not visible: I've  just passed it! TIP: Watch the movie again and pay attention to traffic signs (speed limit)!  
 
 721. What is the rule created by the road markings in this situation?  
-![img](https://schueler.click-learn.info/BilderV2/BS_1_4_42_010_1_ende.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_4_42_010_1_ende.jpg"  width="50%"/>   
 I have to  
 ❌ come to a stop in front of the road markings  
 ❌ give way to the green truck  
@@ -5336,7 +5336,7 @@ traffic signs). Therefore: Approach carefully, get an overview and behave accord
 **Comment**: The rear fog light may only be switched on when visibility is less than 50m. If it is switched on, a yellow indicator light comes on.
 
 723. Why are you not permitted to now overtake the bus driving ahead of you?  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_2_05_019_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_05_019_ende.jpg"  width="50%"/>  
 ❌ Because of the lack of road markings  
 ✅ Because the hazard lights of the bus are switched on  
 ✅ Because of the motorbike  
@@ -5345,7 +5345,7 @@ at such a distance that passengers are neither endangered nor hindered. I must a
 again and pay attention to the rear-view mirrors!  
 
 724. Why should you not overtake the moped rider in this situation?  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_1_06_107_1_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_107_1_ende.jpg"  width="50%"/>  
 ✅ Because this might cause the moped rider to fall  
 ✅ Because I am not allowed to drive significantly faster than the moped rider  
 ✅ Because I am unable to maintain the requisite amount of side clearance  
@@ -5354,7 +5354,7 @@ to drive faster than 30 km/h here (traffic sign at the beginning of the movie). 
 past the hint!  
 
 725. Why are you not allowed to take the turn now?  
-![img](https://schueler.click-learn.info/BilderV2/BS_1_2_09_135_1_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_09_135_1_ende.jpg"  width="50%"/>  
 Because of the  
 ✅ light blue car  
 ❌ yellow car  
@@ -5363,7 +5363,7 @@ Because of the
 driving straight ahead. So I have to wait and let the oncoming traffic pass. The other vehicles are of no importance to me here. TIP: Watch the movie again and pay attention to the movement from the front!
 
 726. What is the right course of action here?  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_1_06_104_1_ende.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_104_1_ende.jpg"  width="50%"/>   
 ❌ I sound my horn to prompt the cyclists to ride one behind the other  
 ✅ I do not overtake the cyclists for now  
 ❌ I overtake the cyclists  
@@ -5371,7 +5371,7 @@ driving straight ahead. So I have to wait and let the oncoming traffic pass. The
 That's why I don't overtake for the time being. I am only allowed to honk my horn in case of danger or outside built-up areas to indicate overtaking (§ 5, § 16 StVO).
 
 727. What should you do now?  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_1_07_020_ende.jpg)   
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_020_ende.jpg"  width="50%"/>   
 ✅ I continue driving as far to the right as possible  
 ❌ I move into the left-hand lane  
 ✅ I brake  
@@ -5386,7 +5386,7 @@ possible (truck in the rear-view mirror!).
 operations or other work.  
 
 729. What should you anticipate in this situation?  - Video Question  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_1_07_014_1_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_014_1_ende.jpg"  width="50%"/>  
 ❌ The white truck performs a turn  
 ❌ The tractor moves onto the road  
 ✅ The driver of the blue vehicle fails to see me  
@@ -5394,14 +5394,14 @@ operations or other work.
 the movie several times, observe the traffic situation. What is happening in oncoming traffic?  
 
 730. What should you do now?  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_1_06_018_1_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_018_1_ende.jpg"  width="50%"/>  
 ❌ I accelerate  
 ✅ I drive as far to the right-side as possible  
 ✅ I slow down  
 **Comment**: If someone overtakes me even though an oncoming vehicle is already very close, I ride on the extreme right. I slow down my vehicle carefully (rear-view mirror) and allow the overtaking vehicle to pull in.
 
 731. What must you do?  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_1_08_011_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_08_011_ende.jpg"  width="50%"/>  
 ✅ Slow down and stay in lane  
 ❌ Move to the left-hand lane  
 ❌ Maintain speed and stay in lane  
@@ -5409,7 +5409,7 @@ the movie several times, observe the traffic situation. What is happening in onc
 to slow down and stay in my lane. TIP: Watch the movie again and pay attention to the rear-view mirrors!
 
 732. Why do you have to switch to the right-hand lane?  
-![img](https://schueler.click-learn.info/BilderV2/BS_2_1_06_103_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_103_ende.jpg"  width="50%"/>  
 Because of the  
 ✅ red car  
 ❌ yellow tractor  
@@ -5418,7 +5418,7 @@ Because of the
 encounter in my lane! TIP: Watch the movie several times. What happens in oncoming traffic?
 
 733. For what should your prepare yourself in this situation?  
-![img](https://schueler.click-learn.info/BilderV2/BS_1_1_07_157_1_ende.jpg)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_1_07_157_1_ende.jpg"  width="50%"/>  
 ✅ People will cross the road at the rear of the bus  
 ✅ As it begins moving, the bus will swing out onto my side of the road  
 ❌ The quad suddenly starts to move  
