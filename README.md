@@ -5398,3 +5398,19 @@ operations or other work.
 ✅ The driver of the blue vehicle fails to see me  
 **Comment**: The motto here is: Watch out! Large vehicles make oncoming traffic difficult to see. Another vehicle appears behind the person turning off and may drive past me into my lane. Did the driver see me? TIP: Watch
 the movie several times, observe the traffic situation. What is happening in oncoming traffic?  
+
+730. What should you do now?  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_1_06_018_1_ende.jpg)  
+❌ I accelerate  
+✅ I drive as far to the right-side as possible  
+✅ I slow down  
+**Comment**: If someone overtakes me even though an oncoming vehicle is already very close, I ride on the extreme right. I slow down my vehicle carefully (rear-view mirror) and allow the overtaking vehicle to pull in.
+
+731. What must you do?  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_1_08_011_ende.jpg)  
+✅ Slow down and stay in lane  
+❌ Move to the left-hand lane  
+❌ Maintain speed and stay in lane  
+**Comment**: If someone in front of me wants to overtake and drives into my lane, I may only change to the left-hand lane if there is space next to and behind me (rear-view mirror, look over my shoulder!). Otherwise I have
+to slow down and stay in my lane. TIP: Watch the movie again and pay attention to the rear-view mirrors!
+
