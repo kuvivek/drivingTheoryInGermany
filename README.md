@@ -5375,3 +5375,11 @@ driving straight ahead. So I have to wait and let the oncoming traffic pass. The
 ❌ I overtake the cyclists  
 **Comment**: When overtaking bicycles or small electric vehicles within built-up areas, a minimum lateral distance of 1.5 m is prescribed. I can hardly keep that distance here as long as the two are riding side by side.
 That's why I don't overtake for the time being. I am only allowed to honk my horn in case of danger or outside built-up areas to indicate overtaking (§ 5, § 16 StVO).
+
+727. What should you do now?  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_1_07_020_ende.jpg)   
+✅ I continue driving as far to the right as possible  
+❌ I move into the left-hand lane  
+✅ I brake  
+**Comment**: Cars on the highway with hazard lights flashing - but no traffic jam in sight. Those in front of me swerve to the right. Now I see the reason: a wrong-way driver! I brake and drive as far to the right as
+possible (truck in the rear-view mirror!).
