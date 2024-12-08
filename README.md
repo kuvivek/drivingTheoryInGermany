@@ -76,7 +76,7 @@ therefore only drive fast enough to stop within half your visibility.
 **Comment**: Approach level crossings at moderate speed only. You must wait in front of the St. Andrew's cross when the barriers are closed.  
 
 12. What do you have to be aware of when you see this traffic sign combination?  
-![Image4](https://schueler.click-learn.info/BilderV2/VZ_1_4_40_135.jpg"  width="50%"/>  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_135.jpg"  width="50%"/>  
 ❌ A rail crossing at a distance of 120 m  
 ✅ A rail crossing at a distance of 240 m  
 ✅ No overtaking of vehicles permitted  
