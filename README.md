@@ -221,7 +221,8 @@ Remaining within my lane, I
 as far to the left as possible, all others as far to the right as possible.  
   
 33. A traffic jam is building up here. What is the correct procedure?  
-<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_08_008.jpg"  width="50%"/>  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_08_008.jpg"  width="50%"/>
+
 ✅ If possible, switch on hazard warning lights to warn vehicles following behind  
 ✅ Drive as far as possible to the right in order to leave room for a channel on the left  
 ❌ Drive as far as possible to the left in order to leave room for a channel on the right  
@@ -251,6 +252,7 @@ The speed limit for cars outside built-up areas on roads with one lane in each d
   
 37. What is the right course of action now?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_2_18_016_ende.jpg"  width="50%"/>  
+
 ✅ I warn the driver by sounding my horn and flashing my lights  
 ✅ I drive over to the right-side as far as possible  
 ✅ I notify the police  
@@ -259,6 +261,7 @@ report the wrong-way driver to the police.
   
 38. What does this traffic sign mean?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_2_19_109.jpg"  width="50%"/>  
+
 ✅ Indication of existing overhead electrical wires  
 ✅ You must always wait when a rail vehicle is approaching  
 ✅ Rail traffic always has priority  
@@ -276,6 +279,7 @@ reduced. In addition, an even flow of traffic could be achieved. However, this i
 40. What do you have to be aware of in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_1_04_005.jpg"  width="50%"/>  
 Due to the constant changing of light and shadow  
+
 ❌ I am more easily able to judge distances  
 ✅ I have to drive with particular care  
 ✅ I may be poorly visible to other road users  
@@ -443,6 +447,7 @@ organization may not be picked up and held in the hand while driving. Only voice
 67. The red car in front of you has been driving slowly for some time now. What is the correct course of action in    
 this situation?   
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_11_014_ende.jpg"  width="50%"/>  
+
 ❌ I close the distance and sound my horn  
 ✅ I maintain my speed  
 ❌ I overtake, because the road is clear  
