@@ -5414,3 +5414,11 @@ the movie several times, observe the traffic situation. What is happening in onc
 **Comment**: If someone in front of me wants to overtake and drives into my lane, I may only change to the left-hand lane if there is space next to and behind me (rear-view mirror, look over my shoulder!). Otherwise I have
 to slow down and stay in my lane. TIP: Watch the movie again and pay attention to the rear-view mirrors!
 
+732. Why do you have to switch to the right-hand lane?  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_1_06_103_ende.jpg)  
+Because of the  
+✅ red car  
+❌ yellow tractor  
+❌ blue car  
+**Comment**: After overtaking, I must always drive on the right (right-hand drive rule). But this is not only urgent because of the nearby lane narrowing: the reason is the overtaking vehicle in oncoming traffic that I
+encounter in my lane! TIP: Watch the movie several times. What happens in oncoming traffic?
