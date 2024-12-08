@@ -4235,73 +4235,66 @@ which results in a distance of at least 35 m at a speed of 70 km/h and approx. 5
 ✅ The risk of an accident increases significantly  
 ✅ Vehicles in the right-hand lane may cross over the yellow road markings  
 ✅ The time saved is frequently insignificant  
-**Comment**:  Things can get tight around highway construction sites. There are often many large heavy goods vehicles on the road. I should   
-refrain from overtaking here because large vehicles occasionally overtake the yellow markings, which significantly increases the risk of   
-accidents. In addition, there are usually speed limits and time savings are usually minimal due to the limited stretches of road.  
+**Comment**: Things can get tight around highway construction sites. There are often many large heavy goods vehicles on the road. I should refrain from overtaking here because large vehicles occasionally overtake the  
+yellow markings, which significantly increases the risk of accidents. In addition, there are usually speed limits and time savings are usually minimal due to the limited stretches of road.  
   
-572.What applies on clearways for motor vehicles only?  
+572. What applies on clearways for motor vehicles only?  
 ✅ No U-turns  
 ✅ Join the clearway only at crossroads and junctions  
-❌In darkness, you may drive faster than the range of visibility allowed by dipped headlights  
-**Comment**:  Motorways are intended for rapid progress. For this reason, turning and reversing is prohibited. If you have missed your turn-off,   
-you must continue to the next junction or intersection. You may only enter a motorway at junctions and crossroads. You can also make a U-turn   
-there, observing the traffic signs.  
+❌ In darkness, you may drive faster than the range of visibility allowed by dipped headlights  
+**Comment**: Motorways are intended for rapid progress. For this reason, turning and reversing is prohibited. If you have missed your turn-off, you must continue to the next junction or intersection. You may only enter a 
+motorway at junctions and crossroads. You can also make a U-turn there, observing the traffic signs.  
   
 573. A lane terminates on a road with several lanes heading in the same direction. What should you do when driving on the through-lane?  
 I have to  
-❌make eye-contact and then decide according to the situation  
-❌drive past the vehicles on the terminating lane  
+❌ make eye-contact and then decide according to the situation  
+❌ drive past the vehicles on the terminating lane  
 ✅ allow traffic on the terminating lane to merge in accordance with the alternate merging procedure  
-**Comment**:  If a lane ends or is closed (e.g. due to roadworks or an obstacle), the “merge and let merge” method is used. This means that each  
-driver in the free lane allows the next vehicle that is prevented from continuing to move over.  
-  
-574. What is the right course of action now?  
-❌I stay in the centre lane  
-❌I move into the left-hand lane  
+**Comment**: If a lane ends or is closed (e.g. due to roadworks or an obstacle), the “merge and let merge” method is used. This means that each driver in the free lane allows the next vehicle that is prevented from 
+continuing to move over.   
+
+574. What is the right course of action now? --Video Question  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_2_07_004_ende.jpg)  
+❌ I stay in the centre lane  
+❌ I move into the left-hand lane  
 ✅ I move into the right-hand lane  
-**Comment**:   If, at a speed of 120 km/h, the right-hand lane is clear and visible from a distance, I must move over to the right-hand lane   
-(right-hand driving rule). I may only stay in the middle to overtake or if I am not obstructing anyone and the next slower vehicle is at   
-least within sight. TIP: Watch the movie questions several times, those behind me are slower than me, everything is free in front of me   
-❌including the right-hand lane.  
+**Comment**: If, at a speed of 120 km/h, the right-hand lane is clear and visible from a distance, I must move over to the right-hand lane (right-hand driving rule). I may only stay in the middle to overtake or if I am not 
+obstructing anyone and the next slower vehicle is at least within sight. TIP: Watch the movie questions several times, those behind me are slower than me, everything is free in front of me - including the right-hand lane.  
   
 575. Your vehicle has broken down on the autobahn. What must you remember when having it towed away?  
 ✅ During towing, both vehicles must have their hazard warning lights switched on  
 ✅ You must leave the autobahn at the next exit  
-❌You may continue along the autobahn to the exit nearest a suitable garage  
-**Comment**:  If a vehicle is being towed away, the hazard warning lights on both vehicles must be switched on. The two vehicles form a long   
-and slow obstacle. This is particularly dangerous on highways because traffic moves very quickly there. For this reason, the tow truck   
-must leave the highway at the next exit.  
+❌ You may continue along the autobahn to the exit nearest a suitable garage  
+**Comment**: If a vehicle is being towed away, the hazard warning lights on both vehicles must be switched on. The two vehicles form a long and slow obstacle. This is particularly dangerous on highways because traffic 
+moves very quickly there. For this reason, the tow truck must leave the highway at the next exit.  
   
 576. What is the right course of action now? ![img](https://schueler.click-learn.info/BilderV2/BS_2_1_07_026_1_ende.jpg)  
-❌I move into the left-hand lane  
+❌ I move into the left-hand lane  
 ✅ I allow the tractor to pull into the lane  
 ✅ I reduce my speed further  
-**Comment**:  The slow tractor drives exemplarily on the hard shoulder to let the faster ones pass. The hard shoulder apparently ends just   
-before it, because it turns left. Houses also indicate a village. The left-hand lane is for oncoming traffic and not suitable for swerving,   
-especially as the red and white traffic sign in front of the tractor marks a bend that I can't see. Now I have to slow down and allow the   
-tractor to merge. TIP: Watch the movie again and literally “look ahead”!  
+**Comment**: The slow tractor drives exemplarily on the hard shoulder to let the faster ones pass. The hard shoulder apparently ends just before it, because it turns left. Houses also indicate a village. The left-hand lane 
+is for oncoming traffic and not suitable for swerving, especially as the red and white traffic sign in front of the tractor marks a bend that I can't see. Now I have to slow down and allow the tractor to merge. TIP: Watch 
+the movie again and literally “look ahead”!  
   
-577.What must you anticipate on the other side of this crest in the road? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_103.jpg)  
+578. What must you anticipate on the other side of this crest in the road? ![img](https://schueler.click-learn.info/BilderV2/AB_1_1_07_103.jpg)  
 ✅ There may be a slow moving vehicle on my side of the road  
 ✅ A vehicle may be stationary there  
 ✅ There may be an oncoming vehicle on my side of the road  
-**Comment**:  Caution! A vehicle may have broken down or be driving slowly behind this crest. As the road is not very wide, oncoming traffic  
-may be sharing your lane.  
+**Comment**: Caution! A vehicle may have broken down or be driving slowly behind this crest. As the road is not very wide, oncoming traffic may be sharing your lane.  
   
-578. What do you have to observe in a traffic situation like this one?  
+579. What do you have to observe in a traffic situation like this one?  
 I may  
 ✅ cross the centre line in order to overtake  
 ✅ not cross the centre line if this would endanger other traffic  
 ✅ cross the centre line in order to pass by the obstruction  
-**Comment**:  Guidelines are interrupted lines. They may be crossed, e.g. to overtake or to pass an obstacle, if this does not endanger other   
-traffic (including the person being overtaken).  
+**Comment**:  Guidelines are interrupted lines. They may be crossed, e.g. to overtake or to pass an obstacle, if this does not endanger other traffic (including the person being overtaken).  
   
-579. You are on a roundabout. What should you remember?  
+580. You are on a roundabout. What should you remember?  
 ✅ You can only drive over a central island if this is unavoidable because of your vehicle's size  
 ✅ You are not allowed to stop on the roadway in a roundabout  
 ✅ You must indicate to leave the roundabout  
   
-580. Why do you have to wait before the left turn?  
+581. Why do you have to wait before the left turn?  
 ![img](https://schueler.click-learn.info/BilderV2/BS_2_2_09_002_1_ende.jpg)
 Because of the  
 ❌ bicycle  
@@ -4311,7 +4304,7 @@ Because of the
 motorcycle or another vehicle in the shadow of the oncoming vehicle? It may be driving straight ahead. I prefer to avoid dangerous encounters when turning. TIP: Watch the movie again and watch out for movement or 
 indicators in oncoming traffic! 
   
-581. What is true in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_1_4_41_020_1.jpg)  
+582. What is true in this situation? ![img](https://schueler.click-learn.info/BilderV2/AB_1_4_41_020_1.jpg)  
 I may  
 ✅ not drive on the restricted zone  
 ❌use the restricted zone to make a turn  
@@ -4319,20 +4312,20 @@ I may
 **Comment**:  A restricted area carries the meaning in its name: The marked area is closed. Usually for safety reasons. I am not allowed   
 to drive on it. Not even for turning or as an alternative area in the event of a traffic jam.  
   
-582. Which motor vehicles may freely choose their lane inside built-up areas?right  
+583. Which motor vehicles may freely choose their lane inside built-up areas?right  
 Answer: All motor vehicles with a permissible total mass of up to   
 ___3.5t___  
 **Comment**:  Within built-up areas, motor vehicles with a maximum permissible mass of up to 3.5 tons may freely choose their lane on roads   
 with several marked lanes for one direction ❌except on freeways.  
   
-583. On what roads does the recommended speed of 130 km/h apply? ----IMP  
+584. On what roads does the recommended speed of 130 km/h apply? ----IMP  
 ✅ Motorways  
 ✅ On vehicle roadways not inside a built-up area, with at least two marked lanes for each direction  
 ✅ On vehicle roadways not inside a built-up area, with separate carriageways for each direction  
 **Comment**:  The speed limit of 130 km/h applies not only on freeways, but also outside built-up areas on motorways with physically separated   
 lanes or with at least two marked lanes for each direction.  
   
-584. What is the right course of action now? ![img](https://schueler.click-learn.info/BilderV2/BS_2_1_07_025_ende.jpg)  
+585. What is the right course of action now? ![img](https://schueler.click-learn.info/BilderV2/BS_2_1_07_025_ende.jpg)  
 ✅ I brake sharply  
 ✅ I yield my right of way  
 ❌I continue driving as before  
@@ -4340,7 +4333,7 @@ lanes or with at least two marked lanes for each direction.
 That's why I prefer to brake hard and give up my right of way. Under no circumstances do I drive on unchanged, as that would only   
 put me in unnecessary danger. TIP: Watch the movie again and watch out for the person approaching from the left!  
   
-585. You are driving on the autobahn in light traffic. How long are you allowed to stay in the left-hand lane?   ----IMP  
+586. You are driving on the autobahn in light traffic. How long are you allowed to stay in the left-hand lane?   ----IMP  
 ❌All the time, provided no other vehicle wants to overtake you  
 ✅ As long as you are driving behind a vehicle which is overtaking in the left-hand lane  
 ✅ As long as is necessary to overtake other vehicles  
@@ -4348,13 +4341,13 @@ put me in unnecessary danger. TIP: Watch the movie again and watch out for the p
 long as you are overtaking other vehicles or if you are driving behind a vehicle that is overtaking. When you have completed your   
 overtaking maneuver, move back into the right-hand lane.  
   
-586. What should you do here?  
+587. What should you do here?  
 I should  
 ❌drive to the left past the damaged road surface  
 ✅ continue driving in my lane  
 ✅ greatly reduce my speed  
   
-587. You are approaching a level crossing with barriers. Where must you wait if you would have to stop on the rails  
+588. You are approaching a level crossing with barriers. Where must you wait if you would have to stop on the rails  
 in case of traffic congestion?  
 ❌ Level with the barrier  
 ✅ In front of the St. Andrew's Cross  
@@ -4363,14 +4356,14 @@ in case of traffic congestion?
 St. Andrew's cross if you have to stop at the level crossing due to a traffic jam or slow-moving traffic. Cross the level 
 crossing quickly.  
   
-588. You are driving on this motorway. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_2_4_41_004_1.jpg)  
+589. You are driving on this motorway. What is the right course of action?![img](https://schueler.click-learn.info/BilderV2/AB_2_4_41_004_1.jpg)  
 ❌ I remain in my current lane  
 ✅ I move into the right-hand lane  
 ❌ I only use the left-hand lane if there is a breakdown  
 **Comment**:  On roads outside built-up areas, on highways and in roadworks on highways, the right-hand driving rule applies.  
 If possible, I use the right-hand lane. The left lane is only to be used for overtaking or in heavy traffic.  
   
-589. What must you be aware of when driving along narrow avenues?  
+590. What must you be aware of when driving along narrow avenues?  
 On narrow avenues  
 ✅ it is frequently difficult for me to see into the road bends  
 ❌ I am protected against black ice  
@@ -4378,7 +4371,7 @@ On narrow avenues
 **Comment**:  Narrow avenues require a high level of concentration - and defensive driving: Bends are difficult to see and sun,  
 rain and icy conditions can be particularly dangerous here. Avenues cannot protect against this.  
   
-590. What is prohibited when using motorways?  
+591. What is prohibited when using motorways?  
 ✅ Performing U-turns  
 ✅ Stopping on the hard shoulder  
 ✅ Reversing  
@@ -4386,14 +4379,14 @@ rain and icy conditions can be particularly dangerous here. Avenues cannot prote
 on the hard shoulder (without necessity) is also not permitted. The hard shoulder is reserved for emergency vehicles. I may  
 only stop on the hard shoulder in emergencies (e.g. flat tire), but must then secure the danger zone in accordance with regulations.  
   
-591. What must you anticipate in this parking area?  
+592. What must you anticipate in this parking area?  
 ✅ Trucks that are incorrectly parked  
 ✅ Vehicles emerging from parking spaces  
 ✅ People on the roadway  
 **Comment**:  Special care must be taken in parking lots. Always expect people to enter the carriageway, for example when they 
 leave their vehicle. Vehicles parked incorrectly or pulling out can also be dangerous here.  
   
-592. What should you anticipate when driving out the exit slip road?![img](https://schueler.click-learn.info/BilderV2/AB_2_1_08_033_1.jpg)  
+593. What should you anticipate when driving out the exit slip road?![img](https://schueler.click-learn.info/BilderV2/AB_2_1_08_033_1.jpg)  
 ✅ A fallen load  
 ✅ People on the carriageway  
 ✅ A broken-down vehicle  
@@ -4401,7 +4394,7 @@ leave their vehicle. Vehicles parked incorrectly or pulling out can also be dang
 the exit bend. I cannot see the exit. I must therefore expect that there may be a broken-down vehicle, a dropped load or people 
 on the road (e.g. in the course of repairing a breakdown). Caution!  
   
-593. You hold a Class B driving licence. What trailer are you allowed to tow?  
+594. You hold a Class B driving licence. What trailer are you allowed to tow?  
 A trailer with a maximum authorised mass  
 ✅ over 750 kg, if the maximum authorised mass of the vehicle combination does not exceed 3,500 kg  
 ❌ of 3,500 kg  
@@ -4411,7 +4404,7 @@ The following combinations with trailers are permitted: - trailers up to 750 kg 
 the GVW of the combination (car and trailer) does not exceed 3500 kg. A trailer with 3500 kg  
 GVW does not leave a single gram for the vehicle. I need a driving license category other than B for this.  
   
-594. Your vehicle is snowed under. What do you have to do before you drive off?  
+595. Your vehicle is snowed under. What do you have to do before you drive off?  
 I have to  
 ✅ remove ice and snow from the windows and mirrors  
 ❌allow the engine to warm up  
@@ -4420,7 +4413,7 @@ I have to
 I have to remove the ice not only from the windows for my own visibility, but also from the lighting equipment: - So that 
 I can see and be seen better.  
   
-595. What must you remember when loading a trailer?  
+596. What must you remember when loading a trailer?  
 The load  
 ✅ must not project more than 1 m beyond the rear reflectors, unless specially marked  
 ✅ must be securely packed  
@@ -4428,7 +4421,7 @@ The load
 **Comment**:  The load must not endanger anyone and must therefore be stowed securely on the loading area. Without 
 additional marking, the load must not protrude more than 1 m beyond the rear reflectors.  
   
-596. What are the advantages of an automatic anti-locking device (ABS)?  
+597. What are the advantages of an automatic anti-locking device (ABS)?  
 ❌ On setting off, wheelspin is prevented  
 ❌ The danger of tipping over is reduced when braking on bends  
 ✅ It is possible to brake heavily and avoid an obstacle at the same time  
@@ -4436,7 +4429,7 @@ additional marking, the load must not protrude more than 1 m beyond the rear ref
 the brake pressure is electronically lowered, increased or maintained at lightning speed. As a result, the vehicle remains  
 steerable even when braking hard. Simultaneous braking and swerving is possible.  
   
-597. Your vehicle is snowed under. What do you have to do before you drive off?  
+598. Your vehicle is snowed under. What do you have to do before you drive off?  
 I have to  
 ✅ remove ice and snow from the mirrors  
 ✅ remove ice and snow from the roof of the vehicle  
@@ -4445,20 +4438,20 @@ I have to
 only have to remove the ice from the windows for my own visibility - but also from the roof if necessary! So that it doesn't slide  
 onto my windshield when I brake or endanger others behind me while I'm driving.  
   
-598. You are in your car towing a trailer which has no brakes and you approach a long steep downhill slope. What is correct?  
+599. You are in your car towing a trailer which has no brakes and you approach a long steep downhill slope. What is correct?  
 ✅ Make allowance for the pushing effect of the trailer  
 ✅ Reduce speed, if necessary, engage low gear in time, be ready to brake  
 ❌ Relieve the car brakes by disengaging the clutch at frequent intervals  
 **Comment**:  On steep downhill gradients, the vehicle always accelerates, especially when an unbraked trailer is pushing. You should therefore reduce speed early on   
 and use the engine brake by shifting into a lower gear in good time. Be ready to brake at all times.  
   
-599. What does a rear-wheel drive car tend to do if you accelerate too much on a bend?  
+600. What does a rear-wheel drive car tend to do if you accelerate too much on a bend?  
 ❌ The front end tends to turn out to the side  
 ❌ The car tends to understeer  
 ✅ The rear end tends to turn out to the side  
 **Comment**:  If you accelerate too much in a bend, a rear-wheel drive car tends to swerve out of the back.  
   
-600. You are driving within a built-up area during darkness. Oncoming drivers are flashing their headlights as a warning to you. What might this mean in this situation?  
+601. You are driving within a built-up area during darkness. Oncoming drivers are flashing their headlights as a warning to you. What might this mean in this situation?  
 ❌I should turn on my main beam lights  
 ✅ My vehicle is dazzling oncoming vehicles  
 ✅ I have forgotten to switch on my dipped headlights  
@@ -4466,12 +4459,12 @@ and use the engine brake by shifting into a lower gear in good time. Be ready to
 vehicle lights: I should possibly check the headlight range setting or switch off the high beam. Or have I forgotten to switch  
 on my low beam? If I switch on the high beam now, I will only dazzle oncoming traffic even more: not a good idea.  
   
-601. What are the advantages of an automatic anti-locking device (ABS)?  
+602. What are the advantages of an automatic anti-locking device (ABS)?  
 ✅ Steering control is retained even when braking heavily  
 Bends can be taken considerably faster  
 ✅ The wheels do not lock when braking  
   
-602. A single-axle trailer has an actual gross weight of 600 kg. What is the minimum possible vertical load?  
+603. A single-axle trailer has an actual gross weight of 600 kg. What is the minimum possible vertical load?  
 ✅ 24 kg (= 4%)  
 ❌ 90 kg (= 15%)  
 ❌ 60 kg (= 10%)  
@@ -4480,7 +4473,7 @@ risk of skidding. The towing vehicle (see operating instructions for permissible
 of the actual mass as drawbar load. If the trailer weighs 600 kg with load, for example, the drawbar load must be at least  
 4% of this, i.e. (600 : 100 x 4) 24 kg.   
   
-603. How can you achieve sufficient visibility through the windscreen?  
+604. How can you achieve sufficient visibility through the windscreen?  
 ✅ Switch on the windscreen wipers from time to time when it is foggy  
 ❌ When the windscreen is steamed up, switch the ventilator off and keep the windows closed  
 ✅ When there is slush, switch on the windscreen wipers already before slush is thrown onto your windscreen by other vehicles  
@@ -4488,14 +4481,14 @@ of the actual mass as drawbar load. If the trailer weighs 600 kg with load, for 
 conditions, slush thrown up can make visibility difficult. Therefore, switch on the windshield wipers in good time. Make sure  
 there is sufficient antifreeze in the windshield washer system.  
   
-604. You want to park your single-axle trailer (overrun brakes, 1000 kg permissible total mass) on a slope. What must you do?  
+605. You want to park your single-axle trailer (overrun brakes, 1000 kg permissible total mass) on a slope. What must you do?  
 ❌ Engage the reverse lock  
 ✅ Pull the parking brake  
 ✅ Place wheel chocks under the wheels  
 **Comment**: To prevent a parked trailer from rolling away on a slope, it must always be secured before uncoupling. To do  
 this, apply the parking brake and place wheel chocks in front of the wheels.  
   
-605. You want to couple a trailer to your car. Where will you find details about the maximum permissible vertical loading of your car?  
+606. You want to couple a trailer to your car. Where will you find details about the maximum permissible vertical loading of your car?  
 In the  
 ✅ operating manual  
 ❌ registration certificate Part II  
@@ -4503,7 +4496,7 @@ In the
 **Comment**:  The permissible drawbar load for trailer operation is specified by the manufacturer of the towing vehicle and 
 can be found in the operating instructions and in the registration certificate, Part I.  
   
-606. You suddenly have to brake when cornering on a wet carriageway. What special aspects exist with a vehicle equipped with an anti-lock braking system (ABS)?  
+607. You suddenly have to brake when cornering on a wet carriageway. What special aspects exist with a vehicle equipped with an anti-lock braking system (ABS)?  
 ❌ The vehicle will always remain stable  
 ✅ The steering capability is retained for longer  
 ❌ It is not possible for the vehicle to skid out of the bend  
@@ -4511,7 +4504,7 @@ can be found in the operating instructions and in the registration certificate, 
 conditions, the steering ability is retained for longer with the anti-lock braking system (ABS). Nevertheless, it is important  
 to reduce speed before cornering, especially in unfavorable weather conditions.  
   
-607. What cars that are driven within designated environmental zones must display a particulate matter sticker?  
+608. What cars that are driven within designated environmental zones must display a particulate matter sticker?  
 Cars with  
 ✅ electric motors  
 ✅ petrol engines  
@@ -4520,13 +4513,13 @@ Cars with
 to drive in these zones. To make it easier to recognize authorized vehicles, entry is only permitted with a valid sticker. 
 The sticker is mandatory for ALL cars - regardless of the respective motorization.  
   
-608. What are the advantages of an anti-slip device (ASR)?  
+609. What are the advantages of an anti-slip device (ASR)?  
 ❌No locking of the wheels when braking  
 ✅ Reduced danger of sliding sideways when setting off on a slippery roadway  
 ✅ No wheelspin when setting off  
 **Comment**:  A traction control system prevents the wheels from spinning when moving off and slipping sideways on slippery roads.  
   
-609. What motor vehicles are permitted to enter an environment zone without a fine-particle badge?  
+610. What motor vehicles are permitted to enter an environment zone without a fine-particle badge?  
 ✅ All agricultural and forestry tractors  
 ✅ All two and three-wheeled motor vehicles  
 ❌ All motor vehicles with a catalytic converter  
@@ -4534,14 +4527,14 @@ The sticker is mandatory for ALL cars - regardless of the respective motorizatio
 armed forces), ambulances, work machines and agricultural and forestry tractors as well as light motor vehicles and two - and  
 three-wheeled vehicles (e.g. motorcycles, trikes).  
   
-610. You want to couple up a trailer with ball coupling. What is correct?  
+611. You want to couple up a trailer with ball coupling. What is correct?  
 ✅ The electrics must be connected  
 ❌ The jack wheel must be set so that it can also run when driving  
 ✅ The claw of the coupling must fit securely around the ball. The locking device must engage  
 **Comment**:  If you are attaching a trailer with a ball coupling, the coupling claw must securely enclose the ball head. The safety catch must be engaged. Ensure that the electrical connection between the towing vehicle 
 and trailer is established so that the trailer's lighting equipment, among other things, functions properly.  
   
-611. You are driving in the wet in a car with trailer on a narrow rural road and are approaching a clearly visible but   
+612. You are driving in the wet in a car with trailer on a narrow rural road and are approaching a clearly visible but   
 tight left-hand bend.
 What should you do?  
 ✅ I remain in the centre of the lane and only accelerate again once I am back on the straight  
@@ -4550,42 +4543,42 @@ What should you do?
 **Comment**:  Reduce speed before tight bends, otherwise the trailer could skid, especially on wet roads. Accelerate again at the earliest at the apex of the bend, at the transition to the straight. The trailer makes a 
 tighter turn: Stay in the middle of the lane so that you do not cut the bend (oncoming traffic!).  
   
-612. You want to tow a brake-equipped trailer. Where can you find details or guidelines on the permissible towable mass of your car?  
+613. You want to tow a brake-equipped trailer. Where can you find details or guidelines on the permissible towable mass of your car?  
 ✅ In the registration certificate Part I of my car  
 ❌ In the insurance certificate  
 ❌ In the registration certificate Part I of my trailer  
 **Comment**:  The permissible trailer loads (unbraked/braked) for a passenger car can be found in the registration certificate Part I and in the operating instructions for the vehicle. The trailer documents only contain 
 information on the trailer.  
   
-613. Where do you have to place the emissions sticker for identifying lowemission vehicles?  
+614. Where do you have to place the emissions sticker for identifying lowemission vehicles?  
 ✅ Clearly visible on the inside of the windscreen  
 ❌ Clearly visible on the inside of the rear window  
 ❌ Clearly visible on the outside of the windscreen  
 **Comment**: The stickers authorizing entry into an environmental zone must be easy to recognize and difficult to remove. They must be clearly visible on the inside of the windshield (labeled with the license plate 
 number). 
   
-614. You want to tow a singe-axle caravan trailer behind your car. What must you check?  
+615. You want to tow a singe-axle caravan trailer behind your car. What must you check?  
 ✅ If additional rear-view mirrors must be mounted because of the width of the trailer  
 ✅ If the permissible trailer load or the permissible coupling of the car are exceeded  
 ❌ If the trailer is licensed to transport passengers  
 **Comment**: If you have a trailer attached, you must check whether road safety is guaranteed. This includes ensuring that the permissible drawbar load of the car is not exceeded and that visibility via the rear-view 
 mirrors is not impaired. If visibility is not sufficient due to the width of a caravan, additional rear-view mirrors must be fitted.  
   
-615. What is the correct response if, when reversing a combination vehicle the view to the rear is impeded?  
+616. What is the correct response if, when reversing a combination vehicle the view to the rear is impeded?  
 ❌ A person directing is only required when driving into a priority road  
 ✅ If the line-of-sight is broken to the person directing, the vehicle must be stopped  
 ❌ A person directing is not needed when on a factory premises  
 **Comment**:  Do not endanger anyone when reversing. Therefore, when reversing, watch the traffic around you - especially to the rear. If the view to the rear  is obstructed, you need a “guide”: If the line of sight 
 between you and the guide is broken, you must always stop!  
   
-616. You are driving a car with a fully loaded trailer equipped with overrun braking. What special aspect should be noted here?  
+617. You are driving a car with a fully loaded trailer equipped with overrun braking. What special aspect should be noted here?  
 ✅ The trailer’s parking brake must be activated before separating the vehicle combination  
 ✅ Longer downhill drives can cause the trailer brakes to overheat  
 ✅ The overrun brake system is ineffective on a vehicle combination in an uphill stationary position  
 **Comment**:  When towing a fully loaded trailer with an overrun brake, I must bear in mind that the trailer brake can overheat due to the heavy load when driving downhill for long periods. I must also bear in mind that 
 the overrun brake cannot work in an uphill vehicle combination. Apart from that, I ALWAYS have to pull the parking brake on the trailer before uncoupling it.  
   
-617. What should you note when driving a car after coupling a trailer caravan to it?  
+618. What should you note when driving a car after coupling a trailer caravan to it?  
 The trailer caravan means that  
 ✅ the acceleration capacity decreases  
 ❌ when taking a left or right turn, the necessary cornering radius is reduced  
@@ -4593,54 +4586,54 @@ The trailer caravan means that
 **Comment**: Compared to a solo vehicle, the distance I need to overtake a car with a caravan is longer due to the greater mass and length of the combination. The acceleration capacity deteriorates accordingly. However, 
 the turning radius, e.g. when turning, does not become smaller, but rather larger.  
   
-618. What should be observed when positioning the head rests in your car?  
+619. What should be observed when positioning the head rests in your car?  
 ✅ The top of the head should be level with the upper edge of the head rest  
 ❌ The upper edge of the head rest should conjoin with the upper neck vertebra  
 ✅ The spacing between the rear of the head and the head rests should be as small as possible  
 **Comment**:  Head restraints prevent serious injuries to the cervical spine (e.g. “whiplash”) in the event of an accident. If there are no head restraints on the rear seats, this increases the risk of injury for 
 passengers. Adjust the head restraint so that the top edge is level with the height of the head at a small distance.  
   
-619. You want to set off in an automatic car (hydraulic converter). What must you know?  
+620. You want to set off in an automatic car (hydraulic converter). What must you know?  
 ❌ The selector lever must only be moved when the engine has stopped  
 ❌ The engine revolutions must be raised considerably so that the engine does not stall  
 ✅ When selecting a gear, the car must, as a rule, be held by the service brakes  
 **Comment**: If you are driving an automatic car, use the selector lever to select the desired gear. When starting off, you usually have to step on the brake to prevent the vehicle from rolling unintentionally.  
   
-620. What must you bear in mind when loading a single-axle trailer?  
+621. What must you bear in mind when loading a single-axle trailer?  
 The permissible  
 ✅ axle load  
 ✅ total mass  
 ✅ load on the coupling  
 **Comment**: When loading a trailer, you must not exceed the permissible drawbar load, axle load and total mass. Otherwise there is a risk of damage to the vehicle and unfavorable handling of the trailer.  
   
-621. What is the effect of an automatic anti-locking device (ABS)?  
+622. What is the effect of an automatic anti-locking device (ABS)?  
 ✅ The vehicle is braked in the best possible way also on wet roadways  
 ❌ Aquaplaning is prevented  
 ✅ Steering control is largely retained when braking  
 **Comment**: The anti-lock braking system ensures that the wheels do not lock when braking. As soon as a wheel tends to lock, the brake pressure is electronically lowered, increased or maintained at lightning speed. This 
 ensures that the vehicle is braked as effectively as possible even on slippery roads and remains largely steerable.  
   
-622. You are in your car towing a fully loaded trailer which has no brakes. What is correct?  
+623. You are in your car towing a fully loaded trailer which has no brakes. What is correct?  
 ✅ Braking distance increases  
 ❌ Stopping distance reduces  
 ❌ Reaction distance increases  
 **Comment**: Expect a longer braking distance if you are driving with a fully loaded trailer without its own brakes. The trailer will drag. Therefore, brake earlier than usual.  
   
-623. Which dangerous defects can have occurred on a trailer with overrun brakes which has been parked for some time?  
+624. Which dangerous defects can have occurred on a trailer with overrun brakes which has been parked for some time?  
 ✅ The brakes may not work because of rust  
 ✅ Cable connections can be defective  
 ❌ Tyre pressure may have increased greatly due to exposure to the sun  
 **Comment**: If a trailer with overrun brakes has been standing for a long time, the brake may be rusted and ineffective. The brake may also be ineffective because the cable connections are damaged. It is therefore 
 essential to test the brakes before driving off.  
   
-624. You want to pull a trailer. When do additional rear-view mirrors have be to attached to your motor vehicle?  
+625. You want to pull a trailer. When do additional rear-view mirrors have be to attached to your motor vehicle?  
 ❌ If you are pulling a caravan or a trailer used in agriculture and forestry  
 ✅ If it is not possible to observe all relevant road traffic situations without additional rear-view mirrors  
 ❌ If the load platform of the trailer exceeds a width of 1.5 m and a height of 1 m  
 **Comment**: Anticipatory driving involves constantly observing the traffic behind you. Therefore, sufficient visibility to the rear must be ensured by the mirrors. Trailers or loads must not obstruct visibility to an
 unacceptable extent. If the normal rear-view mirrors are not sufficient, additional rear-view mirrors must be fitted.  
   
-625. You are driving a motor vehicle fitted with anti-lock braking system (ABS). How do you achieve the shortest possible   
+626. You are driving a motor vehicle fitted with anti-lock braking system (ABS). How do you achieve the shortest possible   
 braking distance?
 I apply the brakes  
 ❌ multiple times at quick intervals and with maximum force  
@@ -4649,7 +4642,7 @@ I apply the brakes
 **Comment**: To avoid wasting any braking distance in emergency situations, I step on the brake pedal abruptly and with maximum force. In this way, I always achieve the shortest possible braking distance. ABS (ABV) 
 prevents the wheels from locking.  
   
-626. You want to hitch a trailer with a maximum authorised mass over 750 kg to your car. What must you ensure in this situation?  
+627. You want to hitch a trailer with a maximum authorised mass over 750 kg to your car. What must you ensure in this situation?  
 ✅ The breakaway cable is properly fitted  
 ✅ That the handle of the ball coupling must be visually and mechanically checked  
 ✅ Following coupling, that the proper functioning of the trailer’s lighting system is checked  
@@ -4659,13 +4652,13 @@ prevents the wheels from locking.
 (3.) the lighting equipment is working (check after coupling).   
 This applies to all trailers, including trailers with a gross vehicle weight rating of over 750 kg.  
   
-627. When does the braking action of a trailer with overrun brakes start?  
+628. When does the braking action of a trailer with overrun brakes start?  
 ❌ When the brake pedal in the truck is activated  
 ❌ Before the braking action of the truck starts, so that the truck and trailer remain extended  
 ✅ When the trailer runs up to the truck  
 **Comment**:  If a towing vehicle brakes with an overrun-braked trailer, the trailer is not initially braked and runs onto the towing vehicle. This sets a mechanism in motion that brakes the trailer.  
   
-628. You are in your car towing a trailer on a road with oncoming traffic and want to turn left. What must you particularly
+629. You are in your car towing a trailer on a road with oncoming traffic and want to turn left. What must you particularly
 remember when you set off again?  
 ❌ Warn oncoming traffic by flashing your lights  
 ✅ Consider the reduced acceleration capacity  
@@ -4673,7 +4666,7 @@ remember when you set off again?
 **Comment**:  If you are carrying a trailer, you have a lower acceleration capacity due to the higher mass. Take the length of the train into account when turning left: oncoming traffic could be there before you have 
 completed your turn.  
   
-629. You are driving with a trailer on a road with potholes. Your combination vehicle begins to swing up. What must you do now?  
+630. You are driving with a trailer on a road with potholes. Your combination vehicle begins to swing up. What must you do now?  
 I have to  
 ❌ accelerate to keep the combination vehicle in a straight line  
 ❌ counter-steer quickly to prevent skidding  
@@ -4681,34 +4674,34 @@ I have to
 **Comment**: On a road with potholes, a trailer can easily “rock”, i.e. bounce or lurch. The traction between the trailer tires and the road is lost and there is a risk of skidding. The only way to prevent this is to 
 reduce speed. Accelerating or hasty steering movements actually increase the danger.  
   
-630. How do you drive down a descending gradient safely?  
+631. How do you drive down a descending gradient safely?  
 I take my foot off the accelerator completely and  
 ❌ drive in neutral  
 ✅ select a gear in which I am not required to brake a great deal  
 ❌ switch the ignition off  
 **Comment**: To prevent the brakes from overheating, I let the engine brake and shift to a lower gear before the downhill section. In automatic mode, I engage a lower gear.  
   
-631. What changes when a caravan trailer is towed?  
+632. What changes when a caravan trailer is towed?  
 ✅ The distance for overtaking increases considerably  
 ❌ The braking distance is reduced considerably  
 ✅ Hasty movements of the steering wheel increase the danger of skidding  
 **Comment**: When driving with a caravan, the acceleration capacity of your vehicle is reduced by the additional mass. Expect considerably longer overtaking distances and take the length of your vehicle combination into 
 account when rejoining. Avoid hasty steering movements - they increase the risk of skidding.  
   
-632. What number of trailers may be towed behind a car?  
+633. What number of trailers may be towed behind a car?  
 Answer:  
 1 trailer(s)  
 **Comment**: Only one trailer may ever be carried behind a car; this applies to category B (also with key number B196) and BE. The different driving licenses only allow different maximum permissible masses of the 
 combination.  
   
-633. What motor vehicles engaged in the commercial or paid transport of goods, are prohibited from driving on Sundays and public holidays?  
+634. What motor vehicles engaged in the commercial or paid transport of goods, are prohibited from driving on Sundays and public holidays?  
 ✅ Trucks towing a trailer  
 ✅ Trucks with a gross vehicle weight rating in excess of 7.5 t  
 ❌ Cars towing a trailer  
 **Comment**:  On Sundays and public holidays, a driving ban applies from midnight to 10 p.m. for trucks over 7.5 t gross vehicle weight and trucks with trailers transporting goods for commercial or paid purposes. 
 Exceptions (e.g. for combined goods transport) are regulated by Section 30 of the Road Traffic Regulations (StVO). The ban does not apply to cars, not even with trailers. 
   
-634. What is the effect of the cornering characteristics of a combination vehicle (car towing a caravan) when taking a turn?  
+635. What is the effect of the cornering characteristics of a combination vehicle (car towing a caravan) when taking a turn?  
 The caravan  
 ✅ can jut out  
 ❌ generally follows the track of the car  
@@ -4716,42 +4709,42 @@ The caravan
 **Comment**:  When I am on the road with a vehicle combination, I must pay particular attention to the behavior of the trailer on bends: It can swing out to the right over the edge of the road or cut the bend (left-hand 
 bend) or swing out over the middle of the road (right-hand bend).  
   
-635. What must you do when you see this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_40_003.jpg)  
+636. What must you do when you see this traffic sign? ![img](https://schueler.click-learn.info/BilderV2/VZ_2_4_40_003.jpg)  
 ✅ Reduce speed before the bend  
 ✅ Drive as far as possible over on the right-hand side  
 **Comment**: There is a sharp left-hand bend. Centrifugal force is at work when cornering. It tries to pull the vehicle to the outside of the bend, i.e. to the outside right in a left-hand bend. The faster you drive, the 
 greater the centrifugal force. You must therefore reduce speed before the bend. Also, drive as far to the right as possible: this allows you to make the best use of the curve radius and not get too close to oncoming 
 traffic.  
   
-636. Why should you not apply the clutch when driving on a long, steep downhill slope?  
+637. Why should you not apply the clutch when driving on a long, steep downhill slope?  
 ✅ Because this causes unnecessary wear of the brakes  
 ❌ Because in this case the brake servo unit will no longer function  
 ✅ Because the braking action of the engine will have no effect  
 **Comment**: If you roll down a slope with the clutch depressed, the power flow is interrupted and the engine braking effect cannot take effect. The vehicle would roll downhill faster and faster and you would have to 
 constantly step on the brakes. This is dangerous: the brakes become hot, their effectiveness decreases and wear increases. Let the engine help you brake by shifting to a lower gear before the downhill section.  
   
-637. How can you achieve sufficient visibility through the windscreen?  
+638. How can you achieve sufficient visibility through the windscreen?  
 ✅ Switch on the windscreen wipers from time to time when it is foggy  
 ✅ When there is slush, switch on the windscreen wipers already before slush is thrown onto your windscreen by other vehicles  
 ❌ When the windscreen is steamed up, switch the ventilator off and keep the windows closed  
 **Comment**: Water settles on the windshield in fog. Therefore, switch on the windshield wiper from time to time. In slushy conditions, slush thrown up can make visibility difficult. Therefore, switch on the windshield 
 wipers in good time. Make sure there is sufficient antifreeze in the windshield washer system.  
   
-638. What can result if you accelerate too hard when driving a front-wheel drive car through a road bend?  
+639. What can result if you accelerate too hard when driving a front-wheel drive car through a road bend?  
 ✅ The front of the car can swerve  
 ❌ The rear of the car can swerve  
 ✅ Steerability can be reduced  
 **Comment**: If you drive too fast, you lose control of your vehicle. If I accelerate too much in a bend, a front-wheel drive car tends to break out at the front. This also restricts steering. A rear-wheel drive vehicle is 
 more likely to skid over the rear axle. 
   
-639. What must you do after coupling up a single-axle trailer with overrun brakes?  
+640. What must you do after coupling up a single-axle trailer with overrun brakes?  
 ✅ Raise the jack wheel, if fitted, to the highest setting  
 ✅ Attach the brakeaway cable to the coupling of the motor vehicle  
 ✅ Check that the brakes are working  
 **Comment**: After coupling a trailer with an overrun brake, it is essential to check the function of the brake. In addition, an existing jockey wheel must be moved to the top position and the breakaway cable attached to 
 the trailer coupling of the motor vehicle.  
   
-640. Where are you particularly at risk during an overtaking manoeuvre here?  
+641. Where are you particularly at risk during an overtaking manoeuvre here?  
 ![img](https://schueler.click-learn.info/BilderV2/AB_2_1_03_038.jpg)  
 ✅ When driving out of the truck’s wind-sheltered area  
 ❌ When changing lane after overtaking  
@@ -4761,19 +4754,19 @@ the trailer coupling of the motor vehicle.
   **2**. when pulling out, the wind pushes my vehicle significantly to the left again and I have to counter-steer.  
   When changing lanes after overtaking, however, the crosswind is constant and not a particular hazard.  
   
-641. You want to turn left. What driving line should you maintain?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_09_019.jpg)  
+642. You want to turn left. What driving line should you maintain?![img](https://schueler.click-learn.info/BilderV2/AB_1_2_09_019.jpg)  
 ❌ The left driving line  
 ❌ Both driving lines are possible  
 ✅ The right driving line  
 **Comment**:  This is a “normal” road without one-way traffic, i.e. traffic is permitted in both directions. I must keep to the right-hand lane so as not to endanger oncoming traffic: I keep to the right-hand lane here!  
   
-642. You are driving on a road that has several marked lanes going in one direction. When should the alternate merging procedure be employed?  
+643. You are driving on a road that has several marked lanes going in one direction. When should the alternate merging procedure be employed?  
 ❌ When a merging lane ends on the motorway  
 ✅ When a lane comes to an end  
 ✅ If one lane is not continuously free to traffic due to an obstacle  
 **Comment**: If a lane ends or is closed (e.g. due to roadworks or an obstacle), the “merge and let merge” method is used.  The zipper procedure begins as close as possible to the bottleneck. 
   
-643. What must you anticipate with inclines on motorways?  
+644. What must you anticipate with inclines on motorways?  
 ✅ Sudden overtaking manoeuvres by other road users  
 ✅ Slow-moving trucks on the right-hand lane  
 ✅ Large differences in speed between vehicles  
