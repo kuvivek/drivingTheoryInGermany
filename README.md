@@ -122,13 +122,15 @@ all others as far to the right as possible in their lanes.
 ✅ I might not respond to hazards in good enough time  
 ✅ Cross winds can negatively affect my stability on the road  
   
-19. What does this traffic sign mean? ![Image5](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_142.jpg"  width="50%"/>  
+19. What does this traffic sign mean?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_142.jpg"  width="50%"/>  
 ❌ You are only allowed to drive at walking speed  
 ❌ You must indicate when entering the roundabout  
 ✅ Stopping on the roundabout is forbidden  
 **Comment**:  In a traffic circle marked in this way, the vehicles in the circle have right of way. It is not permitted to stop in a traffic circle.  
   
-20. What vehicles may enter a cycle highway that has this sign? ![Image6](https://schueler.click-learn.info/BilderV2/VZ_1_4_41_018.jpg"  width="50%"/>  
+20. What vehicles may enter a cycle highway that has this sign?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_018.jpg"  width="50%"/>  
 ❌ All mopeds with a maximum design speed less than 25 km/h  
 ✅ All vehicles driven by residents  
 ❌ All cars, provided they travel at walking speed  
