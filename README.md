@@ -165,6 +165,7 @@ shoulder. Secure the danger zone by switching on the hazard warning lights and s
 
 26. As a resident, you want to drive into a cycle highway that has this sign. What must you be aware of when doing so?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_168.jpg"  width="50%"/>  
+
 ✅ Cycles may travel alongside one another  
 ✅ Cycle traffic may not be impeded  
 ✅ Vehicles may not be driven faster than 30 km/h  
@@ -294,6 +295,7 @@ therefore adapt my speed to the visibility conditions and drive particularly car
   
 42. What does this traffic sign indicate?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_42_006.jpg"  width="50%"/>  
+
 ❌ Federal road (Bundesstrasse) 22  
 ✅ A diversion for autobahn traffic when required  
 ❌ An underground station  
@@ -535,6 +537,7 @@ paths are not considered roads and are therefore not taken into account when the
   
 80. What is correct?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_2_36_004.jpg"  width="50%"/>  
+
 ✅ I must get ready to proceed  
 ✅ The yellow car must leave the crossroads  
 ❌ I can turn now  
@@ -543,11 +546,14 @@ intersection for the next signal. The yellow car must clear the junction and you
   
 81. What is correct?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_2_36_005.jpg"  width="50%"/>  
+
 ✅ Wait at the crossroads  
 ❌ Turn without stopping  
 **Comment**: If you see a police officer with his arms outstretched to the side in front or behind you at the junction, you must wait in front of the junction.  
   
-82. What applies here?![Image19](https://schueler.click-learn.info/BilderV2/AB_1_2_36_101.jpg"  width="50%"/>  
+82. What applies here?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_36_101.jpg"  width="50%"/>  
+
 ❌ Turning off is prohibited  
 ❌ You must wait for further signals from the police officer before the crossroads may be entered  
 ✅ The crossroads may be crossed  
@@ -572,6 +578,7 @@ expecting others to make mistakes.
   
 86. Who has priority here?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_2_36_015.jpg"  width="50%"/>  
+
 ✅ The red car  
 ❌ Me  
 ❌ The motorbike  
@@ -580,6 +587,7 @@ lights. In this case, he gives cross traffic the go-ahead, I have to wait. The c
   
 87. What is the right thing to do?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_060.jpg"  width="50%"/>  
+
 ✅ The yellow car has to wait  
 ✅ I have to indicate  
 ❌ I have to wait  
@@ -592,6 +600,7 @@ right and left must wait. As a left-turner, however, I must first allow the onco
   
 89. What do you do when you see this traffic sign?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_001.jpg"  width="50%"/>  
+
 ❌ Observe the traffic coming from the right only  
 ✅ Be ready to brake  
 ✅ Reduce speed  
@@ -600,6 +609,7 @@ can give way if necessary.
   
 90. Are you allowed to park here?
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_110.jpg"  width="50%"/>  
+
 ✅ Yes, as a person accompanying blind persons with an official parking permit
 ❌ Yes, briefly for shopping
 ✅ Yes, as a seriously disabled person with an official parking permit
