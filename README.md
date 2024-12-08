@@ -5390,3 +5390,11 @@ possible (truck in the rear-view mirror!).
 ✅ I continue driving as before  
 **Comment**: These devices for marking work and accident sites prohibit driving on the marked road surface and guide you past it. The best way to behave is to drive past such places quickly so as not to hinder rescue
 operations or other work.  
+
+729. What should you anticipate in this situation?  - Video Question  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_1_07_014_1_ende.jpg)  
+❌ The white truck performs a turn  
+❌ The tractor moves onto the road  
+✅ The driver of the blue vehicle fails to see me  
+**Comment**: The motto here is: Watch out! Large vehicles make oncoming traffic difficult to see. Another vehicle appears behind the person turning off and may drive past me into my lane. Did the driver see me? TIP: Watch
+the movie several times, observe the traffic situation. What is happening in oncoming traffic?  
