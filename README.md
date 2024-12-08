@@ -5366,6 +5366,7 @@ traffic signs). Therefore: Approach carefully, get an overview and behave accord
 
 723. Why are you not permitted to now overtake the bus driving ahead of you?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_2_05_019_ende.jpg"  width="50%"/>  
+
 ❌ Because of the lack of road markings  
 ✅ Because the hazard lights of the bus are switched on  
 ✅ Because of the motorbike  
@@ -5375,6 +5376,7 @@ again and pay attention to the rear-view mirrors!
 
 724. Why should you not overtake the moped rider in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_107_1_ende.jpg"  width="50%"/>  
+
 ✅ Because this might cause the moped rider to fall  
 ✅ Because I am not allowed to drive significantly faster than the moped rider  
 ✅ Because I am unable to maintain the requisite amount of side clearance  
@@ -5384,6 +5386,7 @@ past the hint!
 
 725. Why are you not allowed to take the turn now?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_1_2_09_135_1_ende.jpg"  width="50%"/>  
+
 Because of the  
 ✅ light blue car  
 ❌ yellow car  
@@ -5393,6 +5396,7 @@ driving straight ahead. So I have to wait and let the oncoming traffic pass. The
 
 726. What is the right course of action here?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_104_1_ende.jpg"  width="50%"/>   
+
 ❌ I sound my horn to prompt the cyclists to ride one behind the other  
 ✅ I do not overtake the cyclists for now  
 ❌ I overtake the cyclists  
@@ -5401,6 +5405,7 @@ That's why I don't overtake for the time being. I am only allowed to honk my hor
 
 727. What should you do now?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_020_ende.jpg"  width="50%"/>   
+
 ✅ I continue driving as far to the right as possible  
 ❌ I move into the left-hand lane  
 ✅ I brake  
@@ -5416,6 +5421,7 @@ operations or other work.
 
 729. What should you anticipate in this situation?  - Video Question  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_014_1_ende.jpg"  width="50%"/>  
+
 ❌ The white truck performs a turn  
 ❌ The tractor moves onto the road  
 ✅ The driver of the blue vehicle fails to see me  
@@ -5424,6 +5430,7 @@ the movie several times, observe the traffic situation. What is happening in onc
 
 730. What should you do now?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_018_1_ende.jpg"  width="50%"/>  
+
 ❌ I accelerate  
 ✅ I drive as far to the right-side as possible  
 ✅ I slow down  
@@ -5431,6 +5438,7 @@ the movie several times, observe the traffic situation. What is happening in onc
 
 731. What must you do?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_08_011_ende.jpg"  width="50%"/>  
+
 ✅ Slow down and stay in lane  
 ❌ Move to the left-hand lane  
 ❌ Maintain speed and stay in lane  
@@ -5440,6 +5448,7 @@ to slow down and stay in my lane. TIP: Watch the movie again and pay attention t
 732. Why do you have to switch to the right-hand lane?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_103_ende.jpg"  width="50%"/>  
 Because of the  
+
 ✅ red car  
 ❌ yellow tractor  
 ❌ blue car  
@@ -5448,6 +5457,7 @@ encounter in my lane! TIP: Watch the movie several times. What happens in oncomi
 
 733. For what should your prepare yourself in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_1_1_07_157_1_ende.jpg"  width="50%"/>  
+
 ✅ People will cross the road at the rear of the bus  
 ✅ As it begins moving, the bus will swing out onto my side of the road  
 ❌ The quad suddenly starts to move  
