@@ -608,7 +608,7 @@ right and left must wait. As a left-turner, however, I must first allow the onco
 **Comment**: The Cross sign in a Red Triangle indicates a junction or intersection with right of way from the right. For you, this means: reduce speed, drive with increased attention and remain ready to brake so that you 
 can give way if necessary.
   
-90. Are you allowed to park here?
+90. Are you allowed to park here?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_110.jpg"  width="50%"/>  
 
 ✅ Yes, as a person accompanying blind persons with an official parking permit
