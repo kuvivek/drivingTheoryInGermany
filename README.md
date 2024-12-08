@@ -5382,4 +5382,11 @@ That's why I don't overtake for the time being. I am only allowed to honk my hor
 ❌ I move into the left-hand lane  
 ✅ I brake  
 **Comment**: Cars on the highway with hazard lights flashing - but no traffic jam in sight. Those in front of me swerve to the right. Now I see the reason: a wrong-way driver! I brake and drive as far to the right as
-possible (truck in the rear-view mirror!).
+possible (truck in the rear-view mirror!).  
+
+728. What is the right course of action in this situation?  
+❌ I take a photograph of the scene of the accident  
+❌ I brake hard immediately  
+✅ I continue driving as before  
+**Comment**: These devices for marking work and accident sites prohibit driving on the marked road surface and guide you past it. The best way to behave is to drive past such places quickly so as not to hinder rescue
+operations or other work.  
