@@ -80,7 +80,8 @@ therefore only drive fast enough to stop within half your visibility.
 
 14. What do you have to be aware of when you see this traffic sign combination?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_135.jpg"  width="50%"/>  
-❌ A rail crossing at a distance of 120 m  
+
+❌ A rail crossing at a distance of 120 m   
 ✅ A rail crossing at a distance of 240 m  
 ✅ No overtaking of vehicles permitted  
 **Comment**: The “level crossing” danger sign in combination with the 3-lane beacon indicates a level crossing about 240 m away (2-lane = 160 m, 1-lane = 80 m). Overtaking is also prohibited up to the level crossing!  
