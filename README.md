@@ -213,6 +213,7 @@ Because the traffic information
 32. What must you do when a traffic jam forms on this road?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_2_18_015_1.jpg"  width="50%"/>  
 Remaining within my lane, I  
+
 ❌ drive as far to the right as possible  
 ❌ continuing driving in the centre  
 ✅ drive as far to the left as possible  
