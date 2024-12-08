@@ -135,6 +135,7 @@ all others as far to the right as possible in their lanes.
   
 22. What vehicles may enter a cycle highway that has this sign?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_018.jpg"  width="50%"/>  
+
 ❌ All mopeds with a maximum design speed less than 25 km/h  
 ✅ All vehicles driven by residents  
 ❌ All cars, provided they travel at walking speed  
