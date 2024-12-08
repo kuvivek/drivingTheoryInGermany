@@ -5422,3 +5422,11 @@ Because of the
 ❌ blue car  
 **Comment**: After overtaking, I must always drive on the right (right-hand drive rule). But this is not only urgent because of the nearby lane narrowing: the reason is the overtaking vehicle in oncoming traffic that I
 encounter in my lane! TIP: Watch the movie several times. What happens in oncoming traffic?
+
+733. For what should your prepare yourself in this situation?  
+![img](https://schueler.click-learn.info/BilderV2/BS_1_1_07_157_1_ende.jpg)  
+✅ People will cross the road at the rear of the bus  
+✅ As it begins moving, the bus will swing out onto my side of the road  
+❌ The quad suddenly starts to move  
+**Comment**: The flashing light on the bus indicates that it is just leaving a stop. Approaching buses in oncoming traffic can briefly enter my lane. The quad bike in the parking lane has nothing to do with the situation.
+
