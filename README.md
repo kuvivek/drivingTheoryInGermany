@@ -2707,6 +2707,7 @@ the windshield wiper blades may be worn. However, there may also be a film of oi
   
 371. While driving, you use the adaptive cruise control (ACC). The speed is set to 100 km/h. What must you be prepared for  
 before entering a bend in the road? ----IMP  
+![img](https://schueler.click-learn.info/BilderV2/BS_2_7_06_118_ende.jpg)   
 ❌ The ACC will prompt me to reduce my speed  
 ✅ I have to adjust my speed to the situation  
 ✅ The ACC may cause my vehicle to accelerate  
