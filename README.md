@@ -7,7 +7,7 @@ What must you remember?
 **Comment**:  Approach level crossings at moderate speed only. Keep a close eye on what is happening. The additional sign “Industrial area, rail vehicles have priority” means that rail vehicles have priority at all level 
 crossings within this industrial area.
 
-2. You want to leave the motorway at the next exit. What is the correct course of action in this situation?
+2. You want to leave the motorway at the next exit. What is the correct course of action in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_2_18_022_ende.jpg"  width="50%"/>  
 ✅ I turn on my right-side indicators now  
 ✅ I observe the traffic behind me  
@@ -15,7 +15,7 @@ crossings within this industrial area.
 **Comment**: If I want to leave the highway, the 300 m beacon is a good orientation for setting the blinker here. The best way to avoid unpleasant surprises is to keep an eye on the vehicles behind me (mirrors, shoulder) 
 before leaving the highway. I may only slow down to pull out on the merging lane, i.e. when I have already left the highway. Braking on the highway is only necessary in traffic jams or at speed limits.  
 
-3. What is true about using the hard shoulder in this situation?
+3. What is true about using the hard shoulder in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_2_07_012.jpg"  width="50%"/>  
 The hard shoulder  
 ❌ may only be used by trucks  
@@ -202,7 +202,7 @@ Because the traffic information
 ❌ is a prescribed requirement for travelling on the motorway  
 **Comment**:  Something can always happen on the highway. I make sure I'm informed in good time about accidents, traffic jams, wrong-way drivers or obstructions by switching on the traffic radio.  
   
-30. What must you do when a traffic jam forms on this road?   
+30. What must you do when a traffic jam forms on this road?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_2_18_015_1.jpg"  width="50%"/>  
 Remaining within my lane, I  
 ❌ drive as far to the right as possible  
@@ -229,7 +229,7 @@ The hard shoulder
 **Comment**:  There are two traffic signs that prohibit the use of the hard shoulder as a traffic lane: The blue sign with the red line means “no longer use the hard shoulder” and the red crossed oblique bars above the 
 roadway (keyword “permanent light sign”) completely block the lane below. This removes or ends the previously permitted use of the hard shoulder as a lane.  
   
-33. What should you do if you see a vehicle with its hazard lights on?  
+33. What should you do if you see a vehicle with its hazard lights on?   
 ✅ I reduce my speed  
 ✅ I ready myself for hazards occurring suddenly  
 ❌ I continue driving just as before  
@@ -247,7 +247,7 @@ The speed limit for cars outside built-up areas on roads with one lane in each d
 **Comment**: If a wrong-way driver approaches me on the highway exit, I can try to warn him with the horn (sound) or flashing lights. For my own safety, I drive on the far right. If the other driver does not react, I 
 report the wrong-way driver to the police.  
   
-36.  What does this traffic sign mean?  
+36. What does this traffic sign mean?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_2_19_109.jpg"  width="50%"/>  
 ✅ Indication of existing overhead electrical wires  
 ✅ You must always wait when a rail vehicle is approaching  
@@ -263,7 +263,7 @@ Because this
 **Comment**:  The speed limit on German highways is based on experience in other countries. If as many people as possible observe the speed limit, the risk of accidents, or at least the risk of serious accidents, will be 
 reduced. In addition, an even flow of traffic could be achieved. However, this is a recommendation, not a prescribed maximum speed (speed limit).  
   
-38.  What do you have to be aware of in this situation?  
+38. What do you have to be aware of in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_1_04_005.jpg"  width="50%"/>  
 Due to the constant changing of light and shadow  
 ❌ I am more easily able to judge distances  
