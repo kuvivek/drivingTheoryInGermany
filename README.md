@@ -611,9 +611,9 @@ can give way if necessary.
 90. Are you allowed to park here?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_110.jpg"  width="50%"/>  
 
-✅ Yes, as a person accompanying blind persons with an official parking permit
-❌ Yes, briefly for shopping
-✅ Yes, as a seriously disabled person with an official parking permit
+✅ Yes, as a person accompanying blind persons with an official parking permit  
+❌ Yes, briefly for shopping  
+✅ Yes, as a seriously disabled person with an official parking permit  
 **Comment**: P with disabled person means - The additional sign “Severely disabled persons with exceptional walking disabilities and blind persons” permits parking only with an official parking permit, e.g. for severely 
 disabled persons and persons accompanying blind persons.  
   
