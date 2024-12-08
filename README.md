@@ -670,7 +670,8 @@ the use of marked parking spaces.
 104. At junctions without priority traffic signs or traffic lights, the vehicle coming from the right has right of way.  
 Here I have to let the vehicle coming from the right go first. Then I drive. Oncoming traffic turning left must wait until everything is clear.  
   
-105. What is true of permanently illuminated signs?<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_37_007.jpg"  width="50%"/>  
+105. What is true of permanently illuminated signs?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_37_007.jpg"  width="50%"/>  
 ❌ Permanently illuminated signs apply to multi-track motor vehicles only  
 ✅ Vehicles may not stop at the side of carriageways with permanently illuminated signs  
 ✅ Permanently illuminated signs either block lanes or open them up to traffic  
