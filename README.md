@@ -2280,6 +2280,7 @@ underestimate the speed of oncoming traffic. Always stop overtaking in case of d
 coming towards you from the front or wanting to continue straight ahead next to you through. This applies to the road and the cycle path and footpath next to you.  
   
 317. Why must you discontinue your overtaking manoeuvre here?  
+
 ❌ Because the motorbike will overtake me  
 ✅ Because the tractor will turn off to the left  
 ❌ Because I can see a no-overtaking sign  
@@ -2288,7 +2289,7 @@ that it wants to turn left. The motorcyclist in the rear-view mirror has obvious
 that I am not allowed to overtake someone turning left in front of me.  
   
 318. What is the right course of action now?  
-<video src="https://degener-video.ghostthinker.net/BS_2_1_07_028.mp4"></video>  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_028_ende.jpg" width="50%"/>  
 
 ❌ I overtake the car ahead leaving a large side clearance  
 ✅ I increase my distance to the car ahead  
@@ -2304,6 +2305,7 @@ I would only put myself in unnecessary danger. I stay behind and can help or cal
   
 320. To whom must you pay particularly close attention in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_2_05_013_ende.jpg" width="50%"/>  
+
 To the  
 ❌ white truck  
 ❌ red car  
