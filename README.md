@@ -2400,11 +2400,11 @@ so I have a reserve. I drive at the permitted speed so that I don't obstruct cyc
 particular case, however, cyclists are permitted to ride in oncoming traffic (traffic sign in the picture above right). The additional sign below the “One-way street” traffic sign shows a bicycle above two opposing arrows 
 and means: “Cycling is permitted in the opposite direction”. I must therefore follow the center line of traffic and leave space for bicycle traffic.  
 
-331. You want to park on the right-hand edge of the road. What should you do in this situation?
+331. You want to park on the right-hand edge of the road. What should you do in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_2_12_107_1_ende.jpg"  width="%50"/>  
 
-✅ I forego the parking space, even though I have priority
-❌ I park now, because I have priority
+✅ I forego the parking space, even though I have priority  
+❌ I park now, because I have priority  
 **Comment**: Driving defensively means driving to avert danger, e.g. not insisting on your own right. Even if I am the first to reach the parking lot and actually have the right to park there, I let the person in front of 
 me have his way.
   
