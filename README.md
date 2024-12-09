@@ -2401,7 +2401,7 @@ particular case, however, cyclists are permitted to ride in oncoming traffic (tr
 and means: “Cycling is permitted in the opposite direction”. I must therefore follow the center line of traffic and leave space for bicycle traffic.  
 
 331. You want to park on the right-hand edge of the road. What should you do in this situation?
-<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_12_107_1_ende.jpg" width="%50"/>  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_12_107_1_ende.jpg"  width="%50"/>  
 
 ✅ I forego the parking space, even though I have priority
 ❌ I park now, because I have priority
