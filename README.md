@@ -5603,3 +5603,12 @@ I drive on past the pedestrian
 **Comment**: When overtaking pedestrians or bicycles outside built-up areas, a minimum lateral distance of 2 m is prescribed.I can hardly keep that distance here.What's more, I can't see the road ahead.So I don't overtake 
 for the time being.Instead, I anticipate oncoming traffic and ride as far to the right as possible.  
 
+736. What must you anticipate here?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_08_032_ende.jpg"  width="50%"/>  
+
+❌ The blue car pulls into my lane in front of me  
+✅ The motorbike drives between the lines of vehicles  
+✅ The driver of the yellow truck does not notice the start of the tailback in time  
+**Comment**: When approaching the end of a traffic jam, I have to switch on the hazard warning lights immediately to warn those behind. I have to be prepared for motorcyclists trying to weave their way between others. In 
+addition, the vehicle behind me could notice the traffic jam too late ... (keep an eye on the rear-view mirror!). The vehicle that can be seen in the left wing mirror brakes significantly and will no longer cut in front of 
+me. TIP: Watch the movie again and pay attention to the movement in the rear-view mirrors!  
