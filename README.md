@@ -314,7 +314,6 @@ later point.
 **Comment**: This is a “normal” road without one-way traffic, i.e. traffic is permitted in both directions. I must keep to the right-hand lane to avoid endangering oncoming traffic: I keep to the right-hand lane here!  
   
 44. What emotions can influence driving behaviour?  
-
 ✅ Happiness and exuberance  
 ✅ Anger and rage  
 ✅ Worry and sorrow  
@@ -929,18 +928,23 @@ escort vehicle signals that overtaking is possible.
   
 132. What must you observe when parking here?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_111.jpg"  width="50%"/>  
+
 ✅ The parking time indicated on the parking ticket may not be exceeded  
 ✅ The parking ticket must be put in a place so it can be easily read when controlled  
 ❌ Parking ticket and parking disc rank equal  
   
-133. What must you do when you see this traffic sign? <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_007.jpg"  width="50%"/>  
+133. What must you do when you see this traffic sign? 
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_007.jpg"  width="50%"/>  
+
 ✅ You must pass on the right of traffic islands  
 ❌ You may not turn left in front of this sign  
 ❌ You are obliged to turn right  
 **Comment**:  This sign specifies the side on which you must drive past traffic islands, obstacles, roadworks, etc. You must 
 pass on the right. Here you must drive past on the right.  
   
-134. What must you reckon with when you see this traffic sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_116.jpg"  width="50%"/>  
+134. What must you reckon with when you see this traffic sign?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_116.jpg"  width="50%"/>  
+
 ✅ Men at work on the roadway  
 ✅ Traffic from road construction vehicles  
 ✅ Construction materials on the roadway  
@@ -949,26 +953,32 @@ workers may be on the road or construction materials may be lying on the road. D
   
 135. What do you do within this danger section? (Red Traingular border with running dear.)  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_40_004.jpg"  width="50%"/>  
+
 ✅ Do not avoid hitting wild animals if oncoming traffic would be endangered  
 ✅ Dip the headlights and brake when you see wild animals  
 ✅ Drive more slowly, watch out for wild animals  
   
 136. What does this traffic sign indicate? (Up arrow and below U3 in a Yellow board)  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_135.jpg"  width="50%"/>  
+
 ✅ A numbered diversion  
 ❌ A numbered underground car park  
 ❌ Tram line no. 3  
 **Comment**:  The sign(Das Zeichen) indicates the start of a detour(diversion) route. Where it is necessary to distinguish  
 between several detour routes, it may be numbered (numbered detour route).  
   
-137. Which vehicles are not allowed to use a road sign-posted like this?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_118.jpg"  width="50%"/>  
+137. Which vehicles are not allowed to use a road sign-posted like this?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_118.jpg"  width="50%"/>  
+
 ❌ Motorcycles  
 ✅ Cars  
 ✅ Trucks  
 **Comment**:  The sign prohibits motor vehicles and other multi-lane motor vehicles from driving on the road.  
 This includes cars and trucks, for example. Two-wheelers and non-motorized vehicles may use the road.  
   
-138. What must you be aware of when you see this road traffic sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_153.jpg"  width="50%"/>  
+138. What must you be aware of when you see this road traffic sign?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_153.jpg"  width="50%"/>  
+
 ✅ Avoid stopping and parking  
 ✅ Stones may be lying on the roadway  
 ✅ Vehicles in front may brake suddenly  
@@ -978,6 +988,7 @@ rocks(durch Steinschlag - through falling rocks). Here I drive attentively, watc
   
 139. What do you do when you see this traffic sign?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_004.jpg"  width="50%"/>   
+
 ✅ When there are two lanes in one direction, employ the zipper feed-in method  
 ✅ Give precedence to oncoming traffic  
 ❌ Where there are two lanes in one direction and you are driving on the left lane, you take absolute precedence  
@@ -986,6 +997,7 @@ If it is located on a road with two lanes for one direction, the zipper method i
   
 140. You are driving a motor vehicle with a manual gearbox. What must you consider when you see this road sign?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_156.jpg"  width="50%"/>  
+
 ✅ The braking distance is longer  
 ❌ The braking response will be better if no gear is engaged  
 ✅ Applying the brakes for a longer time will diminish the braking response  
@@ -996,6 +1008,7 @@ before the downhill section
   
 141. What applies with this traffic sign?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_162.jpg"  width="50%"/>  
+
 ✅ I may only continue driving by taking a right turn  
 ✅ I have to signal a right-turn  
 ❌ I may also continue driving by taking a left turn  
@@ -1003,7 +1016,9 @@ before the downhill section
 turn right before the traffic sign. When doing so, I must indicate the change of direction by flashing my lights, as I would  
 when turning “voluntarily”.  
   
-142. What must you anticipate when you see this road sign?<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_010.jpg"  width="50%"/>  
+142. What must you anticipate when you see this road sign?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_010.jpg"  width="50%"/>  
+
 ✅ A pedestrian crossing that is hard to see  
 ✅ Pedestrians that might cross the road  
 ❌ Pedestrians who may only cross the road from the right  
@@ -1012,6 +1027,7 @@ I drive carefully here and watch out for vehicles in front: If necessary, I redu
   
 143. What vehicles may enter a zone with this sign?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_021.jpg"  width="50%"/>  
+
 ✅ Vehicles driven by residents  
 ✅ Small electric vehicles  
 ✅ Bicycles  
@@ -1022,6 +1038,7 @@ may also enter the zone if they are driven by residents. This can also include c
 144. You pass this traffic sign while driving outside a built-up area. How far off is the hazard to be expected?  
 (Red triangular border on a white background with Blac exclaimation mark in the middle)  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_101.jpg"  width="50%"/>   
+
 ❌ Between 50 m and 150 m  
 ❌ Between 250 m and 350 m  
 ✅ Between 150 m and 250 m  
@@ -2989,15 +3006,15 @@ up to 8 m in front of an intersection/junction park.
 ✅ Parking on the hard shoulder  
 ❌ Parking on the roadway  
 ✅ Stopping on the right edge of the roadway  
-**Comment**On priority roads outside built-up areas, stopping on the right side of the road and parking only on the shoulder 
+**Comment**: On priority roads outside built-up areas, stopping on the right side of the road and parking only on the shoulder 
 is permitted. Parking on the road is expressly prohibited.  
   
 402. During twilight or the hours of darkness, when must you have your side lights switched on as a minimum requirement?  
 ❌ When driving on roads with adequate continuous lighting  
 ✅ When the vehicle is parked on the hard shoulder outside built-up areas  
-**Comment**:  In order for a vehicle parked on the side of the road or on the shoulder to be noticed in good time in the dark,  
-it must be sufficiently illuminated. If the vehicle is parked on the road outside built-up areas, the parking light is no longer 
-sufficient; the parking lights must be switched on.  
+**Comment**: In order for a vehicle parked on the side of the road or on the shoulder to be noticed in good time in the dark,  
+it must be sufficiently illuminated. If the vehicle is parked on the road outside built-up areas, the road parking light is no longer 
+sufficient; the car parking lights must be switched on.  
   
 403. You experience a breakdown outside of a built-up area. Your car is situated on the carriageway, behind a bend in the road.  
 Which is correct in this situation?  
@@ -3011,7 +3028,7 @@ Which is correct in this situation?
 ✅ Stop. Give way.  
 ❌ No stopping  
 ✅ Diagonal cross  
-Comment :Important traffic signs such as the St. Andrew's Cross (Also known as St. Andrew Cross )or "Stop. Give way." and  traffic lights must always be visible in good time. That's why you shouldn't cover them with the 
+**Comment**: Important traffic signs such as the St. Andrew's Cross (Also known as St. Andrew Cross )or "Stop. Give way." and  traffic lights must always be visible in good time. That's why you shouldn't cover them with the 
 vehicle when stopping. To ensure a clear view of the sign, you must maintain a distance of at least 10 m from the traffic sign.  
   
 406. Where are you allowed to park a trailer with a permissible total mass exceeding 2 t in built-up areas regularly on  
@@ -3162,9 +3179,9 @@ I observe the traffic approaching from the rear
 shoulder to make sure that nobody is behind or next to the car. A carelessly opened door can cause an accident. Therefore, make sure you are safe before opening the door! If necessary, remind passengers to act carefully 
 before getting out of the car. 
   
-431. You car has a fault and can no longer be driven. What must you be aware of during towing?  
+431. Your car has a fault and can no longer be driven. What must you be aware of during towing?  
 During towing  
-✅ the hazard lights must be switched on on both vehicles  
+✅ the hazard lights must be switched on both vehicles  
 ✅ the towing cable should be kept as taut as possible  
 ❌ the motorway may only be used to shorten the journey to the next car garage  
 **Comment**:  Note when towing: The journey may only go as far as the nearest suitable workshop, leave the highway at the next exit, hazard warning lights must be switched on in both vehicles. Drive slowly and make sure 
@@ -5284,7 +5301,7 @@ In my direction of travel
 696. Why might driving along this road become dangerous?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_04_108.jpg"  width="50%"/>  
 
-❌Because oncoming vehicles will only be detected very late  
+❌ Because oncoming vehicles will only be detected very late  
 ✅ Because persons on the road can be easily overlooked  
 ✅ Because poorly lit vehicles can be difficult to detect  
 **Comment**:  The poor illumination can easily lead to pedestrians crossing the road in dark areas being overlooked. Poorly lit vehicles are also difficult to see in such areas.  
@@ -5629,3 +5646,19 @@ Watch the movie several times, observe the traffic. What happens in oncoming tra
 ❌ I brake slightly  
 ✅ I perform an emergency stop  
 **Comment**: I have to watch out for others at junctions, even if you can't always see them! Didn't a moped approach the junction from the left? It may be going straight ahead. It has “disappeared” behind the tractor, so be careful! TIP: Watch the movie again and watch out for movement from the left!
+
+738. A traffic calmed commercial zone (verkehrsberuhigter Bereich) starts here. What must you do?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_125.jpg"  width="50%"/>  
+
+✅ You must specifically watch out for busy pedestrian traffic  
+✅ You must pay attention to the allowed maximum parking time  
+❌ You must observe a minimum speed of 20 km/h  
+**Comment**: This combination of signs marks the start of a traffic-calmed zone. A maximum speed limit of 20 km/h applies. Pay particular attention to heavy pedestrian traffic. The restricted stopping ban applies within the entire area, unless deviating regulations are ordered or permitted by traffic signs. The additional sign requires the use of a parking disk and sets the maximum parking time at two hours. 
+
+739. What do these traffic signs allow?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_109.jpg"  width="50%"/>  
+
+❌ All residents may use any of these parking spaces  
+✅ Residents holding a parking licence with corresponding number may park here  
+❌ Everybody may use this parking space as long as other parking spaces are still free  
+**Comment**: These traffic signs only permit parking for residents with a correspondingly numbered parking permit.
