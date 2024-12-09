@@ -651,7 +651,7 @@ entrances (§ 10 StVO).
 ❌ At innercity crossroads  
 ✅ At junctions with farm tracks  
 ✅ Near construction sites  
-**Comment**:  In the area of roadworks and at the junctions of country lanes, you must expect heavy soiling of the road surface. Be prepared for an uneven and slippery road surface and adjust your speed accordingly.  
+**Comment**: In the area of roadworks and at the junctions of country lanes, you must expect heavy soiling of the road surface. Be prepared for an uneven and slippery road surface and adjust your speed accordingly.  
   
 97. What applies according to this traffic sign?   
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_140.jpg"  width="50%"/>  
@@ -663,19 +663,24 @@ entrances (§ 10 StVO).
 to wait if necessary. Parking is only permitted in marked areas.  
   
 98. What must you do upon seeing this traffic sign?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_138.jpg"  width="50%"/>
+
 ✅ I must approach at a moderate speed if it is clear that pedestrians want to cross the road  
 ✅ I must allow the pedestrians to cross the road  
 ✅ I may not remain stationary on the pedestrian crossing if the traffic backs up  
 **Comment**: The sign is located directly at the “crosswalk”. Approach at a moderate speed and allow pedestrians to cross if necessary. For safety reasons, it is generally not permitted to overtake at crosswalks. If 
 traffic is at a standstill, you must not come to a standstill on the crossing and block it for pedestrians: Wait in front of it.  
   
-99. Ahead of the motorbike a car is seeking to reverse on the road. What should you anticipate?  
+100. Ahead of the motorbike a car is seeking to reverse on the road. What should you anticipate?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_139.jpg"  width="50%"/>  
+
 ✅ That the car continues to reverse  
 ✅ That my braking distance will be longer than normal  
 ✅ That the motorbike will suddenly brake  
   
 100. What does this traffic sign indicate?  
-Pesdestrian walk sign board  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_124.jpg"  width="50%"/>    
+
 The start of a zone with  
 ✅ a permitted maximum speed of 30 km/h  
 ❌ a recommended speed of 30 km/h  
