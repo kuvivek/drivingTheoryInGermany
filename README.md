@@ -2280,7 +2280,7 @@ underestimate the speed of oncoming traffic. Always stop overtaking in case of d
 **Comment**:   You had to wait at a traffic light: As a right-turner, when the light turns green, you first check whether a road user to your right wants to continue straight ahead. You must first let other road users 
 coming towards you from the front or wanting to continue straight ahead next to you through. This applies to the road and the cycle path and footpath next to you.  
   
-316. Why must you discontinue your overtaking manoeuvre here? -- Video Question 
+316. Why must you discontinue your overtaking manoeuvre here? -- Video Question  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_031_ende.jpg"  width="50%/>  
 
 ❌ Because the motorbike will overtake me  
