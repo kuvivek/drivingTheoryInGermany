@@ -2144,78 +2144,69 @@ well developed, so only the answer with the “single” visible distance needs 
 ❌ The number of passengers  
 ❌ The profile depth of the tyres  
 ✅ The speed travelled  
-**Comment**Fuel consumption increases dramatically at high speeds. The reason for this is air resistance: the faster I drive,  
-the greater the effort required to counter the resistance and the more fuel is consumed.  
+**Comment**: Fuel consumption increases dramatically at high speeds. The reason for this is air resistance: the faster I drive,  the greater the effort required to counter the resistance and the more fuel is consumed.  
   
-298. When driving outside of a built-up area, from what combination vehicle length must you maintain a large enough distance   
-to the vehicle ahead as to allow an overtaking vehicle to pull back into lane in front of you? From a length of more than __7m__ 
-**Comment**:  Trains over 7 m in length, e.g. a car with a trailer, must always keep a sufficient distance from the vehicle in 
-front outside built-up areas so that an overtaking vehicle can safely pull in.  
+298. When driving outside of a built-up area, from what combination vehicle length must you maintain a large enough distance to the vehicle ahead as to allow an overtaking vehicle to pull back into lane in front of you? 
+From a length of more than __7m__ 
+**Comment**: Trains over 7 m in length, e.g. a car with a trailer, must always keep a sufficient distance from the vehicle in front outside built-up areas so that an overtaking vehicle can safely pull in.  
   
 299. What does the distance to be maintained from the vehicle ahead depend on?  
 ✅ Speed  
 ✅ Visibility conditions  
 ✅ State of the road surface  
-**Comment**:  The main cause of rear-end collisions is insufficient distance from the vehicle in front. The distance to be 
-maintained depends on visibility, speed and road conditions. The distance must always be checked and adjusted.  
+**Comment**: The main cause of rear-end collisions is insufficient distance from the vehicle in front. The distance to be maintained depends on visibility, speed and road conditions. The distance must always be checked 
+and adjusted.
   
 300. You are driving a motor vehicle with a manual gearbox. What type of behaviour pollutes the environment?  
 ✅ Frequently pressing the accelerator while waiting at traffic lights  
 ✅ An uneven driving style  
 ❌ Driving downhill in a high gear  
-**Comment**:  Environmentally friendly driving is as balanced and anticipatory as possible in order to avoid frequent braking 
-and accelerating. If you drive unevenly or, for example, accelerate senselessly before a red light, you are putting unnecessary 
-strain on the environment.  
+**Comment**: Environmentally friendly driving is as balanced and anticipatory as possible in order to avoid frequent braking and accelerating. If you drive unevenly or, for example, accelerate senselessly before a red 
+light, you are putting unnecessary strain on the environment.  
   
 301. What should you know about using the rear-view mirror?  
 ✅ I am unable to see vehicles and pedestrians in the blind spot  
 ✅ Rear-view mirrors must be adjusted to the particular driver  
 ❌ The interior mirror has no blind spot to the right-side  
-**Comment**:  Looking ahead also means regularly checking the rear-view mirrors. It is important that they are correctly 
-adjusted to the driver. But beware: you cannot see pedestrians and vehicles in the so-called blind spot in the mirrors! 
-The only thing that helps is to look over your shoulder.  
+**Comment**: Looking ahead also means regularly checking the rear-view mirrors. It is important that they are correctly adjusted to the driver. But beware: you cannot see pedestrians and vehicles in the so-called blind 
+spot in the mirrors! The only thing that helps is to look over your shoulder.  
   
 302. What can result in your motor vehicle skidding while driving round a bend?  
 ✅ Driving too fast  
 ❌ Gently accelerating at the exit of the bend  
 ✅ Heavy oversteer  
-**Comment**:  Centrifugal force is at work when cornering. It “pulls” the car to the outside of the bend, i.e. to the outside  
-right in a left-hand bend. Therefore, reduce the speed beforehand. The faster I drive, the less grip I have. There is a  
-particular risk of skidding in bends due to strong steering input.  
+**Comment**: Centrifugal force is at work when cornering. It “pulls” the car to the outside of the bend, i.e. to the outside  right in a left-hand bend. Therefore, reduce the speed beforehand. The faster I drive, the less 
+grip I have. There is a particular risk of skidding in bends due to strong steering input.  
   
 303. There is oil on the road. What should you do now?  
 ✅ I avoid heavy braking and abrupt steering movements  
 ❌ I swerve onto the left-hand side of the road  
 ✅ I notify the fire brigade  
-**Comment**:  Oil on the road! A danger for the environment and for all those who drive along here. It is best to steer 
-straight ahead and neither brake hard nor accelerate. Stop as soon as possible and inform the fire department so that the 
-danger can be removed.  
+**Comment**: Oil on the road! A danger for the environment and for all those who drive along here. It is best to steer straight ahead and neither brake hard nor accelerate. Stop as soon as possible and inform the fire 
+department so that the danger can be removed.  
   
 304. In which situation is overtaking prohibited?  
 If I  
 ✅ cannot complete the overtaking manoeuvre before a hill crest  
 ✅ cannot complete the overtaking manoeuvre before the start of a no-overtaking section  
 ✅ am unable to maintain the necessary space to the side  
-**Comment**:  To avoid accidents, I am not allowed to overtake if I cannot keep enough distance to the side or cannot 
-complete the overtaking maneuver before a crest. I must have completed or stopped an overtaking maneuver before the 
-start of an overtaking ban.  
+**Comment**: To avoid accidents, I am not allowed to overtake if I cannot keep enough distance to the side or cannot complete the overtaking maneuver before a crest. I must have completed or stopped an overtaking maneuver 
+before the start of an overtaking ban.  
   
 305. You are driving at 80 km/h behind a motor vehicle. What is the minimum safe distance you must observe?  
 ❌ A distance of 15 metres  
 ✅ A "distance of 2 seconds"  
 ❌ A "distance of 1 second"  
-**Comment**:  Insufficient distance is one of the main causes of rear-end collisions. If the vehicle in front brakes  
-suddenly, you need time to react. To avoid a collision during this time, the distance from the vehicle in front should  
-always be at least 2 seconds, especially at higher speeds. Remember a fixed point at which the vehicle in front is passing.  
-If you only reach this point after you have counted “21, 22”, you have at least a 2-second gap.  
+**Comment**:  Insufficient distance is one of the main causes of rear-end collisions. If the vehicle in front brakes suddenly, you need time to react. To avoid a collision during this time, the distance from the vehicle in 
+front should always be at least 2 seconds, especially at higher speeds. Remember a fixed point at which the vehicle in front is passing. If you only reach this point after you have counted “21, 22”, you have at least a 2-
+second gap.  
   
 306. How can you save fuel?  
 ❌ Avoid driving in top gear  
 ✅ By observing at least the tyre pressure indicated in the owner's manual  
 ✅ By removing roof racks or ski racks  
-**Comment**:  To save fuel, you should drive with sufficient tire pressure - see operating instructions - and avoid unnecessary  
-ballast. Roof racks or ski racks increase the mass of the vehicle and also the air resistance, which increases fuel consumption.  
-You should therefore remove roof racks or ski racks if you do not need them.  
+**Comment**: To save fuel, you should drive with sufficient tire pressure - see operating instructions - and avoid unnecessary ballast. Roof racks or ski racks increase the mass of the vehicle and also the air resistance, 
+which increases fuel consumption. You should therefore remove roof racks or ski racks if you do not need them.  
   
 307.  What is the maximum speed you are allowed to drive a car with trailer on roads outside of built-up areas? __80km/hr__  
 **Comment**:  With a car with a trailer, you may drive a maximum of 80 km/h on rural roads outside built-up areas.  
@@ -2226,118 +2217,110 @@ You should therefore remove roof racks or ski racks if you do not need them.
 ✅ Because there is not sufficient space to pull back in between the vehicles ahead  
 ✅ Because vehicles ahead may swerve out  
 ✅ Because I cannot see far enough along the route necessary for overtaking  
-**Comment**:  It seems as if the vehicle directly in front of me has other vehicles in front of it, which it is slowly catching  
-up with. It's possible that one of the vehicles is about to pull out to overtake. I don't have a clear enough view of the rest  
-of the route and we are approaching a left-hand bend. It will also be too narrow between the vehicles in front of me to get back  
-into the lane. TIP: Watch the movie several times and pay attention to the movements of the others!  
+**Comment**:  It seems as if the vehicle directly in front of me has other vehicles in front of it, which it is slowly catching up with. It's possible that one of the vehicles is about to pull out to overtake. I don't have 
+a clear enough view of the rest of the route and we are approaching a left-hand bend. It will also be too narrow between the vehicles in front of me to get back into the lane. TIP: Watch the movie several times and pay 
+attention to the movements of the others! 
   
 310. Why should you not overtake the moped rider in this situation?  
 ✅ Because I am not allowed to drive significantly faster than the moped rider  
 ✅ Because I am unable to maintain the requisite amount of side clearance  
 ✅ Because this might cause the moped rider to fall  
-**Comment**:  The road is very narrow due to the roadworks, so it is not possible to keep the prescribed side distance when overtaking.  
-The motorcyclist could feel pressured, swerve and crash. In any case, I'm not allowed to drive faster than 30 km/h here (traffic sign  
-at the beginning of the movie). Then I would only be a little faster than the moped (25 km/h). TIP: Watch the movie questions several  
-times, sometimes you have already driven past the hint!  
+**Comment**:  The road is very narrow due to the roadworks, so it is not possible to keep the prescribed side distance when overtaking. The motorcyclist could feel pressured, swerve and crash. In any case, I'm not allowed 
+to drive faster than 30 km/h here (traffic sign at the beginning of the movie). Then I would only be a little faster than the moped (25 km/h). TIP: Watch the movie questions several times, sometimes you have already driven 
+past the hint!
   
-311. You want to turn left. Which line should you follow?  
+312. You want to turn left. Which line should you follow?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_2_09_011_1.jpg"  width="50%"/>  
+
 ❌ The right driving line  
 ✅ The left driving line  
 ❌ The middle driving line  
-**Comment**:  If you want to turn left, you must 1. indicate and 2. get into the center lane, both in good time. On one-way  
-roads - e.g. one-way streets - I have to get into the left-hand lane as far as possible. In this case, it is a one-way street  
-without two-way traffic (traffic sign “Einbahnstraße” in the picture above right). Without additional signs, I do not have to  
-expect bicycle traffic here either: I must follow the left-hand lane.  
+**Comment**: If you want to turn left, you must 1. indicate and 2. get into the center lane, both in good time. On one-way roads - e.g. one-way streets - I have to get into the left-hand lane as far as possible. In this 
+case, it is a one-way street without two-way traffic (traffic sign “Einbahnstraße” in the picture above right). Without additional signs, I do not have to  expect bicycle traffic here either: I must follow the left-hand 
+lane.  
   
-312. In what situation is it especially dangerous to perform a turn?  
+313. In what situation is it especially dangerous to perform a turn?  
 ✅ Before the crest of a hill  
 ✅ In foggy conditions  
 ✅ Before bends in the road  
-**Comment**:  When turning on the road, I can quickly become an unforeseen obstacle for others. This is particularly dangerous  
-in heavy and fast-moving traffic, in confusing traffic situations, in fog, in front of and behind bends or crests.  
+**Comment**:  When turning on the road, I can quickly become an unforeseen obstacle for others. This is particularly dangerous in heavy and fast-moving traffic, in confusing traffic situations, in fog, in front of and 
+behind bends or crests. 
   
-313. I want to re-join the road. What is the correct assessment of this situation? (repeated question)   
+315. I want to re-join the road. What is the correct assessment of this situation? (repeated question)   
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_162.jpg"  width="50%"/>  
+
 When they approach me from the rear  
 ❌ drivers give my priority in re-joining the road  
 ✅ drivers only see me late  
 ✅ I only see vehicles late  
-**Comment**:  Before I drive off the edge of the road, I carefully observe my surroundings, especially the traffic behind me.  
-Sometimes my view is obscured if, for example, a truck is parked behind me. I myself can only see vehicles approaching from  
-behind late -and the traffic behind also sees my vehicle late. In such a situation, I drive forward carefully until I have a  
-better view and wait for a sufficient gap to pull away.  
+**Comment**: Before I drive off the edge of the road, I carefully observe my surroundings, especially the traffic behind me. Sometimes my view is obscured if, for example, a truck is parked behind me. I myself can only see 
+vehicles approaching from behind late -and the traffic behind also sees my vehicle late. In such a situation, I drive forward carefully until I have a better view and wait for a sufficient gap to pull away.  
   
 314. When are you in danger when overtaking?  
 When the road user being overtaken  
 ✅ suddenly accelerates  
 ✅ swerves out to overtake  
 ❌ reduces his speed considerably  
-**Comment**:  An overtaking maneuver must be stopped if overtaking becomes dangerous. This is the case if the vehicle being  
-overtaken suddenly accelerates, preventing the overtaking vehicle from leaving the oncoming lane as planned. It also becomes  
-dangerous if the person being overtaken unexpectedly pulls out to overtake.  
+**Comment**: An overtaking maneuver must be stopped if overtaking becomes dangerous. This is the case if the vehicle being overtaken suddenly accelerates, preventing the overtaking vehicle from leaving the oncoming lane as 
+planned. It also becomes dangerous if the person being overtaken unexpectedly pulls out to overtake.  
   
 315. Why can it be dangerous to overtake on an unobscured, straight road?  
 Because I  
 ✅ estimate the distance away of an oncoming vehicle as being too great  
 ✅ estimate my overtaking distance to be shorter than it is  
 ✅ estimate the speed of an oncoming vehicle as being too low  
-**Comment**:  Overtaking becomes dangerous on straight and clear roads if I estimate the distance to an oncoming vehicle too far.  
-It also becomes dangerous if your own overtaking distance is too short or if you underestimate the speed of oncoming traffic.  
-Always stop overtaking in case of danger!  
+**Comment**: Overtaking becomes dangerous on straight and clear roads if I estimate the distance to an oncoming vehicle too far. It also becomes dangerous if your own overtaking distance is too short or if you 
+underestimate the speed of oncoming traffic. Always stop overtaking in case of danger!  
   
 316. You are waiting at a traffic light and want to turn right. What should you remember?  
 ✅ make sure there is no road user beside you on the right intending to go straight on  
 ❌ simply glance in the mirror to check that there is no cyclist behind you  
 ❌ concentrate fully on the turning manoeuvre because any cyclist has to wait anyway  
-**Comment**:   You had to wait at a traffic light: As a right-turner, when the light turns green, you first check whether a road  
-user to your right wants to continue straight ahead. You must first let other road users coming towards you from the front or  
-wanting to continue straight ahead next to you through. This applies to the road and the cycle path and footpath next to you.  
+**Comment**:   You had to wait at a traffic light: As a right-turner, when the light turns green, you first check whether a road user to your right wants to continue straight ahead. You must first let other road users 
+coming towards you from the front or wanting to continue straight ahead next to you through. This applies to the road and the cycle path and footpath next to you.  
   
 317. Why must you discontinue your overtaking manoeuvre here?  
 ❌ Because the motorbike will overtake me  
 ✅ Because the tractor will turn off to the left  
 ❌ Because I can see a no-overtaking sign  
-**Comment**: Overtaking maneuvers require careful consideration and execution. The risk of accidents is high and collisions  
-can be life-threatening. Not only with oncoming traffic. The tractor's flashing lights indicate that it wants to turn left.   
-The motorcyclist in the rear-view mirror has obviously recognized the situation and is keeping a safe distance behind me.  
-There is no no-overtaking sign in sight: but it wouldn't change the fact that I am not allowed to overtake someone turning  
-left in front of me.  
+**Comment**: Overtaking maneuvers require careful consideration and execution. The risk of accidents is high and collisions can be life-threatening. Not only with oncoming traffic. The tractor's flashing lights indicate 
+that it wants to turn left. The motorcyclist in the rear-view mirror has obviously recognized the situation and is keeping a safe distance behind me. There is no no-overtaking sign in sight: but it wouldn't change the fact 
+that I am not allowed to overtake someone turning left in front of me.  
   
 318. What is the right course of action now?  
+[![Watch the video](https://schueler.click-learn.info/BilderV2/BS_2_1_07_028_ende.jpg)](https://degener-video.ghostthinker.net/BS_2_1_07_028.mp4)  
+
 ❌ I overtake the car ahead leaving a large side clearance  
 ✅ I increase my distance to the car ahead  
 ✅ I continue driving with increased care  
-**Comment**:  The driver of the vehicle in front of me is obviously having problems. For my own safety, it's better to increase the  
-distance and watch the vehicle very carefully. Under no circumstances do I overtake here: I would only put myself in unnecessary  
-danger. I stay behind and can help or call for help in an emergency. TIP: Watch the movie again in peace and literally “look ahead”!  
+**Comment**: The driver of the vehicle in front of me is obviously having problems. For my own safety, it's better to increase the distance and watch the vehicle very carefully. Under no circumstances do I overtake here: 
+I would only put myself in unnecessary danger. I stay behind and can help or call for help in an emergency. TIP: Watch the movie again in peace and literally “look ahead”!  
   
 319. What can give rise to particularly dangerous situations where several lanes turn off?  
 ✅ Changing lanes while performing the turn  
 ❌ Keeping exactly to your lane  
 ✅ Driving too fast  
-**Comment**: Drive very carefully when turning into multiple lanes. Dangerous situations often arise due to speeding and changing  
-lanes while turning.  
+**Comment**: Drive very carefully when turning into multiple lanes. Dangerous situations often arise due to speeding and changing lanes while turning.  
   
 320. To whom must you pay particularly close attention in this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_05_013_ende.jpg" width="50%"/>  
 To the  
 ❌ white truck  
 ❌ red car  
 ✅ cyclist  
-**Comment**: Be careful when overtaking: You just saw a danger sign warning of bicycle traffic coming from the left and right. 
-Where is the cyclist? Does the cycle path over there cross the road? Better stay alert! TIP: Watch the movie again and pay 
-attention to the danger sign!  
+**Comment**: Be careful when overtaking: You just saw a danger sign warning of bicycle traffic coming from the left and right. Where is the cyclist? Does the cycle path over there cross the road? Better stay alert! TIP: 
+Watch the movie again and pay attention to the danger sign!  
   
-321. When overtaking several trucks, you are faced with this situation. What should you do now? (You are in the left overtaking 
-side of the road, wherein oncoming traffic can come. Also there is a bend which need to noticed in the picture, often ignored by 
-ignored by novice people.)  
+321. When overtaking several trucks, you are faced with this situation. What should you do now?    
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_03_111.jpg"  width="50%"/>  
+
 ✅ I abort the overtaking manoeuvre  
 ✅ After pulling back into lane, I again establish an adequate safety distance  
 ❌ I continue overtaking quickly and pull back into lane in front of the red truck  
 **Comment**: Overtaking before a bend is very risky. Oncoming traffic is visible far too late: stop overtaking in this situation. 
 Get back into the right-hand lane and keep a sufficient distance from the vehicle in front.  
   
-322. What should you do in this situation? (You drive in a lane wherein only one vehicle can pass and other side car came.  
+323. What should you do in this situation? (You drive in a lane wherein only one vehicle can pass and other side car came.  
 You have sufficient place on the right parking area. And you can reach before the opposite car could reach there.)  
 I move  
 ✅ into the gap to allow the oncoming vehicle to drive past  
@@ -2346,7 +2329,7 @@ I move
 **Comment**: If vehicles approach each other in a narrow space, the person who has the opportunity to do so must give way, e.g.  
 a parking space in the direction of travel: I give way and wait until the oncoming vehicle has passed.  
   
-323. Why do you have to continue to brake?  
+324. Why do you have to continue to brake?  
 Because of the  
 ❌ cyclist  
 ✅ blue truck  
@@ -2355,14 +2338,14 @@ Because of the
 Only those who look closely will recognize the garbage truck approaching from the right. TIP: Watch the movie again and watch  
 out for movement from the right!  
   
-324. When may a tram be overtaken on the left?  
+325. When may a tram be overtaken on the left?  
 ✅ When the rails run too far to the right  
 ❌ When the roadway (not a one-way street) to the right of the tram is blocked by other vehicles  
 ✅ In one-way streets  
 **Comment**:  In one-way streets or where the rails are too far to the right, you may overtake a streetcar on the left. If the  
 rails are in the middle of the road, you may only overtake a streetcar on the right.  
   
-325. You want to turn left. What difficulties could arise here?  
+326. You want to turn left. What difficulties could arise here?  
 ✅ Misunderstandings with oncoming traffic turning left  
 ✅ Traffic turning left can come dangerously close  
 ✅ Visibility restrictions caused by oncoming vehicles  
@@ -2370,7 +2353,7 @@ rails are in the middle of the road, you may only overtake a streetcar on the ri
 can also occur if one driver wants to turn in front and the other behind: if necessary, use hand signals to communicate. Be aware  
 that the other driver may obscure your view of other vehicles in oncoming traffic.  
   
-326. Why are you not allowed to overtake now?  
+327. Why are you not allowed to overtake now?  
 Because of the  
 ❌ blue car  
 ✅ layout of the road  
@@ -2380,7 +2363,7 @@ a country road with an unclear road layout (bend): only with sufficient side cle
 forth while riding - and only if nobody is coming towards me. Vehicles far behind me are not decisive here. TIP: Watch the 
 movie again and watch out for oncoming vehicles (motorcycles!)!  
   
-327. Two vehicles approach one another at an intersection. Both vehicles want to turn left. What must both drivers do in the   
+328. Two vehicles approach one another at an intersection. Both vehicles want to turn left. What must both drivers do in the   
 normal case? They must  
 ✅ turn in front of one another  
 ❌ communicate with one another to agree the mode of turning  
@@ -2388,7 +2371,7 @@ normal case? They must
 **Comment**:  As a rule, drivers turning left oncoming traffic must turn in front of each other. I must also bear in mind 
 that oncoming traffic can obscure the view of people driving straight ahead behind them.  
   
-328. In which cases must you abandon overtaking?  
+329. In which cases must you abandon overtaking?  
 ✅ When the road user being overtaken suddenly accelerates  
 ❌ When the road user being overtaken considerably reduces his speed  
 ✅ When there is danger from unexpected oncoming traffic  
@@ -2396,14 +2379,14 @@ that oncoming traffic can obscure the view of people driving straight ahead behi
 distance is dangerously extended. In addition, unexpected oncoming traffic can create a hazard that must lead to the overtaking  
 maneuver being aborted.  
   
-329. Why are you required to stop now?  
+330. Why are you required to stop now?  
 ❌ Because of the white car  
 ✅ Because of the tram  
 ❌ Because of the cyclist  
 **Comment**:  I am on a priority road. That's why the white car on my right has to wait for me. But the oncoming streetcar is  
 turning left in front of me: I have to stop and let it pass. TIP: Watch the movie again and pay attention to traffic signs!  
   
-330. You want to turn right at the junction. What is the right thing to do?    
+331. You want to turn right at the junction. What is the right thing to do?    
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg"  width="50%"/>
 
 ✅ I change lanes as early as possible  
