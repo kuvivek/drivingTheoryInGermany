@@ -813,7 +813,8 @@ lot could turn onto my lane without paying attention.
 **Comment**:  The restricted stopping ban applies within the entire area. It is permitted to stop on the carriageway for up to 3  
 minutes. You may also stop for longer to load or unload and to get in or out of the vehicle, but without unnecessary delay.  
   
-120. What do these traffic signs indicate? <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_131.jpg"  width="50%"/>  
+120. What do these traffic signs indicate?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_131.jpg"  width="50%"/>  
 ✅ Start of a no-overtaking area 200 m ahead  
 ❌ No overtaking for 200 m  
 ❌ End of a no-overtaking area 200 m ahead  
@@ -847,7 +848,9 @@ This includes motor vehicles as well as motorcycles and trailers.
 **Comment**:  This traffic sign is located at the beginning of a built-up area. Within built-up areas, you must not sound the  
 horn to indicate your intention to overtake. Parked cars may be secured with the parking light.  
   
-124. What do you do when you see this traffic sign?(Sign. 308 ❌Priority over oncoming traffic. There is a narrow passage ahead.)  
+124. What do you do when you see this traffic sign?(Sign. 308)
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_107.jpg  width="50%"/>  
+
 ✅ You must be ready to stop despite taking precedence  
 ✅ You may only take precedence when the narrowing is clear  
 ❌ You must give precedence to the oncoming traffic  
@@ -1773,8 +1776,9 @@ Because
 **Comment**: For heavily loaded vehicles, the braking distance may be longer due to the weight. The load also influences driving 
 behavior. The reaction time (approx. 1 second) normally remains the same.  
   
-235. Why must you be particularly careful here? (A car coming from the left and no traffic signal mentioned.  
-The car can either go straight or to left and there is lots of leaves lying around on the road. This could be wet and slippery)  
+235. Why must you be particularly careful here?    
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_006.jpg"  width="50%"/>  
+
 ✅ Because there is an increased danger of skidding when braking  
 ❌ Because the car coming from the left has priority  
 ✅ Because a vehicle could come from the right  
@@ -1782,6 +1786,8 @@ The car can either go straight or to left and there is lots of leaves lying arou
 to brake, there is an increased risk of skidding due to the wetness and leaves on the road.  
   
 236. Why might driving along this road become dangerous?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_04_108.jpg"  width="50%"/>  
+
 ✅ Because poorly lit vehicles can be difficult to detect  
 ❌ Because oncoming vehicles will only be detected very late  
 ✅ Because persons on the road can be easily overlooked  
@@ -1796,6 +1802,8 @@ Poorly lit vehicles are also difficult to see in such areas.
 and carefully take my foot off the gas pedal. Braking hard would only increase the danger of the situation!  
   
 238. What must you anticipate in this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_03_044.jpg"  width="50%"/>  
+
 ✅ My vehicle may be forced leftwards  
 ❌ The truck ahead of me may be forced rightwards  
 ✅ When driving into the wind-protected area alongside the truck, my vehicle may be forced rightwards  
@@ -1865,7 +1873,7 @@ Therefore, increase the safety distance!
 247. Where is it permitted to flash headlights to indicate your intention to overtake?  
 ✅ In daylight outside built-up areas  
 ✅ In darkness outside built-up areas  
-❌In darkness in built-up areas  
+❌ In darkness in built-up areas  
 **Comment**:  Only outside built-up areas is it permitted to indicate your intention to overtake by flashing your headlights.  
 Both during the day and in the dark. However, this must not dazzle other road users.  
   
@@ -1880,69 +1888,71 @@ During these seconds, obstacles on the road, high kerbs at the edge of the road 
 ✅ The condition of the road and traffic conditions  
 ✅ Visibility and weather conditions  
 ✅ Personal driving ability  
-**Comment**:  You must always adapt your speed to the current circumstances. This includes visibility and weather conditions, road conditions,  
+**Comment**: You must always adapt your speed to the current circumstances. This includes visibility and weather conditions, road conditions,  
 traffic conditions and your current personal abilities.  
   
 250. What could make this situation become hazardous?  
 ✅ Oncoming traffic  
 ✅ The red car  
-❌The tractor  
-**Comment**:  The country road looks clear. I am overtaken just before the downhill section. This could be dangerous if something comes towards me.  
+❌ The tractor  
+**Comment**: The country road looks clear. I am overtaken just before the downhill section. This could be dangerous if something comes towards me.  
 For me and for the person overtaking next to me! The tractor in the field has no influence on the situation. TIP: Watch the movie again and  
-pay attention to the person overtaking (in my rear-view mirror) ❌at the end he is in the blind spot)!  
+pay attention to the person overtaking (in my rear-view mirror) – at the end he is in the blind spot)!  
   
 251. You increase your speed from 50 km/h to 100 km/h. How is the braking distance changed according to the rule of thumb?  
-❌It is doubled from 15 m to 30 m  
-❌It is halved from 50 m to 25 m  
+❌ It is doubled from 15 m to 30 m  
+❌ It is halved from 50 m to 25 m  
 ✅ It is quadrupled from 25 m to 100 m  
-**Comment**:  The stopping distance is made up of the reaction distance and the braking distance. While the reaction distance increases in a straight line,  
+**Comment**: The stopping distance is made up of the reaction distance and the braking distance. While the reaction distance increases in a straight line,  
 the braking distance increases as the square of the speed, i.e. twice the speed = 4 times the braking distance.  
   
 252. You are driving on a country road in darkness and rain and encounter oncoming vehicles with dipped headlights. What must you remember?  
 ✅ Your wet windscreen can result in your being dazzled  
 ✅ You can be dazzled by reflections on the wet road  
-❌You can avoid possible dazzle by switching on full beam  
+❌ You can avoid possible dazzle by switching on full beam  
 **Comment**:  In the dark and in the rain, be aware that the dipped headlights of oncoming traffic may be reflected on the wet road and dazzle you.  
 In addition, streaks on the windshield can impair visibility.  
   
 253. Where does aquaplaning (sliding on wet roads) occur particularly often?  
-❌At level crossings  
+❌ At level crossings  
 ✅ Where there are grooves in the roadway  
 ✅ In dips in the roadway  
-**Comment**:  In aquaplaning, a film of water on the road prevents contact between the road and the tires. Aquaplaning is facilitated by high speeds,  
+**Comment**: In aquaplaning, a film of water on the road prevents contact between the road and the tires. Aquaplaning is facilitated by high speeds,  
 worn tires, ruts and dips in the road.  
   
 254. What is the right course of action now?  
-❌I steer hard to the right  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_03_033_ende.jpg"  width="50%"/>  
+
+❌ I steer hard to the right  
 ✅ I avoid abrupt manoeuvres  
 ✅ I reduce my speed  
-**Comment**:  I'm driving towards a large puddle. Shortly before that, I passed a traffic sign warning of the risk of skidding or aquaplaning in  
+**Comment**: I'm driving towards a large puddle. Shortly before that, I passed a traffic sign warning of the risk of skidding or aquaplaning in  
 wet conditions. The oncoming traffic has obviously already started skidding. So: reduce your speed, no sharp steering movements.  
 TIP: Watch the movie again and pay attention to the traffic signs!  
   
 255. Why are you required to have a defective exhaust system repaired immediately?  
 ✅ Because parts of the exhaust system can drop on the roadway  
 ✅ Because of the noise pollution  
-❌Because the engine would overheat  
-**Comment**:  A rusted exhaust system is very loud and causes a nuisance to others. In addition, parts of the exhaust system can fall onto the  
+❌ Because the engine would overheat  
+**Comment**: A rusted exhaust system is very loud and causes a nuisance to others. In addition, parts of the exhaust system can fall onto the  
 road at any time and endanger others. Therefore, have the defects rectified as quickly as possible.  
   
 256. What can cause in aquaplaning (sliding on wet roads) on wet road surfaces?  
 ✅ Grooves in the roadway  
 ✅ Worn tyres  
 ✅ High speed  
-**Comment**Aquaplaning means that a film of water on the road prevents contact between the road and the tires. The risk of aquaplaning  
+**Comment**: Aquaplaning means that a film of water on the road prevents contact between the road and the tires. The risk of aquaplaning  
 is increased by high speeds, worn tires or ruts in the road (puddles).  
   
 257. When must a car with trailer driving outside built-up areas on roads with only one lane for each direction keep a sufficient distance  
 from the car in front so that an overtaking vehicle may pull in?  
 When the combination of vehicles exceeds ___7__ m  
-**Comment**:  On a road with only one lane in each direction, vehicles over 7 m in length, e.g. cars and caravans, must generally  
+**Comment**: On a road with only one lane in each direction, vehicles over 7 m in length, e.g. cars and caravans, must generally  
 keep a sufficient distance from the vehicle in front to allow an overtaking vehicle to pull in safely.  
   
 258. Where can used oil, lubricants and car batteries be taken to be disposed of properly?  
 ✅ To recycling centres  
-❌In the household waste  
+❌ In the household waste  
 ✅ To car workshops  
 **Comment**:  Used oils, lubricants and vehicle batteries are hazardous waste. They must not be disposed of with household waste,  
 but must be disposed of properly by the workshop or at recycling centers.  
@@ -1950,14 +1960,14 @@ but must be disposed of properly by the workshop or at recycling centers.
 259. What can be the effect of aquaplaning?  
 ✅ Reduced ability to steer the vehicle  
 ✅ Reduced vehicle braking capability  
-❌Increased tyre static friction  
-**Comment**:  When aquaplaning, a film of water on the road prevents contact between the road and tires. As a result, the vehicle cannot be steered  
+❌ Increased tyre static friction  
+**Comment**: When aquaplaning, a film of water on the road prevents contact between the road and tires. As a result, the vehicle cannot be steered  
 or braked (it “floats”) and can drift off the road.  
   
 260. You are driving in urban traffic on a dry roadway in a stream of traffic travelling at a speed of 50 km/h.  
 What is the minimum safe distance you must keep from the vehicle in front?  
-❌5 m or approximately 1 car length  
-❌10 m or approximately 2 car lengths  
+❌ 5 m or approximately 1 car length  
+❌ 10 m or approximately 2 car lengths  
 ✅ 15 m or approximately 3 car lengths  
 **Comment**:  In urban traffic, there is a special regulation regarding the distance: in good conditions (dry road, good visibility), the distance  
 between two vehicles may be reduced to 15m. This corresponds to about three car lengths.  
@@ -1966,7 +1976,7 @@ between two vehicles may be reduced to 15m. This corresponds to about three car 
 ✅ That you only detect oncoming vehicles after it is too late  
 ✅ That the traffic lights are hardly distinct from the coloured signs  
 ✅ That your vehicle will not be seen in time  
-**Comment**:  Many different light sources cause confusion. Expect that you will not be seen in time. You will only recognize oncoming traffic late.  
+**Comment**: Many different light sources cause confusion. Expect that you will not be seen in time. You will only recognize oncoming traffic late.  
 Traffic lights hardly stand out from the neon signs.  
   
 262. You are travelling at 100 km/h, have a reaction time of 1 second, and brake normally. What is the stopping distance according to the rule of thumb?  
@@ -1982,13 +1992,13 @@ __36m__
   
 264. By which rule of thumb can you determine from the speed the distance in metres a motor vehicle travels in one second?  
 ✅ (Speed in km/h / 10) x 3  
-❌(Speed in km/h / 10) x 5  
-❌(Speed in km/h / 10) x (speed in km/h / 10)  
+❌ (Speed in km/h / 10) x 5  
+❌ (Speed in km/h / 10) x (speed in km/h / 10)  
   
 265. What is the rule of thumb when calculating the braking distance for evasive braking on a dry, even and asphalted roadway?  
 ✅ ((speed in km/h / 10) x (speed in km/h / 10)) / 2  
-❌((speed in km/h / 10) x 5) / 2  
-❌((speed in km/h / 10) x 3) / 2  
+❌ ((speed in km/h / 10) x 5) / 2  
+❌ ((speed in km/h / 10) x 3) / 2  
   
 266. What is the maximum speed a motor vehicle fitted with snow chains is allowed to travel?  
 __ 50__km/h  
@@ -2004,7 +2014,7 @@ been thrown up can obstruct visibility even more than at the moment.
   
 268. You are driving a car with a caravan in tow. What is true regarding your distance to the vehicle ahead? (repeated question with option order changed)  
 The distance  
-❌is too large because it exceeds the length of my combination vehicle many times over  
+❌ is too large because it exceeds the length of my combination vehicle many times over  
 ✅ to the overtaking vehicle must be re-established once it has pulled back into lane  
 ✅ is appropriate because the overtaking vehicle can pull back into lane in front of me  
 **Comment**:  On a road with only one lane in each direction, vehicles over 7 m in length, e.g. a car with a trailer, must always keep a  
@@ -2012,30 +2022,30 @@ sufficient distance from the vehicle in front so that an overtaking vehicle can 
 therefore restore the safe distance (if necessary by braking gently). There can be no such thing as too great a distance.  
   
 269. In what situation does a driver frequently underestimate their own speed?  
-❌On narrow roads with uneven road surfaces  
+❌ On narrow roads with uneven road surfaces  
 ✅ On wide, well-finished roads  
 ✅ After a long journey at high speed  
-**Comment**:  If you drive at a higher speed for a long time, you get used to it and tend to underestimate your own speed.  
+**Comment**: If you drive at a higher speed for a long time, you get used to it and tend to underestimate your own speed.  
 Even on well-built, wide roads, your own speed often seems slower than it actually is.  
   
 270. What can result from driving for a long time at high speed?  
 ❌Your reactions improve  
 ✅ You lose your feel for speed  
 ✅ You drive too close to vehicles in front  
-**Comment**:  If you ride at higher speeds for a long time, you will get used to it. Your sense of speed diminishes. It is then easy to tailgate because  
+**Comment**: If you ride at higher speeds for a long time, you will get used to it. Your sense of speed diminishes. It is then easy to tailgate because  
 you underestimate your own speed.  
   
 271. While driving, how can you safely check whether the road is icy?  
 ✅ By carefully applying the brakes at very low speed  
-❌By rapid acceleration  
-❌By jerking the steering wheel to the left and right  
+❌ By rapid acceleration  
+❌ By jerking the steering wheel to the left and right  
 **Comment**:  Take extra care when driving on icy roads. By braking carefully and driving slowly, you can determine whether the road is icy and  
 how the vehicle reacts.  
   
 272. You are driving a motor vehicle with a manual gearbox on a level carriageway. How should you change gears so as to drive in a particularly  
 environmentally conscious and economical way?  
 ✅ Changing down again as late as possible  
-❌Drive until the upper engine speed range is reached in one gear, before changing up  
+❌ Drive until the upper engine speed range is reached in one gear, before changing up  
 ✅ Changing up gears as early as possible  
 **Comment**:  Fuel-saving driving is as balanced and anticipatory as possible in order to avoid frequent braking and accelerating. When accelerating,  
 shift up early and shift down again as late as possible: Driving at low revs is economical and environmentally friendly.  
@@ -2043,41 +2053,43 @@ shift up early and shift down again as late as possible: Driving at low revs is 
 273. You are driving a motor vehicle with a manual gearbox. How can you achieve efficient fuel consumption?  
 ✅ By having the proper tyre inflation pressure  
 ✅ By adopting an even driving style with low engine speeds  
-❌When accelerating, changing the gears upwards as late as possible  
+❌ When accelerating, changing the gears upwards as late as possible  
 **Comment**Environmentally friendly driving is as balanced and anticipatory as possible, i.e. balanced and at low revs. The correct tire pressure  
 (see operating instructions, fuel filler cap or door frame) also makes a significant contribution to saving energy.  
   
 274. What must you do to avoid endangering others by equipment or load which has fallen off your vehicle?  
 Depending on the situation,  
-❌proceed and inform the nearest municipal office  
+❌ proceed and inform the nearest municipal office  
 ✅ secure the danger spot and immediately inform the road service or police  
 ✅ remove the parts yourself  
 **Comment**If you endanger other road users by dropping objects, you as the person responsible must remove the obstacles yourself or, if necessary,  
 secure the danger zone and inform the police or road services.  
   
 275. Where must you especially reckon with ice on the roadway?  
-❌On frequently used stretches of road  
+❌ On frequently used stretches of road  
 ✅ On bridges  
 ✅ On stretches of road running through forest  
-**Comment**:  Drive carefully and with foresight during the winter months. Freezing temperatures can cause the road to ice up.  
+**Comment**: Drive carefully and with foresight during the winter months. Freezing temperatures can cause the road to ice up.  
 Especially on bridges and forest roads, the road surface is often icy when there is no danger of slipping and skidding on other roads.  
   
 276. Which factors lengthen your braking distance?  
 ✅ Driving down slopes  
 ✅ A wet or slippery roadway  
 ✅ Towing a trailer not fitted with brakes  
-**Comment**:  When we talk about braking distance, we are usually referring to normal braking on a dry road. A wet or slippery road surface,  
+**Comment**: When we talk about braking distance, we are usually referring to normal braking on a dry road. A wet or slippery road surface,  
 driving downhill or driving with an unbraked trailer increase this “standard” braking distance.  
   
 277. Why should you avoid driving off at a rapid pace? ----IMP  
 ✅ Because of heavier tyre wear  
 ✅ Because the noise you cause annoys others  
-❌Because this is a great strain on the rear brake  
+❌ Because this is a great strain on the rear brake  
 **Comment**:  Do not start off with squealing tires and howling engine. This noise disturbs others. Starting off sharply is also not good for  
-the tires ❌they will wear out more. (No connection to the rear brake given the book.)  
+the tires – they will wear out more. (No connection to the rear brake given the book.)  
   
 278. Why must you wait before taking a turn in this situation?  
-❌Because of the pedestrian  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_09_132_1_ende.jpg"  width="%50"/>  
+
+❌ Because of the pedestrian  
 ✅ Because of the motorbike  
 ✅ Because of the truck  
 **Comment**:  When turning left, I also have to watch out for vehicles behind oncoming vehicles! Here there is a motorcycle in the shadow of  
@@ -2087,7 +2099,7 @@ of no importance to me here. TIP: Watch the movie again and watch out for moveme
 279. Why is it beneficial to use low viscosity engine oil?  
 Because these oils  
 ✅ generate less friction in the engine  
-❌can be disposed of as household waste  
+❌ can be disposed of as household waste  
 ✅ reduce fuel consumption  
 **Comment**:  Low-friction oils reduce friction in the engine and thus help to save energy and reduce fuel consumption. However, oils  
 should never be disposed of with household waste, but always professionally by the workshop or at recycling centers.  
@@ -2095,7 +2107,7 @@ should never be disposed of with household waste, but always professionally by t
 280. What influences the degree of centrifugal force on bends?  
 ✅ The radius of the bend  
 ✅ Speed  
-❌Headwind  
+❌ Headwind  
 **Comment**:  Centrifugal force becomes effective when cornering: it wants to carry a vehicle out of the bend. The higher the speed and  
 the smaller the curve radius, the greater the centrifugal force. It increases in proportion to the square of the speed, i.e. at twice  
 the speed, the centrifugal force is four times as great. If you enter a tight bend at too high a speed, your vehicle will be carried  
@@ -2103,25 +2115,23 @@ out towards the outside of the bend.
   
 281. For which purposes is a horn allowed to be used in built-up areas?  
 ✅ As a warning signal  
-❌As a calling signal  
-❌As an overtaking signal  
+❌ As a calling signal  
+❌ As an overtaking signal  
 **Comment**:  In urban areas, you may only sound the horn to warn others if you or others are in danger.  
   
-282. Why are you not allowed to overtake here?  
-Because I  
-❌ may not cross over the central lane markings  
-✅ cannot maintain an adequate passing distance from the cyclists if there is any oncoming traffic  
-✅ do not have an adequate view of the road ahead  
-**Comment**:  I am allowed to overtake the guide line, there are other reasons that prohibit overtaking. When overtaking cyclists outside  
-built-up areas, a minimum lateral distance of 2 m is prescribed. I can hardly keep that distance here. In addition, the rest of the  
-overtaking route is winding and not visible. That's why I'm not allowed to overtake here.  
+282. For which purposes is a horn allowed to be used outside built-up areas?  
+❌ As a calling signal  
+✅ As a warning signal  
+✅ As an overtaking signal  
+**Comment**:  You may sound the horn at any time to warn others if you or others are in danger. However, you may only use the 
+horn - and the headlight flasher - as an overtaking signal outside built-up areas. 
   
 283. You are driving in dense fog on a federal road (Bundesstraße) outside a built-up area. Are you allowed to drive in the middle  
 of the road continuously straddling the broken white line?  
 ✅ No, because it could represent a danger to oncoming traffic  
 ❌ Yes, if fog headlamps and rear fog lamps are switched on  
 ❌ Yes, because it reduces the risk of running off the road  
-**Comment**:  As a general rule, drive as far to the right as possible. Especially in fog, you should never drive constantly in the  
+**Comment**: As a general rule, drive as far to the right as possible. Especially in fog, you should never drive constantly in the  
 middle of the road or above the guide line. Otherwise you will endanger oncoming traffic.  
   
 284. What should you do, if it is no longer possible to avoid a collision with wild animals?  
@@ -2131,39 +2141,43 @@ middle of the road or above the guide line. Otherwise you will endanger oncoming
 **Comment**:  If a collision with game can no longer be avoided, I have to brake. I hold the steering wheel or handlebars firmly and  
 try to maintain the direction of travel, i.e. stay on the road.  
   
-285. What should you be prepared for here?<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_03_037.jpg"  width="50%"/>  
+285. What should you be prepared for here?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_1_03_037.jpg"  width="50%"/>  
+
 ✅ For the poor visibility of my vehicle  
 ✅ For an extended braking distance  
 ❌ For increased tyre traction  
-**Comment**:  The poor visibility caused by fog, rain and swirling water also makes my vehicle less visible to others. I have to expect  
+**Comment**: The poor visibility caused by fog, rain and swirling water also makes my vehicle less visible to others. I have to expect  
 this and a longer braking distance. Because the grip on wet roads does not increase, but naturally decreases!  
   
 286. Where must you be prepared to encounter sudden fog?  
 ✅ Near rivers  
 ✅ In marshy areas  
 ✅ Near lakes  
-**Comment**Fog is particularly common in areas where water is present. You should therefore expect fog to appear suddenly along rivers,  
+**Comment**: Fog is particularly common in areas where water is present. You should therefore expect fog to appear suddenly along rivers,  
 in moorland areas and on lakes. Adjust your speed to the visibility conditions!  
   
 287. What must you do on encountering sudden dense fog driving at daytime?  
 ❌ Only switch on parking lights  
 ✅ Adapt speed immediately to visibility conditions  
 ✅ Switch on dipped headlights  
-**Comment**:  You should always adapt your speed to the visibility conditions, even in fog. To be seen better, you should switch on your  
+**Comment**: You should always adapt your speed to the visibility conditions, even in fog. To be seen better, you should switch on your  
 dipped headlights in fog.  
   
-288. For which purposes is a horn allowed to be used outside built-up areas?  
-❌ As a calling signal  
-✅ As a warning signal  
-✅ As an overtaking signal  
-**Comment**:  You may sound the horn at any time to warn others if you or others are in danger. However, you may only use the 
-horn - and the headlight flasher - as an overtaking signal outside built-up areas.  
+288. Why are you not allowed to overtake here?  
+Because I  
+❌ may not cross over the central lane markings  
+✅ cannot maintain an adequate passing distance from the cyclists if there is any oncoming traffic  
+✅ do not have an adequate view of the road ahead  
+**Comment**: I am allowed to overtake the guide line, there are other reasons that prohibit overtaking. When overtaking cyclists outside  
+built-up areas, a minimum lateral distance of 2 m is prescribed. I can hardly keep that distance here. In addition, the rest of the  
+overtaking route is winding and not visible. That's why I'm not allowed to overtake here.   
   
 289. You are driving following a heavy rain shower. What should you be aware of in this situation?  
 ✅ I should maintain a large safety distance between me and the vehicle ahead  
 ✅ Splash water might impair my vision  
 ✅ It is difficult for me to detect uneven areas on the road surface  
-**Comment**:  The braking distance is longer on a wet road than on a dry one. Splash water also makes visibility more difficult.  
+**Comment**: The braking distance is longer on a wet road than on a dry one. Splash water also makes visibility more difficult.  
 That's why I always have to increase the safety distance on wet roads. This gives me a better view of the road and allows me to  
 react in good time to puddles or uneven road surfaces, for example.  
   
@@ -2171,7 +2185,7 @@ react in good time to puddles or uneven road surfaces, for example.
 ✅ Do not refuel when the tank is full and the nozzle has switched off  
 ❌ Fill up to the brim if possible  
 ✅ Do not breath in any fuel fumes  
-**Comment**:  Do not refuel when the tank is full and the nozzle has switched off. Otherwise it may overflow and contaminate  
+**Comment**: Do not refuel when the tank is full and the nozzle has switched off. Otherwise it may overflow and contaminate  
 the ground. Do not inhale fuel vapors when refueling. Fuel vapors release volatile hydrocarbons into the air, especially benzene,  
 which is carcinogenic.  
   
@@ -2179,7 +2193,7 @@ which is carcinogenic.
 ✅ Checking the tyre inflation pressure regularly  
 ✅ Performing vehicle maintenance regularly  
 ❌ Washing the engine regularly  
-**Comment**:  The correct tire pressure reduces consumption and is part of energy-saving driving. Regular maintenance also ensures  
+**Comment**: The correct tire pressure reduces consumption and is part of energy-saving driving. Regular maintenance also ensures  
 that the vehicle is as environmentally friendly as possible overall.  
   
 292. You are driving in darkness on a well-constructed main road, using your dipped headlights. Within what distance must you be able to stop?  
@@ -2187,15 +2201,15 @@ Within the range of the
 ❌ side lights  
 ✅ dipped headlights  
 ❌ main beam lights  
-**Comment**:  In principle, I am only allowed to drive fast enough to be able to stop within the visibility range. In the dark,  
+**Comment**: In principle, I am only allowed to drive fast enough to be able to stop within the visibility range. In the dark,  
 the visibility range is the same as the range of the low beam. The parking lights may only be used for parking, the high beam  
 only if I have a clear road ahead and no other road users are dazzled.  
   
-293. You are driving a motor vehicle with a manual gearbox. How can you reduce the fuel consumption of your vehicle? --❌IMP  
-❌By driving at a high engine speed  
+293. You are driving a motor vehicle with a manual gearbox. How can you reduce the fuel consumption of your vehicle? –––IMP  
+❌ By driving at a high engine speed  
 ✅ By switching early up to the next gear  
 ✅ By employing an anticipatory driving style, to avoid frequent changes of speed  
-**Comment**:  Fuel-saving driving is as balanced and anticipatory as possible in order to avoid frequent braking and acceleration.  
+**Comment**: Fuel-saving driving is as balanced and anticipatory as possible in order to avoid frequent braking and acceleration.  
 Shift up early when accelerating, as fuel consumption and pollutant emissions are most favorable at low engine speeds.  
   
 294. Why does driving on this stretch of road require greater alertness on the part of the motorist?  
@@ -2206,10 +2220,10 @@ Shift up early when accelerating, as fuel consumption and pollutant emissions ar
 295. You are driving on a wide road on which oncoming traffic can pass by you, unobstructed. Within what distance must you be  
 able to stop in any event?  
 Within  
-❌twice the distance readily visible to me  
+❌ twice the distance readily visible to me  
 ✅ the distance readily visible to me  
-❌half the distance readily visible to me  
-**Comment**:  The following applies to driving motor vehicles: I may only drive as fast as I can control my vehicle. I must  
+❌ half the distance readily visible to me  
+**Comment**: The following applies to driving motor vehicles: I may only drive as fast as I can control my vehicle. I must  
 be able to stop within my range of vision, i.e. the distance I can see. Only on very narrow roads must I be able to stop  
 within half the range of vision, and in the dark within the range of the dipped beam. Then I drive safely. The road here is  
 well developed, so only the answer with the “single” visible distance needs to be ticked. Not half, not double.  
@@ -2218,7 +2232,7 @@ well developed, so only the answer with the “single” visible distance needs 
 ✅ Braking  
 ✅ Steering wheel movements  
 ✅ Accelerating  
-**Comment**:  Slow down on icy roads and avoid accelerating, braking and sudden steering movements wherever possible.  
+**Comment**: Slow down on icy roads and avoid accelerating, braking and sudden steering movements wherever possible.  
   
 297. Air resistance affects the fuel consumption of a vehicle. What affects air resistance the most?  
 ❌ The number of passengers  
