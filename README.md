@@ -19,7 +19,7 @@ before leaving the highway. I may only slow down to pull out on the merging lane
 4. What is true about using the hard shoulder in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_2_07_012.jpg"  width="50%"/>  
 
-The hard shoulder
+The hard shoulder  
 ❌ may only be used by trucks  
 ✅ must be used like a right-hand lane  
 ❌ may only be used in a breakdown situation  
@@ -288,7 +288,9 @@ Due to the constant changing of light and shadow
 **Comment**:  The alternating light and shade typical of avenues makes it difficult to see here: distances are not easier, but rather more difficult to judge. I myself am also less visible to others than usual. I should 
 therefore adapt my speed to the visibility conditions and drive particularly carefully.  
   
-41. Horse riders sign in blue traffic sign means -  
+41. What does this traffic sign indicate?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_154.jpg"  width="50%"/>  
+
 ❌ A path, which may not be used by riders  
 ✅ A bridle-path, which riders are required to use  
 ✅ A bridle-path, which may not be used by other road users  
@@ -303,10 +305,12 @@ therefore adapt my speed to the visibility conditions and drive particularly car
 **Comment**: This traffic sign indicates an emergency detour for highway traffic. If you follow this traffic sign with the same number during a traffic jam, for example, you will be redirected back to the highway at a 
 later point.  
 
-43. If you have to take left turn and there are two routes possible, Which one you will take?  
-❌ Both  
-✅ Right  
-❌ Left  
+43. You want to turn left. What driving line should you maintain?
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_09_019_1.jpg  width="50%"/>  
+
+✅ The right driving line  
+❌ The left driving line  
+❌ Both driving lines are possible  
 **Comment**: This is a “normal” road without one-way traffic, i.e. traffic is permitted in both directions. I must keep to the right-hand lane to avoid endangering oncoming traffic: I keep to the right-hand lane here!  
   
 44. What emotions can influence driving behaviour?  
@@ -5607,7 +5611,7 @@ Watch the movie several times, observe the traffic. What happens in oncoming tra
 ❌ I drive on past the pedestrian  
 ✅ I drive over to the right-side as far as possible  
 ✅ I slow down to walking speed  
-**Comment**: When overtaking pedestrians or bicycles outside built-up areas, a minimum lateral distance of 2 m is prescribed.I can hardly keep that distance here.What's more, I can't see the road ahead.So I don't overtake for the time being. Instead, I anticipate oncoming traffic and ride as far to the right as possible.
+**Comment**: When overtaking pedestrians or bicycles outside built-up areas, a minimum lateral distance of 2 m is prescribed.I can hardly keep that distance here.What's more, I can't see the road ahead.So I don't overtake for the time being.Instead, I anticipate oncoming traffic and ride as far to the right as possible.
 
 736. What must you anticipate here?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_08_032_ende.jpg"  width="50%"/>  
