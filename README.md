@@ -851,7 +851,7 @@ This includes motor vehicles as well as motorcycles and trailers.
 horn to indicate your intention to overtake. Parked cars may be secured with the parking light.  
   
 124. What do you do when you see this traffic sign?(Sign. 308)
-<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_107.jpg  width="50%"/>  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_107.jpg"  width="50%"/>  
 
 ✅ You must be ready to stop despite taking precedence  
 ✅ You may only take precedence when the narrowing is clear  
