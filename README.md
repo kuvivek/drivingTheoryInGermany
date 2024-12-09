@@ -2291,7 +2291,7 @@ that it wants to turn left. The motorcyclist in the rear-view mirror has obvious
 that I am not allowed to overtake someone turning left in front of me.  
   
 317. What is the right course of action now?  
-<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_028_ende.jpg" width="50%"/>  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_028_ende.jpg"  width="50%"/>  
 
 ❌ I overtake the car ahead leaving a large side clearance  
 ✅ I increase my distance to the car ahead  
