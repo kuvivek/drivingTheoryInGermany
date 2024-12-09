@@ -2459,7 +2459,7 @@ and only when there is no one coming towards me on a straight stretch of road. O
 endangered during the entire overtaking maneuver.  
   
 339. You want to turn right at the junction. What should you do?  
-<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_07_116_ende.jpg"  width=%50"/>  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_07_116_ende.jpg"  width="50%"/>   
 
 ❌ I steer clearly to the right, in order to create a space in the right-hand lane  
 ✅ I refrain from turning right, and remain in my lane  
