@@ -5597,7 +5597,7 @@ Watch the movie several times, observe the traffic. What happens in oncoming tra
 735. What is the right course of action now?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_105_ende.jpg"  width="50%"/>  
 
-I drive on past the pedestrian  
+❌ I drive on past the pedestrian  
 ✅ I drive over to the right-side as far as possible  
 ✅ I slow down to walking speed  
 **Comment**: When overtaking pedestrians or bicycles outside built-up areas, a minimum lateral distance of 2 m is prescribed.I can hardly keep that distance here.What's more, I can't see the road ahead.So I don't overtake 
@@ -5612,3 +5612,11 @@ for the time being.Instead, I anticipate oncoming traffic and ride as far to the
 **Comment**: When approaching the end of a traffic jam, I have to switch on the hazard warning lights immediately to warn those behind. I have to be prepared for motorcyclists trying to weave their way between others. In 
 addition, the vehicle behind me could notice the traffic jam too late ... (keep an eye on the rear-view mirror!). The vehicle that can be seen in the left wing mirror brakes significantly and will no longer cut in front of 
 me. TIP: Watch the movie again and pay attention to the movement in the rear-view mirrors!  
+
+737. What is the right course of action now?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_1_07_165_1_ende.jpg"  width="50%"/>  
+
+❌ I pass quickly through the junction  
+❌ I brake slightly  
+✅ I perform an emergency stop  
+**Comment**: I have to watch out for others at junctions, even if you can't always see them! Didn't a moped approach the junction from the left? It may be going straight ahead. It has “disappeared” behind the tractor, so be careful! TIP: Watch the movie again and watch out for movement from the left!
