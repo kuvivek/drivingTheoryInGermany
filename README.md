@@ -2377,6 +2377,7 @@ normal case? They must
 that must lead to the overtaking maneuver being aborted.  
   
 328. Why are you required to stop now?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_09_125_ende.jpg"  width="50%"/>  
 ❌ Because of the white car  
 ✅ Because of the tram  
 ❌ Because of the cyclist  
@@ -2385,6 +2386,7 @@ attention to traffic signs!
   
 329. You want to turn right at the junction. What is the right thing to do?    
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg"  width="50%"/>  
+
 ✅ I change lanes as early as possible  
 ❌ I may only cross over the cycle lane at walking speed  
 ✅ I may not impede cyclists in the cycle lane  
@@ -2393,6 +2395,8 @@ so I have a reserve. I drive at the permitted speed so that I don't obstruct cyc
 (rear-view mirror), for example! 
   
 330. You want to turn left. Which line should you follow? (Einbahnstraße with Cycle to have bidrection)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_09_010.jpg"  width="%50"/>  
+
 ❌ The right driving line  
 ✅ The middle driving line  
 ❌ The left driving line  
@@ -2468,6 +2472,8 @@ endangered during the entire overtaking maneuver.
 turning back or taking a different route (navigation system).  
   
 340. You want to reverse park on the right-hand side of the road. What is correct in this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_12_109.jpg"  width="50%"/>   
+
 ✅ I anticipate that vehicles may exit their parking spaces  
 ✅ I closely observe the oncoming traffic before manoeuvring into the space  
 ❌ I switch on my hazard lights  
@@ -2486,41 +2492,38 @@ direction and must not endanger anyone. If visibility is obstructed, you must be
 ❌ After taking the turn  
 ✅ Before taking the turn  
 ✅ Before selecting the appropriate lane  
-**Comment**:  If I want to turn off, I have to keep a close eye on the traffic behind before I signal and get into the lane.  
-I then continue to keep an eye on the traffic behind and only turn when the traffic situation allows it.  
+**Comment**:  If I want to turn off, I have to keep a close eye on the traffic behind before I signal and get into the lane.  I then continue to keep an eye on the traffic behind and only turn when the traffic situation 
+allows it. 
   
 343. Two vehicles approach one another at an intersection. Both vehicles want to turn left. In what exceptional case do they 
 have to turn one after the other?  
 ✅ If the road traffic situation demands it  
 ❌ If the vehicles are crossing over an equal priority intersection  
 ✅ If the layout of the intersection demands it  
-**Comment**: Left-turning drivers coming towards each other usually have to turn in front of each other. However, this can  
-lead to dangerous misunderstandings. If the traffic situation requires it or the design of the junction dictates it, e.g. by   
-markings on the road, road users must turn one behind the other.  
+**Comment**: Left-turning drivers coming towards each other usually have to turn in front of each other. However, this can lead to dangerous misunderstandings. If the traffic situation requires it or the design of the 
+junction dictates it, e.g. by markings on the road, road users must turn one behind the other.  
   
 344. Why can it be dangerous to overtake even on clearly visible, straight roads?  
 Because the  
 ✅ the overtaking distance is longer than first thought  
 ❌ oncoming traffic is travelling slower than first thought  
 ✅ oncoming traffic is travelling faster than first thought  
-**Comment**: On clear stretches of road, the speed of oncoming vehicles is often underestimated. As a result, overtaking can  
-also be dangerous on these routes. In addition, the overtaking distance can be longer than expected.  
+**Comment**: On clear stretches of road, the speed of oncoming vehicles is often underestimated. As a result, overtaking can also be dangerous on these routes. In addition, the overtaking distance can be longer than 
+expected. 
   
 345. You are driving a slow-moving vehicle on a main road. How can you facilitate faster-moving vehicles in overtaking?  
 By moving  
 ✅ onto the hard shoulder  
 ✅ onto the parking area  
 ✅ into a lay-by  
-**Comment**: As the driver of a slower vehicle, you must allow faster vehicles to overtake. For example, pull off onto the hard  
-shoulder, a parking lane or into a lay-by and wait there until the faster vehicles have passed. Swerving onto the hard shoulder  
-is not permitted on highways.  
+**Comment**: As the driver of a slower vehicle, you must allow faster vehicles to overtake. For example, pull off onto the hard shoulder, a parking lane or into a lay-by and wait there until the faster vehicles have 
+passed. Swerving onto the hard shoulder is not permitted on highways.  
   
 346. The indicator light is flashing much faster than usual. What could be the cause of this?  
 ❌ The fuse is faulty  
 ❌ The hazard lights are switched on  
 ✅ A bulb is defective  
-**Comment**: If the bulb of a blinker is defective, I can recognize this while driving: The indicator light flashes much faster  
-than usual if a turn signal has failed on the vehicle.  
+**Comment**: If the bulb of a blinker is defective, I can recognize this while driving: The indicator light flashes much faster than usual if a turn signal has failed on the vehicle.  
   
 347. In what situation is the eCall system designed to be triggered manually?  
 ✅ If a passenger suffers a medical emergency  
@@ -5572,3 +5575,14 @@ encounter in my lane! TIP: Watch the movie several times. What happens in oncomi
 ✅ As it begins moving, the bus will swing out onto my side of the road  
 ❌ The quad suddenly starts to move  
 **Comment**: The flashing light on the bus indicates that it is just leaving a stop. Approaching buses in oncoming traffic can briefly enter my lane. The quad bike in the parking lane has nothing to do with the situation.
+
+734. Why are you not allowed to overtake here now?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_027_1_ende.jpg"  width="50%"/>  
+Because of the
+
+❌ blue car
+❌ signposted prohibition on overtaking
+✅ motorbike
+**Comment**: The motto here is: Watch out! The tractor and dip in the ground make oncoming traffic difficult to see. After the first vehicle, a motorcycle comes out of the tractor's shadow: overtaking is impossible. TIP: 
+Watch the movie several times, observe the traffic. What happens in oncoming traffic?
+
