@@ -5620,3 +5620,4 @@ me. TIP: Watch the movie again and pay attention to the movement in the rear-vie
 ❌ I brake slightly  
 ✅ I perform an emergency stop  
 **Comment**: I have to watch out for others at junctions, even if you can't always see them! Didn't a moped approach the junction from the left? It may be going straight ahead. It has “disappeared” behind the tractor, so be careful! TIP: Watch the movie again and watch out for movement from the left!
+
