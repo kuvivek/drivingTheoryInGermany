@@ -151,6 +151,8 @@ there are traffic jam warnings, I have to be particularly attentive and careful 
 driving maneuvers.  
   
 24. Why should you further reduce your speed here?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_015_ende.jpg"  width="50%"/>  
+
 ✅ Because other people may walk onto the road  
 ✅ Because the red car could cross onto my lane  
 ❌ Because the blue car could continue moving  
