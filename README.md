@@ -2383,7 +2383,8 @@ that must lead to the overtaking maneuver being aborted.
 **Comment**: I am on a priority road. That's why the white car on my right has to wait for me. But the oncoming streetcar is turning left in front of me: I have to stop and let it pass. TIP: Watch the movie again and pay 
 attention to traffic signs!  
   
-329. You want to turn right at the junction. What is the right thing to do?<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg"  width="50%"/>  
+329. You want to turn right at the junction. What is the right thing to do?    
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg"  width="50%"/>  
 ✅ I change lanes as early as possible  
 ❌ I may only cross over the cycle lane at walking speed  
 ✅ I may not impede cyclists in the cycle lane  
@@ -2419,76 +2420,67 @@ therefore be at least twice as long as the overtaking distance - i.e. the crest 
 ✅ The necessary overtaking distance is significantly increased due to the trailer  
 ✅ The external bodywork of the truck-trailer combination may conceal vehicles ahead  
 ❌ You may only pull out to overtake once you are directly behind the truck-trailer combination  
-**Comment**: Overtaking is one of the most dangerous driving maneuvers if you have to drive into the traffic space of oncoming  
-traffic. The length of the overtaking distance depends not only on the speed and length of the vehicle being overtaken. I must  
-also be aware that the outline of the vehicle in front of me may obscure the vehicles in front.  
+**Comment**: Overtaking is one of the most dangerous driving maneuvers if you have to drive into the traffic space of oncoming traffic. The length of the overtaking distance depends not only on the speed and length of the 
+vehicle being overtaken. I must also be aware that the outline of the vehicle in front of me may obscure the vehicles in front.  
   
 334. You want to overtake. What should you do? Video Question:  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_008_1_ende.jpg"  width="50%"/>  
+
 I overtake  
 ✅ only if there is no oncoming vehicle  
 ❌ at the same time, as the quad bike  
 ✅ only if I have a clear view over the necessary stretch of road  
-**Comment**: Overtaking maneuvers require careful consideration and execution. The risk of accidents is high and collisions can be  
-life-threatening. That's why I only overtake when I have a clear view of the route ahead and only when there is no one coming  
-towards me on a straight stretch of road. Overtaking at the same time as others is not an option, but increases the risk of  
-accidents. TIP: Watch the movie again at your leisure!  
+**Comment**: Overtaking maneuvers require careful consideration and execution. The risk of accidents is high and collisions can be life-threatening. That's why I only overtake when I have a clear view of the route ahead 
+and only when there is no one coming towards me on a straight stretch of road. Overtaking at the same time as others is not an option, but increases the risk of accidents. TIP: Watch the movie again at your leisure!  
   
 335. Is it irresponsible to overtake a truck and trailer a short distance before a crossroads?  
 ❌ No, because trucks and trailers mostly drive at low speed  
 ✅ Yes, because the truck and trailer can obscure the view of the crossing traffic  
 ✅ Yes, because the truck and trailer can obscure the view of important traffic signs  
-**Comment**: Large trucks often obscure the view of important traffic signs and other road users in cross traffic. It would  
-therefore be reckless to overtake a truck just before the junction.  
+**Comment**: Large trucks often obscure the view of important traffic signs and other road users in cross traffic. It would therefore be reckless to overtake a truck just before the junction.  
   
 336. Which vehicles may be overtaken only by maintaining a specially great lateral distance?  
 ❌ Trams  
 ✅ Motorcycles  
 ✅ Bicycles  
-**Comment**: You may only overtake bicycles, motorcycles and pedestrians on the road with a particularly large gap -at least 1.5m.  
-You must wait behind them if there is not enough space for the side distance due to oncoming traffic.  
+**Comment**: You may only overtake bicycles, motorcycles and pedestrians on the road with a particularly large gap -at least 1.5m. You must wait behind them if there is not enough space for the side distance due to oncoming traffic.  
   
 337. You want to turn left. To whom must you give priority?  
 ✅ Oncoming vehicles  
 ✅ Pedestrians seeking to cross the road into which I am turning  
 ✅ Oncoming cyclists  
-**Comment**:  When turning, you must allow motor vehicles and cyclists coming towards you to pass. You must pay particular  
-attention to pedestrians who want to cross the road. Wait if necessary.  
+**Comment**: When turning, you must allow motor vehicles and cyclists coming towards you to pass. You must pay particular attention to pedestrians who want to cross the road. Wait if necessary.  
   
 338. What is the correct procedure for pulling out to overtake?  
 ✅ There is no danger to the traffic behind  
 ❌ The vehicle in front indicates right  
 ✅ Oncoming traffic is not endangered  
-**Comment**:  Overtaking is one of the most dangerous driving maneuvers when you have to drive into the traffic space of  
-oncoming traffic. You may only overtake if neither oncoming nor following vehicles are obstructed or endangered  
-during the entire overtaking maneuver.  
+**Comment**: Overtaking is one of the most dangerous driving maneuvers when you have to drive into the traffic space of oncoming traffic. You may only overtake if neither oncoming nor following vehicles are obstructed or 
+endangered during the entire overtaking maneuver.  
   
-339. You want to turn right at the junction. What should you do? (There is no space left on the right because of chain of cars  
-after the hurdle on the right.)  
+339. You want to turn right at the junction. What should you do?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_07_116_ende.jpg"  width=%50"/>  
+
 ❌ I steer clearly to the right, in order to create a space in the right-hand lane  
 ✅ I refrain from turning right, and remain in my lane  
 ❌ I wait until all the vehicles have passed by, and then I move into the right-hand lane  
-**Comment**:  If I have “accidentally” turned left instead of right on a multi-lane road with directional arrows, I must first  
-turn left, even if I actually wanted to turn right. I can then make up for the mistake by turning back or taking a different  
-route (navigation system).  
+**Comment**: If I have “accidentally” turned left instead of right on a multi-lane road with directional arrows, I must first turn left, even if I actually wanted to turn right. I can then make up for the mistake by  
+turning back or taking a different route (navigation system).  
   
 340. You want to reverse park on the right-hand side of the road. What is correct in this situation?  
 ✅ I anticipate that vehicles may exit their parking spaces  
 ✅ I closely observe the oncoming traffic before manoeuvring into the space  
 ❌ I switch on my hazard lights  
-**Comment**:  Wherever there are a lot of vehicles parked, you have to expect people to pull out. To reverse into a parking  
-space perpendicular to the direction of travel, I need a lot of space. That's why I pay particular attention to oncoming  
-traffic when turning into a parking space (my vehicle swerves out). The hazard warning lights remain off: Except when a vehicle  
-is broken down or being towed away, the hazard warning lights may only be switched on if the vehicle endangers others or warns  
-of danger (§ 16 StVO).  
+**Comment**: Wherever there are a lot of vehicles parked, you have to expect people to pull out. To reverse into a parking space perpendicular to the direction of travel, I need a lot of space. That's why I pay particular 
+attention to oncoming traffic when turning into a parking space (my vehicle swerves out). The hazard warning lights remain off: Except when a vehicle is broken down or being towed away, the hazard warning lights may only 
+be switched on if the vehicle endangers others or warns of danger (§ 16 StVO).  
   
 341. You want to leave a property lot and turn into a road while passing over a footpath. What must you look out for?  
 ✅ Pedestrians on the footpath may not be endangered  
 ✅ You should be directed by another person if necessary  
 ❌ First take note of the flowing traffic on the road  
-**Comment**:  If you want to drive out of a property onto the road, you must indicate your direction of travel. All other road  
-users have priority. This means that you must also let pedestrians and cyclists pass from any direction and must not endanger  
-anyone. If visibility is obstructed, you must be “instructed”.  
+**Comment**:  If you want to drive out of a property onto the road, you must indicate your direction of travel. All other road users have priority. This means that you must also let pedestrians and cyclists pass from any 
+direction and must not endanger anyone. If visibility is obstructed, you must be “instructed”.  
   
 342. You want to turn left. When must you pay attention to the traffic following behind you?  
 ❌ After taking the turn  
