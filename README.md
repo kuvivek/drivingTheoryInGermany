@@ -151,6 +151,8 @@ there are traffic jam warnings, I have to be particularly attentive and careful 
 driving maneuvers.  
   
 24. Why should you further reduce your speed here?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_015_ende.jpg"  width="50%"/>  
+
 ✅ Because other people may walk onto the road  
 ✅ Because the red car could cross onto my lane  
 ❌ Because the blue car could continue moving  
@@ -170,14 +172,14 @@ shoulder. Secure the danger zone by switching on the hazard warning lights and s
 ✅ Cycles may travel alongside one another  
 ✅ Cycle traffic may not be impeded  
 ✅ Vehicles may not be driven faster than 30 km/h  
-**Comment**:  No other vehicle traffic is permitted in cycle lanes. Bicycles must not be obstructed and must ride side by side. The additional sign allows an exception here: residents may enter these roads with their 
+**Comment**: No other vehicle traffic is permitted in cycle lanes. Bicycles must not be obstructed and must ride side by side. The additional sign allows an exception here: residents may enter these roads with their 
 vehicles -but only at a maximum speed of 30 km/h.  
   
 27. When must you wait at a level crossing?  
 ✅ When a flashing red light comes on  
 ✅ When the barriers are being lowered  
 ✅ When a railway employee is waving a white-red-white flag  
-**Comment**:  Only approach level crossings at a moderate speed so that you can stop if necessary. You must wait in front of a level crossing when the red flashing light is on, the barriers are lowered or a railroad 
+**Comment**: Only approach level crossings at a moderate speed so that you can stop if necessary. You must wait in front of a level crossing when the red flashing light is on, the barriers are lowered or a railroad 
 employee is waving a white-red-white flag.
   
 28. When are you allowed to remain on the left-hand lane in this situation?  
@@ -267,7 +269,7 @@ report the wrong-way driver to the police.
 ✅ Indication of existing overhead electrical wires  
 ✅ You must always wait when a rail vehicle is approaching  
 ✅ Rail traffic always has priority  
-**Comment**:  The St. Andrew's cross is usually located directly in front of level crossings and indicates that rail traffic must be given priority. A flashing arrow in the middle of the St. Andrew's cross indicates that 
+**Comment**: The St. Andrew's cross is usually located directly in front of level crossings and indicates that rail traffic must be given priority. A flashing arrow in the middle of the St. Andrew's cross indicates that 
 the railroad line has an overhead electric line.  
   
 39. When driving on motorways, why should you maintain the recommended speed of 130 km/h?  
@@ -2232,7 +2234,7 @@ attention to the movements of the others!
 ✅ Because I am not allowed to drive significantly faster than the moped rider  
 ✅ Because I am unable to maintain the requisite amount of side clearance  
 ✅ Because this might cause the moped rider to fall  
-**Comment**:  The road is very narrow due to the roadworks, so it is not possible to keep the prescribed side distance when overtaking. The motorcyclist could feel pressured, swerve and crash. In any case, I'm not allowed 
+**Comment**: The road is very narrow due to the roadworks, so it is not possible to keep the prescribed side distance when overtaking. The motorcyclist could feel pressured, swerve and crash. In any case, I'm not allowed 
 to drive faster than 30 km/h here (traffic sign at the beginning of the movie). Then I would only be a little faster than the moped (25 km/h). TIP: Watch the movie questions several times, sometimes you have already driven 
 past the hint!
   
@@ -2243,14 +2245,14 @@ past the hint!
 ✅ The left driving line  
 ❌ The middle driving line  
 **Comment**: If you want to turn left, you must 1. indicate and 2. get into the center lane, both in good time. On one-way roads - e.g. one-way streets - I have to get into the left-hand lane as far as possible. In this 
-case, it is a one-way street without two-way traffic (traffic sign “Einbahnstraße” in the picture above right). Without additional signs, I do not have to  expect bicycle traffic here either: I must follow the left-hand 
+case, it is a one-way street without two-way traffic (traffic sign “Einbahnstraße” in the picture above right). Without additional signs, I do not have to expect bicycle traffic here either: I must follow the left-hand 
 lane.  
   
 311. In what situation is it especially dangerous to perform a turn?  
 ✅ Before the crest of a hill  
 ✅ In foggy conditions  
 ✅ Before bends in the road  
-**Comment**:  When turning on the road, I can quickly become an unforeseen obstacle for others. This is particularly dangerous in heavy and fast-moving traffic, in confusing traffic situations, in fog, in front of and 
+**Comment**: When turning on the road, I can quickly become an unforeseen obstacle for others. This is particularly dangerous in heavy and fast-moving traffic, in confusing traffic situations, in fog, in front of and 
 behind bends or crests. 
   
 312. I want to re-join the road. What is the correct assessment of this situation? (repeated question)   
@@ -2283,7 +2285,7 @@ underestimate the speed of oncoming traffic. Always stop overtaking in case of d
 ✅ make sure there is no road user beside you on the right intending to go straight on  
 ❌ simply glance in the mirror to check that there is no cyclist behind you  
 ❌ concentrate fully on the turning manoeuvre because any cyclist has to wait anyway  
-**Comment**:   You had to wait at a traffic light: As a right-turner, when the light turns green, you first check whether a road user to your right wants to continue straight ahead. You must first let other road users 
+**Comment**: You had to wait at a traffic light: As a right-turner, when the light turns green, you first check whether a road user to your right wants to continue straight ahead. You must first let other road users 
 coming towards you from the front or wanting to continue straight ahead next to you through. This applies to the road and the cycle path and footpath next to you.  
   
 316. Why must you discontinue your overtaking manoeuvre here? -- Video Question  
@@ -5591,4 +5593,13 @@ Because of the
 ✅ motorbike
 **Comment**: The motto here is: Watch out! The tractor and dip in the ground make oncoming traffic difficult to see. After the first vehicle, a motorcycle comes out of the tractor's shadow: overtaking is impossible. TIP: 
 Watch the movie several times, observe the traffic. What happens in oncoming traffic?
+
+735. What is the right course of action now?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_105_ende.jpg"  width="50%"/>  
+
+I drive on past the pedestrian  
+✅ I drive over to the right-side as far as possible  
+✅ I slow down to walking speed  
+**Comment**: When overtaking pedestrians or bicycles outside built-up areas, a minimum lateral distance of 2 m is prescribed.I can hardly keep that distance here.What's more, I can't see the road ahead.So I don't overtake 
+for the time being.Instead, I anticipate oncoming traffic and ride as far to the right as possible.  
 
