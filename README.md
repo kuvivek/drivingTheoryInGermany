@@ -1893,7 +1893,9 @@ During these seconds, obstacles on the road, high kerbs at the edge of the road 
 **Comment**: You must always adapt your speed to the current circumstances. This includes visibility and weather conditions, road conditions,  
 traffic conditions and your current personal abilities.  
   
-250. What could make this situation become hazardous?  
+250. What could make this situation become hazardous?  -- Video Question
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_05_103_ende.jpg"  widhth="50%"/>   
+
 ✅ Oncoming traffic  
 ✅ The red car  
 ❌ The tractor  
@@ -2089,7 +2091,7 @@ driving downhill or driving with an unbraked trailer increase this “standard�
 the tires – they will wear out more. (No connection to the rear brake given the book.)  
   
 278. Why must you wait before taking a turn in this situation?  
-<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_09_132_1_ende.jpg"  width="%50"/>  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_09_132_1_ende.jpg"  width="50%"/>  
 
 ❌ Because of the pedestrian  
 ✅ Because of the motorbike  
@@ -2497,7 +2499,7 @@ particular case, however, cyclists are permitted to ride in oncoming traffic (tr
 and means: “Cycling is permitted in the opposite direction”. I must therefore follow the center line of traffic and leave space for bicycle traffic.  
 
 331. You want to park on the right-hand edge of the road. What should you do in this situation?  
-<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_12_107_1_ende.jpg"  width="%50"/>  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_2_12_107_1_ende.jpg"  width="50%"/>  
 
 ✅ I forego the parking space, even though I have priority  
 ❌ I park now, because I have priority  
@@ -3107,8 +3109,7 @@ The child should
 ✅ If there are rails integrated into the road lane  
 **Comment**:  Normally I can park on the right side of the road. However, it is prohibited if there are tracks there or if there is a shoulder suitable for parking or a usable parking lane to the right of them.  
   
-410. What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be   
-concealed by the vehicle? --- IMP  
+410. What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be concealed by the vehicle? ––IMP
 __10m__  
 **Comment**: Traffic lights must always be visible in good time. That's why you shouldn't cover them with the vehicle when stopping. If this is the case, you must maintain a distance of at least 10m from the traffic 
 lights.  
@@ -3119,7 +3120,15 @@ lights.
 ✅ Open the doors on the roadway side only when traffic permits  
 **Comment**: In order not to endanger the flow of traffic on the street, passengers should, if possible, get in on the side of the sidewalk. If you get in on the side of the road, you should only open the doors when 
 traffic permits.
-  
+
+412. In what sequence may each continue driving?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_127.jpg"  width="50%"/>  
+
+✅ The cyclist, me, the yellow car  
+❌ Me, the cyclist, the yellow car  
+❌ The cyclist, the yellow car, me  
+**Comment**: If I want to leave the turning priority road straight ahead, I must let the cyclist on the priority road go first. However, I may ride in front of the oncoming car, which also wants to leave the priority road (rule: right before left), i.e.: 1. the bicycle, 2. me, 3. the vehicle from the left.
+
 413. Your car suffers a flat tyre on the motorway. What should you do?  
 I have to  
 ✅ turn on my hazard lights and park as far to the right as possible  
@@ -4551,7 +4560,7 @@ GVW does not leave a single gram for the vehicle. I need a driving license categ
 595. Your vehicle is snowed under. What do you have to do before you drive off?  
 I have to  
 ✅ remove ice and snow from the windows and mirrors  
-❌allow the engine to warm up  
+❌ allow the engine to warm up  
 ✅ remove ice and snow from the lighting systems including during daytime  
 **Comment**:  Good all-round visibility is an important prerequisite for safe driving. If windows and mirrors are iced up, 
 I have to remove the ice not only from the windows for my own visibility, but also from the lighting equipment: - So that 
@@ -5718,3 +5727,27 @@ Watch the movie several times, observe the traffic. What happens in oncoming tra
 ✅ Residents holding a parking licence with corresponding number may park here  
 ❌ Everybody may use this parking space as long as other parking spaces are still free  
 **Comment**: These traffic signs only permit parking for residents with a correspondingly numbered parking permit.
+
+740. You are driving on a road that has a protective lane for cyclists. How may you use the protective lane?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_4_42_147_1.jpg"  width="50%"/>  
+
+If there is no risk to cyclists, I may  
+❌ park on the protective lane  
+✅ drive on the protective lane when necessary  
+❌ stop on the protective lane  
+**Comment**: On roads with protective lanes for cyclists, I may only drive over the marking with a motor vehicle if necessary, e.g. for evasive action. This must not endanger cyclists. Stopping or parking on the hard shoulder is prohibited (hard shoulder for cyclists!).  
+
+
+741. What should you do in this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_26_114.jpg"  width="50%"/>  
+
+✅ I allow the pedestrian to cross the road  
+✅ I wait this side of the pedestrian crossing until the blue vehicle has made the turn  
+❌ I pull up directly behind the blue vehicle  
+**Comment**: You may not stop on a crosswalk (crosswalk). If traffic is stopped, you must wait in front of it to allow pedestrians to cross. When turning, you must pay particular attention to pedestrians and, if necessary, stop and wait again.  
+
+742. What can cause unnecessary obstructions?  
+✅ Motor vehicles breaking down because they have run out of fuel  
+✅ Vehicles proceeding too slowly for no good reason  
+✅ Stalling the engine in dense traffic  
+**Comment**: Section 1 of the Road Traffic Regulations stipulates that every road user must behave in such a way that no other person is hindered or inconvenienced more than is unavoidable under the circumstances. You obstruct others unnecessarily if, for example, you drive slowly for no reason, break down due to a lack of fuel or stall your engine.  
