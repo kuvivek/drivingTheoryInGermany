@@ -2402,7 +2402,9 @@ maneuver being aborted.
 **Comment**:  I am on a priority road. That's why the white car on my right has to wait for me. But the oncoming streetcar is  
 turning left in front of me: I have to stop and let it pass. TIP: Watch the movie again and pay attention to traffic signs!  
   
-330. You want to turn right at the junction. What is the right thing to do?<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg"  width="50%"/>  
+330. You want to turn right at the junction. What is the right thing to do?    
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg"  width="50%"/>
+
 ✅ I change lanes as early as possible  
 ❌ I may only cross over the cycle lane at walking speed  
 ✅ I may not impede cyclists in the cycle lane  
@@ -2411,7 +2413,7 @@ I have to use a double gap. That's why it's best to change lanes as early as pos
 speed so that I don't obstruct cyclists or other vehicles when I change lanes. If I had to slow down to walking speed, it would be far  
 too dangerous for the cyclist behind me (rear-view mirror), for example!  
   
-331. You want to turn left. Which line should you follow? (Einbahnstraße with Cycle to have bidrection)  
+332. You want to turn left. Which line should you follow? (Einbahnstraße with Cycle to have bidrection)  
 ❌ The right driving line  
 ✅ The middle driving line  
 ❌ The left driving line  
@@ -2421,7 +2423,7 @@ are permitted to ride in oncoming traffic (traffic sign in the picture above rig
 “One-way street” traffic sign shows a bicycle above two opposing arrows and means: “Cycling is permitted in the opposite  
 direction”. I must therefore follow the center line of traffic and leave space for bicycle traffic.  
   
-332. You are driving at 100 km/h on a road not inside a built-up area. In front of you a truck is travelling at 70 km/h.  ----IMP  
+333. You are driving at 100 km/h on a road not inside a built-up area. In front of you a truck is travelling at 70 km/h.  ----IMP  
 What is the minimum distance you must be from a crest in the road when commencing an overtaking manoeuvre?  
 ✅ 800 m  
 ❌ 400 m  
@@ -3011,7 +3013,7 @@ Which is correct in this situation?
 ✅ Stop. Give way.  
 ❌ No stopping  
 ✅ Diagonal cross  
-Comment :Important traffic signs such as the St. Andrew's Cross (Also known as St. Andrew Cross )or "Stop. Give way." and  traffic lights must always be visible in good time. That's why you shouldn't cover them with the 
+**Comment**: Important traffic signs such as the Diagonal Cross (Also known as St. Andrew Cross ) and "Stop. Give way." and traffic lights must always be visible in good time. That's why you shouldn't cover them with the 
 vehicle when stopping. To ensure a clear view of the sign, you must maintain a distance of at least 10 m from the traffic sign.  
   
 406. Where are you allowed to park a trailer with a permissible total mass exceeding 2 t in built-up areas regularly on  
@@ -3019,7 +3021,7 @@ sundays and public holidays and between 10 p.m. and 6 a.m.?
 ✅ In wholly residential areas, on specially designated parking spaces  
 ❌ In special areas reserved for recreation purposes, on sufficiently wide roads  
 ✅ In industrial areas  
-**Comment**:  Trailers with a permissible total mass of over 2 tonnes are allowed to park regularly in commercial areas and  in appropriately marked parking spaces in residential areas, including on Sundays and public 
+**Comment**: Trailers with a permissible total mass of over 2 tonnes are allowed to park regularly in commercial areas and in appropriately marked parking spaces in residential areas, including on Sundays and public 
 holidays and between 10 p.m. and 6 a.m.  
   
 408. You want to let a child out of your car. What should you be aware of when doing so?  
@@ -3032,7 +3034,7 @@ The child should
 ✅ If there is a suitable parking lane to the right of the road lane  
 ✅ If there is an adequately paved hard shoulder to the right of the road lane  
 ✅ If there are rails integrated into the road lane  
-**Comment**:  Normally I can park on the right side of the road. However, it is prohibited if there are tracks there or if there is a shoulder suitable for parking or a usable parking lane to the right of them.  
+**Comment**: Normally I can park on the right side of the road. However, it is prohibited if there are tracks there or if there is a shoulder suitable for parking or a usable parking lane to the right of them.  
   
 410. What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be   
 concealed by the vehicle? --- IMP  
@@ -3060,7 +3062,7 @@ vehicle and the solid lane boundary line? __3m__
 415. Your car has an engine fault and must be towed away with a tow rope. What must you be aware of?  
 ❌ Driving licence class BE is the minimum required in order to tow a car  
 ✅ A malfunctioning car with assisted steering is difficult to steer  
-✅ When towing an electric vehicle, it is necessary to following the manufacturer’s guidelines  
+✅ When towing an electric vehicle, it is necessary to follow the manufacturer’s guidelines  
 **Comment**:  There are a few things to consider when towing. A steering aid (power steering) only works when the engine is running. If the engine fails, steering becomes difficult. Special conditions apply to electric 
 vehicles: Always follow the manufacturer's instructions  
   
