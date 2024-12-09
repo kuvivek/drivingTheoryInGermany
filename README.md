@@ -2209,7 +2209,6 @@ suddenly, you need time to react. To avoid a collision during this time, the dis
 always be at least 2 seconds, especially at higher speeds. Remember a fixed point at which the vehicle in front is passing.  
 If you only reach this point after you have counted “21, 22”, you have at least a 2-second gap.  
   
-  
 306. How can you save fuel?  
 ❌ Avoid driving in top gear  
 ✅ By observing at least the tyre pressure indicated in the owner's manual  
@@ -2221,8 +2220,9 @@ You should therefore remove roof racks or ski racks if you do not need them.
 307.  What is the maximum speed you are allowed to drive a car with trailer on roads outside of built-up areas? __80km/hr__  
 **Comment**:  With a car with a trailer, you may drive a maximum of 80 km/h on rural roads outside built-up areas.  
   
-  
 308. Why is it dangerous to overtake in this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_033_ende.jpg"  width="50%"/>
+
 ✅ Because there is not sufficient space to pull back in between the vehicles ahead  
 ✅ Because vehicles ahead may swerve out  
 ✅ Because I cannot see far enough along the route necessary for overtaking  
@@ -2231,7 +2231,7 @@ up with. It's possible that one of the vehicles is about to pull out to overtake
 of the route and we are approaching a left-hand bend. It will also be too narrow between the vehicles in front of me to get back  
 into the lane. TIP: Watch the movie several times and pay attention to the movements of the others!  
   
-309. Why should you not overtake the moped rider in this situation?  
+310. Why should you not overtake the moped rider in this situation?  
 ✅ Because I am not allowed to drive significantly faster than the moped rider  
 ✅ Because I am unable to maintain the requisite amount of side clearance  
 ✅ Because this might cause the moped rider to fall  
@@ -2240,7 +2240,8 @@ The motorcyclist could feel pressured, swerve and crash. In any case, I'm not al
 at the beginning of the movie). Then I would only be a little faster than the moped (25 km/h). TIP: Watch the movie questions several  
 times, sometimes you have already driven past the hint!  
   
-310. You want to turn left. Which line should you follow?<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_09_011_1.jpg"  width="50%"/>  
+311. You want to turn left. Which line should you follow?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_09_011_1.jpg"  width="50%"/>  
 ❌ The right driving line  
 ✅ The left driving line  
 ❌ The middle driving line  
@@ -2249,14 +2250,14 @@ roads - e.g. one-way streets - I have to get into the left-hand lane as far as p
 without two-way traffic (traffic sign “Einbahnstraße” in the picture above right). Without additional signs, I do not have to  
 expect bicycle traffic here either: I must follow the left-hand lane.  
   
-311. In what situation is it especially dangerous to perform a turn?  
+312. In what situation is it especially dangerous to perform a turn?  
 ✅ Before the crest of a hill  
 ✅ In foggy conditions  
 ✅ Before bends in the road  
 **Comment**:  When turning on the road, I can quickly become an unforeseen obstacle for others. This is particularly dangerous  
 in heavy and fast-moving traffic, in confusing traffic situations, in fog, in front of and behind bends or crests.  
   
-312. I want to re-join the road. What is the correct assessment of this situation? (repeated question)   
+313. I want to re-join the road. What is the correct assessment of this situation? (repeated question)   
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_162.jpg"  width="50%"/>  
 When they approach me from the rear  
 ❌ drivers give my priority in re-joining the road  
@@ -2267,7 +2268,7 @@ Sometimes my view is obscured if, for example, a truck is parked behind me. I my
 behind late -and the traffic behind also sees my vehicle late. In such a situation, I drive forward carefully until I have a  
 better view and wait for a sufficient gap to pull away.  
   
-313. When are you in danger when overtaking?  
+314. When are you in danger when overtaking?  
 When the road user being overtaken  
 ✅ suddenly accelerates  
 ✅ swerves out to overtake  
@@ -2276,7 +2277,7 @@ When the road user being overtaken
 overtaken suddenly accelerates, preventing the overtaking vehicle from leaving the oncoming lane as planned. It also becomes  
 dangerous if the person being overtaken unexpectedly pulls out to overtake.  
   
-314. Why can it be dangerous to overtake on an unobscured, straight road?  
+315. Why can it be dangerous to overtake on an unobscured, straight road?  
 Because I  
 ✅ estimate the distance away of an oncoming vehicle as being too great  
 ✅ estimate my overtaking distance to be shorter than it is  
@@ -2285,7 +2286,7 @@ Because I
 It also becomes dangerous if your own overtaking distance is too short or if you underestimate the speed of oncoming traffic.  
 Always stop overtaking in case of danger!  
   
-315. You are waiting at a traffic light and want to turn right. What should you remember?  
+316. You are waiting at a traffic light and want to turn right. What should you remember?  
 ✅ make sure there is no road user beside you on the right intending to go straight on  
 ❌ simply glance in the mirror to check that there is no cyclist behind you  
 ❌ concentrate fully on the turning manoeuvre because any cyclist has to wait anyway  
@@ -2293,7 +2294,7 @@ Always stop overtaking in case of danger!
 user to your right wants to continue straight ahead. You must first let other road users coming towards you from the front or  
 wanting to continue straight ahead next to you through. This applies to the road and the cycle path and footpath next to you.  
   
-316. Why must you discontinue your overtaking manoeuvre here?  
+317. Why must you discontinue your overtaking manoeuvre here?  
 ❌ Because the motorbike will overtake me  
 ✅ Because the tractor will turn off to the left  
 ❌ Because I can see a no-overtaking sign  
@@ -2303,7 +2304,7 @@ The motorcyclist in the rear-view mirror has obviously recognized the situation 
 There is no no-overtaking sign in sight: but it wouldn't change the fact that I am not allowed to overtake someone turning  
 left in front of me.  
   
-317. What is the right course of action now?  
+318. What is the right course of action now?  
 ❌ I overtake the car ahead leaving a large side clearance  
 ✅ I increase my distance to the car ahead  
 ✅ I continue driving with increased care  
@@ -2311,14 +2312,14 @@ left in front of me.
 distance and watch the vehicle very carefully. Under no circumstances do I overtake here: I would only put myself in unnecessary  
 danger. I stay behind and can help or call for help in an emergency. TIP: Watch the movie again in peace and literally “look ahead”!  
   
-318. What can give rise to particularly dangerous situations where several lanes turn off?  
+319. What can give rise to particularly dangerous situations where several lanes turn off?  
 ✅ Changing lanes while performing the turn  
 ❌ Keeping exactly to your lane  
 ✅ Driving too fast  
 **Comment**: Drive very carefully when turning into multiple lanes. Dangerous situations often arise due to speeding and changing  
 lanes while turning.  
   
-319. To whom must you pay particularly close attention in this situation?  
+320. To whom must you pay particularly close attention in this situation?  
 To the  
 ❌ white truck  
 ❌ red car  
@@ -2327,7 +2328,7 @@ To the
 Where is the cyclist? Does the cycle path over there cross the road? Better stay alert! TIP: Watch the movie again and pay 
 attention to the danger sign!  
   
-320. When overtaking several trucks, you are faced with this situation. What should you do now? (You are in the left overtaking 
+321. When overtaking several trucks, you are faced with this situation. What should you do now? (You are in the left overtaking 
 side of the road, wherein oncoming traffic can come. Also there is a bend which need to noticed in the picture, often ignored by 
 ignored by novice people.)  
 ✅ I abort the overtaking manoeuvre  
@@ -2336,7 +2337,7 @@ ignored by novice people.)
 **Comment**: Overtaking before a bend is very risky. Oncoming traffic is visible far too late: stop overtaking in this situation. 
 Get back into the right-hand lane and keep a sufficient distance from the vehicle in front.  
   
-321. What should you do in this situation? (You drive in a lane wherein only one vehicle can pass and other side car came.  
+322. What should you do in this situation? (You drive in a lane wherein only one vehicle can pass and other side car came.  
 You have sufficient place on the right parking area. And you can reach before the opposite car could reach there.)  
 I move  
 ✅ into the gap to allow the oncoming vehicle to drive past  
@@ -2345,7 +2346,7 @@ I move
 **Comment**: If vehicles approach each other in a narrow space, the person who has the opportunity to do so must give way, e.g.  
 a parking space in the direction of travel: I give way and wait until the oncoming vehicle has passed.  
   
-322. Why do you have to continue to brake?  
+323. Why do you have to continue to brake?  
 Because of the  
 ❌ cyclist  
 ✅ blue truck  
@@ -2354,14 +2355,14 @@ Because of the
 Only those who look closely will recognize the garbage truck approaching from the right. TIP: Watch the movie again and watch  
 out for movement from the right!  
   
-323. When may a tram be overtaken on the left?  
+324. When may a tram be overtaken on the left?  
 ✅ When the rails run too far to the right  
 ❌ When the roadway (not a one-way street) to the right of the tram is blocked by other vehicles  
 ✅ In one-way streets  
 **Comment**:  In one-way streets or where the rails are too far to the right, you may overtake a streetcar on the left. If the  
 rails are in the middle of the road, you may only overtake a streetcar on the right.  
   
-324. You want to turn left. What difficulties could arise here?  
+325. You want to turn left. What difficulties could arise here?  
 ✅ Misunderstandings with oncoming traffic turning left  
 ✅ Traffic turning left can come dangerously close  
 ✅ Visibility restrictions caused by oncoming vehicles  
