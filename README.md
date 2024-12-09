@@ -314,6 +314,7 @@ later point.
 **Comment**: This is a “normal” road without one-way traffic, i.e. traffic is permitted in both directions. I must keep to the right-hand lane to avoid endangering oncoming traffic: I keep to the right-hand lane here!  
   
 44. What emotions can influence driving behaviour?  
+
 ✅ Happiness and exuberance  
 ✅ Anger and rage  
 ✅ Worry and sorrow  
