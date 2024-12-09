@@ -306,7 +306,7 @@ therefore adapt my speed to the visibility conditions and drive particularly car
 later point.  
 
 43. You want to turn left. What driving line should you maintain?
-<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_09_019_1.jpg  width="50%"/>  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_09_019_1.jpg"  width="50%"/>  
 
 ✅ The right driving line  
 ❌ The left driving line  
