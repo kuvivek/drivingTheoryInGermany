@@ -2452,7 +2452,8 @@ out for movement from the right!
 **Comment**:  Left turners usually have to turn in front of each other. This can make things tight. Dangerous misunderstandings can also occur if one driver wants to turn in front and the other behind: if necessary, use 
 hand signals to communicate. Be aware that the other driver may obscure your view of other vehicles in oncoming traffic.  
   
-325. Why are you not allowed to overtake now?  
+325. Why are you not allowed to overtake now?  (Repeated Question with red color car in back).
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_026_1_ende.jpg" width="50%"/>  
 Because of the  
 ❌ blue car  
 ✅ layout of the road  
@@ -3285,7 +3286,7 @@ Answer: 5m
 between the two vehicles, are visually warned. A small distance between the towing and towed vehicle - maximum 5m - supports this precautionary measure.  
   
 438. What is the maximum length of time you are allowed to stop at a bus stop provided you do not present an obstruction to buses?  
-Answer: 3 minutes  
+Answer: __3__ minutes  
   
 439. Where may you park here?
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_2_12_128.jpg"  width="50%"/>    
@@ -4111,7 +4112,7 @@ regularly, preferably weekly if the vehicle is driven a lot.
 **Comment**:  Lane departure warning systems only work reliably if the lane markings are clearly visible. Weather conditions, dirty markings and roadworks   
 with additional yellow and white markings can cause problems!  
   
-537. How can you check the engine oil level?  
+537. How can you check the engine oil level?  --- IMP
 Depending on the motor vehicle, by checking the  
 ✅ driver information system  
 ✅ oil dipstick  
@@ -4146,7 +4147,7 @@ from my vehicle. However, this has nothing to do with tire wear, which I can inf
 541. What is the maximum permitted length of a car and trailer vehicle combination, without a protruding load?  
 Answer: 18m  
   
-542. What must you do if the oil pressure warning light fails to switch off after starting the engine?  
+542. What must you do if the oil pressure warning light fails to switch off after starting the engine?  ––– IMP
 ✅ I check the engine oil level  
 ✅ I shut down the engine immediately  
 ❌ I continue driving until the next oil change  
@@ -5751,3 +5752,56 @@ If there is no risk to cyclists, I may
 ✅ Vehicles proceeding too slowly for no good reason  
 ✅ Stalling the engine in dense traffic  
 **Comment**: Section 1 of the Road Traffic Regulations stipulates that every road user must behave in such a way that no other person is hindered or inconvenienced more than is unavoidable under the circumstances. You obstruct others unnecessarily if, for example, you drive slowly for no reason, break down due to a lack of fuel or stall your engine.  
+
+743. You are approaching a rail crossing. The barrier begins to lower. What should you do?  
+❌ I switch on my hazard lights  
+❌ I continue driving if there is no train in sight  
+✅ I wait in front of the level crossing  
+**Comment**: Pay extra attention at level crossings. Rail vehicles are fast and have an extremely long stopping distance. If the barrier lowers as I approach, I have to stop and wait in front of the St. Andrew's cross.  
+
+
+744. What is the right course of action?(Similar like 673 )   
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_048_1.jpg"  width="50%"/>  
+
+❌ I am the first to proceed  
+❌ I allow the motorcycle to turn before me  
+✅ I allow the yellow truck to turn  
+**Comment**: At junctions without priority traffic signs or traffic lights, the vehicle coming from the right has right of way. Here I have to let the vehicle from the right drive first. Then I drive. Oncoming traffic turning left must wait until everything is clear.  
+
+745. What does the braking distance depend on?  
+The condition of the  
+✅ road surface  
+✅ braking system  
+✅ tyres  
+**Comment**: The braking distance depends on many factors, including speed, the condition of the tires, the braking system and the road surface.
+
+746. You are driving along a narrow avenue. What must you be aware of?  
+I have to  
+✅ stop for oncoming traffic, if necessary  
+✅ be able to stop within half of the distance visible to me  
+✅ anticipate unevenness at the edge of the road caused by tree roots  
+**Comment**: On avenues with narrow, curved roads, you can always expect oncoming traffic to come dangerously close to you. I therefore have to be ready to brake - and may only drive fast enough to stop within half my visibility. I also have to be prepared for bumps caused by tree roots. I may have to stop to let oncoming traffic pass.
+
+747. At these traffic lights with a green arrow sign, where should a vehicle stop before turning right?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_2_37_009.jpg"  width="50%"/>   
+
+❌ There is no need to stop  
+✅ At the stop line  
+✅ Before the crossing or junction if there is no stop line  
+**Comment**: At a traffic light with a green arrow sign, you must first stop at the stop line before turning right on red. If there is no stop line, stop before the intersection or junction.
+
+748. You now want to turn right at these traffic lights with a green arrow sign. What is the right course of action?
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_37_020.jpg"  width="50%"/>   
+
+✅ I ensure that other road users are not impeded
+✅ I initially halt at the stop line
+❌ Without stopping, I take the turn at walking speed
+**Comment**: At a traffic light with a green arrow sign, turning right is permitted under certain conditions, even if the light is red. The rule is: stop first. Vehicles in the right-hand lane may also turn right on red, provided they neither obstruct nor endanger other road users (vehicles in cross traffic, cyclists or pedestrians). If necessary, I must stop again.
+
+749. What is permitted at these traffic lights with green arrow sign?
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_2_37_007.jpg"  width="50%"/>   
+
+✅ Turn right from the right lane after having stopped first, when there is no obstruction or danger to others
+❌ Turn right without stopping
+❌ Turn right only when the traffic lights are green
+**Comment**: At a traffic light with a green arrow sign, turning right on red is permitted under certain conditions: stop first. Only drivers in the right-hand lane are allowed to turn right on red. You must avoid obstructing or endangering other road users, e.g. vehicles in cross traffic and pedestrians: stop if necessary. At a traffic light with a green arrow sign, turning right on red is permitted under certain conditions: stop first. Only drivers in the right-hand lane are allowed to turn right on red. You must avoid obstructing or endangering other road users, e.g. vehicles in cross traffic and pedestrians: stop if necessary.  
