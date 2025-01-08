@@ -669,6 +669,8 @@ entrances (§ 10 StVO).
 to wait if necessary. Parking is only permitted in marked areas.  
   
 98. What must you do upon seeing this traffic sign?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_138.jpg"  width="50%"/>  
+
 ✅ I must approach at a moderate speed if it is clear that pedestrians want to cross the road  
 ✅ I must allow the pedestrians to cross the road  
 ✅ I may not remain stationary on the pedestrian crossing if the traffic backs up  
@@ -676,12 +678,15 @@ to wait if necessary. Parking is only permitted in marked areas.
 traffic is at a standstill, you must not come to a standstill on the crossing and block it for pedestrians: Wait in front of it.  
   
 99. Ahead of the motorbike a car is seeking to reverse on the road. What should you anticipate?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_139.jpg"  width="50%"/>  
+
 ✅ That the car continues to reverse  
 ✅ That my braking distance will be longer than normal  
 ✅ That the motorbike will suddenly brake  
   
 100. What does this traffic sign indicate?  
-Pesdestrian walk sign board  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_124.jpg"  width="50%"/>  
+  
 The start of a zone with  
 ✅ a permitted maximum speed of 30 km/h  
 ❌ a recommended speed of 30 km/h  
@@ -5683,9 +5688,9 @@ encounter in my lane! TIP: Watch the movie several times. What happens in oncomi
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_027_1_ende.jpg"  width="50%"/>  
 Because of the
 
-❌ blue car
-❌ signposted prohibition on overtaking
-✅ motorbike
+❌ blue car  
+❌ signposted prohibition on overtaking  
+✅ motorbike  
 **Comment**: The motto here is: Watch out! The tractor and dip in the ground make oncoming traffic difficult to see. After the first vehicle, a motorcycle comes out of the tractor's shadow: overtaking is impossible. TIP: 
 Watch the movie several times, observe the traffic. What happens in oncoming traffic?
 
@@ -5801,7 +5806,34 @@ I have to
 749. What is permitted at these traffic lights with green arrow sign?
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_2_37_007.jpg"  width="50%"/>   
 
-✅ Turn right from the right lane after having stopped first, when there is no obstruction or danger to others
-❌ Turn right without stopping
-❌ Turn right only when the traffic lights are green
+✅ Turn right from the right lane after having stopped first, when there is no obstruction or danger to others  
+❌ Turn right without stopping  
+❌ Turn right only when the traffic lights are green  
 **Comment**: At a traffic light with a green arrow sign, turning right on red is permitted under certain conditions: stop first. Only drivers in the right-hand lane are allowed to turn right on red. You must avoid obstructing or endangering other road users, e.g. vehicles in cross traffic and pedestrians: stop if necessary. At a traffic light with a green arrow sign, turning right on red is permitted under certain conditions: stop first. Only drivers in the right-hand lane are allowed to turn right on red. You must avoid obstructing or endangering other road users, e.g. vehicles in cross traffic and pedestrians: stop if necessary.  
+
+750. Two vehicles approach one another at an intersection. Both vehicles want to turn left. What must both drivers do in the normal case?  
+They must
+✅ turn in front of one another  
+❌ turn behind one another  
+❌ communicate with one another to agree the mode of turning  
+**Comment**:  Vehicles turning left towards each other must generally turn in front of each other. I must also bear in mind that oncoming traffic can obscure the view of drivers driving straight ahead behind them.
+
+751.   What must you be aware of on this priority road?  
+<img src=https://schueler.click-learn.info/BilderV2/AB_1_4_41_166.jpg  width="50%"/>  
+
+✅ You may not cross the lane marking
+✅ Parking is prohibited
+❌ Parking is permitted if there is a clear space of at least 3 m between a parked car and the lane marking  
+**Comment**: A continuous white line instead of the broken guiding line separates the lanes. Vehicles from both directions may not cross the line or drive over it. The traffic sign right of way (yellow diamond) visible in the background also means: Parking is generally prohibited here (on a priority road outside built-up areas)!
+
+752. Which basic code of conduct must you observe in a tunnel?  
+✅ Drive with dipped headlights also by day even in a well lit tunnel  
+✅ Do not make a U-turn  
+✅ Follow instructions and information from the tunnel personnel  
+**Comment**: Safety depends on the correct behavior of tunnel users, who must therefore observe a few basic rules: Switch on dipped headlights, increase the safety distance, observe speed limits, do not turn or reverse, only stop in an emergency, follow instructions and information from tunnel personnel.
+
+753. What must you check on a car with a caravan trailer before setting out on a journey?  
+✅ Whether the view through the rear-view mirrors is adequate  
+✅ Whether the lights of the trailer are working  
+❌ Whether the passengers in the caravan trailer have put on their safety belts  
+**Comment**: If you have attached a trailer, you must check that road safety is guaranteed before setting off. The trailer's lighting equipment must be working and visibility to the rear via the rear-view mirrors must not be impaired.  
