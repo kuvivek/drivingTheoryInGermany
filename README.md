@@ -16,7 +16,7 @@ crossings within this industrial area.
 **Comment**: If I want to leave the highway, the 300 m beacon is a good orientation for setting the blinker here. The best way to avoid unpleasant surprises is to keep an eye on the vehicles behind me (mirrors, shoulder) 
 before leaving the highway. I may only slow down to pull out on the merging lane, i.e. when I have already left the highway. Braking on the highway is only necessary in traffic jams or at speed limits.  
 
-4. What is true about using the hard shoulder in this situation?  
+3. What is true about using the hard shoulder in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_2_07_012.jpg"  width="50%"/>  
 
 The hard shoulder  
@@ -26,19 +26,19 @@ The hard shoulder
 **Comment**: The blue sign indicates that the hard shoulder is free as the right-hand lane. The matrix signs show the maximum permitted  speed. If the lane is free, I must follow the right-hand traffic regulations and use 
 the hard shoulder as a right-hand lane until the regulation is lifted again by another sign.  
 
-6. Where do you have to anticipate encountering rail crossings with no technical safeguards?  
+4. Where do you have to anticipate encountering rail crossings with no technical safeguards?  
 ✅ On less-frequently used roads  
 ✅ In industrial zones and port areas  
 ✅ On dirt tracks and forest tracks  
 
-7. What do hazard warning lights draw your attention to?  
+5. What do hazard warning lights draw your attention to?  
 ✅ To school buses with children boarding or alighting  
 ✅ To vehicles which have broken down  
 ✅ To a traffic congestion  
 **Comment**: Hazard warning lights warn following vehicles of various dangers. It indicates obstacles on the road, e.g. a broken-down vehicle or a traffic jam. School buses from which children are getting on and off also 
 use them, as children sometimes cross the road carelessly.  
 
-8. What must a motor vehicle's maximum speed, determined by its construction, be at least if you want to use this road?
+6. What must a motor vehicle's maximum speed, determined by its construction, be at least if you want to use this road?
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_116.jpg"  width="50%"/>  
 
 ✅ 61 km/h  
@@ -46,7 +46,7 @@ use them, as children sometimes cross the road carelessly.
 ❌ 81 km/h  
 **Comment**: The StVO stipulates that motorways may only be used by vehicles with a maximum design speed of more than 60km/h i.e. at least 61km/h. 
 
-9. Driving on a very busy road with several lanes, you have manoeuvred yourself into the lane for taking a left turn. 
+7. Driving on a very busy road with several lanes, you have manoeuvred yourself into the lane for taking a left turn. 
 Now instead of turning left, you want to turn right. What should you do?    
 ❌ I reverse with my hazard lights turned on  
 ✅ I turn left  
@@ -54,31 +54,31 @@ Now instead of turning left, you want to turn right. What should you do?
 **Comment**: If you have taken the wrong lane on a road with a high volume of traffic, you may only continue driving in the lane you have taken. A sudden change of direction in heavy traffic would be too dangerous for you 
 and other road users. You must therefore turn left here and take a detour.
 
-10. You are driving along a forest track and approach a level crossing without St. Andrew's Cross. What do you do?  
+8. You are driving along a forest track and approach a level crossing without St. Andrew's Cross. What do you do?  
 ✅ Listen out in case a rail vehicle signals its approach by whistling or ringing a bell  
 ❌ Proceed without taking any special precautions since rail vehicles are required to wait here  
 ✅ Proceed at moderate speed and check to see if a rail vehicle is approaching  
 **Comment**: Approach level crossings at a moderate speed only. Keep a close eye on what is happening. On field and forest paths, you must also listen for the sound of a rail vehicle whistling or ringing.  
 
-11.  What must you be aware of when using navigation systems and road maps?  
+9.  What must you be aware of when using navigation systems and road maps?  
 ❌ All navigation systems can update themselves automatically  
 ✅ Even up-to-date contents may differ from reality  
 ✅ The contents may become outdated just a short time after purchase  
 
-12. What is especially important when choosing the speed for driving along tree-lined avenues with narrow roadways? ---- IMP  
+10. What is especially important when choosing the speed for driving along tree-lined avenues with narrow roadways? ---- IMP  
 ✅ It may be necessary to stop within half the visible distance when a wide vehicle is coming from the opposite direction  
 ❌ Rapidly changing light conditions make it easier to estimate lateral distances  
 ✅ To estimate the lateral distance to the trees and oncoming traffic simultaneously  
 **Comment**: The alternation of light and shade typical of avenues restricts visibility: It is difficult to judge distances and side distances, e.g. to the trees and to oncoming traffic. On narrow roads, you should 
 therefore only drive fast enough to stop within half your visibility.  
 
-13. The barrier of a level crossing inside a built-up area is closed. Where must you wait?  
+11. The barrier of a level crossing inside a built-up area is closed. Where must you wait?  
 ❌ Before the first beacon  
 ❌ Before the last beacon  
 ✅ In front of the St. Andrew's Cross  
 **Comment**: Approach level crossings at moderate speed only. You must wait in front of the St. Andrew's cross when the barriers are closed.  
 
-14. What do you have to be aware of when you see this traffic sign combination?  
+12. What do you have to be aware of when you see this traffic sign combination?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_135.jpg"  width="50%"/>  
 
 ❌ A rail crossing at a distance of 120 m   
@@ -86,34 +86,34 @@ therefore only drive fast enough to stop within half your visibility.
 ✅ No overtaking of vehicles permitted  
 **Comment**: The “level crossing” danger sign in combination with the 3-lane beacon indicates a level crossing about 240 m away (2-lane = 160 m, 1-lane = 80 m). Overtaking is also prohibited up to the level crossing!  
 
-15. What is true in relation to yellow road markings?  
+13. What is true in relation to yellow road markings?  
 Yellow road markings  
 ❌ only apply to construction site traffic  
 ✅ replace the validity of white road markings  
 ✅ are only applied temporarily (at construction sites for example)   
 **Comment**: Yellow markings on the road temporarily cancel the validity of white markings: the yellow markings, e.g. at roadworks, take precedence.  
 
-16. You are driving at the recommended speed on the motorway and want to leave it at the next exit. What should you do?  ----IMP  
+14. You are driving at the recommended speed on the motorway and want to leave it at the next exit. What should you do?  ----IMP  
 ✅ I cease overtaking manoeuvres in good time.  
 ❌ I significantly reduce my speed while still on the right-hand lane of the motorway  
 ✅ I significantly reduce my speed on the exit lane  
 **Comment**: It is easy to drive too fast when leaving the highway. Stop overtaking early and reduce your speed on the exit lane and not on the motorway lane, as you are already at the recommended speed (look at your  
 speedometer!) so that you do not have to brake on the exit bend.  
 
-17. Who is required to stop at a level crossing with a red flashing light in the form of an arrow point to the right?  
+15. Who is required to stop at a level crossing with a red flashing light in the form of an arrow point to the right?  
 ✅ Traffic turning right  
 ❌ Traffic moving straight ahead  
 ❌ Traffic turning left  
 **Comment**: A St. Andrew's cross with a red flashing light in the form of an arrow pointing to the right is only important for drivers turning right. It is meaningless for drivers going straight ahead. If the system is 
 flashing, drivers turning right must wait.  
 
-18. You are driving on a road outside a built-up area with three lanes marked in each direction. Individual slower vehicles are  
+16. You are driving on a road outside a built-up area with three lanes marked in each direction. Individual slower vehicles are  
 travelling well spaced out in the right-hand lane. Which lane may you use continuously?  
 ✅ The middle lane  
 ❌ The left-hand lane  
 **Comment**:  Outside built-up areas, you may use the middle lane continuously in this case if a vehicle stops or slows down on the right-hand lane, even if only occasionally  
   
-19. What must you do if you find yourself in a traffic jam on motorways and on highways with two lanes travelling in the same direction?  
+17. What must you do if you find yourself in a traffic jam on motorways and on highways with two lanes travelling in the same direction?  
 I have to  
 ❌ drive as far to the left as possible in the right-hand lane  
 ✅ drive as far to the left as possible in the left-hand lane  
@@ -121,12 +121,12 @@ I have to
 **Comment**:  In the event of gridlocked traffic or traffic jams on highways and motorways, a clear lane must be formed for emergency vehicles. The vehicles in the leftmost lane should drive as far to the left as possible, 
 all others as far to the right as possible in their lanes.  
   
-20. What should you anticipate when driving at high speed on the motorway?  
+18. What should you anticipate when driving at high speed on the motorway?  
 ✅ Other road users underestimating my speed  
 ✅ I might not respond to hazards in good enough time  
 ✅ Cross winds can negatively affect my stability on the road  
   
-21. What does this traffic sign mean?  
+19. What does this traffic sign mean?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_142.jpg"  width="50%"/>  
 
 ❌ You are only allowed to drive at walking speed  
@@ -134,7 +134,7 @@ all others as far to the right as possible in their lanes.
 ✅ Stopping on the roundabout is forbidden  
 **Comment**:  In a traffic circle marked in this way, the vehicles in the circle have right of way. It is not permitted to stop in a traffic circle.  
   
-22. What vehicles may enter a cycle highway that has this sign?  
+20. What vehicles may enter a cycle highway that has this sign?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_018.jpg"  width="50%"/>  
 
 ❌ All mopeds with a maximum design speed less than 25 km/h  
@@ -142,7 +142,7 @@ all others as far to the right as possible in their lanes.
 ❌ All cars, provided they travel at walking speed  
 **Comment**:  No other vehicle traffic is permitted in cycle lanes. The additional sign permits an exception here: residents may drive their vehicles onto these roads -but only at a maximum speed of 30 km/h.  
   
-23.  You are driving on a section of road where a traffic jam has been reported. What is the right course of action?(repeat)  
+21.  You are driving on a section of road where a traffic jam has been reported. What is the right course of action?(repeat)  
 ✅ I take particular care when driving around bends and on the approach to summits  
 ❌ I apply the emergency brake assist to safely stop before the tail end of the traffic jam  
 ✅ I continue to follow the traffic reports  
@@ -150,7 +150,7 @@ all others as far to the right as possible in their lanes.
 there are traffic jam warnings, I have to be particularly attentive and careful when driving on blind roads such as bends or crests(approach to summits). Emergency Brake Assist is a system for emergencies, not for safe 
 driving maneuvers.  
   
-24. Why should you further reduce your speed here?  
+22. Why should you further reduce your speed here?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_015_ende.jpg"  width="50%"/>  
 
 ✅ Because other people may walk onto the road  
@@ -159,14 +159,14 @@ driving maneuvers.
 **Comment**:  Broken-down vehicles are obstacles that you have to avoid. The broken-down vehicle forces other vehicles in oncoming traffic into my lane: reduce speed! You must also be aware of other people who could get
 out of the broken-down vehicle. A person in front of the broken-down vehicle shows me that it will not continue for the time being. TIP: Watch the movie again and watch out for movement in oncoming traffic!  
  
-25. One of your tyres bursts while you are travelling at high speed on an autobahn. What do you do?  
+23. One of your tyres bursts while you are travelling at high speed on an autobahn. What do you do?  
 ✅ Stop, if possible, on the hard shoulder, switch on hazard warning lights and place the warning triangle  
 ✅ Throttle down, if necessary, steer against and brake cautiously  
 ❌ Immediately apply the brakes fully and move over onto the hard shoulder  
 **Comment**: If a tire blows out on your car, you should first take your foot off the accelerator and brake carefully if necessary. If your vehicle pulls to one side, you must counter-steer. Try to stop on the hard 
 shoulder. Secure the danger zone by switching on the hazard warning lights and setting up the warning triangle.  
 
-26. As a resident, you want to drive into a cycle highway that has this sign. What must you be aware of when doing so?  
+24. As a resident, you want to drive into a cycle highway that has this sign. What must you be aware of when doing so?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_168.jpg"  width="50%"/>  
 
 ✅ Cycles may travel alongside one another  
@@ -175,14 +175,14 @@ shoulder. Secure the danger zone by switching on the hazard warning lights and s
 **Comment**:  No other vehicle traffic is permitted in cycle lanes. Bicycles must not be obstructed and must ride side by side. The additional sign allows an exception here: residents may enter these roads with their 
 vehicles -but only at a maximum speed of 30 km/h.  
   
-27. When must you wait at a level crossing?  
+25. When must you wait at a level crossing?  
 ✅ When a flashing red light comes on  
 ✅ When the barriers are being lowered  
 ✅ When a railway employee is waving a white-red-white flag  
 **Comment**:  Only approach level crossings at a moderate speed so that you can stop if necessary. You must wait in front of a level crossing when the red flashing light is on, the barriers are lowered or a railroad 
 employee is waving a white-red-white flag.
   
-28. When are you allowed to remain on the left-hand lane in this situation?  
+26. When are you allowed to remain on the left-hand lane in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_6_06_213.jpg"  width="50%"/>   
 
 If my vehicle  
@@ -192,7 +192,7 @@ If my vehicle
 **Comment**:  The sign indicates a lane narrowing. Only vehicles with an actual width of 2 m may use the left-hand lane. This applies including load and wing mirrors. It should also be noted that the vehicle width is 
 stated in the vehicle documents without wing mirrors. If my vehicle is too wide, I must change to the right-hand lane in good time.  
   
-29. What does this traffic sign combination indicate?  
+27. What does this traffic sign combination indicate?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_2_19_113.jpg"  width="50%"/>  
 
 A rail crossing  
@@ -201,19 +201,37 @@ A rail crossing
 ❌ over which rail traffic may pass at a maximum speed of 10 km/h    
 **Comment**: The danger sign “level crossing” in combination with the speed limit “10” only permits a maximum speed of 10 km/h up to the level crossing. This also applies when crossing the level crossing.  
   
-30. You want to use an autobahn. To allow you to do so, what type-specific maximum speed must be entered in Part I of the  
+28. You want to use an autobahn. To allow you to do so, what type-specific maximum speed must be entered in Part I of the  
 registration certificate or in the operating licence?    
 Answer: More than __60__ km/h  
 **Comment**: Freeways and motorways are used to make rapid progress. For this reason, only vehicles with a maximum speed of more than 60 km/h specified in the vehicle documents or operating license are permitted to drive 
 on them.  
   
-31. Why should you have the traffic information switched on, when driving on the motorway?  
+29. Why should you have the traffic information switched on, when driving on the motorway?  
 Because the traffic information  
 ✅ gives warnings about motorists heading in the wrong direction  
 ✅ provides reports about traffic jams  
 ❌ is a prescribed requirement for travelling on the motorway  
 **Comment**:  Something can always happen on the highway. I make sure I'm informed in good time about accidents, traffic jams, wrong-way drivers or obstructions by switching on the traffic radio.  
-  
+
+30. What is correct in this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_02_109.jpg"  width="50%"/>  
+
+At the next junction  
+❌ I have right of way  
+❌ a traffic-calming zone ends  
+✅ the "right-before-left" right-of-way rule applies  
+**Comment**:  The name of the traffic sign (see topic 6 in the book) tells you what to watch out for: Intersection or junction with right of way from the right. This means that at the next junction, whoever is coming from the right has right of way. Only applies to the junction in front of which the sign is located  
+
+31. What is correct in this situation?
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_144.jpg"  width="50%"/>  
+
+At this point
+✅ a built-up area ends  
+❌ a deviation ends  
+❌ a built-up area starts  
+**Comment**:  A built-up area ends here, recognizable by the red line in the lower part. The upper part of the sign indicates the nearest built-up area. From this point on, the regulations for traffic outside built-up areas apply.  
+
 32. What must you do when a traffic jam forms on this road?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_2_2_18_015_1.jpg"  width="50%"/>  
 Remaining within my lane, I  
@@ -221,7 +239,7 @@ Remaining within my lane, I
 ❌ drive as far to the right as possible  
 ❌ continuing driving in the centre  
 ✅ drive as far to the left as possible  
-**Comment**:  As soon as traffic comes to a standstill or a traffic jam occurs, space must be created for emergency vehicles (e.g. police and ambulances), the so-called “rescue lane”: vehicles in the left-hand lane drive 
+**Comment**:  As soon as traffic comes to a standstill or a traffic jam occurs, space must be created for emergency vehicles (e.g. police and ambulances), the so-called “rescue lane”: vehicles in the left-hand lane drive  
 as far to the left as possible, all others as far to the right as possible.  
   
 33. A traffic jam is building up here. What is the correct procedure?  
@@ -1359,7 +1377,7 @@ The road signposted like this
 **Comment**: This combination calls for caution: The upper traffic sign warns of a danger zone. The additional sign permits winter sports. I must therefore watch out for winter sports enthusiasts here and drive at walking 
 pace if necessary. 
   
-182. What must you be prepared for here?
+182. What must you be prepared for here?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_139.jpg"  width="50%"/>   Sign 356  
 
 ✅ That children will cross the road more frequently than usual  
@@ -1370,15 +1388,17 @@ to cross the road.
   
 183. Which traffic sign refers to the permissible total mass?  
 (5.5 t in white background withred border  and Truck in white background with red border and 7,5t in bottom.)  
-<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_41_102.jpg"  width="50%"/>   __2__
+<img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_41_102.jpg"  width="50%"/>   
+__2__  
 
 **Comment**: The first traffic sign indicates the maximum permissible actual mass. The second traffic sign refers to the permissible total mass.  
   
 184. What do these traffic signs indicate?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_121.jpg"  width="50%"/>  
+
 ✅ No entry 100 m ahead  
 ❌ A customs post 100 m ahead  
-❌ A one-way street 100 m long  
+❌ A one-way street 100 m long   
 **Comment**:  The upper sign prohibits entry into this road. The additional sign indicates the distance to the no-entry zone, in this case 100m. Watch out for vehicles that may leave the road.  
   
 185. What dangers can arise if this traffic sign is ignored?  
@@ -1441,6 +1461,9 @@ traffic signs). Other traffic signs with corresponding, clear symbols indicate �
 **Comment**: Cabs have fixed stands that are marked with this sign. I have to expect cabs arriving and departing there. Only cabs are allowed to stop at the stands.  
   
 192. What is the correct course of action in this situation? (Repeated but order changed)  
+<img src=https://schueler.click-learn.info/BilderV2/AB_1_2_20_108.jpg  width="50%">  
+(Hazard lights are off)  
+
 ❌ I slow down to walking speed now  
 ✅ I maintain my speed  
 ✅ I drive with an increased level of alertness  
@@ -2164,7 +2187,8 @@ try to maintain the direction of travel, i.e. stay on the road.
 ✅ For an extended braking distance  
 ❌ For increased tyre traction  
 **Comment**: The poor visibility caused by fog, rain and swirling water also makes my vehicle less visible to others. I have to expect  
-this and a longer braking distance. Because the grip on wet roads does not increase, but naturally decreases!  
+this and a longer braking distance. Because the grip on wet roads does not increase, but naturally decreases! Note: tyre traction means  
+tyre grip.  
   
 286. Where must you be prepared to encounter sudden fog?  
 ✅ Near rivers  
@@ -4189,28 +4213,25 @@ and is dimmed in good time, e.g. in oncoming traffic. The headlights are cleaned
 This is particularly important if you are taking over another vehicle, as you do not know the condition of the brakes.  
   
 546. The electronic stability control (ESC) display light has flashed several times. What is the correct course of action in this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_2_1_03_121_ende.jpg"  width="50%"/>  
+
 ❌ I maintain my speed, because the ESC system ensures I can continue driving safely  
 ✅ I reduce my speed, because it is too high  
 ❌ I go to a garage, because the ESC display is indicating a fault  
-**Comment**:  If the display for the driving dynamics control (ESC) lights up, the assistance system has already had to intervene. This is a clear warning   
-of a particularly high risk of skidding! I must immediately reduce my speed so that the system no longer has to intervene: Even technical systems have   
-physical limits.  
+**Comment**:  If the display for the driving dynamics control (ESC) lights up, the assistance system has already had to intervene. This is a clear warning of a particularly high risk of skidding! I must immediately reduce my speed so that the system no longer has to intervene: Even technical systems have   physical limits.  
   
 547. When operating a vehicle, what must you observe regarding the vehicle height?  
 I have to  
 ✅ ascertain the actual height of the load protruding beyond the external bodywork of the vehicle  
 ✅ observe the restraints applicable to the actual height  
 ✅ ascertain the actual height of the vehicle  
-**Comment**:  In general, the vehicle and load together must not be higher than 4 m and no wider than 2.55 m. Particularly in the case of overhanging loads,   
-I must inform myself about the actual height in order to be able to comply with existing restrictions or prohibitions on the actual height (e.g. in the   
-case of bridges or power lines).  
+**Comment**:  In general, the vehicle and load together must not be higher than 4 m and no wider than 2.55 m. Particularly in the case of overhanging loads, I must inform myself about the actual height in order to be able to comply with existing restrictions or prohibitions on the actual height (e.g. in the case of bridges or power lines).  
   
 548. How can you tell when you need to bring your vehicle in for its next vehicle roadworthiness test?  
 ✅ By looking at the inspection tag on the rear license plate  
 ❌ By reading the entry in the operating manual for my vehicle  
 ✅ By reading the entry made in the registration certificate Part I  
-**Comment**:  The inspection sticker on the rear license plate shows the month and year of the next main inspection (HU). The month and year of the next main   
-inspection are also entered in the registration certificate part I.  
+**Comment**:  The inspection sticker on the rear license plate shows the month and year of the next main inspection (HU). The month and year of the next main inspection are also entered in the registration certificate part I.  
   
 549. How can you save fuel if you drive a car with an automatic gearbox?  
 ✅ Do not press down hard on the accelerator when moving off  
@@ -5882,3 +5903,10 @@ They must
 ✅ The motorbike could swerve to the left  
 ✅ Pedestrians could cross the road in front of the van  
 **Comment**:  Expect the moped to pull out to overtake. The driver of the van could step further onto the road when unloading and pedestrians could suddenly appear in front of the van and cross the road.
+
+759. Are you allowed to drive at a speed faster than 60 km/h here?  
+<img src=https://schueler.click-learn.info/BilderV2/VZ_1_4_41_127.jpg width="50%"/>  
+
+✅ Yes, if the roadway is dry  
+❌ Yes, if the roadway is wet  
+
