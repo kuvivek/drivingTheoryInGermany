@@ -5818,7 +5818,8 @@ I have to
 **Comment**: At a traffic light with a green arrow sign, turning right on red is permitted under certain conditions: stop first. Only drivers in the right-hand lane are allowed to turn right on red. You must avoid obstructing or endangering other road users, e.g. vehicles in cross traffic and pedestrians: stop if necessary. At a traffic light with a green arrow sign, turning right on red is permitted under certain conditions: stop first. Only drivers in the right-hand lane are allowed to turn right on red. You must avoid obstructing or endangering other road users, e.g. vehicles in cross traffic and pedestrians: stop if necessary.  
 
 750. Two vehicles approach one another at an intersection. Both vehicles want to turn left. What must both drivers do in the normal case?  
-They must
+They must  
+
 ✅ turn in front of one another  
 ❌ turn behind one another  
 ❌ communicate with one another to agree the mode of turning  
