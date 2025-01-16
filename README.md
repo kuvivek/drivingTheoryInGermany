@@ -5804,9 +5804,9 @@ I have to
 748. You now want to turn right at these traffic lights with a green arrow sign. What is the right course of action?
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_2_37_020.jpg"  width="50%"/>   
 
-✅ I ensure that other road users are not impeded
-✅ I initially halt at the stop line
-❌ Without stopping, I take the turn at walking speed
+✅ I ensure that other road users are not impeded  
+✅ I initially halt at the stop line  
+❌ Without stopping, I take the turn at walking speed  
 **Comment**: At a traffic light with a green arrow sign, turning right is permitted under certain conditions, even if the light is red. The rule is: stop first. Vehicles in the right-hand lane may also turn right on red, provided they neither obstruct nor endanger other road users (vehicles in cross traffic, cyclists or pedestrians). If necessary, I must stop again.
 
 749. What is permitted at these traffic lights with green arrow sign?
@@ -5827,8 +5827,8 @@ They must
 751.   What must you be aware of on this priority road?  
 <img src=https://schueler.click-learn.info/BilderV2/AB_1_4_41_166.jpg  width="50%"/>  
 
-✅ You may not cross the lane marking
-✅ Parking is prohibited
+✅ You may not cross the lane marking  
+✅ Parking is prohibited  
 ❌ Parking is permitted if there is a clear space of at least 3 m between a parked car and the lane marking  
 **Comment**: A continuous white line instead of the broken guiding line separates the lanes. Vehicles from both directions may not cross the line or drive over it. The traffic sign right of way (yellow diamond) visible in the background also means: Parking is generally prohibited here (on a priority road outside built-up areas)!
 
@@ -5847,9 +5847,9 @@ They must
 754. What is the right course of action?  
 <img src=https://schueler.click-learn.info/BilderV2/AB_1_3_01_018.jpg  width="50%"/>  
 
-✅ I take priority before the bus
-❌ I have to allow the bus to pass through
-✅ I have to allow the motorcycle to pass through
+✅ I take priority before the bus  
+❌ I have to allow the bus to pass through  
+✅ I have to allow the motorcycle to pass through  
 **Comment**:  Traffic signs regulate the right of way here. My opponent and I must “give way” and allow vehicles on the priority road to pass first. I then drive in front of the oncoming left-turner as I continue straight ahead.
 
 755. What is the right course of action?  
@@ -5858,9 +5858,7 @@ They must
 ✅ I continue slowing down  
 ✅ I wait before the obstruction  
 ❌ I switch to the left lane now  
-**Comment**:  If a lane ends or is closed (roadworks or obstacle), the procedure is “merge and let merge”. If an overtaking driver makes 
-a mistake, I show consideration and let them go ahead: Reduce speed and, if necessary, wait until I can safely pass the obstacle (in this case:  
-snow bank).  
+**Comment**:  If a lane ends or is closed (roadworks or obstacle), the procedure is “merge and let merge”. If an overtaking driver makes a mistake, I show consideration and let them go ahead: Reduce speed and, if necessary, wait until I can safely pass the obstacle (in this case: snow bank).  
 
 756. What must you anticipate here?  
 <img src=https://schueler.click-learn.info/BilderV2/AB_2_1_03_122.jpg width="50%"/>  
@@ -5868,9 +5866,7 @@ snow bank).
 ✅ Pedestrians on the carriageway  
 ❌ That you may be dazzled by the low-lying sun  
 ✅ A reduced amount of side clearance from oncoming traffic  
-**Comment**:  If a snow plow is clearing heavily snow-covered country roads, snow masses are piled up in such a way that pedestrians (traffic signs for  
-pedestrian parking) use the roadway. In addition, the lane and thus the distance to oncoming traffic is narrowed. In this situation, I only drive fast  
-enough to avoid endangering pedestrians. With snowfall and gray cloud cover, blinding sunlight is not to be expected for the time being.  
+**Comment**:  If a snow plow is clearing heavily snow-covered country roads, snow masses are piled up in such a way that pedestrians (traffic signs for  pedestrian parking) use the roadway. In addition, the lane and thus the distance to oncoming traffic is narrowed. In this situation, I only drive fast  enough to avoid endangering pedestrians. With snowfall and gray cloud cover, blinding sunlight is not to be expected for the time being.  
 
 757. You want to wash your car. Where should you do this in the interests of environmental protection?  
 ❌ On an open road  
