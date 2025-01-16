@@ -1801,7 +1801,7 @@ to brake, there is an increased risk of skidding due to the wetness and leaves o
 **Comment**:  The poor illumination can easily lead to pedestrians crossing the road in dark areas being overlooked.  
 Poorly lit vehicles are also difficult to see in such areas.  
   
-237. While driving straight ahead, you lose control of your vehicle due to aquaplaning. What is the proper response now?  
+237. While driving straight ahead, you lose control of your vehicle due to aquaplaning. What is the proper response now?  --- IMP   
 ✅ I keep the steering wheel as straight as possible  
 ❌ I brake firmly  
 ✅ I gently take my foot off the accelerator  
@@ -1841,7 +1841,9 @@ That means here: 50m : 2 = 25m
 ❌ One fifth of the speedometer reading in metres  
 ❌ One third of the speedometer reading in metres  
 ✅ One half of the speedometer reading in metres  
-  
+**Comment**:  To avoid rear-end collisions, the rule of thumb is that outside built-up areas the distance to the vehicle in front should be at least half  
+the speedometer reading in meters (also known as “half the speedometer”). A third or a fifth would no longer be safe! That is not enough.  
+
 242. What amount of side clearance must you maintain when overtaking pedestrians and cyclists?  
 I must  
 ✅ maintain a minimum side clearance of 1.5 m within a built-up area  
@@ -1856,7 +1858,10 @@ I should avoid
 ✅ driving in crowded city centres  
 ✅ driving short distances  
 ✅ driving at flat-out speed  
-  
+**Comment**:  To minimize the environmental impact of your car, avoid short trips, e.g. to the nearby post box or bakery. Avoid driving in crowded city  
+centers and use public transport or park-and-ride facilities. Avoid driving at full throttle, which greatly increases fuel consumption and pollutant  
+emissions. Flat-out speed means full throttle or full speed.
+
 244. What is the permissible top speed generally in built-up areas?  
 __50__ Km/hr  
 **Comment**:  Within(Innerhalb) built-up areas, a speed limit of 50 km/h generally applies to all vehicles. Other speeds may be permitted by traffic signs.  
@@ -1955,7 +1960,7 @@ is increased by high speeds, worn tires or ruts in the road (puddles).
   
 257. When must a car with trailer driving outside built-up areas on roads with only one lane for each direction keep a sufficient distance  
 from the car in front so that an overtaking vehicle may pull in?  
-When the combination of vehicles exceeds ___7__ m  
+When the combination of vehicles exceeds ___7m__  
 **Comment**: On a road with only one lane in each direction, vehicles over 7 m in length, e.g. cars and caravans, must generally  
 keep a sufficient distance from the vehicle in front to allow an overtaking vehicle to pull in safely.  
   
@@ -1982,6 +1987,8 @@ What is the minimum safe distance you must keep from the vehicle in front?
 between two vehicles may be reduced to 15m. This corresponds to about three car lengths.  
   
 261. What must you be aware of here? (A bright flash light in the urban road from the oncoming traffic, and several shops neon lights of various colours)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_04_107.jpg"  width="50%"/>  
+
 ✅ That you only detect oncoming vehicles after it is too late  
 ✅ That the traffic lights are hardly distinct from the coloured signs  
 ✅ That your vehicle will not be seen in time  
@@ -2044,7 +2051,7 @@ Even on well-built, wide roads, your own speed often seems slower than it actual
 **Comment**: If you ride at higher speeds for a long time, you will get used to it. Your sense of speed diminishes. It is then easy to tailgate because  
 you underestimate your own speed.  
   
-271. While driving, how can you safely check whether the road is icy?  
+271. While driving, how can you safely check whether the road is icy?  ---IMP  
 ✅ By carefully applying the brakes at very low speed  
 ❌ By rapid acceleration  
 ❌ By jerking the steering wheel to the left and right  
@@ -2227,17 +2234,17 @@ Shift up early when accelerating, as fuel consumption and pollutant emissions ar
 ✅ The road surface is uneven and road grip varies  
   
 295. You are driving on a wide road on which oncoming traffic can pass by you, unobstructed. Within what distance must you be  
-able to stop in any event?  
+able to stop in any event?  --IMP
 Within  
 ❌ twice the distance readily visible to me  
 ✅ the distance readily visible to me  
 ❌ half the distance readily visible to me  
-**Comment**: The following applies to driving motor vehicles: I may only drive as fast as I can control my vehicle. I must  
+**Comment**: The following applies to driving motor vehicles: I may only drive as fast as I can __7m__  control my vehicle. I must  
 be able to stop within my range of vision, i.e. the distance I can see. Only on very narrow roads must I be able to stop  
 within half the range of vision, and in the dark within the range of the dipped beam. Then I drive safely. The road here is  
 well developed, so only the answer with the “single” visible distance needs to be ticked. Not half, not double.  
   
-296. The road is icy for a short distance. What should you avoid here, if possible?  
+296. The road is icy for a short distance. What should you avoid here, if possible?  ---IMP  
 ✅ Braking  
 ✅ Steering wheel movements  
 ✅ Accelerating  
@@ -2249,7 +2256,7 @@ well developed, so only the answer with the “single” visible distance needs 
 ✅ The speed travelled  
 **Comment**: Fuel consumption increases dramatically at high speeds. The reason for this is air resistance: the faster I drive,  the greater the effort required to counter the resistance and the more fuel is consumed.  
   
-298. When driving outside of a built-up area, from what combination vehicle length must you maintain a large enough distance to the vehicle ahead as to allow an overtaking vehicle to pull back into lane in front of you? 
+298. When driving outside of a built-up area, from what combination vehicle length must you maintain a large enough distance to the vehicle ahead as to allow an overtaking vehicle to pull back into lane in front of you? (Same like 257.)
 From a length of more than __7m__ 
 **Comment**: Trains over 7 m in length, e.g. a car with a trailer, must always keep a sufficient distance from the vehicle in front outside built-up areas so that an overtaking vehicle can safely pull in.  
   
@@ -4865,8 +4872,7 @@ The caravan
 ✅ can jut out  
 ❌ generally follows the track of the car  
 ✅ can cut the corner  
-**Comment**:  When I am on the road with a vehicle combination, I must pay particular attention to the behavior of the trailer on bends: It can swing out to the right over the edge of the road or cut the bend (left-hand 
-bend) or swing out over the middle of the road (right-hand bend).  
+**Comment**:  When I am on the road with a vehicle combination, I must pay particular attention to the behavior of the trailer on bends: It can swing out to the right over the edge of the road or cut the bend (left-hand bend) or swing out over the middle of the road (right-hand bend).  
   
 636. What must you do when you see this traffic sign?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_2_4_40_003.jpg"  width="50%"/>  
@@ -5837,3 +5843,45 @@ They must
 ✅ Whether the lights of the trailer are working  
 ❌ Whether the passengers in the caravan trailer have put on their safety belts  
 **Comment**: If you have attached a trailer, you must check that road safety is guaranteed before setting off. The trailer's lighting equipment must be working and visibility to the rear via the rear-view mirrors must not be impaired.  
+
+754. What is the right course of action?  
+<img src=https://schueler.click-learn.info/BilderV2/AB_1_3_01_018.jpg  width="50%"/>  
+
+✅ I take priority before the bus
+❌ I have to allow the bus to pass through
+✅ I have to allow the motorcycle to pass through
+**Comment**:  Traffic signs regulate the right of way here. My opponent and I must “give way” and allow vehicles on the priority road to pass first. I then drive in front of the oncoming left-turner as I continue straight ahead.
+
+755. What is the right course of action?  
+<img src=https://schueler.click-learn.info/BilderV2/BS_2_1_03_115_ende.jpg  width="50%"/>  
+
+✅ I continue slowing down  
+✅ I wait before the obstruction  
+❌ I switch to the left lane now  
+**Comment**:  If a lane ends or is closed (roadworks or obstacle), the procedure is “merge and let merge”. If an overtaking driver makes 
+a mistake, I show consideration and let them go ahead: Reduce speed and, if necessary, wait until I can safely pass the obstacle (in this case:  
+snow bank).  
+
+756. What must you anticipate here?  
+<img src=https://schueler.click-learn.info/BilderV2/AB_2_1_03_122.jpg width="50%"/>  
+
+✅ Pedestrians on the carriageway  
+❌ That you may be dazzled by the low-lying sun  
+✅ A reduced amount of side clearance from oncoming traffic  
+**Comment**:  If a snow plow is clearing heavily snow-covered country roads, snow masses are piled up in such a way that pedestrians (traffic signs for  
+pedestrian parking) use the roadway. In addition, the lane and thus the distance to oncoming traffic is narrowed. In this situation, I only drive fast  
+enough to avoid endangering pedestrians. With snowfall and gray cloud cover, blinding sunlight is not to be expected for the time being.  
+
+757. You want to wash your car. Where should you do this in the interests of environmental protection?  
+❌ On an open road  
+❌ In a carpark  
+✅ At a carwash  
+**Comment**:  If you want to protect the environment as much as possible when washing your car, it is best to use a car wash. These are equipped with an oil separator and other filters to keep the environmental impact to a minimum.  
+
+758. What should you anticipate?  
+<img src=https://schueler.click-learn.info/BilderV2/AB_1_1_07_138.jpg width="50%"/>  
+
+✅ The person beside the van could encroach further onto the road  
+✅ The motorbike could swerve to the left  
+✅ Pedestrians could cross the road in front of the van  
+**Comment**:  Expect the moped to pull out to overtake. The driver of the van could step further onto the road when unloading and pedestrians could suddenly appear in front of the van and cross the road.
