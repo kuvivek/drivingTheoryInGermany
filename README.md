@@ -1481,6 +1481,8 @@ Pedestrians can
 ✅ turn back, after half-way  
   
 194. What is correct in this situation? (There is a truck coming from the incoming traffic in the same lane. And to my left and right both side are bike lane)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_4_42_109.jpg"  width="50%">  
+
 I am  
 ✅ allowed to drive on the advisory bike lane only until I am past the truck.  
 ❌ not allowed to drive on the advisory bike lane  
@@ -5984,9 +5986,9 @@ Translated with www.DeepL.com/Translator (free version)
 767. Which conduct is right?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_2_37_002.jpg" width="50%"/>  
 
-✅ I may turn observing the traffic signs
-❌ I may only turn when the lights show "green"
-✅ The green car must wait
+✅ I may turn observing the traffic signs  
+❌ I may only turn when the lights show "green"  
+✅ The green car must wait  
 **Comment**: At this junction, the traffic lights only apply to drivers going straight ahead and turning left. Because it is red, the green car must wait. If you are turning right, you are allowed to turn off, observing the “Give way!” sign.  
 
 768. What do you have to do in this traffic situation?  
@@ -6004,3 +6006,11 @@ I have to
 ❌ When you enter the roundabout  
 ✅ When you leave the roundabout  
 **Comment**: In a traffic circle with signs like this, the vehicles in the circle have right of way. It is forbidden to signal when entering the traffic circle. However, anyone leaving the traffic circle must signal on the right to indicate their intention to others.
+
+770. All three vehicles want to turn left. Which is in the correct lane?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_09_103.jpg" width="50%"/>  
+
+✅ The yellow car  
+❌ The truck  
+❌ The green car  
+**Comment**: If there are several lanes for one direction, drivers turning left must keep as far to the left as possible. At this junction, you must also observe the traffic sign “Mandatory passing on the right” to get into the correct lane. Here, only the yellow car has got into the correct lane.  
