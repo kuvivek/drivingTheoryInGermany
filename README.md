@@ -817,6 +817,8 @@ flashing light is on. In this case, you can cross the intersection without stopp
 Pay particular attention to pedestrians; you may have to wait.  
   
 117. What is the right course of action?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_042_1.jpg"  width="50%"/>  
+
 ❌ The tram must allow me to make the turn first  
 ✅ I have to allow the green vehicle to pass through  
 ✅ I have to allow the tram to pass through  
@@ -824,6 +826,8 @@ Pay particular attention to pedestrians; you may have to wait.
 As I want to turn left, I must also allow the oncoming vehicle to pass before I turn.  
   
 118. What must you be prepared for here?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_159_1.jpg"  width="50%"/>  
+
 ✅ People walking on the road  
 ✅ Vehicles turning onto the road  
 ✅ Oncoming vehicles turning left  
@@ -832,6 +836,8 @@ the forest) are to be expected. Other vehicles from oncoming traffic could also 
 lot could turn onto my lane without paying attention.  
   
 119. What is allowed in the zone which starts here?  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_135.jpg"  width="50%"/>  
+
 ❌ Parking, provided a parking disc is used  
 ✅ Stopping for up to 3 minutes  
 ✅ Stopping for loading or unloading as well as boarding or alighting  
@@ -1607,6 +1613,8 @@ road can be dangerous. TIP: Watch the movie again, watch out for movements on th
 Depending on the equipment, this can be done using a turn signal, indicator or hand signal (outstretched arm).  
   
 209. You want to exit the property lot. What is the right thing to do? (Picture wherein a two older people are crossing from open ended parking lot)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_10_108.jpg"  width="50%"/>  
+
 ❌ I sound my horn briefly so that the pedestrians will allow me to exit  
 ✅ I may drive on if the pedestrians waive their right of way  
 ✅ I have to wait until the pedestrians have crossed over the exit  
@@ -1905,7 +1913,7 @@ efficiency class and emission class.
 Immediately after switching on the windshield wipers, a layer of smear often forms on the windshield as well, causing poor visibility.  
 Therefore, increase the safety distance!  
   
-247. Where is it permitted to flash headlights to indicate your intention to overtake?  
+247. Where is it permitted to flash headlights to indicate your intention to overtake?  --- IMP
 ✅ In daylight outside built-up areas  
 ✅ In darkness outside built-up areas  
 ❌ In darkness in built-up areas  
@@ -2467,6 +2475,8 @@ I move
 passed. 
   
 322. Why do you have to continue to brake?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_11_111_ende.jpg"  width="50%"/>  
+
 Because of the  
 ❌ cyclist  
 ✅ blue truck  
@@ -2488,8 +2498,9 @@ out for movement from the right!
 **Comment**:  Left turners usually have to turn in front of each other. This can make things tight. Dangerous misunderstandings can also occur if one driver wants to turn in front and the other behind: if necessary, use 
 hand signals to communicate. Be aware that the other driver may obscure your view of other vehicles in oncoming traffic.  
   
-325. Why are you not allowed to overtake now?  (Repeated Question with red color car in back).
+325. Why are you not allowed to overtake now?  (Repeated Question with red color car in back).  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_026_1_ende.jpg" width="50%"/>  
+
 Because of the  
 ❌ blue car  
 ✅ layout of the road  
@@ -2512,14 +2523,17 @@ normal case? They must
 that must lead to the overtaking maneuver being aborted.  
   
 328. Why are you required to stop now?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_09_125_ende.jpg" width="50%"/>  
+
 ❌ Because of the white car  
 ✅ Because of the tram  
 ❌ Because of the cyclist  
 **Comment**: I am on a priority road. That's why the white car on my right has to wait for me. But the oncoming streetcar is turning left in front of me: I have to stop and let it pass. TIP: Watch the movie again and pay 
 attention to traffic signs!  
   
-329. You want to turn right at the junction. What is the right thing to do?    
+329. You want to turn right at the junction. What is the right thing to do?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_019_1.jpg"  width="50%"/>  
+
 ✅ I change lanes as early as possible  
 ❌ I may only cross over the cycle lane at walking speed  
 ✅ I may not impede cyclists in the cycle lane  
@@ -2528,6 +2542,8 @@ so I have a reserve. I drive at the permitted speed so that I don't obstruct cyc
 (rear-view mirror), for example! 
   
 330. You want to turn left. Which line should you follow? (Einbahnstraße with Cycle to have bidrection)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_09_010.jpg"  width="50%"/>  
+
 ❌ The right driving line  
 ✅ The middle driving line  
 ❌ The left driving line  
@@ -2603,6 +2619,8 @@ endangered during the entire overtaking maneuver.
 turning back or taking a different route (navigation system).  
   
 340. You want to reverse park on the right-hand side of the road. What is correct in this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_12_109.jpg"  width="50%"/>  
+
 ✅ I anticipate that vehicles may exit their parking spaces  
 ✅ I closely observe the oncoming traffic before manoeuvring into the space  
 ❌ I switch on my hazard lights  
@@ -2666,7 +2684,7 @@ necessarily involved) and call for help for others or if a passenger suddenly ne
 I call the breakdown service, not the emergency number.  
   
 348. The brakes on your car are pulling strongly to one side. What effects can this have when you are braking?  
-Anti-lock braking system (ABS) fails  
+❌ Anti-lock braking system (ABS) fails  
 ✅ Longer braking distance  
 ✅ Your car can veer to the side  
 **Comment**: If the brake has a strong one-sided effect, the vehicle is not braked optimally: the braking distance increases.  
@@ -5897,7 +5915,7 @@ They must
 **Comment**:  If you want to protect the environment as much as possible when washing your car, it is best to use a car wash. These are equipped with an oil separator and other filters to keep the environmental impact to a minimum.  
 
 758. What should you anticipate?  
-<img src=https://schueler.click-learn.info/BilderV2/AB_1_1_07_138.jpg width="50%"/>  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_138.jpg" width="50%"/>  
 
 ✅ The person beside the van could encroach further onto the road  
 ✅ The motorbike could swerve to the left  
@@ -5905,8 +5923,42 @@ They must
 **Comment**:  Expect the moped to pull out to overtake. The driver of the van could step further onto the road when unloading and pedestrians could suddenly appear in front of the van and cross the road.
 
 759. Are you allowed to drive at a speed faster than 60 km/h here?  
-<img src=https://schueler.click-learn.info/BilderV2/VZ_1_4_41_127.jpg width="50%"/>  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_127.jpg" width="50%"/>  
 
 ✅ Yes, if the roadway is dry  
 ❌ Yes, if the roadway is wet  
 
+760.What should you anticipate?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_02_130_1.jpg" width="50%"/>  
+
+✅ That children will suddenly appear between the vehicles  
+❌ That pedestrians will wait until I have driven past  
+✅ That pedestrians will walk onto the road in front of me  
+
+761. What is your assessment of this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_02_132.jpg" width="50%"/>  
+
+✅ The pedestrian with the moped may change direction suddenly  
+❌ I can continue driving at the same speed  
+✅ The female pedestrian may walk unheedingly onto the road  
+
+762. What should you anticipate?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_014_1.jpg" width="50%"/>  
+
+✅ Pedestrians crossing the road  
+✅ A vehicle driving past the bus  
+✅ That I will have to stop at the junction  
+
+763. What is the right course of action?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_052.jpg" width="50%"/>  
+
+❌ I may turn left before the cyclist  
+✅ I forgo my right of way so as to not block the junction  
+✅ I have to allow the cyclist to pass through  
+
+764. What must you be prepared for?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_02_124_1.jpg" width="50%"/>  
+
+✅ For persons crossing  
+✅ For visual obstacles  
+✅ For vehicle doors opening  
