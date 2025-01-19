@@ -763,6 +763,7 @@ Even if you actually have the right of way, you must not drive on. You must also
   
 111. What is correct in this situation?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_2_37_015.jpg"  width="50%"/>  
+
 ❌ I have to wait in the centre of the junction  
 ❌ I must allow the oncoming traffic to pass through  
 ✅ I may turn unimpeded  
@@ -1080,17 +1081,14 @@ may also enter the zone if they are driven by residents. This can also include c
 the danger(or hazardous - Gefahrenstelle) zone is to be expected at a distance of around 150 to 250 m outside built-up areas.  
 In urban areas, the distance (Abstand) may be considerably(deutlich) shorter(kürzer).  
   
-145. What applies when you see this traffic sign? (Yellow board with City name mentioned as Mehlem Stadt Bonn)  
-I may  
-❌ drive faster than 50 km/h because this is a multi-lane carriageway  
-✅ drive more quickly in the right-hand lane than vehicles travelling in the left-hand lane  
-✅ choose whatever lane I wish for my direction of travel  
-**Comment**:  The rules for driving within built-up(place name sign -Ortsschild) areas apply directly from the town sign: Top  
-speed (Höchstgeschwindigkeit) 50 km/h and -if there are several lanes (Fahrstreifen) for one direction(Richtung) -free choice  
-of lane (for vehicles up to 3.5 t gross vehicle weight). This also means that I can drive faster in the right-hand lane than  
-in the left-hand lane. - but not faster than 50 km/h. In fact, multi-lane carriageways have nothing to do with speed limits.  
-More than 50 km/h is only permitted if a traffic sign permits a different speed limit.  
-  
+145. What is the right course of action?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_121_1.jpg"  width="50%"/>  
+
+❌ I have to allow the tractor to pass through  
+✅ I have to allow the tram to pass through  
+❌ I may not stop and wait on the rails  
+**Comment**:  Traffic signs regulate the right of way here. The streetcar is coming towards me on the priority road. As I want to turn left, I have to let the streetcar pass before I drive. I drive second. The tractor has to wait until the priority road is clear.  
+
 146. What vehicles are permitted to use this road?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_41_148.jpg"  width="50%"/>  
 
@@ -1640,6 +1638,8 @@ and the lack of exhaust or exhaust fumes. Visually or externally, they can be al
 differs depending on the model (such as sports car vs. SUV), not the drive type.  
   
 212. What is correct in this situation? (Overtaking a cylist in front of a crosswalk)  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_26_008_1.jpg" width="50%"/>  
+
 Here I may  
 ❌ only overtake the cyclist at a moderate speed  
 ❌ overtake the cyclist, because there is no oncoming traffic visible  
@@ -5285,7 +5285,9 @@ oncoming vehicle may turn, I drive last.
 **Comment**: The additional sign “Severely disabled persons with exceptional walking disabilities and blind persons” permits parking only with an official parking permit, e.g. for severely disabled persons and persons 
 accompanying blind persons. 
   
-682. What must you be aware of here? (A signal with roundabout and Give way )  
+682. What must you be aware of here? (Video Question - A signal with roundabout and Give way )  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_09_129_ende.jpg"  width="50%"/>  
+
 I have to  
 ✅ give the car right of way  
 ✅ continue to brake  
@@ -5955,10 +5957,50 @@ They must
 ❌ I may turn left before the cyclist  
 ✅ I forgo my right of way so as to not block the junction  
 ✅ I have to allow the cyclist to pass through  
+**Comment**: At junctions without traffic signs and traffic lights, whoever is coming from the right has right of way. As a left-turner, I must allow oncoming vehicles (here: cyclists) to pass. According to the right of way rules, I now have right of way. However, at small (narrow) junctions or if I am prevented from continuing my journey (refuse collection vehicle), I should give up my right of way so as not to clog up the junction.
 
+Translated with www.DeepL.com/Translator (free version)
 764. What must you be prepared for?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_1_02_124_1.jpg" width="50%"/>  
 
 ✅ For persons crossing  
 ✅ For visual obstacles  
 ✅ For vehicle doors opening  
+**Comment**: In shopping streets, pedestrians often change sides of the road and sometimes enter the carriageway carelessly. Parked vehicles make it difficult for you to see, as they can obscure pedestrians, for example, and vehicle doors can be opened carelessly.
+
+765. What is the right course of action?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_103_1.jpg" width="50%"/>  
+
+❌ The blue car is obliged to wait  
+✅ I have to wait  
+**Comment**:  There is a traffic sign at this junction indicating that the road coming from the right is a one-way street. However, this has no influence on the right of way. At junctions without priority-regulating traffic signs and traffic lights, whoever is coming from the right has right of way. I therefore have to wait here.
+
+766. What is the right course of action?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_3_01_103.jpg" width="50%"/>  
+
+✅ I have to wait  
+❌ The motorbike is obliged to wait  
+
+767. Which conduct is right?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_37_002.jpg" width="50%"/>  
+
+✅ I may turn observing the traffic signs
+❌ I may only turn when the lights show "green"
+✅ The green car must wait
+**Comment**: At this junction, the traffic lights only apply to drivers going straight ahead and turning left. Because it is red, the green car must wait. If you are turning right, you are allowed to turn off, observing the “Give way!” sign.  
+
+768. What do you have to do in this traffic situation?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_4_41_157.jpg" width="50%"/>  
+
+I have to  
+❌ stop only at the stop sign  
+❌ stop only if there is cross-wise moving traffic  
+✅ stop at the stop line and give way  
+**Comment**: If I see the sign “Stop! Give way!”, I must first stop at the stop line. If visibility is poor, I must stop again at the line of sight and give way to cross traffic on the priority road. (The line of sight is the point from which I can fully see the other road).  
+
+769. When must you indicate?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_4_41_140.jpg" width="50%"/>  
+
+❌ When you enter the roundabout  
+✅ When you leave the roundabout  
+**Comment**: In a traffic circle with signs like this, the vehicles in the circle have right of way. It is forbidden to signal when entering the traffic circle. However, anyone leaving the traffic circle must signal on the right to indicate their intention to others.
