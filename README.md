@@ -1776,8 +1776,10 @@ unavoidable despite emergency braking?
 At a speed of  
 ❌30 km/h  
 ❌20 km/h  
-❌50 km/h  
-  
+✅ 50 km/h  
+**Comment**: The distance between recognizing the danger and coming to a standstill is called the stopping distance (A). It is made up of the reaction distance (R) and the braking distance (B). According to the rule of thumb (emergency braking), this results in a stopping distance of far more than 20 m only at 50 km/h: R => 50 km/h : 10 x 3 = 15 m B => 50 km/h : 10 x 50 km/h : 10 : 2 = 12.5 m A => R (15 m) + B (12.5 m) = 27.5 m
+
+
 230. You are travelling at 50 km/h, have a reaction time of 1 second, and brake normally. What is the stopping distance according to the rule of thumb?  
 __40__ m  
 **Comment**:  The rule of thumb for the stopping distance is: (speed in km/h:10) x 3 + (speed in km/h:10) x (speed in km/h:10).  
@@ -3293,6 +3295,8 @@ the parking disc?
 outside.  
   
 430. You have stopped in a parking strip and now want to exit your vehicle. What must you do in this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_2_2_14_108_1.jpg" width="50%"/>  
+
 I observe the traffic approaching from the rear  
 ✅ by looking in my left-hand exterior rear-view mirror before opening the door  
 ❌ just by looking through the slightly opened door  
