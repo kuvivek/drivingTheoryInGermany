@@ -6056,10 +6056,10 @@ It is transporting
 **Comment**: Hazardous goods transports must be marked with orange warning signs attached to the outside of the vehicle.  
 
 775. A cyclist wishes - without dismounting - to cross the road at a pedestrian crossing. What should you do?  
-✅ I allow the cyclist to cross the road
-❌ I only brake just short of the pedestrian crossing
-❌ I sound my horn and continue driving without giving way to the cyclist
-**Comment**: At crosswalks, cyclists must actually dismount and push their bikes. If a cyclist behaves incorrectly and wants to cross the crosswalk without dismounting, give way and let them ride.
+✅ I allow the cyclist to cross the road  
+❌ I only brake just short of the pedestrian crossing  
+❌ I sound my horn and continue driving without giving way to the cyclist  
+**Comment**: At crosswalks, cyclists must actually dismount and push their bikes. If a cyclist behaves incorrectly and wants to cross the crosswalk without dismounting, give way and let them ride.  
 
 776. You want to make a telephone call while driving a vehicle. What must you be aware of?  
 ✅ I may be distracted by the call  
