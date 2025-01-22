@@ -392,6 +392,7 @@ for a very short time at most when operating and using the phone.
 ✅ I may use the telephone without a hands-free unit, if the vehicle is parked in a suitable place, and the engine is fully switched off  
 ✅ I need to have a hands-free unit  
 ❌ I may use the telephone without a hands-free, if the vehicle is moving at walking pace  
+**Comment**: The driver must not pick up or hold a cell phone or car phone to make a call while driving. Even with a hands-free system, talking on the phone while driving can be distracting. If safe driving is not guaranteed, I must not use the phone. If possible, it is better to stop at a suitable place and switch off the engine.
   
 54. How long does cannabis and its degradation products remain detectable in urine?  
 ❌ Several days at most  
@@ -1288,6 +1289,8 @@ as far to the right as possible.
 **Comment**:  The sign indicates that a regularly manned first aid station is located here.  
   
 169. What must you remember when you see this traffic sign? (Red Strap with a white border only on top and bottom)  
+<img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_42_125.jpg"  width="50%"/>  
+
 ✅ Street lighting does not stay on all night  
 ❌ Vehicles may not be parked here  
 ❌ Vehicles may be parked here all night without lights  
@@ -1560,13 +1563,17 @@ I overtake with
 ❌ a high engine speed  
   
 204. What must you anticipate in this situation?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_07_166.jpg"  width="50%"/>  
+
 ❌ The cyclist will dismount to allow me to pass  
 ✅ The cyclist will pull out to the left  
 ✅ Oncoming traffic  
 **Comment**: I have to expect that the person in front of me will drive past the parked car on the left. On this narrow road, I can only pass cars and others with caution, as oncoming traffic can suddenly appear. If it 
 gets too narrow, I have to wait behind the obstacle or the person in front of me. I don't expect anyone to stop, dismount and let me pass.  
   
-205. What must you be aware of?  
+205. What must you be aware of?  (Video Question)
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_1_05_103_ende.jpg"  width="50%"/>  
+
 ✅ Pedestrians could cross the road  
 ❌ I may not drive past the bus  
 ✅ I may drive past the bus at walking speed  
@@ -1921,8 +1928,7 @@ Therefore, increase the safety distance!
 ✅ In daylight outside built-up areas  
 ✅ In darkness outside built-up areas  
 ❌ In darkness in built-up areas  
-**Comment**:  Only outside built-up areas is it permitted to indicate your intention to overtake by flashing your headlights.  
-Both during the day and in the dark. However, this must not dazzle other road users.  
+**Comment**: Usually Inside built-up area, it is not advised to overatke, Only outside built-up areas is it permitted to indicate your intention to overtake by flashing your headlights. Both during the day and in the dark. However, this must not dazzle other road users.  
   
 248. What must you watch out for when you drive into an underground car park?  
 ✅ My tyres could get damaged by narrow entrances and exits  
@@ -2469,8 +2475,10 @@ Watch the movie again and pay attention to the danger sign!
 ❌ I continue overtaking quickly and pull back into lane in front of the red truck  
 **Comment**: Overtaking before a bend is very risky. Oncoming traffic is visible far too late: stop overtaking in this situation. Get back into the right-hand lane and keep a sufficient distance from the vehicle in front.  
   
-321. What should you do in this situation? (You drive in a lane wherein only one vehicle can pass and other side car came.  
+321. What should you do in this situation? (Video Question - You drive in a lane wherein only one vehicle can pass and other side car came.  
 You have sufficient place on the right parking area. And you can reach before the opposite car could reach there.)  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_02_107_ende.jpg"  width="50%"/>  
+
 I move  
 ✅ into the gap to allow the oncoming vehicle to drive past  
 ❌ backwards, because the oncoming vehicle has right of way  
@@ -2493,7 +2501,7 @@ out for movement from the right!
 ✅ When the rails run too far to the right  
 ❌ When the roadway (not a one-way street) to the right of the tram is blocked by other vehicles  
 ✅ In one-way streets  
-**Comment**:  In one-way streets or where the rails are too far to the right, you may overtake a streetcar on the left. If the rails are in the middle of the road, you may only overtake a streetcar on the right.  
+**Comment**:  In one-way streets or where the rails are too far to the right, you may overtake a streetcar on the left. If the rails are in the middle of the road, yo u may only overtake a streetcar on the right.  
   
 324. You want to turn left. What difficulties could arise here?  
 ✅ Misunderstandings with oncoming traffic turning left  
@@ -2676,8 +2684,7 @@ is not permitted on highways.
 ❌ The fuse is faulty  
 ❌ The hazard lights are switched on  
 ✅ A bulb is defective  
-**Comment**: If the bulb of a blinker is defective, I can recognize this while driving: The indicator light flashes much faster  
-than usual if a turn signal has failed on the vehicle.  
+**Comment**: If the bulb of a blinker is defective, I can recognize this while driving: The indicator light flashes much faster than usual when a blinker light on the vehicle has failed.  
   
 347. In what situation is the eCall system designed to be triggered manually?  
 ✅ If a passenger suffers a medical emergency  
@@ -5060,11 +5067,11 @@ and without endangering others.
   
 654. What do you do when you see this traffic sign?  
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_001.jpg"  width="50%"/>  
+
 ❌ Observe the traffic coming from the right only  
 ✅ Reduce speed  
 ✅ Be ready to brake  
-**Comment**: The sign indicates a junction or intersection with right of way from the right. For you, this means: reduce your speed, drive with increased attention and stay ready to brake so that you can give way if 
-necessary.  
+**Comment**: This traffic sign alerts you about an approaching, confusing intersection or T-junction. You should slow down your speed and be ready to brake, since the right road user has priority here. You should also pay close attention to the traffic on the left, since you have to expect that it will not fulfill its obligation to wait and possibly ignore your right of way. Adjust your speed so that you can see the traffic coming from the right and, if necessary, brake without any problems.
   
 655. You see this traffic sign. What must you reckon with?
 <img src="https://schueler.click-learn.info/BilderV2/VZ_1_4_40_005.jpg"  width="50%"/>  
@@ -6018,3 +6025,52 @@ I have to
 ❌ The truck  
 ❌ The green car  
 **Comment**: If there are several lanes for one direction, drivers turning left must keep as far to the left as possible. At this junction, you must also observe the traffic sign “Mandatory passing on the right” to get into the correct lane. Here, only the yellow car has got into the correct lane.  
+
+771. You are involved in an accident with another vehicle to which the following orange-coloured sign is attached. You see a liquid leaking from the vehicle. What is the right course of action?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_34_010.jpg" width="50%"/>  
+
+✅ I provide the number of the orange-coloured sign when making the emergency call  
+✅ I avoid walking in the area into which the liquid has leaked  
+❌ I attempt to block the leak in the vehicle  
+**Comment**: Dangerous goods are - as the word suggests - dangerous! They may contain flammable or corrosive liquids. Caution is therefore required when such liquids leak out. If, for example, liquid leaks after an accident, it is important to avoid contact yourself and to inform the emergency services so that they can prepare themselves. Under no circumstances should you attempt to seal a leak or similar yourself.  
+
+772. Who is wrongly parked?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_2_12_121_1.jpg" width="50%"/>  
+
+❌ The red car
+❌ Neither of the two cars
+✅ The blue car
+**Comment**: Parking is not permitted up to 15 m in front of and behind bus stop signs. Parking is also prohibited on “restricted areas” (white zigzag line). Here the car on the marking is parking incorrectly, the car in front of it is parking correctly.  
+
+773. A driving licence applicant practices practical driving skills without a driving instructor on public roads. What should he expect if the police perform a check on him?  
+✅ A criminal prosecution  
+✅ A review of his fitness to drive a motor vehicle  
+❌ No consequences provided he is accompanied in the vehicle by a holder of a driving licence  
+**Comment**: Anyone driving a motor vehicle on public roads without a driver's license is liable to prosecution. As a driver's license applicant, I must then not only expect criminal proceedings, but also that doubts will arise as to my character suitability for obtaining a driver's license. A driving license suspension or an MPU (medical psychological examination) may be ordered for me. If the holder of a driving license accompanies me, this can have negative consequences for both of us.
+
+774. What is the significance of orange warning plates on a vehicle?  
+It is transporting  
+✅ dangerous goods  
+❌ easily perishable food  
+❌ cattle  
+**Comment**: Hazardous goods transports must be marked with orange warning signs attached to the outside of the vehicle.  
+
+775. A cyclist wishes - without dismounting - to cross the road at a pedestrian crossing. What should you do?  
+✅ I allow the cyclist to cross the road
+❌ I only brake just short of the pedestrian crossing
+❌ I sound my horn and continue driving without giving way to the cyclist
+**Comment**: At crosswalks, cyclists must actually dismount and push their bikes. If a cyclist behaves incorrectly and wants to cross the crosswalk without dismounting, give way and let them ride.
+
+776. You want to make a telephone call while driving a vehicle. What must you be aware of?  
+✅ I may be distracted by the call  
+❌ Telephoning using a hands-free unit does not distract me  
+✅ I may be distracted through operating the telephone  
+**Comment**: Talking on the phone while driving is generally dangerous because both the content of the call and the operation of the device can distract the driver. For safety reasons, it is better to refrain from using the phone while driving, even with a hands-free system.  
+
+777. What must you be aware of here?  
+<img src="https://schueler.click-learn.info/BilderV2/AB_1_1_05_107.jpg" width="50%"/>  
+
+✅ That children may run onto the road  
+✅ That junctions will not be noticed  
+✅ Of vehicles speeding  
+**Comment**: People often drive too fast in residential areas, especially if the roads appear wide and clear. It is easy to overlook junctions because they look like driveways. There is also a risk of children unexpectedly running out of driveways onto the road.
