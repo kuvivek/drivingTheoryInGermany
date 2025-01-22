@@ -6075,3 +6075,9 @@ It is transporting
 ✅ Of vehicles speeding  
 **Comment**: People often drive too fast in residential areas, especially if the roads appear wide and clear. It is easy to overlook junctions because they look like driveways. There is also a risk of children unexpectedly running out of driveways onto the road.
 
+778. What mistakes make overtaking dangerous even on clear and straight roads?  (Similar like 344. and 314.)
+✅ The distance of an oncoming vehicle is overestimated  
+✅ You underestimate your overtaking distance  
+❌ You overestimate your overtaking distance  
+**Comment**: Overtaking maneuvers are dangerous even on straight and open roads. This is especially true if oncoming traffic approaches you. The speed of oncoming vehicles is difficult to assess. Often the duration of the overtaking maneuver is underestimated. If you take too long, dangerous situations for you and for others can arise. Before you start overtaking another vehicle, make sure that the opposite lane is clear and you can finish the overtaking maneuver quickly. Otherwise you wait.  
+
