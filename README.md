@@ -6032,14 +6032,14 @@ I have to
 ✅ I provide the number of the orange-coloured sign when making the emergency call  
 ✅ I avoid walking in the area into which the liquid has leaked  
 ❌ I attempt to block the leak in the vehicle  
-**Comment**: Dangerous goods are - as the word suggests - dangerous! They may contain flammable or corrosive liquids. Caution is therefore required when such liquids leak out. If, for example, liquid leaks after an accident, it is important to avoid contact yourself and to inform the emergency services so that they can prepare themselves. Under no circumstances should you attempt to seal a leak or similar yourself.  
+**Comment**: Vehicles with orange warning signs are transporting dangerous goods. Dangerous goods are - as the word suggests - dangerous! They may contain flammable or corrosive liquids. In the event of an accident involving a hazardous goods transport, you must state the numbers on the orange-coloured sign when making an emergency call. This way, the emergency call centre knows which substances the vehicle is transporting and can send the appropriate special forces. You should avoid contact with the leaking liquids and keep your distance if possible.
 
 772. Who is wrongly parked?  
 <img src="https://schueler.click-learn.info/BilderV2/AB_1_2_12_121_1.jpg" width="50%"/>  
 
-❌ The red car
-❌ Neither of the two cars
-✅ The blue car
+❌ The red car  
+❌ Neither of the two cars  
+✅ The blue car  
 **Comment**: Parking is not permitted up to 15 m in front of and behind bus stop signs. Parking is also prohibited on “restricted areas” (white zigzag line). Here the car on the marking is parking incorrectly, the car in front of it is parking correctly.  
 
 773. A driving licence applicant practices practical driving skills without a driving instructor on public roads. What should he expect if the police perform a check on him?  
@@ -6074,3 +6074,4 @@ It is transporting
 ✅ That junctions will not be noticed  
 ✅ Of vehicles speeding  
 **Comment**: People often drive too fast in residential areas, especially if the roads appear wide and clear. It is easy to overlook junctions because they look like driveways. There is also a risk of children unexpectedly running out of driveways onto the road.
+
