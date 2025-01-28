@@ -3440,6 +3440,8 @@ because the situation is usually difficult to see and the length of the overtaki
 In addition, prematurely cutting in when overtaking would cause unwanted interruptions.  
   
 450. You are being followed by an ambulance with its blue lights flashing and siren sounding. What should you do?  
+<img src="https://schueler.click-learn.info/BilderV2/BS_1_2_38_104_ende.jpg"  width="50%"/>  
+
 ❌ I make way immediately once the traffic light has turned green  
 ❌ I prompt the driver of the vehicle beside me to make way  
 ✅ I move out of the way immediately without endangering others  
@@ -5503,12 +5505,11 @@ registration office.
 ✅ I must approach at a moderate speed if it is clear that pedestrians want to cross the road    
 ✅ I must allow the pedestrians to cross the road    
   
-706. Where is parking prohibited?  
-✅ On priority roads outside built-up areas  
-❌ On priority roads within built-up areas  
-✅ At the edge of the roadway if this would prevent others from using designated parking areas  
-**Comment**: Anyone who leaves their vehicle or stops for longer than 3 minutes is parking. Parking is not permitted everywhere. For example, it is forbidden to park on the edge of the road if this prevents the use of 
-marked parking spaces. It is also prohibited on the carriageway of priority roads outside built-up areas.  
+706. What documents do you have to carry with you, if you want to drive a compulsory registrable vehicle?  
+❌ The registration certificate Part II (Motor Vehicle Title)  
+✅ My driving licence  
+✅ The registration certificate Part I (Motor Vehicle Registration)  
+**Comment**: As a driver of a motor vehicle, you must be able to prove your driving license and the registration of the vehicle. To do this, you must be able to present your driver's license and the registration certificate part I (previously the vehicle registration certificate). The registration certificate part II (previously the vehicle registration document) is only important as proof of ownership in the registration procedure and should be kept in a safe place.  
   
 707. Why are you not allowed to overtake here?  
 ✅ Because the side clearance to the cyclists is too small  
@@ -5700,14 +5701,14 @@ possible (truck in the rear-view mirror!).
 **Comment**: These devices for marking work and accident sites prohibit driving on the marked road surface and guide you past it. The best way to behave is to drive past such places quickly so as not to hinder rescue
 operations or other work.  
 
-729. What should you anticipate in this situation?  - Video Question  
+729. What should you anticipate in this situation?  - Video Question (---IMP)
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_07_014_1_ende.jpg"  width="50%"/>  
 
 ❌ The white truck performs a turn  
 ❌ The tractor moves onto the road  
 ✅ The driver of the blue vehicle fails to see me  
-**Comment**: The motto here is: Watch out! Large vehicles make oncoming traffic difficult to see. Another vehicle appears behind the person turning off and may drive past me into my lane. Did the driver see me? TIP: Watch
-the movie several times, observe the traffic situation. What is happening in oncoming traffic?  
+**Comment**: The motto here is: Watch out! Large vehicles make oncoming traffic difficult to see. Another vehicle appears behind the person turning off and may drive past me into my lane. Did the driver see me? TIP: Watch the movie several times, observe the traffic situation. What is happening in oncoming traffic?  
+My comment: White Truck is although performing any turn, because it's left blinker is active, despite of that it is incorrect. May be the option talks about the turn towards right into our lane.
 
 730. What should you do now?  
 <img src="https://schueler.click-learn.info/BilderV2/BS_2_1_06_018_1_ende.jpg"  width="50%"/>  
@@ -6075,9 +6076,14 @@ It is transporting
 ✅ Of vehicles speeding  
 **Comment**: People often drive too fast in residential areas, especially if the roads appear wide and clear. It is easy to overlook junctions because they look like driveways. There is also a risk of children unexpectedly running out of driveways onto the road.
 
-778. What mistakes make overtaking dangerous even on clear and straight roads?  (Similar like 344. and 314.)
+778. What mistakes make overtaking dangerous even on clear and straight roads?  (Similar like 344. and 314.)   
 ✅ The distance of an oncoming vehicle is overestimated  
 ✅ You underestimate your overtaking distance  
 ❌ You overestimate your overtaking distance  
 **Comment**: Overtaking maneuvers are dangerous even on straight and open roads. This is especially true if oncoming traffic approaches you. The speed of oncoming vehicles is difficult to assess. Often the duration of the overtaking maneuver is underestimated. If you take too long, dangerous situations for you and for others can arise. Before you start overtaking another vehicle, make sure that the opposite lane is clear and you can finish the overtaking maneuver quickly. Otherwise you wait.  
 
+779. What must you be aware of when joining the motorway?  
+❌ The through-driving traffic on the right-hand lane must allow incoming traffic to merge  
+✅ The through-driving traffic has priority  
+✅ On the merging lane, I may drive faster than the through-driving traffic  
+**Comment**: You may drive faster on the merging lane than on the main lane in order to adapt to the higher speed of the expressway. Nevertheless, traffic on the through lane has the right of way. If necessary, “drop back” a little and wait for a gap.
